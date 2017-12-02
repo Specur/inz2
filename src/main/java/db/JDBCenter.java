@@ -1,7 +1,6 @@
 package db;
 
 import java.util.ArrayList;
-import java.util.Set;
 
 import dto.League;
 import io.jsondb.JsonDBTemplate;
@@ -28,11 +27,13 @@ public class JDBCenter {
 	}
 
 	public ArrayList<League> findAllMatchByTeam(League league) {
-		String jxQuery = String.format("/.[guest = '%s' or master = '%s']", league.getMaster(),league.getMaster());
+		String jxQuery = String.format("/.[guest = '%s' or master = '%s']", league.getMaster(), league.getMaster());
 		return (ArrayList<League>) jsonDBTemplate.find(jxQuery, league.getClass());
 	}
-	
-//	public Set<String> findTeamName(League league){
-//	}
+
+	public ArrayList<League> findAllMatchByLeague(League league) {
+
+		return (ArrayList<League>) jsonDBTemplate.findAll(league.getClass());
+	}
 
 }
