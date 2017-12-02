@@ -1,0 +1,1149 @@
+{"schemaVersion":"1.0"}
+{"guest":"Everton","master":"Chelsea","result":null,"league":null,"date":"2012-13","id":1140,"gguest":"1","gmaster":"2"}
+{"guest":"Queens Park Rangers","master":"Liverpool","result":null,"league":null,"date":"2012-13","id":1141,"gguest":"0","gmaster":"1"}
+{"guest":"Norwich City","master":"Manchester City","result":null,"league":null,"date":"2012-13","id":1142,"gguest":"3","gmaster":"2"}
+{"guest":"Arsenal","master":"Newcastle United","result":null,"league":null,"date":"2012-13","id":1143,"gguest":"1","gmaster":"0"}
+{"guest":"Stoke City","master":"Southampton","result":null,"league":null,"date":"2012-13","id":1144,"gguest":"1","gmaster":"1"}
+{"guest":"Fulham","master":"Swansea City","result":null,"league":null,"date":"2012-13","id":1145,"gguest":"3","gmaster":"0"}
+{"guest":"Sunderland","master":"Tottenham Hotspur","result":null,"league":null,"date":"2012-13","id":1146,"gguest":"0","gmaster":"1"}
+{"guest":"Manchester United","master":"West Bromwich Albion","result":null,"league":null,"date":"2012-13","id":1147,"gguest":"5","gmaster":"5"}
+{"guest":"Reading","master":"West Ham United","result":null,"league":null,"date":"2012-13","id":1148,"gguest":"2","gmaster":"4"}
+{"guest":"Aston Villa","master":"Wigan Athletic","result":null,"league":null,"date":"2012-13","id":1149,"gguest":"2","gmaster":"2"}
+{"guest":"Wigan Athletic","master":"Arsenal","result":null,"league":null,"date":"2012-13","id":1150,"gguest":"1","gmaster":"4"}
+{"guest":"Manchester City","master":"Reading","result":null,"league":null,"date":"2012-13","id":1151,"gguest":"2","gmaster":"0"}
+{"guest":"Tottenham Hotspur","master":"Stoke City","result":null,"league":null,"date":"2012-13","id":1152,"gguest":"2","gmaster":"1"}
+{"guest":"West Ham United","master":"Everton","result":null,"league":null,"date":"2012-13","id":1153,"gguest":"0","gmaster":"2"}
+{"guest":"Liverpool","master":"Fulham","result":null,"league":null,"date":"2012-13","id":1154,"gguest":"3","gmaster":"1"}
+{"guest":"West Bromwich Albion","master":"Norwich City","result":null,"league":null,"date":"2012-13","id":1155,"gguest":"0","gmaster":"4"}
+{"guest":"Newcastle United","master":"Queens Park Rangers","result":null,"league":null,"date":"2012-13","id":1156,"gguest":"2","gmaster":"1"}
+{"guest":"Southampton","master":"Sunderland","result":null,"league":null,"date":"2012-13","id":1157,"gguest":"1","gmaster":"1"}
+{"guest":"Swansea City","master":"Manchester United","result":null,"league":null,"date":"2012-13","id":1158,"gguest":"1","gmaster":"2"}
+{"guest":"Chelsea","master":"Aston Villa","result":null,"league":null,"date":"2012-13","id":1159,"gguest":"2","gmaster":"1"}
+{"guest":"Tottenham Hotspur","master":"Chelsea","result":null,"league":null,"date":"2012-13","id":1160,"gguest":"2","gmaster":"2"}
+{"guest":"West Bromwich Albion","master":"Manchester City","result":null,"league":null,"date":"2012-13","id":1161,"gguest":"0","gmaster":"1"}
+{"guest":"Swansea City","master":"Wigan Athletic","result":null,"league":null,"date":"2012-13","id":1162,"gguest":"3","gmaster":"2"}
+{"guest":"Stoke City","master":"Sunderland","result":null,"league":null,"date":"2012-13","id":1163,"gguest":"1","gmaster":"1"}
+{"guest":"Everton","master":"Liverpool","result":null,"league":null,"date":"2012-13","id":1164,"gguest":"0","gmaster":"0"}
+{"guest":"Chelsea","master":"Manchester United","result":null,"league":null,"date":"2012-13","id":1165,"gguest":"1","gmaster":"0"}
+{"guest":"Reading","master":"Fulham","result":null,"league":null,"date":"2012-13","id":1166,"gguest":"4","gmaster":"2"}
+{"guest":"Aston Villa","master":"Norwich City","result":null,"league":null,"date":"2012-13","id":1167,"gguest":"2","gmaster":"1"}
+{"guest":"Manchester City","master":"Swansea City","result":null,"league":null,"date":"2012-13","id":1168,"gguest":"0","gmaster":"0"}
+{"guest":"Southampton","master":"Tottenham Hotspur","result":null,"league":null,"date":"2012-13","id":1169,"gguest":"0","gmaster":"1"}
+{"guest":"Wigan Athletic","master":"West Bromwich Albion","result":null,"league":null,"date":"2012-13","id":1170,"gguest":"3","gmaster":"2"}
+{"guest":"Newcastle United","master":"West Ham United","result":null,"league":null,"date":"2012-13","id":1171,"gguest":"0","gmaster":"0"}
+{"guest":"Arsenal","master":"Queens Park Rangers","result":null,"league":null,"date":"2012-13","id":1172,"gguest":"1","gmaster":"0"}
+{"guest":"Sunderland","master":"Aston Villa","result":null,"league":null,"date":"2012-13","id":1173,"gguest":"1","gmaster":"6"}
+{"guest":"Queens Park Rangers","master":"Reading","result":null,"league":null,"date":"2012-13","id":1174,"gguest":"0","gmaster":"0"}
+{"guest":"Swansea City","master":"Chelsea","result":null,"league":null,"date":"2012-13","id":1175,"gguest":"0","gmaster":"2"}
+{"guest":"Manchester United","master":"Arsenal","result":null,"league":null,"date":"2012-13","id":1176,"gguest":"1","gmaster":"1"}
+{"guest":"West Ham United","master":"Manchester City","result":null,"league":null,"date":"2012-13","id":1177,"gguest":"1","gmaster":"2"}
+{"guest":"Fulham","master":"Everton","result":null,"league":null,"date":"2012-13","id":1178,"gguest":"0","gmaster":"1"}
+{"guest":"West Bromwich Albion","master":"Southampton","result":null,"league":null,"date":"2012-13","id":1179,"gguest":"3","gmaster":"0"}
+{"guest":"Norwich City","master":"Stoke City","result":null,"league":null,"date":"2012-13","id":1180,"gguest":"0","gmaster":"1"}
+{"guest":"Tottenham Hotspur","master":"Wigan Athletic","result":null,"league":null,"date":"2012-13","id":1181,"gguest":"2","gmaster":"2"}
+{"guest":"Liverpool","master":"Newcastle United","result":null,"league":null,"date":"2012-13","id":1182,"gguest":"6","gmaster":"0"}
+{"guest":"Aston Villa","master":"Manchester United","result":null,"league":null,"date":"2012-13","id":1183,"gguest":"0","gmaster":"3"}
+{"guest":"Manchester City","master":"Tottenham Hotspur","result":null,"league":null,"date":"2012-13","id":1184,"gguest":"1","gmaster":"3"}
+{"guest":"Chelsea","master":"Liverpool","result":null,"league":null,"date":"2012-13","id":1185,"gguest":"2","gmaster":"2"}
+{"guest":"Arsenal","master":"Fulham","result":null,"league":null,"date":"2012-13","id":1186,"gguest":"1","gmaster":"0"}
+{"guest":"Reading","master":"Norwich City","result":null,"league":null,"date":"2012-13","id":1187,"gguest":"1","gmaster":"2"}
+{"guest":"Stoke City","master":"Queens Park Rangers","result":null,"league":null,"date":"2012-13","id":1188,"gguest":"2","gmaster":"0"}
+{"guest":"Everton","master":"Sunderland","result":null,"league":null,"date":"2012-13","id":1189,"gguest":"0","gmaster":"1"}
+{"guest":"Southampton","master":"Swansea City","result":null,"league":null,"date":"2012-13","id":1190,"gguest":"0","gmaster":"0"}
+{"guest":"Newcastle United","master":"West Bromwich Albion","result":null,"league":null,"date":"2012-13","id":1191,"gguest":"1","gmaster":"1"}
+{"guest":"Wigan Athletic","master":"West Ham United","result":null,"league":null,"date":"2012-13","id":1192,"gguest":"0","gmaster":"2"}
+{"guest":"Wigan Athletic","master":"Manchester City","result":null,"league":null,"date":"2012-13","id":1193,"gguest":"0","gmaster":"1"}
+{"guest":"Manchester United","master":"West Ham United","result":null,"league":null,"date":"2012-13","id":1194,"gguest":"2","gmaster":"2"}
+{"guest":"Chelsea","master":"Fulham","result":null,"league":null,"date":"2012-13","id":1195,"gguest":"3","gmaster":"0"}
+{"guest":"Everton","master":"Arsenal","result":null,"league":null,"date":"2012-13","id":1196,"gguest":"0","gmaster":"0"}
+{"guest":"Sunderland","master":"Newcastle United","result":null,"league":null,"date":"2012-13","id":1197,"gguest":"3","gmaster":"0"}
+{"guest":"Manchester United","master":"Stoke City","result":null,"league":null,"date":"2012-13","id":1198,"gguest":"2","gmaster":"0"}
+{"guest":"Norwich City","master":"Arsenal","result":null,"league":null,"date":"2012-13","id":1199,"gguest":"1","gmaster":"3"}
+{"guest":"Fulham","master":"Aston Villa","result":null,"league":null,"date":"2012-13","id":1200,"gguest":"1","gmaster":"1"}
+{"guest":"Queens Park Rangers","master":"Everton","result":null,"league":null,"date":"2012-13","id":1201,"gguest":"0","gmaster":"2"}
+{"guest":"Liverpool","master":"Reading","result":null,"league":null,"date":"2012-13","id":1202,"gguest":"0","gmaster":"0"}
+{"guest":"West Ham United","master":"Southampton","result":null,"league":null,"date":"2012-13","id":1203,"gguest":"1","gmaster":"1"}
+{"guest":"Manchester City","master":"Manchester United","result":null,"league":null,"date":"2012-13","id":1204,"gguest":"2","gmaster":"1"}
+{"guest":"West Ham United","master":"Liverpool","result":null,"league":null,"date":"2012-13","id":1205,"gguest":"0","gmaster":"0"}
+{"guest":"Everton","master":"Tottenham Hotspur","result":null,"league":null,"date":"2012-13","id":1206,"gguest":"2","gmaster":"2"}
+{"guest":"Sunderland","master":"Chelsea","result":null,"league":null,"date":"2012-13","id":1207,"gguest":"1","gmaster":"2"}
+{"guest":"Fulham","master":"Newcastle United","result":null,"league":null,"date":"2012-13","id":1208,"gguest":"0","gmaster":"1"}
+{"guest":"Wigan Athletic","master":"Queens Park Rangers","result":null,"league":null,"date":"2012-13","id":1209,"gguest":"1","gmaster":"1"}
+{"guest":"Southampton","master":"Reading","result":null,"league":null,"date":"2012-13","id":1210,"gguest":"2","gmaster":"0"}
+{"guest":"Swansea City","master":"Norwich City","result":null,"league":null,"date":"2012-13","id":1211,"gguest":"2","gmaster":"2"}
+{"guest":"Aston Villa","master":"Stoke City","result":null,"league":null,"date":"2012-13","id":1212,"gguest":"3","gmaster":"1"}
+{"guest":"Arsenal","master":"West Bromwich Albion","result":null,"league":null,"date":"2012-13","id":1213,"gguest":"2","gmaster":"1"}
+{"guest":"Queens Park Rangers","master":"Fulham","result":null,"league":null,"date":"2012-13","id":1214,"gguest":"2","gmaster":"3"}
+{"guest":"Liverpool","master":"Aston Villa","result":null,"league":null,"date":"2012-13","id":1215,"gguest":"2","gmaster":"1"}
+{"guest":"Manchester United","master":"Sunderland","result":null,"league":null,"date":"2012-13","id":1216,"gguest":"1","gmaster":"0"}
+{"guest":"Reading","master":"Arsenal","result":null,"league":null,"date":"2012-13","id":1217,"gguest":"1","gmaster":"4"}
+{"guest":"Newcastle United","master":"Manchester City","result":null,"league":null,"date":"2012-13","id":1218,"gguest":"0","gmaster":"4"}
+{"guest":"Chelsea","master":"Southampton","result":null,"league":null,"date":"2012-13","id":1219,"gguest":"1","gmaster":"2"}
+{"guest":"Tottenham Hotspur","master":"Swansea City","result":null,"league":null,"date":"2012-13","id":1220,"gguest":"2","gmaster":"1"}
+{"guest":"West Bromwich Albion","master":"West Ham United","result":null,"league":null,"date":"2012-13","id":1221,"gguest":"1","gmaster":"3"}
+{"guest":"Norwich City","master":"Wigan Athletic","result":null,"league":null,"date":"2012-13","id":1222,"gguest":"0","gmaster":"1"}
+{"guest":"Stoke City","master":"Everton","result":null,"league":null,"date":"2012-13","id":1223,"gguest":"0","gmaster":"1"}
+{"guest":"Norwich City","master":"Sunderland","result":null,"league":null,"date":"2012-13","id":1224,"gguest":"1","gmaster":"1"}
+{"guest":"Fulham","master":"Tottenham Hotspur","result":null,"league":null,"date":"2012-13","id":1225,"gguest":"1","gmaster":"0"}
+{"guest":"West Ham United","master":"Chelsea","result":null,"league":null,"date":"2012-13","id":1226,"gguest":"0","gmaster":"2"}
+{"guest":"Newcastle United","master":"Wigan Athletic","result":null,"league":null,"date":"2012-13","id":1227,"gguest":"1","gmaster":"2"}
+{"guest":"Manchester City","master":"Everton","result":null,"league":null,"date":"2012-13","id":1228,"gguest":"0","gmaster":"2"}
+{"guest":"Queens Park Rangers","master":"Aston Villa","result":null,"league":null,"date":"2012-13","id":1229,"gguest":"2","gmaster":"3"}
+{"guest":"Liverpool","master":"Southampton","result":null,"league":null,"date":"2012-13","id":1230,"gguest":"1","gmaster":"3"}
+{"guest":"West Bromwich Albion","master":"Stoke City","result":null,"league":null,"date":"2012-13","id":1231,"gguest":"0","gmaster":"0"}
+{"guest":"Arsenal","master":"Swansea City","result":null,"league":null,"date":"2012-13","id":1232,"gguest":"2","gmaster":"0"}
+{"guest":"Reading","master":"Manchester United","result":null,"league":null,"date":"2012-13","id":1233,"gguest":"0","gmaster":"1"}
+{"guest":"Stoke City","master":"Newcastle United","result":null,"league":null,"date":"2012-13","id":1234,"gguest":"1","gmaster":"2"}
+{"guest":"Tottenham Hotspur","master":"Liverpool","result":null,"league":null,"date":"2012-13","id":1235,"gguest":"2","gmaster":"3"}
+{"guest":"Southampton","master":"Norwich City","result":null,"league":null,"date":"2012-13","id":1236,"gguest":"0","gmaster":"0"}
+{"guest":"Sunderland","master":"Queens Park Rangers","result":null,"league":null,"date":"2012-13","id":1237,"gguest":"1","gmaster":"3"}
+{"guest":"Aston Villa","master":"Reading","result":null,"league":null,"date":"2012-13","id":1238,"gguest":"2","gmaster":"1"}
+{"guest":"Swansea City","master":"West Bromwich Albion","result":null,"league":null,"date":"2012-13","id":1239,"gguest":"1","gmaster":"2"}
+{"guest":"Manchester City","master":"Aston Villa","result":null,"league":null,"date":"2012-13","id":1240,"gguest":"1","gmaster":"0"}
+{"guest":"Arsenal","master":"Tottenham Hotspur","result":null,"league":null,"date":"2012-13","id":1241,"gguest":"1","gmaster":"2"}
+{"guest":"West Bromwich Albion","master":"Chelsea","result":null,"league":null,"date":"2012-13","id":1242,"gguest":"0","gmaster":"1"}
+{"guest":"Reading","master":"Everton","result":null,"league":null,"date":"2012-13","id":1243,"gguest":"1","gmaster":"3"}
+{"guest":"Norwich City","master":"Manchester United","result":null,"league":null,"date":"2012-13","id":1244,"gguest":"0","gmaster":"4"}
+{"guest":"Queens Park Rangers","master":"Southampton","result":null,"league":null,"date":"2012-13","id":1245,"gguest":"2","gmaster":"1"}
+{"guest":"West Ham United","master":"Stoke City","result":null,"league":null,"date":"2012-13","id":1246,"gguest":"1","gmaster":"0"}
+{"guest":"Fulham","master":"Sunderland","result":null,"league":null,"date":"2012-13","id":1247,"gguest":"2","gmaster":"2"}
+{"guest":"Newcastle United","master":"Swansea City","result":null,"league":null,"date":"2012-13","id":1248,"gguest":"0","gmaster":"1"}
+{"guest":"Liverpool","master":"Wigan Athletic","result":null,"league":null,"date":"2012-13","id":1249,"gguest":"4","gmaster":"0"}
+{"guest":"Tottenham Hotspur","master":"West Ham United","result":null,"league":null,"date":"2012-13","id":1250,"gguest":"3","gmaster":"2"}
+{"guest":"Chelsea","master":"Manchester City","result":null,"league":null,"date":"2012-13","id":1251,"gguest":"0","gmaster":"2"}
+{"guest":"Southampton","master":"Newcastle United","result":null,"league":null,"date":"2012-13","id":1252,"gguest":"2","gmaster":"4"}
+{"guest":"Stoke City","master":"Fulham","result":null,"league":null,"date":"2012-13","id":1253,"gguest":"0","gmaster":"1"}
+{"guest":"Aston Villa","master":"Arsenal","result":null,"league":null,"date":"2012-13","id":1254,"gguest":"1","gmaster":"2"}
+{"guest":"Everton","master":"Norwich City","result":null,"league":null,"date":"2012-13","id":1255,"gguest":"1","gmaster":"2"}
+{"guest":"Manchester United","master":"Queens Park Rangers","result":null,"league":null,"date":"2012-13","id":1256,"gguest":"2","gmaster":"0"}
+{"guest":"Wigan Athletic","master":"Reading","result":null,"league":null,"date":"2012-13","id":1257,"gguest":"3","gmaster":"0"}
+{"guest":"Sunderland","master":"West Bromwich Albion","result":null,"league":null,"date":"2012-13","id":1258,"gguest":"1","gmaster":"2"}
+{"guest":"Swansea City","master":"Liverpool","result":null,"league":null,"date":"2012-13","id":1259,"gguest":"0","gmaster":"5"}
+{"guest":"West Bromwich Albion","master":"Liverpool","result":null,"league":null,"date":"2012-13","id":1260,"gguest":"2","gmaster":"0"}
+{"guest":"West Ham United","master":"Aston Villa","result":null,"league":null,"date":"2012-13","id":1261,"gguest":"1","gmaster":"2"}
+{"guest":"Everton","master":"Manchester United","result":null,"league":null,"date":"2012-13","id":1262,"gguest":"0","gmaster":"2"}
+{"guest":"Newcastle United","master":"Tottenham Hotspur","result":null,"league":null,"date":"2012-13","id":1263,"gguest":"1","gmaster":"2"}
+{"guest":"Wigan Athletic","master":"Chelsea","result":null,"league":null,"date":"2012-13","id":1264,"gguest":"1","gmaster":"4"}
+{"guest":"Fulham","master":"Norwich City","result":null,"league":null,"date":"2012-13","id":1265,"gguest":"0","gmaster":"0"}
+{"guest":"Reading","master":"Stoke City","result":null,"league":null,"date":"2012-13","id":1266,"gguest":"1","gmaster":"2"}
+{"guest":"Arsenal","master":"Sunderland","result":null,"league":null,"date":"2012-13","id":1267,"gguest":"1","gmaster":"0"}
+{"guest":"Queens Park Rangers","master":"Swansea City","result":null,"league":null,"date":"2012-13","id":1268,"gguest":"1","gmaster":"4"}
+{"guest":"Manchester City","master":"Southampton","result":null,"league":null,"date":"2012-13","id":1269,"gguest":"1","gmaster":"3"}
+{"guest":"Tottenham Hotspur","master":"West Bromwich Albion","result":null,"league":null,"date":"2012-13","id":1270,"gguest":"1","gmaster":"0"}
+{"guest":"Liverpool","master":"Manchester City","result":null,"league":null,"date":"2012-13","id":1271,"gguest":"2","gmaster":"2"}
+{"guest":"Norwich City","master":"Queens Park Rangers","result":null,"league":null,"date":"2012-13","id":1272,"gguest":"0","gmaster":"0"}
+{"guest":"Stoke City","master":"Arsenal","result":null,"league":null,"date":"2012-13","id":1273,"gguest":"0","gmaster":"1"}
+{"guest":"Aston Villa","master":"Everton","result":null,"league":null,"date":"2012-13","id":1274,"gguest":"3","gmaster":"3"}
+{"guest":"Chelsea","master":"Newcastle United","result":null,"league":null,"date":"2012-13","id":1275,"gguest":"2","gmaster":"3"}
+{"guest":"Sunderland","master":"Reading","result":null,"league":null,"date":"2012-13","id":1276,"gguest":"1","gmaster":"2"}
+{"guest":"Swansea City","master":"West Ham United","result":null,"league":null,"date":"2012-13","id":1277,"gguest":"0","gmaster":"1"}
+{"guest":"Southampton","master":"Wigan Athletic","result":null,"league":null,"date":"2012-13","id":1278,"gguest":"2","gmaster":"2"}
+{"guest":"Manchester United","master":"Fulham","result":null,"league":null,"date":"2012-13","id":1279,"gguest":"1","gmaster":"0"}
+{"guest":"Liverpool","master":"Arsenal","result":null,"league":null,"date":"2012-13","id":1280,"gguest":"2","gmaster":"2"}
+{"guest":"West Bromwich Albion","master":"Everton","result":null,"league":null,"date":"2012-13","id":1281,"gguest":"1","gmaster":"2"}
+{"guest":"Tottenham Hotspur","master":"Norwich City","result":null,"league":null,"date":"2012-13","id":1282,"gguest":"1","gmaster":"1"}
+{"guest":"West Ham United","master":"Fulham","result":null,"league":null,"date":"2012-13","id":1283,"gguest":"1","gmaster":"3"}
+{"guest":"Southampton","master":"Manchester United","result":null,"league":null,"date":"2012-13","id":1284,"gguest":"1","gmaster":"2"}
+{"guest":"Chelsea","master":"Reading","result":null,"league":null,"date":"2012-13","id":1285,"gguest":"2","gmaster":"2"}
+{"guest":"Newcastle United","master":"Aston Villa","result":null,"league":null,"date":"2012-13","id":1286,"gguest":"2","gmaster":"1"}
+{"guest":"Manchester City","master":"Queens Park Rangers","result":null,"league":null,"date":"2012-13","id":1287,"gguest":"0","gmaster":"0"}
+{"guest":"Wigan Athletic","master":"Stoke City","result":null,"league":null,"date":"2012-13","id":1288,"gguest":"2","gmaster":"2"}
+{"guest":"Swansea City","master":"Sunderland","result":null,"league":null,"date":"2012-13","id":1289,"gguest":"0","gmaster":"0"}
+{"guest":"West Ham United","master":"Arsenal","result":null,"league":null,"date":"2012-13","id":1290,"gguest":"1","gmaster":"5"}
+{"guest":"Everton","master":"Southampton","result":null,"league":null,"date":"2012-13","id":1291,"gguest":"0","gmaster":"0"}
+{"guest":"Arsenal","master":"Chelsea","result":null,"league":null,"date":"2012-13","id":1292,"gguest":"1","gmaster":"2"}
+{"guest":"Manchester United","master":"Tottenham Hotspur","result":null,"league":null,"date":"2012-13","id":1293,"gguest":"1","gmaster":"1"}
+{"guest":"Norwich City","master":"Liverpool","result":null,"league":null,"date":"2012-13","id":1294,"gguest":"0","gmaster":"5"}
+{"guest":"Fulham","master":"Manchester City","result":null,"league":null,"date":"2012-13","id":1295,"gguest":"0","gmaster":"2"}
+{"guest":"Reading","master":"Newcastle United","result":null,"league":null,"date":"2012-13","id":1296,"gguest":"2","gmaster":"1"}
+{"guest":"Stoke City","master":"Swansea City","result":null,"league":null,"date":"2012-13","id":1297,"gguest":"1","gmaster":"3"}
+{"guest":"Queens Park Rangers","master":"West Ham United","result":null,"league":null,"date":"2012-13","id":1298,"gguest":"1","gmaster":"1"}
+{"guest":"Sunderland","master":"Wigan Athletic","result":null,"league":null,"date":"2012-13","id":1299,"gguest":"3","gmaster":"2"}
+{"guest":"Aston Villa","master":"West Bromwich Albion","result":null,"league":null,"date":"2012-13","id":1300,"gguest":"2","gmaster":"2"}
+{"guest":"Southampton","master":"Chelsea","result":null,"league":null,"date":"2012-13","id":1301,"gguest":"2","gmaster":"2"}
+{"guest":"Liverpool","master":"Manchester United","result":null,"league":null,"date":"2012-13","id":1302,"gguest":"1","gmaster":"2"}
+{"guest":"Manchester City","master":"Arsenal","result":null,"league":null,"date":"2012-13","id":1303,"gguest":"2","gmaster":"0"}
+{"guest":"Tottenham Hotspur","master":"Queens Park Rangers","result":null,"league":null,"date":"2012-13","id":1304,"gguest":"0","gmaster":"0"}
+{"guest":"Southampton","master":"Aston Villa","result":null,"league":null,"date":"2012-13","id":1305,"gguest":"1","gmaster":"0"}
+{"guest":"Swansea City","master":"Everton","result":null,"league":null,"date":"2012-13","id":1306,"gguest":"0","gmaster":"0"}
+{"guest":"Wigan Athletic","master":"Fulham","result":null,"league":null,"date":"2012-13","id":1307,"gguest":"1","gmaster":"1"}
+{"guest":"Newcastle United","master":"Norwich City","result":null,"league":null,"date":"2012-13","id":1308,"gguest":"0","gmaster":"0"}
+{"guest":"West Bromwich Albion","master":"Reading","result":null,"league":null,"date":"2012-13","id":1309,"gguest":"2","gmaster":"3"}
+{"guest":"Chelsea","master":"Stoke City","result":null,"league":null,"date":"2012-13","id":1310,"gguest":"4","gmaster":"0"}
+{"guest":"West Ham United","master":"Sunderland","result":null,"league":null,"date":"2012-13","id":1311,"gguest":"0","gmaster":"3"}
+{"guest":"Queens Park Rangers","master":"Chelsea","result":null,"league":null,"date":"2012-13","id":1312,"gguest":"1","gmaster":"0"}
+{"guest":"Sunderland","master":"Liverpool","result":null,"league":null,"date":"2012-13","id":1313,"gguest":"0","gmaster":"3"}
+{"guest":"Everton","master":"Newcastle United","result":null,"league":null,"date":"2012-13","id":1314,"gguest":"2","gmaster":"1"}
+{"guest":"Fulham","master":"West Bromwich Albion","result":null,"league":null,"date":"2012-13","id":1315,"gguest":"2","gmaster":"1"}
+{"guest":"Stoke City","master":"Manchester City","result":null,"league":null,"date":"2012-13","id":1316,"gguest":"0","gmaster":"3"}
+{"guest":"Aston Villa","master":"Swansea City","result":null,"league":null,"date":"2012-13","id":1317,"gguest":"2","gmaster":"2"}
+{"guest":"Reading","master":"Tottenham Hotspur","result":null,"league":null,"date":"2012-13","id":1318,"gguest":"1","gmaster":"3"}
+{"guest":"Norwich City","master":"West Ham United","result":null,"league":null,"date":"2012-13","id":1319,"gguest":"1","gmaster":"2"}
+{"guest":"Manchester United","master":"Wigan Athletic","result":null,"league":null,"date":"2012-13","id":1320,"gguest":"4","gmaster":"0"}
+{"guest":"Arsenal","master":"Southampton","result":null,"league":null,"date":"2012-13","id":1321,"gguest":"1","gmaster":"1"}
+{"guest":"Chelsea","master":"Everton","result":null,"league":null,"date":"2012-13","id":1322,"gguest":"2","gmaster":"1"}
+{"guest":"Liverpool","master":"Queens Park Rangers","result":null,"league":null,"date":"2012-13","id":1323,"gguest":"3","gmaster":"0"}
+{"guest":"Tottenham Hotspur","master":"Sunderland","result":null,"league":null,"date":"2012-13","id":1324,"gguest":"2","gmaster":"1"}
+{"guest":"Wigan Athletic","master":"Aston Villa","result":null,"league":null,"date":"2012-13","id":1325,"gguest":"3","gmaster":"0"}
+{"guest":"Swansea City","master":"Fulham","result":null,"league":null,"date":"2012-13","id":1326,"gguest":"2","gmaster":"1"}
+{"guest":"West Bromwich Albion","master":"Manchester United","result":null,"league":null,"date":"2012-13","id":1327,"gguest":"0","gmaster":"2"}
+{"guest":"Manchester City","master":"Norwich City","result":null,"league":null,"date":"2012-13","id":1328,"gguest":"4","gmaster":"3"}
+{"guest":"West Ham United","master":"Reading","result":null,"league":null,"date":"2012-13","id":1329,"gguest":"0","gmaster":"1"}
+{"guest":"Southampton","master":"Stoke City","result":null,"league":null,"date":"2012-13","id":1330,"gguest":"3","gmaster":"3"}
+{"guest":"Newcastle United","master":"Arsenal","result":null,"league":null,"date":"2012-13","id":1331,"gguest":"3","gmaster":"7"}
+{"guest":"Wigan Athletic","master":"Everton","result":null,"league":null,"date":"2012-13","id":1332,"gguest":"1","gmaster":"2"}
+{"guest":"Southampton","master":"Fulham","result":null,"league":null,"date":"2012-13","id":1333,"gguest":"1","gmaster":"1"}
+{"guest":"Newcastle United","master":"Manchester United","result":null,"league":null,"date":"2012-13","id":1334,"gguest":"3","gmaster":"4"}
+{"guest":"Chelsea","master":"Norwich City","result":null,"league":null,"date":"2012-13","id":1335,"gguest":"1","gmaster":"0"}
+{"guest":"West Bromwich Albion","master":"Queens Park Rangers","result":null,"league":null,"date":"2012-13","id":1336,"gguest":"2","gmaster":"1"}
+{"guest":"Swansea City","master":"Reading","result":null,"league":null,"date":"2012-13","id":1337,"gguest":"0","gmaster":"0"}
+{"guest":"Manchester City","master":"Sunderland","result":null,"league":null,"date":"2012-13","id":1338,"gguest":"0","gmaster":"1"}
+{"guest":"Tottenham Hotspur","master":"Aston Villa","result":null,"league":null,"date":"2012-13","id":1339,"gguest":"4","gmaster":"0"}
+{"guest":"Chelsea","master":"Cardiff City","result":null,"league":null,"date":"2013-14","id":1340,"gguest":"2","gmaster":"0"}
+{"guest":"Crystal Palace","master":"Fulham","result":null,"league":null,"date":"2013-14","id":1341,"gguest":"2","gmaster":"2"}
+{"guest":"Everton","master":"Hull City","result":null,"league":null,"date":"2013-14","id":1342,"gguest":"2","gmaster":"0"}
+{"guest":"Newcastle United","master":"Liverpool","result":null,"league":null,"date":"2013-14","id":1343,"gguest":"1","gmaster":"2"}
+{"guest":"West Ham United","master":"Manchester City","result":null,"league":null,"date":"2013-14","id":1344,"gguest":"0","gmaster":"2"}
+{"guest":"Arsenal","master":"Norwich City","result":null,"league":null,"date":"2013-14","id":1345,"gguest":"2","gmaster":"0"}
+{"guest":"Manchester United","master":"Southampton","result":null,"league":null,"date":"2013-14","id":1346,"gguest":"1","gmaster":"1"}
+{"guest":"Swansea City","master":"Sunderland","result":null,"league":null,"date":"2013-14","id":1347,"gguest":"3","gmaster":"1"}
+{"guest":"Aston Villa","master":"Tottenham Hotspur","result":null,"league":null,"date":"2013-14","id":1348,"gguest":"0","gmaster":"3"}
+{"guest":"Stoke City","master":"West Bromwich Albion","result":null,"league":null,"date":"2013-14","id":1349,"gguest":"2","gmaster":"1"}
+{"guest":"Aston Villa","master":"Manchester City","result":null,"league":null,"date":"2013-14","id":1350,"gguest":"0","gmaster":"4"}
+{"guest":"West Bromwich Albion","master":"Sunderland","result":null,"league":null,"date":"2013-14","id":1351,"gguest":"0","gmaster":"2"}
+{"guest":"Hull City","master":"Manchester United","result":null,"league":null,"date":"2013-14","id":1352,"gguest":"1","gmaster":"3"}
+{"guest":"Liverpool","master":"Crystal Palace","result":null,"league":null,"date":"2013-14","id":1353,"gguest":"3","gmaster":"3"}
+{"guest":"West Bromwich Albion","master":"Arsenal","result":null,"league":null,"date":"2013-14","id":1354,"gguest":"0","gmaster":"1"}
+{"guest":"Norwich City","master":"Chelsea","result":null,"league":null,"date":"2013-14","id":1355,"gguest":"0","gmaster":"0"}
+{"guest":"Tottenham Hotspur","master":"West Ham United","result":null,"league":null,"date":"2013-14","id":1356,"gguest":"0","gmaster":"2"}
+{"guest":"Hull City","master":"Aston Villa","result":null,"league":null,"date":"2013-14","id":1357,"gguest":"1","gmaster":"3"}
+{"guest":"Sunderland","master":"Manchester United","result":null,"league":null,"date":"2013-14","id":1358,"gguest":"1","gmaster":"0"}
+{"guest":"Cardiff City","master":"Newcastle United","result":null,"league":null,"date":"2013-14","id":1359,"gguest":"0","gmaster":"3"}
+{"guest":"Fulham","master":"Stoke City","result":null,"league":null,"date":"2013-14","id":1360,"gguest":"1","gmaster":"4"}
+{"guest":"Southampton","master":"Swansea City","result":null,"league":null,"date":"2013-14","id":1361,"gguest":"1","gmaster":"0"}
+{"guest":"Manchester City","master":"Everton","result":null,"league":null,"date":"2013-14","id":1362,"gguest":"3","gmaster":"2"}
+{"guest":"Newcastle United","master":"Arsenal","result":null,"league":null,"date":"2013-14","id":1363,"gguest":"0","gmaster":"3"}
+{"guest":"Cardiff City","master":"Sunderland","result":null,"league":null,"date":"2013-14","id":1364,"gguest":"0","gmaster":"4"}
+{"guest":"Chelsea","master":"Liverpool","result":null,"league":null,"date":"2013-14","id":1365,"gguest":"2","gmaster":"0"}
+{"guest":"Manchester City","master":"Crystal Palace","result":null,"league":null,"date":"2013-14","id":1366,"gguest":"2","gmaster":"0"}
+{"guest":"Everton","master":"Southampton","result":null,"league":null,"date":"2013-14","id":1367,"gguest":"0","gmaster":"2"}
+{"guest":"Hull City","master":"Fulham","result":null,"league":null,"date":"2013-14","id":1368,"gguest":"2","gmaster":"2"}
+{"guest":"Tottenham Hotspur","master":"Stoke City","result":null,"league":null,"date":"2013-14","id":1369,"gguest":"1","gmaster":"0"}
+{"guest":"Aston Villa","master":"Swansea City","result":null,"league":null,"date":"2013-14","id":1370,"gguest":"1","gmaster":"4"}
+{"guest":"West Ham United","master":"West Bromwich Albion","result":null,"league":null,"date":"2013-14","id":1371,"gguest":"0","gmaster":"1"}
+{"guest":"Norwich City","master":"Manchester United","result":null,"league":null,"date":"2013-14","id":1372,"gguest":"0","gmaster":"4"}
+{"guest":"West Bromwich Albion","master":"Manchester City","result":null,"league":null,"date":"2013-14","id":1373,"gguest":"1","gmaster":"3"}
+{"guest":"Liverpool","master":"Norwich City","result":null,"league":null,"date":"2013-14","id":1374,"gguest":"3","gmaster":"2"}
+{"guest":"Arsenal","master":"Hull City","result":null,"league":null,"date":"2013-14","id":1375,"gguest":"3","gmaster":"0"}
+{"guest":"Manchester United","master":"Everton","result":null,"league":null,"date":"2013-14","id":1376,"gguest":"0","gmaster":"2"}
+{"guest":"Fulham","master":"Tottenham Hotspur","result":null,"league":null,"date":"2013-14","id":1377,"gguest":"1","gmaster":"3"}
+{"guest":"Southampton","master":"Aston Villa","result":null,"league":null,"date":"2013-14","id":1378,"gguest":"0","gmaster":"0"}
+{"guest":"Stoke City","master":"Cardiff City","result":null,"league":null,"date":"2013-14","id":1379,"gguest":"1","gmaster":"1"}
+{"guest":"Swansea City","master":"Newcastle United","result":null,"league":null,"date":"2013-14","id":1380,"gguest":"2","gmaster":"1"}
+{"guest":"Crystal Palace","master":"West Ham United","result":null,"league":null,"date":"2013-14","id":1381,"gguest":"1","gmaster":"0"}
+{"guest":"Sunderland","master":"Chelsea","result":null,"league":null,"date":"2013-14","id":1382,"gguest":"2","gmaster":"1"}
+{"guest":"Crystal Palace","master":"Everton","result":null,"league":null,"date":"2013-14","id":1383,"gguest":"3","gmaster":"2"}
+{"guest":"Sunderland","master":"Manchester City","result":null,"league":null,"date":"2013-14","id":1384,"gguest":"2","gmaster":"2"}
+{"guest":"West Ham United","master":"Arsenal","result":null,"league":null,"date":"2013-14","id":1385,"gguest":"1","gmaster":"3"}
+{"guest":"Manchester City","master":"Liverpool","result":null,"league":null,"date":"2013-14","id":1386,"gguest":"2","gmaster":"3"}
+{"guest":"Chelsea","master":"Swansea City","result":null,"league":null,"date":"2013-14","id":1387,"gguest":"1","gmaster":"0"}
+{"guest":"Aston Villa","master":"Crystal Palace","result":null,"league":null,"date":"2013-14","id":1388,"gguest":"0","gmaster":"1"}
+{"guest":"Norwich City","master":"Fulham","result":null,"league":null,"date":"2013-14","id":1389,"gguest":"0","gmaster":"1"}
+{"guest":"Cardiff City","master":"Southampton","result":null,"league":null,"date":"2013-14","id":1390,"gguest":"1","gmaster":"0"}
+{"guest":"Newcastle United","master":"Stoke City","result":null,"league":null,"date":"2013-14","id":1391,"gguest":"0","gmaster":"1"}
+{"guest":"Everton","master":"Sunderland","result":null,"league":null,"date":"2013-14","id":1392,"gguest":"1","gmaster":"0"}
+{"guest":"Tottenham Hotspur","master":"West Bromwich Albion","result":null,"league":null,"date":"2013-14","id":1393,"gguest":"3","gmaster":"3"}
+{"guest":"Sunderland","master":"Tottenham Hotspur","result":null,"league":null,"date":"2013-14","id":1394,"gguest":"1","gmaster":"5"}
+{"guest":"Arsenal","master":"Everton","result":null,"league":null,"date":"2013-14","id":1395,"gguest":"0","gmaster":"3"}
+{"guest":"Liverpool","master":"West Ham United","result":null,"league":null,"date":"2013-14","id":1396,"gguest":"2","gmaster":"1"}
+{"guest":"Southampton","master":"Manchester City","result":null,"league":null,"date":"2013-14","id":1397,"gguest":"1","gmaster":"4"}
+{"guest":"Fulham","master":"Aston Villa","result":null,"league":null,"date":"2013-14","id":1398,"gguest":"2","gmaster":"1"}
+{"guest":"Crystal Palace","master":"Cardiff City","result":null,"league":null,"date":"2013-14","id":1399,"gguest":"3","gmaster":"0"}
+{"guest":"Swansea City","master":"Hull City","result":null,"league":null,"date":"2013-14","id":1400,"gguest":"0","gmaster":"1"}
+{"guest":"Manchester United","master":"Newcastle United","result":null,"league":null,"date":"2013-14","id":1401,"gguest":"4","gmaster":"0"}
+{"guest":"West Bromwich Albion","master":"Norwich City","result":null,"league":null,"date":"2013-14","id":1402,"gguest":"1","gmaster":"0"}
+{"guest":"Stoke City","master":"Chelsea","result":null,"league":null,"date":"2013-14","id":1403,"gguest":"0","gmaster":"3"}
+{"guest":"West Ham United","master":"Sunderland","result":null,"league":null,"date":"2013-14","id":1404,"gguest":"2","gmaster":"1"}
+{"guest":"Everton","master":"Fulham","result":null,"league":null,"date":"2013-14","id":1405,"gguest":"3","gmaster":"1"}
+{"guest":"Tottenham Hotspur","master":"Liverpool","result":null,"league":null,"date":"2013-14","id":1406,"gguest":"0","gmaster":"4"}
+{"guest":"Aston Villa","master":"Manchester United","result":null,"league":null,"date":"2013-14","id":1407,"gguest":"1","gmaster":"4"}
+{"guest":"Chelsea","master":"Crystal Palace","result":null,"league":null,"date":"2013-14","id":1408,"gguest":"0","gmaster":"1"}
+{"guest":"Newcastle United","master":"Southampton","result":null,"league":null,"date":"2013-14","id":1409,"gguest":"0","gmaster":"4"}
+{"guest":"Hull City","master":"Stoke City","result":null,"league":null,"date":"2013-14","id":1410,"gguest":"0","gmaster":"1"}
+{"guest":"Norwich City","master":"Swansea City","result":null,"league":null,"date":"2013-14","id":1411,"gguest":"0","gmaster":"3"}
+{"guest":"Cardiff City","master":"West Bromwich Albion","result":null,"league":null,"date":"2013-14","id":1412,"gguest":"3","gmaster":"3"}
+{"guest":"Manchester City","master":"Arsenal","result":null,"league":null,"date":"2013-14","id":1413,"gguest":"1","gmaster":"1"}
+{"guest":"Hull City","master":"West Ham United","result":null,"league":null,"date":"2013-14","id":1414,"gguest":"1","gmaster":"2"}
+{"guest":"Sunderland","master":"Liverpool","result":null,"league":null,"date":"2013-14","id":1415,"gguest":"1","gmaster":"2"}
+{"guest":"Swansea City","master":"Arsenal","result":null,"league":null,"date":"2013-14","id":1416,"gguest":"2","gmaster":"2"}
+{"guest":"Manchester City","master":"Manchester United","result":null,"league":null,"date":"2013-14","id":1417,"gguest":"3","gmaster":"0"}
+{"guest":"Everton","master":"Newcastle United","result":null,"league":null,"date":"2013-14","id":1418,"gguest":"3","gmaster":"0"}
+{"guest":"Southampton","master":"Tottenham Hotspur","result":null,"league":null,"date":"2013-14","id":1419,"gguest":"2","gmaster":"3"}
+{"guest":"Stoke City","master":"Aston Villa","result":null,"league":null,"date":"2013-14","id":1420,"gguest":"4","gmaster":"1"}
+{"guest":"Arsenal","master":"Chelsea","result":null,"league":null,"date":"2013-14","id":1421,"gguest":"0","gmaster":"6"}
+{"guest":"Liverpool","master":"Cardiff City","result":null,"league":null,"date":"2013-14","id":1422,"gguest":"6","gmaster":"3"}
+{"guest":"Swansea City","master":"Everton","result":null,"league":null,"date":"2013-14","id":1423,"gguest":"2","gmaster":"3"}
+{"guest":"West Bromwich Albion","master":"Hull City","result":null,"league":null,"date":"2013-14","id":1424,"gguest":"0","gmaster":"2"}
+{"guest":"Fulham","master":"Manchester City","result":null,"league":null,"date":"2013-14","id":1425,"gguest":"0","gmaster":"5"}
+{"guest":"Crystal Palace","master":"Newcastle United","result":null,"league":null,"date":"2013-14","id":1426,"gguest":"0","gmaster":"1"}
+{"guest":"Sunderland","master":"Norwich City","result":null,"league":null,"date":"2013-14","id":1427,"gguest":"0","gmaster":"2"}
+{"guest":"Manchester United","master":"West Ham United","result":null,"league":null,"date":"2013-14","id":1428,"gguest":"2","gmaster":"0"}
+{"guest":"Liverpool","master":"Manchester United","result":null,"league":null,"date":"2013-14","id":1429,"gguest":"3","gmaster":"0"}
+{"guest":"Arsenal","master":"Tottenham Hotspur","result":null,"league":null,"date":"2013-14","id":1430,"gguest":"1","gmaster":"0"}
+{"guest":"Manchester City","master":"Hull City","result":null,"league":null,"date":"2013-14","id":1431,"gguest":"2","gmaster":"0"}
+{"guest":"Cardiff City","master":"Everton","result":null,"league":null,"date":"2013-14","id":1432,"gguest":"1","gmaster":"2"}
+{"guest":"Newcastle United","master":"Fulham","result":null,"league":null,"date":"2013-14","id":1433,"gguest":"0","gmaster":"1"}
+{"guest":"Norwich City","master":"Southampton","result":null,"league":null,"date":"2013-14","id":1434,"gguest":"2","gmaster":"4"}
+{"guest":"West Ham United","master":"Stoke City","result":null,"league":null,"date":"2013-14","id":1435,"gguest":"1","gmaster":"3"}
+{"guest":"Crystal Palace","master":"Sunderland","result":null,"league":null,"date":"2013-14","id":1436,"gguest":"0","gmaster":"0"}
+{"guest":"West Bromwich Albion","master":"Swansea City","result":null,"league":null,"date":"2013-14","id":1437,"gguest":"2","gmaster":"1"}
+{"guest":"Chelsea","master":"Aston Villa","result":null,"league":null,"date":"2013-14","id":1438,"gguest":"0","gmaster":"1"}
+{"guest":"Manchester United","master":"West Bromwich Albion","result":null,"league":null,"date":"2013-14","id":1439,"gguest":"3","gmaster":"0"}
+{"guest":"Fulham","master":"Cardiff City","result":null,"league":null,"date":"2013-14","id":1440,"gguest":"1","gmaster":"3"}
+{"guest":"Southampton","master":"Crystal Palace","result":null,"league":null,"date":"2013-14","id":1441,"gguest":"1","gmaster":"0"}
+{"guest":"Stoke City","master":"Norwich City","result":null,"league":null,"date":"2013-14","id":1442,"gguest":"1","gmaster":"1"}
+{"guest":"Tottenham Hotspur","master":"Chelsea","result":null,"league":null,"date":"2013-14","id":1443,"gguest":"0","gmaster":"4"}
+{"guest":"Norwich City","master":"Aston Villa","result":null,"league":null,"date":"2013-14","id":1444,"gguest":"1","gmaster":"4"}
+{"guest":"Crystal Palace","master":"Swansea City","result":null,"league":null,"date":"2013-14","id":1445,"gguest":"1","gmaster":"1"}
+{"guest":"Cardiff City","master":"Tottenham Hotspur","result":null,"league":null,"date":"2013-14","id":1446,"gguest":"0","gmaster":"1"}
+{"guest":"West Ham United","master":"Everton","result":null,"league":null,"date":"2013-14","id":1447,"gguest":"0","gmaster":"1"}
+{"guest":"Chelsea","master":"Fulham","result":null,"league":null,"date":"2013-14","id":1448,"gguest":"3","gmaster":"1"}
+{"guest":"Newcastle United","master":"Hull City","result":null,"league":null,"date":"2013-14","id":1449,"gguest":"4","gmaster":"1"}
+{"guest":"Arsenal","master":"Stoke City","result":null,"league":null,"date":"2013-14","id":1450,"gguest":"0","gmaster":"1"}
+{"guest":"Liverpool","master":"Southampton","result":null,"league":null,"date":"2013-14","id":1451,"gguest":"3","gmaster":"0"}
+{"guest":"Swansea City","master":"Liverpool","result":null,"league":null,"date":"2013-14","id":1452,"gguest":"3","gmaster":"4"}
+{"guest":"Aston Villa","master":"Newcastle United","result":null,"league":null,"date":"2013-14","id":1453,"gguest":"0","gmaster":"1"}
+{"guest":"Tottenham Hotspur","master":"Norwich City","result":null,"league":null,"date":"2013-14","id":1454,"gguest":"0","gmaster":"1"}
+{"guest":"Everton","master":"Chelsea","result":null,"league":null,"date":"2013-14","id":1455,"gguest":"0","gmaster":"1"}
+{"guest":"Sunderland","master":"Arsenal","result":null,"league":null,"date":"2013-14","id":1456,"gguest":"1","gmaster":"4"}
+{"guest":"Hull City","master":"Cardiff City","result":null,"league":null,"date":"2013-14","id":1457,"gguest":"4","gmaster":"0"}
+{"guest":"Stoke City","master":"Manchester City","result":null,"league":null,"date":"2013-14","id":1458,"gguest":"0","gmaster":"1"}
+{"guest":"Fulham","master":"West Bromwich Albion","result":null,"league":null,"date":"2013-14","id":1459,"gguest":"1","gmaster":"1"}
+{"guest":"Southampton","master":"West Ham United","result":null,"league":null,"date":"2013-14","id":1460,"gguest":"1","gmaster":"3"}
+{"guest":"Manchester United","master":"Crystal Palace","result":null,"league":null,"date":"2013-14","id":1461,"gguest":"2","gmaster":"0"}
+{"guest":"Manchester United","master":"Arsenal","result":null,"league":null,"date":"2013-14","id":1462,"gguest":"0","gmaster":"0"}
+{"guest":"Tottenham Hotspur","master":"Newcastle United","result":null,"league":null,"date":"2013-14","id":1463,"gguest":"4","gmaster":"0"}
+{"guest":"Swansea City","master":"Stoke City","result":null,"league":null,"date":"2013-14","id":1464,"gguest":"1","gmaster":"1"}
+{"guest":"Liverpool","master":"Fulham","result":null,"league":null,"date":"2013-14","id":1465,"gguest":"3","gmaster":"2"}
+{"guest":"Aston Villa","master":"Cardiff City","result":null,"league":null,"date":"2013-14","id":1466,"gguest":"0","gmaster":"0"}
+{"guest":"Southampton","master":"Hull City","result":null,"league":null,"date":"2013-14","id":1467,"gguest":"1","gmaster":"0"}
+{"guest":"Norwich City","master":"West Ham United","result":null,"league":null,"date":"2013-14","id":1468,"gguest":"0","gmaster":"2"}
+{"guest":"Chelsea","master":"West Bromwich Albion","result":null,"league":null,"date":"2013-14","id":1469,"gguest":"1","gmaster":"1"}
+{"guest":"Everton","master":"Tottenham Hotspur","result":null,"league":null,"date":"2013-14","id":1470,"gguest":"0","gmaster":"1"}
+{"guest":"Fulham","master":"Manchester United","result":null,"league":null,"date":"2013-14","id":1471,"gguest":"2","gmaster":"2"}
+{"guest":"Arsenal","master":"Liverpool","result":null,"league":null,"date":"2013-14","id":1472,"gguest":"1","gmaster":"5"}
+{"guest":"West Ham United","master":"Aston Villa","result":null,"league":null,"date":"2013-14","id":1473,"gguest":"2","gmaster":"0"}
+{"guest":"Newcastle United","master":"Chelsea","result":null,"league":null,"date":"2013-14","id":1474,"gguest":"0","gmaster":"3"}
+{"guest":"West Bromwich Albion","master":"Crystal Palace","result":null,"league":null,"date":"2013-14","id":1475,"gguest":"1","gmaster":"3"}
+{"guest":"Manchester City","master":"Norwich City","result":null,"league":null,"date":"2013-14","id":1476,"gguest":"0","gmaster":"0"}
+{"guest":"Stoke City","master":"Southampton","result":null,"league":null,"date":"2013-14","id":1477,"gguest":"2","gmaster":"2"}
+{"guest":"Hull City","master":"Sunderland","result":null,"league":null,"date":"2013-14","id":1478,"gguest":"2","gmaster":"0"}
+{"guest":"Cardiff City","master":"Swansea City","result":null,"league":null,"date":"2013-14","id":1479,"gguest":"0","gmaster":"3"}
+{"guest":"Chelsea","master":"Manchester City","result":null,"league":null,"date":"2013-14","id":1480,"gguest":"1","gmaster":"0"}
+{"guest":"Liverpool","master":"West Bromwich Albion","result":null,"league":null,"date":"2013-14","id":1481,"gguest":"1","gmaster":"1"}
+{"guest":"Crystal Palace","master":"Arsenal","result":null,"league":null,"date":"2013-14","id":1482,"gguest":"0","gmaster":"2"}
+{"guest":"Sunderland","master":"Newcastle United","result":null,"league":null,"date":"2013-14","id":1483,"gguest":"3","gmaster":"0"}
+{"guest":"Swansea City","master":"West Ham United","result":null,"league":null,"date":"2013-14","id":1484,"gguest":"0","gmaster":"2"}
+{"guest":"Norwich City","master":"Cardiff City","result":null,"league":null,"date":"2013-14","id":1485,"gguest":"1","gmaster":"2"}
+{"guest":"Aston Villa","master":"Everton","result":null,"league":null,"date":"2013-14","id":1486,"gguest":"1","gmaster":"2"}
+{"guest":"Southampton","master":"Fulham","result":null,"league":null,"date":"2013-14","id":1487,"gguest":"3","gmaster":"0"}
+{"guest":"Tottenham Hotspur","master":"Hull City","result":null,"league":null,"date":"2013-14","id":1488,"gguest":"1","gmaster":"1"}
+{"guest":"Manchester United","master":"Stoke City","result":null,"league":null,"date":"2013-14","id":1489,"gguest":"1","gmaster":"2"}
+{"guest":"West Bromwich Albion","master":"Aston Villa","result":null,"league":null,"date":"2013-14","id":1490,"gguest":"3","gmaster":"4"}
+{"guest":"West Ham United","master":"Chelsea","result":null,"league":null,"date":"2013-14","id":1491,"gguest":"0","gmaster":"0"}
+{"guest":"Stoke City","master":"Sunderland","result":null,"league":null,"date":"2013-14","id":1492,"gguest":"0","gmaster":"1"}
+{"guest":"Manchester City","master":"Tottenham Hotspur","result":null,"league":null,"date":"2013-14","id":1493,"gguest":"5","gmaster":"1"}
+{"guest":"Cardiff City","master":"Manchester United","result":null,"league":null,"date":"2013-14","id":1494,"gguest":"0","gmaster":"2"}
+{"guest":"Newcastle United","master":"Norwich City","result":null,"league":null,"date":"2013-14","id":1495,"gguest":"0","gmaster":"0"}
+{"guest":"Arsenal","master":"Southampton","result":null,"league":null,"date":"2013-14","id":1496,"gguest":"2","gmaster":"2"}
+{"guest":"Fulham","master":"Swansea City","result":null,"league":null,"date":"2013-14","id":1497,"gguest":"0","gmaster":"2"}
+{"guest":"Hull City","master":"Crystal Palace","result":null,"league":null,"date":"2013-14","id":1498,"gguest":"0","gmaster":"1"}
+{"guest":"Everton","master":"Liverpool","result":null,"league":null,"date":"2013-14","id":1499,"gguest":"0","gmaster":"4"}
+{"guest":"Everton","master":"West Bromwich Albion","result":null,"league":null,"date":"2013-14","id":1500,"gguest":"1","gmaster":"1"}
+{"guest":"Tottenham Hotspur","master":"Swansea City","result":null,"league":null,"date":"2013-14","id":1501,"gguest":"3","gmaster":"1"}
+{"guest":"Manchester United","master":"Chelsea","result":null,"league":null,"date":"2013-14","id":1502,"gguest":"1","gmaster":"3"}
+{"guest":"Southampton","master":"Sunderland","result":null,"league":null,"date":"2013-14","id":1503,"gguest":"2","gmaster":"2"}
+{"guest":"Fulham","master":"Arsenal","result":null,"league":null,"date":"2013-14","id":1504,"gguest":"0","gmaster":"2"}
+{"guest":"Stoke City","master":"Crystal Palace","result":null,"league":null,"date":"2013-14","id":1505,"gguest":"0","gmaster":"1"}
+{"guest":"Cardiff City","master":"Manchester City","result":null,"league":null,"date":"2013-14","id":1506,"gguest":"2","gmaster":"4"}
+{"guest":"Hull City","master":"Norwich City","result":null,"league":null,"date":"2013-14","id":1507,"gguest":"0","gmaster":"1"}
+{"guest":"Newcastle United","master":"West Ham United","result":null,"league":null,"date":"2013-14","id":1508,"gguest":"3","gmaster":"1"}
+{"guest":"Aston Villa","master":"Liverpool","result":null,"league":null,"date":"2013-14","id":1509,"gguest":"2","gmaster":"2"}
+{"guest":"Arsenal","master":"Aston Villa","result":null,"league":null,"date":"2013-14","id":1510,"gguest":"2","gmaster":"1"}
+{"guest":"Manchester City","master":"Newcastle United","result":null,"league":null,"date":"2013-14","id":1511,"gguest":"2","gmaster":"0"}
+{"guest":"Liverpool","master":"Stoke City","result":null,"league":null,"date":"2013-14","id":1512,"gguest":"5","gmaster":"3"}
+{"guest":"Chelsea","master":"Hull City","result":null,"league":null,"date":"2013-14","id":1513,"gguest":"2","gmaster":"0"}
+{"guest":"West Ham United","master":"Cardiff City","result":null,"league":null,"date":"2013-14","id":1514,"gguest":"2","gmaster":"0"}
+{"guest":"Norwich City","master":"Everton","result":null,"league":null,"date":"2013-14","id":1515,"gguest":"0","gmaster":"2"}
+{"guest":"Sunderland","master":"Fulham","result":null,"league":null,"date":"2013-14","id":1516,"gguest":"4","gmaster":"1"}
+{"guest":"West Bromwich Albion","master":"Southampton","result":null,"league":null,"date":"2013-14","id":1517,"gguest":"0","gmaster":"1"}
+{"guest":"Crystal Palace","master":"Tottenham Hotspur","result":null,"league":null,"date":"2013-14","id":1518,"gguest":"0","gmaster":"2"}
+{"guest":"Swansea City","master":"Manchester United","result":null,"league":null,"date":"2013-14","id":1519,"gguest":"0","gmaster":"2"}
+{"guest":"Manchester City","master":"Swansea City","result":null,"league":null,"date":"2013-14","id":1520,"gguest":"3","gmaster":"2"}
+{"guest":"Cardiff City","master":"Arsenal","result":null,"league":null,"date":"2013-14","id":1521,"gguest":"0","gmaster":"2"}
+{"guest":"Norwich City","master":"Crystal Palace","result":null,"league":null,"date":"2013-14","id":1522,"gguest":"1","gmaster":"1"}
+{"guest":"West Ham United","master":"Fulham","result":null,"league":null,"date":"2013-14","id":1523,"gguest":"1","gmaster":"2"}
+{"guest":"Hull City","master":"Liverpool","result":null,"league":null,"date":"2013-14","id":1524,"gguest":"0","gmaster":"2"}
+{"guest":"Chelsea","master":"Southampton","result":null,"league":null,"date":"2013-14","id":1525,"gguest":"3","gmaster":"0"}
+{"guest":"Everton","master":"Stoke City","result":null,"league":null,"date":"2013-14","id":1526,"gguest":"1","gmaster":"1"}
+{"guest":"Aston Villa","master":"Sunderland","result":null,"league":null,"date":"2013-14","id":1527,"gguest":"1","gmaster":"0"}
+{"guest":"Newcastle United","master":"West Bromwich Albion","result":null,"league":null,"date":"2013-14","id":1528,"gguest":"0","gmaster":"1"}
+{"guest":"Tottenham Hotspur","master":"Manchester United","result":null,"league":null,"date":"2013-14","id":1529,"gguest":"2","gmaster":"1"}
+{"guest":"Southampton","master":"Everton","result":null,"league":null,"date":"2013-14","id":1530,"gguest":"1","gmaster":"2"}
+{"guest":"Arsenal","master":"Newcastle United","result":null,"league":null,"date":"2013-14","id":1531,"gguest":"1","gmaster":"0"}
+{"guest":"Liverpool","master":"Chelsea","result":null,"league":null,"date":"2013-14","id":1532,"gguest":"1","gmaster":"2"}
+{"guest":"Stoke City","master":"Tottenham Hotspur","result":null,"league":null,"date":"2013-14","id":1533,"gguest":"0","gmaster":"3"}
+{"guest":"West Bromwich Albion","master":"West Ham United","result":null,"league":null,"date":"2013-14","id":1534,"gguest":"3","gmaster":"3"}
+{"guest":"Swansea City","master":"Aston Villa","result":null,"league":null,"date":"2013-14","id":1535,"gguest":"1","gmaster":"1"}
+{"guest":"Fulham","master":"Hull City","result":null,"league":null,"date":"2013-14","id":1536,"gguest":"0","gmaster":"6"}
+{"guest":"Crystal Palace","master":"Manchester City","result":null,"league":null,"date":"2013-14","id":1537,"gguest":"0","gmaster":"1"}
+{"guest":"Manchester United","master":"Norwich City","result":null,"league":null,"date":"2013-14","id":1538,"gguest":"1","gmaster":"0"}
+{"guest":"Sunderland","master":"Cardiff City","result":null,"league":null,"date":"2013-14","id":1539,"gguest":"2","gmaster":"2"}
+{"guest":"West Bromwich Albion","master":"Arsenal","result":null,"league":null,"date":"2014-15","id":1540,"gguest":"1","gmaster":"4"}
+{"guest":"Burnley","master":"Aston Villa","result":null,"league":null,"date":"2014-15","id":1541,"gguest":"1","gmaster":"0"}
+{"guest":"Sunderland","master":"Chelsea","result":null,"league":null,"date":"2014-15","id":1542,"gguest":"1","gmaster":"3"}
+{"guest":"Swansea City","master":"Crystal Palace","result":null,"league":null,"date":"2014-15","id":1543,"gguest":"0","gmaster":"1"}
+{"guest":"Tottenham Hotspur","master":"Everton","result":null,"league":null,"date":"2014-15","id":1544,"gguest":"1","gmaster":"0"}
+{"guest":"Manchester United","master":"Hull City","result":null,"league":null,"date":"2014-15","id":1545,"gguest":"0","gmaster":"0"}
+{"guest":"Queens Park Rangers","master":"Leicester City","result":null,"league":null,"date":"2014-15","id":1546,"gguest":"1","gmaster":"5"}
+{"guest":"Southampton","master":"Manchester City","result":null,"league":null,"date":"2014-15","id":1547,"gguest":"0","gmaster":"2"}
+{"guest":"West Ham United","master":"Newcastle United","result":null,"league":null,"date":"2014-15","id":1548,"gguest":"0","gmaster":"2"}
+{"guest":"Liverpool","master":"Stoke City","result":null,"league":null,"date":"2014-15","id":1549,"gguest":"1","gmaster":"6"}
+{"guest":"Sunderland","master":"Arsenal","result":null,"league":null,"date":"2014-15","id":1550,"gguest":"0","gmaster":"0"}
+{"guest":"Chelsea","master":"West Bromwich Albion","result":null,"league":null,"date":"2014-15","id":1551,"gguest":"0","gmaster":"3"}
+{"guest":"Manchester City","master":"Swansea City","result":null,"league":null,"date":"2014-15","id":1552,"gguest":"4","gmaster":"2"}
+{"guest":"Arsenal","master":"Manchester United","result":null,"league":null,"date":"2014-15","id":1553,"gguest":"1","gmaster":"1"}
+{"guest":"Aston Villa","master":"Southampton","result":null,"league":null,"date":"2014-15","id":1554,"gguest":"1","gmaster":"6"}
+{"guest":"Stoke City","master":"Burnley","result":null,"league":null,"date":"2014-15","id":1555,"gguest":"0","gmaster":"0"}
+{"guest":"Newcastle United","master":"Queens Park Rangers","result":null,"league":null,"date":"2014-15","id":1556,"gguest":"1","gmaster":"2"}
+{"guest":"Leicester City","master":"Sunderland","result":null,"league":null,"date":"2014-15","id":1557,"gguest":"0","gmaster":"0"}
+{"guest":"Hull City","master":"Tottenham Hotspur","result":null,"league":null,"date":"2014-15","id":1558,"gguest":"0","gmaster":"2"}
+{"guest":"Everton","master":"West Ham United","result":null,"league":null,"date":"2014-15","id":1559,"gguest":"2","gmaster":"1"}
+{"guest":"Crystal Palace","master":"Liverpool","result":null,"league":null,"date":"2014-15","id":1560,"gguest":"3","gmaster":"1"}
+{"guest":"Swansea City","master":"Arsenal","result":null,"league":null,"date":"2014-15","id":1561,"gguest":"1","gmaster":"0"}
+{"guest":"Queens Park Rangers","master":"Manchester City","result":null,"league":null,"date":"2014-15","id":1562,"gguest":"0","gmaster":"6"}
+{"guest":"Liverpool","master":"Chelsea","result":null,"league":null,"date":"2014-15","id":1563,"gguest":"1","gmaster":"1"}
+{"guest":"Sunderland","master":"Everton","result":null,"league":null,"date":"2014-15","id":1564,"gguest":"2","gmaster":"0"}
+{"guest":"West Ham United","master":"Aston Villa","result":null,"league":null,"date":"2014-15","id":1565,"gguest":"0","gmaster":"1"}
+{"guest":"Burnley","master":"Hull City","result":null,"league":null,"date":"2014-15","id":1566,"gguest":"1","gmaster":"0"}
+{"guest":"Southampton","master":"Leicester City","result":null,"league":null,"date":"2014-15","id":1567,"gguest":"0","gmaster":"2"}
+{"guest":"West Bromwich Albion","master":"Newcastle United","result":null,"league":null,"date":"2014-15","id":1568,"gguest":"1","gmaster":"1"}
+{"guest":"Tottenham Hotspur","master":"Stoke City","result":null,"league":null,"date":"2014-15","id":1569,"gguest":"0","gmaster":"3"}
+{"guest":"Manchester United","master":"Crystal Palace","result":null,"league":null,"date":"2014-15","id":1570,"gguest":"2","gmaster":"1"}
+{"guest":"Arsenal","master":"Hull City","result":null,"league":null,"date":"2014-15","id":1571,"gguest":"3","gmaster":"1"}
+{"guest":"Crystal Palace","master":"Chelsea","result":null,"league":null,"date":"2014-15","id":1572,"gguest":"0","gmaster":"1"}
+{"guest":"Manchester City","master":"Tottenham Hotspur","result":null,"league":null,"date":"2014-15","id":1573,"gguest":"1","gmaster":"0"}
+{"guest":"Newcastle United","master":"Leicester City","result":null,"league":null,"date":"2014-15","id":1574,"gguest":"0","gmaster":"3"}
+{"guest":"Everton","master":"Aston Villa","result":null,"league":null,"date":"2014-15","id":1575,"gguest":"2","gmaster":"3"}
+{"guest":"Queens Park Rangers","master":"Liverpool","result":null,"league":null,"date":"2014-15","id":1576,"gguest":"1","gmaster":"2"}
+{"guest":"Southampton","master":"Sunderland","result":null,"league":null,"date":"2014-15","id":1577,"gguest":"1","gmaster":"2"}
+{"guest":"Stoke City","master":"Swansea City","result":null,"league":null,"date":"2014-15","id":1578,"gguest":"0","gmaster":"2"}
+{"guest":"Burnley","master":"West Ham United","result":null,"league":null,"date":"2014-15","id":1579,"gguest":"0","gmaster":"1"}
+{"guest":"West Bromwich Albion","master":"Manchester United","result":null,"league":null,"date":"2014-15","id":1580,"gguest":"1","gmaster":"0"}
+{"guest":"Chelsea","master":"Leicester City","result":null,"league":null,"date":"2014-15","id":1581,"gguest":"3","gmaster":"1"}
+{"guest":"Liverpool","master":"Hull City","result":null,"league":null,"date":"2014-15","id":1582,"gguest":"0","gmaster":"1"}
+{"guest":"Manchester United","master":"Everton","result":null,"league":null,"date":"2014-15","id":1583,"gguest":"0","gmaster":"3"}
+{"guest":"Chelsea","master":"Arsenal","result":null,"league":null,"date":"2014-15","id":1584,"gguest":"0","gmaster":"0"}
+{"guest":"Tottenham Hotspur","master":"Southampton","result":null,"league":null,"date":"2014-15","id":1585,"gguest":"2","gmaster":"2"}
+{"guest":"Leicester City","master":"Burnley","result":null,"league":null,"date":"2014-15","id":1586,"gguest":"1","gmaster":"0"}
+{"guest":"Hull City","master":"Crystal Palace","result":null,"league":null,"date":"2014-15","id":1587,"gguest":"2","gmaster":"0"}
+{"guest":"Swansea City","master":"Newcastle United","result":null,"league":null,"date":"2014-15","id":1588,"gguest":"3","gmaster":"2"}
+{"guest":"West Ham United","master":"Queens Park Rangers","result":null,"league":null,"date":"2014-15","id":1589,"gguest":"0","gmaster":"0"}
+{"guest":"Sunderland","master":"Stoke City","result":null,"league":null,"date":"2014-15","id":1590,"gguest":"1","gmaster":"1"}
+{"guest":"Liverpool","master":"West Bromwich Albion","result":null,"league":null,"date":"2014-15","id":1591,"gguest":"0","gmaster":"0"}
+{"guest":"Aston Villa","master":"Manchester City","result":null,"league":null,"date":"2014-15","id":1592,"gguest":"2","gmaster":"3"}
+{"guest":"West Ham United","master":"Manchester City","result":null,"league":null,"date":"2014-15","id":1593,"gguest":"0","gmaster":"2"}
+{"guest":"Tottenham Hotspur","master":"Newcastle United","result":null,"league":null,"date":"2014-15","id":1594,"gguest":"3","gmaster":"1"}
+{"guest":"West Bromwich Albion","master":"Crystal Palace","result":null,"league":null,"date":"2014-15","id":1595,"gguest":"2","gmaster":"0"}
+{"guest":"Burnley","master":"Everton","result":null,"league":null,"date":"2014-15","id":1596,"gguest":"0","gmaster":"1"}
+{"guest":"Swansea City","master":"Leicester City","result":null,"league":null,"date":"2014-15","id":1597,"gguest":"0","gmaster":"2"}
+{"guest":"Southampton","master":"Stoke City","result":null,"league":null,"date":"2014-15","id":1598,"gguest":"1","gmaster":"2"}
+{"guest":"Manchester United","master":"Chelsea","result":null,"league":null,"date":"2014-15","id":1599,"gguest":"0","gmaster":"1"}
+{"guest":"Newcastle United","master":"Liverpool","result":null,"league":null,"date":"2014-15","id":1600,"gguest":"0","gmaster":"2"}
+{"guest":"Chelsea","master":"Queens Park Rangers","result":null,"league":null,"date":"2014-15","id":1601,"gguest":"1","gmaster":"0"}
+{"guest":"Manchester City","master":"Manchester United","result":null,"league":null,"date":"2014-15","id":1602,"gguest":"2","gmaster":"4"}
+{"guest":"Everton","master":"Swansea City","result":null,"league":null,"date":"2014-15","id":1603,"gguest":"1","gmaster":"1"}
+{"guest":"Hull City","master":"Southampton","result":null,"league":null,"date":"2014-15","id":1604,"gguest":"0","gmaster":"2"}
+{"guest":"Crystal Palace","master":"Sunderland","result":null,"league":null,"date":"2014-15","id":1605,"gguest":"4","gmaster":"1"}
+{"guest":"Aston Villa","master":"Tottenham Hotspur","result":null,"league":null,"date":"2014-15","id":1606,"gguest":"1","gmaster":"0"}
+{"guest":"Leicester City","master":"West Bromwich Albion","result":null,"league":null,"date":"2014-15","id":1607,"gguest":"3","gmaster":"2"}
+{"guest":"Stoke City","master":"West Ham United","result":null,"league":null,"date":"2014-15","id":1608,"gguest":"1","gmaster":"1"}
+{"guest":"Arsenal","master":"Burnley","result":null,"league":null,"date":"2014-15","id":1609,"gguest":"1","gmaster":"0"}
+{"guest":"Queens Park Rangers","master":"Aston Villa","result":null,"league":null,"date":"2014-15","id":1610,"gguest":"3","gmaster":"3"}
+{"guest":"Manchester City","master":"Crystal Palace","result":null,"league":null,"date":"2014-15","id":1611,"gguest":"1","gmaster":"2"}
+{"guest":"Tottenham Hotspur","master":"Burnley","result":null,"league":null,"date":"2014-15","id":1612,"gguest":"0","gmaster":"0"}
+{"guest":"Newcastle United","master":"Sunderland","result":null,"league":null,"date":"2014-15","id":1613,"gguest":"0","gmaster":"1"}
+{"guest":"Liverpool","master":"Arsenal","result":null,"league":null,"date":"2014-15","id":1614,"gguest":"1","gmaster":"4"}
+{"guest":"Southampton","master":"Everton","result":null,"league":null,"date":"2014-15","id":1615,"gguest":"0","gmaster":"1"}
+{"guest":"West Ham United","master":"Leicester City","result":null,"league":null,"date":"2014-15","id":1616,"gguest":"1","gmaster":"2"}
+{"guest":"Aston Villa","master":"Manchester United","result":null,"league":null,"date":"2014-15","id":1617,"gguest":"1","gmaster":"3"}
+{"guest":"Hull City","master":"Swansea City","result":null,"league":null,"date":"2014-15","id":1618,"gguest":"1","gmaster":"3"}
+{"guest":"Queens Park Rangers","master":"West Bromwich Albion","result":null,"league":null,"date":"2014-15","id":1619,"gguest":"4","gmaster":"1"}
+{"guest":"Stoke City","master":"Chelsea","result":null,"league":null,"date":"2014-15","id":1620,"gguest":"1","gmaster":"2"}
+{"guest":"Manchester United","master":"Liverpool","result":null,"league":null,"date":"2014-15","id":1621,"gguest":"2","gmaster":"1"}
+{"guest":"Chelsea","master":"Hull City","result":null,"league":null,"date":"2014-15","id":1622,"gguest":"3","gmaster":"2"}
+{"guest":"Everton","master":"Queens Park Rangers","result":null,"league":null,"date":"2014-15","id":1623,"gguest":"2","gmaster":"1"}
+{"guest":"West Bromwich Albion","master":"Manchester City","result":null,"league":null,"date":"2014-15","id":1624,"gguest":"0","gmaster":"3"}
+{"guest":"Swansea City","master":"Aston Villa","result":null,"league":null,"date":"2014-15","id":1625,"gguest":"1","gmaster":"0"}
+{"guest":"Arsenal","master":"Newcastle United","result":null,"league":null,"date":"2014-15","id":1626,"gguest":"2","gmaster":"1"}
+{"guest":"Burnley","master":"Southampton","result":null,"league":null,"date":"2014-15","id":1627,"gguest":"0","gmaster":"2"}
+{"guest":"Crystal Palace","master":"Stoke City","result":null,"league":null,"date":"2014-15","id":1628,"gguest":"2","gmaster":"1"}
+{"guest":"Leicester City","master":"Tottenham Hotspur","result":null,"league":null,"date":"2014-15","id":1629,"gguest":"3","gmaster":"4"}
+{"guest":"Sunderland","master":"West Ham United","result":null,"league":null,"date":"2014-15","id":1630,"gguest":"0","gmaster":"1"}
+{"guest":"Liverpool","master":"Swansea City","result":null,"league":null,"date":"2014-15","id":1631,"gguest":"1","gmaster":"0"}
+{"guest":"Southampton","master":"Chelsea","result":null,"league":null,"date":"2014-15","id":1632,"gguest":"1","gmaster":"1"}
+{"guest":"Newcastle United","master":"Everton","result":null,"league":null,"date":"2014-15","id":1633,"gguest":"0","gmaster":"3"}
+{"guest":"Tottenham Hotspur","master":"Manchester United","result":null,"league":null,"date":"2014-15","id":1634,"gguest":"0","gmaster":"3"}
+{"guest":"Queens Park Rangers","master":"Crystal Palace","result":null,"league":null,"date":"2014-15","id":1635,"gguest":"1","gmaster":"3"}
+{"guest":"West Ham United","master":"Arsenal","result":null,"league":null,"date":"2014-15","id":1636,"gguest":"0","gmaster":"3"}
+{"guest":"Hull City","master":"Leicester City","result":null,"league":null,"date":"2014-15","id":1637,"gguest":"0","gmaster":"0"}
+{"guest":"Aston Villa","master":"Sunderland","result":null,"league":null,"date":"2014-15","id":1638,"gguest":"4","gmaster":"0"}
+{"guest":"Stoke City","master":"West Bromwich Albion","result":null,"league":null,"date":"2014-15","id":1639,"gguest":"0","gmaster":"1"}
+{"guest":"Manchester City","master":"Burnley","result":null,"league":null,"date":"2014-15","id":1640,"gguest":"0","gmaster":"1"}
+{"guest":"Tottenham Hotspur","master":"Queens Park Rangers","result":null,"league":null,"date":"2014-15","id":1641,"gguest":"2","gmaster":"1"}
+{"guest":"Leicester City","master":"Manchester City","result":null,"league":null,"date":"2014-15","id":1642,"gguest":"0","gmaster":"2"}
+{"guest":"Manchester United","master":"Newcastle United","result":null,"league":null,"date":"2014-15","id":1643,"gguest":"1","gmaster":"0"}
+{"guest":"Arsenal","master":"Queens Park Rangers","result":null,"league":null,"date":"2014-15","id":1644,"gguest":"2","gmaster":"1"}
+{"guest":"Everton","master":"Stoke City","result":null,"league":null,"date":"2014-15","id":1645,"gguest":"0","gmaster":"2"}
+{"guest":"Swansea City","master":"Tottenham Hotspur","result":null,"league":null,"date":"2014-15","id":1646,"gguest":"2","gmaster":"3"}
+{"guest":"Chelsea","master":"West Ham United","result":null,"league":null,"date":"2014-15","id":1647,"gguest":"1","gmaster":"0"}
+{"guest":"Burnley","master":"Liverpool","result":null,"league":null,"date":"2014-15","id":1648,"gguest":"0","gmaster":"2"}
+{"guest":"West Bromwich Albion","master":"Aston Villa","result":null,"league":null,"date":"2014-15","id":1649,"gguest":"1","gmaster":"2"}
+{"guest":"Sunderland","master":"Hull City","result":null,"league":null,"date":"2014-15","id":1650,"gguest":"1","gmaster":"1"}
+{"guest":"Crystal Palace","master":"Southampton","result":null,"league":null,"date":"2014-15","id":1651,"gguest":"0","gmaster":"1"}
+{"guest":"Manchester City","master":"Liverpool","result":null,"league":null,"date":"2014-15","id":1652,"gguest":"1","gmaster":"2"}
+{"guest":"Everton","master":"Arsenal","result":null,"league":null,"date":"2014-15","id":1653,"gguest":"0","gmaster":"2"}
+{"guest":"Crystal Palace","master":"West Ham United","result":null,"league":null,"date":"2014-15","id":1654,"gguest":"3","gmaster":"1"}
+{"guest":"Swansea City","master":"Burnley","result":null,"league":null,"date":"2014-15","id":1655,"gguest":"1","gmaster":"0"}
+{"guest":"Sunderland","master":"Manchester United","result":null,"league":null,"date":"2014-15","id":1656,"gguest":"0","gmaster":"2"}
+{"guest":"Aston Villa","master":"Newcastle United","result":null,"league":null,"date":"2014-15","id":1657,"gguest":"0","gmaster":"1"}
+{"guest":"Hull City","master":"Stoke City","result":null,"league":null,"date":"2014-15","id":1658,"gguest":"0","gmaster":"1"}
+{"guest":"Southampton","master":"West Bromwich Albion","result":null,"league":null,"date":"2014-15","id":1659,"gguest":"0","gmaster":"1"}
+{"guest":"West Ham United","master":"Tottenham Hotspur","result":null,"league":null,"date":"2014-15","id":1660,"gguest":"2","gmaster":"2"}
+{"guest":"Leicester City","master":"Everton","result":null,"league":null,"date":"2014-15","id":1661,"gguest":"2","gmaster":"2"}
+{"guest":"Liverpool","master":"Southampton","result":null,"league":null,"date":"2014-15","id":1662,"gguest":"2","gmaster":"0"}
+{"guest":"Stoke City","master":"Aston Villa","result":null,"league":null,"date":"2014-15","id":1663,"gguest":"2","gmaster":"1"}
+{"guest":"Burnley","master":"Chelsea","result":null,"league":null,"date":"2014-15","id":1664,"gguest":"1","gmaster":"1"}
+{"guest":"Arsenal","master":"Crystal Palace","result":null,"league":null,"date":"2014-15","id":1665,"gguest":"2","gmaster":"1"}
+{"guest":"Queens Park Rangers","master":"Hull City","result":null,"league":null,"date":"2014-15","id":1666,"gguest":"1","gmaster":"2"}
+{"guest":"West Bromwich Albion","master":"Sunderland","result":null,"league":null,"date":"2014-15","id":1667,"gguest":"0","gmaster":"0"}
+{"guest":"Manchester United","master":"Swansea City","result":null,"league":null,"date":"2014-15","id":1668,"gguest":"1","gmaster":"2"}
+{"guest":"Newcastle United","master":"Manchester City","result":null,"league":null,"date":"2014-15","id":1669,"gguest":"0","gmaster":"5"}
+{"guest":"Everton","master":"Chelsea","result":null,"league":null,"date":"2014-15","id":1670,"gguest":"0","gmaster":"1"}
+{"guest":"Burnley","master":"Manchester United","result":null,"league":null,"date":"2014-15","id":1671,"gguest":"1","gmaster":"3"}
+{"guest":"West Ham United","master":"Southampton","result":null,"league":null,"date":"2014-15","id":1672,"gguest":"0","gmaster":"0"}
+{"guest":"Manchester City","master":"Stoke City","result":null,"league":null,"date":"2014-15","id":1673,"gguest":"4","gmaster":"1"}
+{"guest":"Newcastle United","master":"Crystal Palace","result":null,"league":null,"date":"2014-15","id":1674,"gguest":"1","gmaster":"1"}
+{"guest":"Swansea City","master":"West Bromwich Albion","result":null,"league":null,"date":"2014-15","id":1675,"gguest":"0","gmaster":"2"}
+{"guest":"Leicester City","master":"Arsenal","result":null,"league":null,"date":"2014-15","id":1676,"gguest":"1","gmaster":"2"}
+{"guest":"Aston Villa","master":"Hull City","result":null,"league":null,"date":"2014-15","id":1677,"gguest":"0","gmaster":"2"}
+{"guest":"Queens Park Rangers","master":"Sunderland","result":null,"league":null,"date":"2014-15","id":1678,"gguest":"2","gmaster":"0"}
+{"guest":"Tottenham Hotspur","master":"Liverpool","result":null,"league":null,"date":"2014-15","id":1679,"gguest":"2","gmaster":"3"}
+{"guest":"West Bromwich Albion","master":"Burnley","result":null,"league":null,"date":"2014-15","id":1680,"gguest":"2","gmaster":"2"}
+{"guest":"Stoke City","master":"Newcastle United","result":null,"league":null,"date":"2014-15","id":1681,"gguest":"1","gmaster":"1"}
+{"guest":"Manchester United","master":"West Ham United","result":null,"league":null,"date":"2014-15","id":1682,"gguest":"1","gmaster":"1"}
+{"guest":"Arsenal","master":"Tottenham Hotspur","result":null,"league":null,"date":"2014-15","id":1683,"gguest":"1","gmaster":"2"}
+{"guest":"Chelsea","master":"Aston Villa","result":null,"league":null,"date":"2014-15","id":1684,"gguest":"2","gmaster":"1"}
+{"guest":"Crystal Palace","master":"Leicester City","result":null,"league":null,"date":"2014-15","id":1685,"gguest":"1","gmaster":"0"}
+{"guest":"Hull City","master":"Manchester City","result":null,"league":null,"date":"2014-15","id":1686,"gguest":"1","gmaster":"1"}
+{"guest":"Southampton","master":"Queens Park Rangers","result":null,"league":null,"date":"2014-15","id":1687,"gguest":"1","gmaster":"0"}
+{"guest":"Sunderland","master":"Swansea City","result":null,"league":null,"date":"2014-15","id":1688,"gguest":"1","gmaster":"1"}
+{"guest":"Liverpool","master":"Everton","result":null,"league":null,"date":"2014-15","id":1689,"gguest":"0","gmaster":"0"}
+{"guest":"Aston Villa","master":"Arsenal","result":null,"league":null,"date":"2014-15","id":1690,"gguest":"0","gmaster":"5"}
+{"guest":"Swansea City","master":"Southampton","result":null,"league":null,"date":"2014-15","id":1691,"gguest":"1","gmaster":"0"}
+{"guest":"Newcastle United","master":"Hull City","result":null,"league":null,"date":"2014-15","id":1692,"gguest":"3","gmaster":"0"}
+{"guest":"Everton","master":"Crystal Palace","result":null,"league":null,"date":"2014-15","id":1693,"gguest":"1","gmaster":"0"}
+{"guest":"West Ham United","master":"Liverpool","result":null,"league":null,"date":"2014-15","id":1694,"gguest":"0","gmaster":"2"}
+{"guest":"Leicester City","master":"Manchester United","result":null,"league":null,"date":"2014-15","id":1695,"gguest":"1","gmaster":"3"}
+{"guest":"Queens Park Rangers","master":"Stoke City","result":null,"league":null,"date":"2014-15","id":1696,"gguest":"1","gmaster":"3"}
+{"guest":"Burnley","master":"Sunderland","result":null,"league":null,"date":"2014-15","id":1697,"gguest":"0","gmaster":"2"}
+{"guest":"Tottenham Hotspur","master":"West Bromwich Albion","result":null,"league":null,"date":"2014-15","id":1698,"gguest":"3","gmaster":"0"}
+{"guest":"Manchester City","master":"Chelsea","result":null,"league":null,"date":"2014-15","id":1699,"gguest":"1","gmaster":"1"}
+{"guest":"West Bromwich Albion","master":"Everton","result":null,"league":null,"date":"2014-15","id":1700,"gguest":"0","gmaster":"0"}
+{"guest":"Hull City","master":"West Ham United","result":null,"league":null,"date":"2014-15","id":1701,"gguest":"0","gmaster":"3"}
+{"guest":"Arsenal","master":"Manchester City","result":null,"league":null,"date":"2014-15","id":1702,"gguest":"2","gmaster":"0"}
+{"guest":"Liverpool","master":"Aston Villa","result":null,"league":null,"date":"2014-15","id":1703,"gguest":"2","gmaster":"0"}
+{"guest":"Crystal Palace","master":"Burnley","result":null,"league":null,"date":"2014-15","id":1704,"gguest":"3","gmaster":"2"}
+{"guest":"Stoke City","master":"Leicester City","result":null,"league":null,"date":"2014-15","id":1705,"gguest":"1","gmaster":"0"}
+{"guest":"Manchester United","master":"Queens Park Rangers","result":null,"league":null,"date":"2014-15","id":1706,"gguest":"2","gmaster":"0"}
+{"guest":"Chelsea","master":"Swansea City","result":null,"league":null,"date":"2014-15","id":1707,"gguest":"5","gmaster":"0"}
+{"guest":"Sunderland","master":"Tottenham Hotspur","result":null,"league":null,"date":"2014-15","id":1708,"gguest":"1","gmaster":"2"}
+{"guest":"Southampton","master":"Newcastle United","result":null,"league":null,"date":"2014-15","id":1709,"gguest":"2","gmaster":"1"}
+{"guest":"Stoke City","master":"Arsenal","result":null,"league":null,"date":"2014-15","id":1710,"gguest":"0","gmaster":"3"}
+{"guest":"Southampton","master":"Manchester United","result":null,"league":null,"date":"2014-15","id":1711,"gguest":"1","gmaster":"0"}
+{"guest":"Liverpool","master":"Sunderland","result":null,"league":null,"date":"2014-15","id":1712,"gguest":"1","gmaster":"0"}
+{"guest":"Queens Park Rangers","master":"Burnley","result":null,"league":null,"date":"2014-15","id":1713,"gguest":"1","gmaster":"2"}
+{"guest":"Newcastle United","master":"Chelsea","result":null,"league":null,"date":"2014-15","id":1714,"gguest":"0","gmaster":"2"}
+{"guest":"Manchester City","master":"Everton","result":null,"league":null,"date":"2014-15","id":1715,"gguest":"1","gmaster":"1"}
+{"guest":"Aston Villa","master":"Leicester City","result":null,"league":null,"date":"2014-15","id":1716,"gguest":"0","gmaster":"1"}
+{"guest":"West Ham United","master":"Swansea City","result":null,"league":null,"date":"2014-15","id":1717,"gguest":"1","gmaster":"1"}
+{"guest":"Hull City","master":"West Bromwich Albion","result":null,"league":null,"date":"2014-15","id":1718,"gguest":"0","gmaster":"1"}
+{"guest":"Tottenham Hotspur","master":"Crystal Palace","result":null,"league":null,"date":"2014-15","id":1719,"gguest":"1","gmaster":"2"}
+{"guest":"Manchester United","master":"Stoke City","result":null,"league":null,"date":"2014-15","id":1720,"gguest":"1","gmaster":"1"}
+{"guest":"Crystal Palace","master":"Aston Villa","result":null,"league":null,"date":"2014-15","id":1721,"gguest":"0","gmaster":"0"}
+{"guest":"Everton","master":"Hull City","result":null,"league":null,"date":"2014-15","id":1722,"gguest":"0","gmaster":"2"}
+{"guest":"Leicester City","master":"Liverpool","result":null,"league":null,"date":"2014-15","id":1723,"gguest":"2","gmaster":"2"}
+{"guest":"Sunderland","master":"Manchester City","result":null,"league":null,"date":"2014-15","id":1724,"gguest":"2","gmaster":"3"}
+{"guest":"Burnley","master":"Newcastle United","result":null,"league":null,"date":"2014-15","id":1725,"gguest":"3","gmaster":"3"}
+{"guest":"Swansea City","master":"Queens Park Rangers","result":null,"league":null,"date":"2014-15","id":1726,"gguest":"1","gmaster":"1"}
+{"guest":"Arsenal","master":"Southampton","result":null,"league":null,"date":"2014-15","id":1727,"gguest":"0","gmaster":"2"}
+{"guest":"West Bromwich Albion","master":"West Ham United","result":null,"league":null,"date":"2014-15","id":1728,"gguest":"1","gmaster":"1"}
+{"guest":"Chelsea","master":"Tottenham Hotspur","result":null,"league":null,"date":"2014-15","id":1729,"gguest":"3","gmaster":"5"}
+{"guest":"Swansea City","master":"Liverpool","result":null,"league":null,"date":"2014-15","id":1730,"gguest":"1","gmaster":"4"}
+{"guest":"Manchester United","master":"Tottenham Hotspur","result":null,"league":null,"date":"2014-15","id":1731,"gguest":"0","gmaster":"0"}
+{"guest":"Chelsea","master":"Southampton","result":null,"league":null,"date":"2014-15","id":1732,"gguest":"1","gmaster":"1"}
+{"guest":"Sunderland","master":"Aston Villa","result":null,"league":null,"date":"2014-15","id":1733,"gguest":"0","gmaster":"0"}
+{"guest":"Leicester City","master":"Hull City","result":null,"league":null,"date":"2014-15","id":1734,"gguest":"1","gmaster":"0"}
+{"guest":"Burnley","master":"Manchester City","result":null,"league":null,"date":"2014-15","id":1735,"gguest":"2","gmaster":"2"}
+{"guest":"Crystal Palace","master":"Queens Park Rangers","result":null,"league":null,"date":"2014-15","id":1736,"gguest":"0","gmaster":"0"}
+{"guest":"West Bromwich Albion","master":"Stoke City","result":null,"league":null,"date":"2014-15","id":1737,"gguest":"0","gmaster":"2"}
+{"guest":"Arsenal","master":"West Ham United","result":null,"league":null,"date":"2014-15","id":1738,"gguest":"2","gmaster":"1"}
+{"guest":"Everton","master":"Newcastle United","result":null,"league":null,"date":"2014-15","id":1739,"gguest":"2","gmaster":"3"}
+{"guest":"Bournemouth","master":"Manchester United","result":null,"league":null,"date":"2015-16","id":1740,"gguest":"1","gmaster":"3"}
+{"guest":"Aston Villa","master":"Arsenal","result":null,"league":null,"date":"2015-16","id":1741,"gguest":"0","gmaster":"4"}
+{"guest":"Leicester City","master":"Chelsea","result":null,"league":null,"date":"2015-16","id":1742,"gguest":"1","gmaster":"1"}
+{"guest":"Norwich City","master":"Everton","result":null,"league":null,"date":"2015-16","id":1743,"gguest":"0","gmaster":"3"}
+{"guest":"Tottenham Hotspur","master":"Newcastle United","result":null,"league":null,"date":"2015-16","id":1744,"gguest":"1","gmaster":"5"}
+{"guest":"Crystal Palace","master":"Southampton","result":null,"league":null,"date":"2015-16","id":1745,"gguest":"1","gmaster":"4"}
+{"guest":"West Ham United","master":"Stoke City","result":null,"league":null,"date":"2015-16","id":1746,"gguest":"1","gmaster":"2"}
+{"guest":"Manchester City","master":"Swansea City","result":null,"league":null,"date":"2015-16","id":1747,"gguest":"1","gmaster":"1"}
+{"guest":"Sunderland","master":"Watford","result":null,"league":null,"date":"2015-16","id":1748,"gguest":"2","gmaster":"2"}
+{"guest":"Liverpool","master":"West Bromwich Albion","result":null,"league":null,"date":"2015-16","id":1749,"gguest":"1","gmaster":"1"}
+{"guest":"Watford","master":"Norwich City","result":null,"league":null,"date":"2015-16","id":1750,"gguest":"2","gmaster":"4"}
+{"guest":"Everton","master":"Sunderland","result":null,"league":null,"date":"2015-16","id":1751,"gguest":"0","gmaster":"3"}
+{"guest":"Chelsea","master":"Liverpool","result":null,"league":null,"date":"2015-16","id":1752,"gguest":"1","gmaster":"1"}
+{"guest":"Manchester United","master":"West Ham United","result":null,"league":null,"date":"2015-16","id":1753,"gguest":"2","gmaster":"3"}
+{"guest":"Southampton","master":"Tottenham Hotspur","result":null,"league":null,"date":"2015-16","id":1754,"gguest":"2","gmaster":"1"}
+{"guest":"Watford","master":"Liverpool","result":null,"league":null,"date":"2015-16","id":1755,"gguest":"0","gmaster":"2"}
+{"guest":"Arsenal","master":"Manchester City","result":null,"league":null,"date":"2015-16","id":1756,"gguest":"2","gmaster":"2"}
+{"guest":"Manchester United","master":"Norwich City","result":null,"league":null,"date":"2015-16","id":1757,"gguest":"1","gmaster":"0"}
+{"guest":"Newcastle United","master":"Aston Villa","result":null,"league":null,"date":"2015-16","id":1758,"gguest":"0","gmaster":"0"}
+{"guest":"West Bromwich Albion","master":"Bournemouth","result":null,"league":null,"date":"2015-16","id":1759,"gguest":"1","gmaster":"1"}
+{"guest":"Stoke City","master":"Crystal Palace","result":null,"league":null,"date":"2015-16","id":1760,"gguest":"1","gmaster":"2"}
+{"guest":"Chelsea","master":"Sunderland","result":null,"league":null,"date":"2015-16","id":1761,"gguest":"2","gmaster":"3"}
+{"guest":"Swansea City","master":"West Ham United","result":null,"league":null,"date":"2015-16","id":1762,"gguest":"4","gmaster":"1"}
+{"guest":"Everton","master":"Leicester City","result":null,"league":null,"date":"2015-16","id":1763,"gguest":"1","gmaster":"3"}
+{"guest":"Tottenham Hotspur","master":"Chelsea","result":null,"league":null,"date":"2015-16","id":1764,"gguest":"2","gmaster":"2"}
+{"guest":"Liverpool","master":"Swansea City","result":null,"league":null,"date":"2015-16","id":1765,"gguest":"1","gmaster":"3"}
+{"guest":"Leicester City","master":"Manchester United","result":null,"league":null,"date":"2015-16","id":1766,"gguest":"1","gmaster":"1"}
+{"guest":"Manchester City","master":"Southampton","result":null,"league":null,"date":"2015-16","id":1767,"gguest":"2","gmaster":"4"}
+{"guest":"Bournemouth","master":"Everton","result":null,"league":null,"date":"2015-16","id":1768,"gguest":"1","gmaster":"2"}
+{"guest":"Crystal Palace","master":"Newcastle United","result":null,"league":null,"date":"2015-16","id":1769,"gguest":"0","gmaster":"1"}
+{"guest":"Sunderland","master":"Stoke City","result":null,"league":null,"date":"2015-16","id":1770,"gguest":"1","gmaster":"1"}
+{"guest":"Aston Villa","master":"Watford","result":null,"league":null,"date":"2015-16","id":1771,"gguest":"2","gmaster":"3"}
+{"guest":"West Ham United","master":"West Bromwich Albion","result":null,"league":null,"date":"2015-16","id":1772,"gguest":"3","gmaster":"0"}
+{"guest":"Norwich City","master":"Arsenal","result":null,"league":null,"date":"2015-16","id":1773,"gguest":"0","gmaster":"1"}
+{"guest":"West Bromwich Albion","master":"Tottenham Hotspur","result":null,"league":null,"date":"2015-16","id":1774,"gguest":"1","gmaster":"1"}
+{"guest":"Arsenal","master":"Sunderland","result":null,"league":null,"date":"2015-16","id":1775,"gguest":"0","gmaster":"0"}
+{"guest":"Swansea City","master":"Leicester City","result":null,"league":null,"date":"2015-16","id":1776,"gguest":"0","gmaster":"4"}
+{"guest":"Stoke City","master":"Manchester City","result":null,"league":null,"date":"2015-16","id":1777,"gguest":"0","gmaster":"4"}
+{"guest":"Southampton","master":"Aston Villa","result":null,"league":null,"date":"2015-16","id":1778,"gguest":"4","gmaster":"2"}
+{"guest":"Chelsea","master":"Bournemouth","result":null,"league":null,"date":"2015-16","id":1779,"gguest":"4","gmaster":"1"}
+{"guest":"Newcastle United","master":"Liverpool","result":null,"league":null,"date":"2015-16","id":1780,"gguest":"2","gmaster":"2"}
+{"guest":"West Bromwich Albion","master":"Arsenal","result":null,"league":null,"date":"2015-16","id":1781,"gguest":"0","gmaster":"2"}
+{"guest":"Watford","master":"West Ham United","result":null,"league":null,"date":"2015-16","id":1782,"gguest":"1","gmaster":"3"}
+{"guest":"Everton","master":"Liverpool","result":null,"league":null,"date":"2015-16","id":1783,"gguest":"0","gmaster":"4"}
+{"guest":"Crystal Palace","master":"Manchester United","result":null,"league":null,"date":"2015-16","id":1784,"gguest":"0","gmaster":"2"}
+{"guest":"Manchester City","master":"Newcastle United","result":null,"league":null,"date":"2015-16","id":1785,"gguest":"1","gmaster":"1"}
+{"guest":"Tottenham Hotspur","master":"Stoke City","result":null,"league":null,"date":"2015-16","id":1786,"gguest":"4","gmaster":"0"}
+{"guest":"Liverpool","master":"Bournemouth","result":null,"league":null,"date":"2015-16","id":1787,"gguest":"2","gmaster":"1"}
+{"guest":"West Ham United","master":"Leicester City","result":null,"league":null,"date":"2015-16","id":1788,"gguest":"2","gmaster":"2"}
+{"guest":"Crystal Palace","master":"Arsenal","result":null,"league":null,"date":"2015-16","id":1789,"gguest":"1","gmaster":"1"}
+{"guest":"Sunderland","master":"Norwich City","result":null,"league":null,"date":"2015-16","id":1790,"gguest":"3","gmaster":"0"}
+{"guest":"Southampton","master":"Everton","result":null,"league":null,"date":"2015-16","id":1791,"gguest":"1","gmaster":"1"}
+{"guest":"Aston Villa","master":"Manchester United","result":null,"league":null,"date":"2015-16","id":1792,"gguest":"0","gmaster":"1"}
+{"guest":"Swansea City","master":"Newcastle United","result":null,"league":null,"date":"2015-16","id":1793,"gguest":"0","gmaster":"3"}
+{"guest":"Watford","master":"West Bromwich Albion","result":null,"league":null,"date":"2015-16","id":1794,"gguest":"1","gmaster":"0"}
+{"guest":"Manchester City","master":"Chelsea","result":null,"league":null,"date":"2015-16","id":1795,"gguest":"3","gmaster":"0"}
+{"guest":"Everton","master":"Crystal Palace","result":null,"league":null,"date":"2015-16","id":1796,"gguest":"0","gmaster":"0"}
+{"guest":"Leicester City","master":"Sunderland","result":null,"league":null,"date":"2015-16","id":1797,"gguest":"2","gmaster":"0"}
+{"guest":"Stoke City","master":"Liverpool","result":null,"league":null,"date":"2015-16","id":1798,"gguest":"1","gmaster":"4"}
+{"guest":"Manchester United","master":"Tottenham Hotspur","result":null,"league":null,"date":"2015-16","id":1799,"gguest":"0","gmaster":"3"}
+{"guest":"Arsenal","master":"West Ham United","result":null,"league":null,"date":"2015-16","id":1800,"gguest":"3","gmaster":"3"}
+{"guest":"Bournemouth","master":"Aston Villa","result":null,"league":null,"date":"2015-16","id":1801,"gguest":"2","gmaster":"1"}
+{"guest":"Norwich City","master":"Crystal Palace","result":null,"league":null,"date":"2015-16","id":1802,"gguest":"0","gmaster":"1"}
+{"guest":"Newcastle United","master":"Southampton","result":null,"league":null,"date":"2015-16","id":1803,"gguest":"1","gmaster":"3"}
+{"guest":"Chelsea","master":"Swansea City","result":null,"league":null,"date":"2015-16","id":1804,"gguest":"0","gmaster":"1"}
+{"guest":"Everton","master":"Watford","result":null,"league":null,"date":"2015-16","id":1805,"gguest":"1","gmaster":"1"}
+{"guest":"West Bromwich Albion","master":"Manchester City","result":null,"league":null,"date":"2015-16","id":1806,"gguest":"1","gmaster":"2"}
+{"guest":"Southampton","master":"Leicester City","result":null,"league":null,"date":"2015-16","id":1807,"gguest":"0","gmaster":"1"}
+{"guest":"Everton","master":"Manchester United","result":null,"league":null,"date":"2015-16","id":1808,"gguest":"0","gmaster":"1"}
+{"guest":"Chelsea","master":"Aston Villa","result":null,"league":null,"date":"2015-16","id":1809,"gguest":"4","gmaster":"0"}
+{"guest":"Watford","master":"Arsenal","result":null,"league":null,"date":"2015-16","id":1810,"gguest":"0","gmaster":"4"}
+{"guest":"Manchester City","master":"Bournemouth","result":null,"league":null,"date":"2015-16","id":1811,"gguest":"4","gmaster":"0"}
+{"guest":"Newcastle United","master":"Norwich City","result":null,"league":null,"date":"2015-16","id":1812,"gguest":"2","gmaster":"3"}
+{"guest":"Swansea City","master":"Stoke City","result":null,"league":null,"date":"2015-16","id":1813,"gguest":"2","gmaster":"2"}
+{"guest":"West Bromwich Albion","master":"Sunderland","result":null,"league":null,"date":"2015-16","id":1814,"gguest":"0","gmaster":"0"}
+{"guest":"Crystal Palace","master":"West Ham United","result":null,"league":null,"date":"2015-16","id":1815,"gguest":"2","gmaster":"2"}
+{"guest":"Tottenham Hotspur","master":"Liverpool","result":null,"league":null,"date":"2015-16","id":1816,"gguest":"1","gmaster":"1"}
+{"guest":"Sunderland","master":"Newcastle United","result":null,"league":null,"date":"2015-16","id":1817,"gguest":"1","gmaster":"1"}
+{"guest":"Liverpool","master":"Southampton","result":null,"league":null,"date":"2015-16","id":1818,"gguest":"2","gmaster":"3"}
+{"guest":"Manchester United","master":"Manchester City","result":null,"league":null,"date":"2015-16","id":1819,"gguest":"1","gmaster":"0"}
+{"guest":"Bournemouth","master":"Tottenham Hotspur","result":null,"league":null,"date":"2015-16","id":1820,"gguest":"0","gmaster":"3"}
+{"guest":"Arsenal","master":"Everton","result":null,"league":null,"date":"2015-16","id":1821,"gguest":"2","gmaster":"0"}
+{"guest":"West Ham United","master":"Chelsea","result":null,"league":null,"date":"2015-16","id":1822,"gguest":"2","gmaster":"2"}
+{"guest":"Leicester City","master":"Crystal Palace","result":null,"league":null,"date":"2015-16","id":1823,"gguest":"1","gmaster":"0"}
+{"guest":"Stoke City","master":"Watford","result":null,"league":null,"date":"2015-16","id":1824,"gguest":"2","gmaster":"1"}
+{"guest":"Norwich City","master":"West Bromwich Albion","result":null,"league":null,"date":"2015-16","id":1825,"gguest":"1","gmaster":"0"}
+{"guest":"Aston Villa","master":"Swansea City","result":null,"league":null,"date":"2015-16","id":1826,"gguest":"0","gmaster":"1"}
+{"guest":"Newcastle United","master":"Leicester City","result":null,"league":null,"date":"2015-16","id":1827,"gguest":"0","gmaster":"1"}
+{"guest":"Tottenham Hotspur","master":"Aston Villa","result":null,"league":null,"date":"2015-16","id":1828,"gguest":"2","gmaster":"0"}
+{"guest":"Manchester City","master":"Norwich City","result":null,"league":null,"date":"2015-16","id":1829,"gguest":"0","gmaster":"0"}
+{"guest":"Swansea City","master":"Bournemouth","result":null,"league":null,"date":"2015-16","id":1830,"gguest":"2","gmaster":"3"}
+{"guest":"Southampton","master":"Stoke City","result":null,"league":null,"date":"2015-16","id":1831,"gguest":"2","gmaster":"1"}
+{"guest":"Liverpool","master":"Crystal Palace","result":null,"league":null,"date":"2015-16","id":1832,"gguest":"2","gmaster":"1"}
+{"guest":"Manchester United","master":"West Bromwich Albion","result":null,"league":null,"date":"2015-16","id":1833,"gguest":"0","gmaster":"1"}
+{"guest":"Arsenal","master":"Tottenham Hotspur","result":null,"league":null,"date":"2015-16","id":1834,"gguest":"2","gmaster":"2"}
+{"guest":"Stoke City","master":"Chelsea","result":null,"league":null,"date":"2015-16","id":1835,"gguest":"1","gmaster":"1"}
+{"guest":"West Ham United","master":"Everton","result":null,"league":null,"date":"2015-16","id":1836,"gguest":"3","gmaster":"2"}
+{"guest":"Aston Villa","master":"Manchester City","result":null,"league":null,"date":"2015-16","id":1837,"gguest":"0","gmaster":"4"}
+{"guest":"Bournemouth","master":"Newcastle United","result":null,"league":null,"date":"2015-16","id":1838,"gguest":"3","gmaster":"1"}
+{"guest":"Sunderland","master":"Southampton","result":null,"league":null,"date":"2015-16","id":1839,"gguest":"1","gmaster":"1"}
+{"guest":"Norwich City","master":"Swansea City","result":null,"league":null,"date":"2015-16","id":1840,"gguest":"0","gmaster":"1"}
+{"guest":"Leicester City","master":"Watford","result":null,"league":null,"date":"2015-16","id":1841,"gguest":"1","gmaster":"0"}
+{"guest":"Swansea City","master":"Arsenal","result":null,"league":null,"date":"2015-16","id":1842,"gguest":"2","gmaster":"1"}
+{"guest":"Newcastle United","master":"Stoke City","result":null,"league":null,"date":"2015-16","id":1843,"gguest":"0","gmaster":"1"}
+{"guest":"Tottenham Hotspur","master":"West Ham United","result":null,"league":null,"date":"2015-16","id":1844,"gguest":"0","gmaster":"1"}
+{"guest":"Manchester City","master":"Liverpool","result":null,"league":null,"date":"2015-16","id":1845,"gguest":"0","gmaster":"3"}
+{"guest":"Watford","master":"Manchester United","result":null,"league":null,"date":"2015-16","id":1846,"gguest":"0","gmaster":"1"}
+{"guest":"Everton","master":"Aston Villa","result":null,"league":null,"date":"2015-16","id":1847,"gguest":"3","gmaster":"1"}
+{"guest":"Southampton","master":"Bournemouth","result":null,"league":null,"date":"2015-16","id":1848,"gguest":"0","gmaster":"2"}
+{"guest":"West Bromwich Albion","master":"Leicester City","result":null,"league":null,"date":"2015-16","id":1849,"gguest":"2","gmaster":"2"}
+{"guest":"Chelsea","master":"Norwich City","result":null,"league":null,"date":"2015-16","id":1850,"gguest":"2","gmaster":"1"}
+{"guest":"Crystal Palace","master":"Sunderland","result":null,"league":null,"date":"2015-16","id":1851,"gguest":"2","gmaster":"2"}
+{"guest":"Arsenal","master":"Manchester United","result":null,"league":null,"date":"2015-16","id":1852,"gguest":"2","gmaster":"3"}
+{"guest":"Swansea City","master":"Tottenham Hotspur","result":null,"league":null,"date":"2015-16","id":1853,"gguest":"1","gmaster":"2"}
+{"guest":"Sunderland","master":"West Ham United","result":null,"league":null,"date":"2015-16","id":1854,"gguest":"0","gmaster":"1"}
+{"guest":"Norwich City","master":"Leicester City","result":null,"league":null,"date":"2015-16","id":1855,"gguest":"0","gmaster":"1"}
+{"guest":"Chelsea","master":"Southampton","result":null,"league":null,"date":"2015-16","id":1856,"gguest":"2","gmaster":"1"}
+{"guest":"Aston Villa","master":"Stoke City","result":null,"league":null,"date":"2015-16","id":1857,"gguest":"1","gmaster":"2"}
+{"guest":"Bournemouth","master":"Watford","result":null,"league":null,"date":"2015-16","id":1858,"gguest":"0","gmaster":"0"}
+{"guest":"Crystal Palace","master":"West Bromwich Albion","result":null,"league":null,"date":"2015-16","id":1859,"gguest":"2","gmaster":"3"}
+{"guest":"Leicester City","master":"Arsenal","result":null,"league":null,"date":"2015-16","id":1860,"gguest":"1","gmaster":"2"}
+{"guest":"Liverpool","master":"Aston Villa","result":null,"league":null,"date":"2015-16","id":1861,"gguest":"6","gmaster":"0"}
+{"guest":"Tottenham Hotspur","master":"Manchester City","result":null,"league":null,"date":"2015-16","id":1862,"gguest":"2","gmaster":"1"}
+{"guest":"Manchester United","master":"Sunderland","result":null,"league":null,"date":"2015-16","id":1863,"gguest":"1","gmaster":"2"}
+{"guest":"Stoke City","master":"Bournemouth","result":null,"league":null,"date":"2015-16","id":1864,"gguest":"3","gmaster":"1"}
+{"guest":"Watford","master":"Crystal Palace","result":null,"league":null,"date":"2015-16","id":1865,"gguest":"2","gmaster":"1"}
+{"guest":"West Bromwich Albion","master":"Everton","result":null,"league":null,"date":"2015-16","id":1866,"gguest":"1","gmaster":"0"}
+{"guest":"West Ham United","master":"Norwich City","result":null,"league":null,"date":"2015-16","id":1867,"gguest":"2","gmaster":"2"}
+{"guest":"Southampton","master":"Swansea City","result":null,"league":null,"date":"2015-16","id":1868,"gguest":"1","gmaster":"0"}
+{"guest":"Newcastle United","master":"Chelsea","result":null,"league":null,"date":"2015-16","id":1869,"gguest":"1","gmaster":"5"}
+{"guest":"Arsenal","master":"Bournemouth","result":null,"league":null,"date":"2015-16","id":1870,"gguest":"2","gmaster":"0"}
+{"guest":"Manchester United","master":"Chelsea","result":null,"league":null,"date":"2015-16","id":1871,"gguest":"1","gmaster":"1"}
+{"guest":"Leicester City","master":"Manchester City","result":null,"league":null,"date":"2015-16","id":1872,"gguest":"3","gmaster":"1"}
+{"guest":"Norwich City","master":"Aston Villa","result":null,"league":null,"date":"2015-16","id":1873,"gguest":"0","gmaster":"2"}
+{"guest":"Sunderland","master":"Liverpool","result":null,"league":null,"date":"2015-16","id":1874,"gguest":"2","gmaster":"2"}
+{"guest":"West Bromwich Albion","master":"Newcastle United","result":null,"league":null,"date":"2015-16","id":1875,"gguest":"0","gmaster":"1"}
+{"guest":"Everton","master":"Stoke City","result":null,"league":null,"date":"2015-16","id":1876,"gguest":"3","gmaster":"0"}
+{"guest":"Crystal Palace","master":"Swansea City","result":null,"league":null,"date":"2015-16","id":1877,"gguest":"1","gmaster":"1"}
+{"guest":"Watford","master":"Tottenham Hotspur","result":null,"league":null,"date":"2015-16","id":1878,"gguest":"0","gmaster":"1"}
+{"guest":"West Ham United","master":"Southampton","result":null,"league":null,"date":"2015-16","id":1879,"gguest":"0","gmaster":"1"}
+{"guest":"Newcastle United","master":"Everton","result":null,"league":null,"date":"2015-16","id":1880,"gguest":"0","gmaster":"3"}
+{"guest":"Chelsea","master":"Watford","result":null,"league":null,"date":"2015-16","id":1881,"gguest":"0","gmaster":"0"}
+{"guest":"Southampton","master":"Arsenal","result":null,"league":null,"date":"2015-16","id":1882,"gguest":"0","gmaster":"0"}
+{"guest":"Liverpool","master":"Leicester City","result":null,"league":null,"date":"2015-16","id":1883,"gguest":"0","gmaster":"2"}
+{"guest":"Tottenham Hotspur","master":"Norwich City","result":null,"league":null,"date":"2015-16","id":1884,"gguest":"3","gmaster":"0"}
+{"guest":"Manchester City","master":"Sunderland","result":null,"league":null,"date":"2015-16","id":1885,"gguest":"1","gmaster":"0"}
+{"guest":"Aston Villa","master":"West Ham United","result":null,"league":null,"date":"2015-16","id":1886,"gguest":"0","gmaster":"2"}
+{"guest":"Bournemouth","master":"Crystal Palace","result":null,"league":null,"date":"2015-16","id":1887,"gguest":"2","gmaster":"1"}
+{"guest":"Stoke City","master":"Manchester United","result":null,"league":null,"date":"2015-16","id":1888,"gguest":"0","gmaster":"3"}
+{"guest":"Swansea City","master":"West Bromwich Albion","result":null,"league":null,"date":"2015-16","id":1889,"gguest":"1","gmaster":"1"}
+{"guest":"Swansea City","master":"Everton","result":null,"league":null,"date":"2015-16","id":1890,"gguest":"2","gmaster":"1"}
+{"guest":"Chelsea","master":"Arsenal","result":null,"league":null,"date":"2015-16","id":1891,"gguest":"1","gmaster":"0"}
+{"guest":"Liverpool","master":"Norwich City","result":null,"league":null,"date":"2015-16","id":1892,"gguest":"5","gmaster":"4"}
+{"guest":"Tottenham Hotspur","master":"Crystal Palace","result":null,"league":null,"date":"2015-16","id":1893,"gguest":"3","gmaster":"1"}
+{"guest":"Stoke City","master":"Leicester City","result":null,"league":null,"date":"2015-16","id":1894,"gguest":"0","gmaster":"3"}
+{"guest":"Southampton","master":"Manchester United","result":null,"league":null,"date":"2015-16","id":1895,"gguest":"1","gmaster":"0"}
+{"guest":"Bournemouth","master":"Sunderland","result":null,"league":null,"date":"2015-16","id":1896,"gguest":"1","gmaster":"1"}
+{"guest":"Newcastle United","master":"Watford","result":null,"league":null,"date":"2015-16","id":1897,"gguest":"1","gmaster":"2"}
+{"guest":"Aston Villa","master":"West Bromwich Albion","result":null,"league":null,"date":"2015-16","id":1898,"gguest":"0","gmaster":"0"}
+{"guest":"Manchester City","master":"West Ham United","result":null,"league":null,"date":"2015-16","id":1899,"gguest":"2","gmaster":"2"}
+{"guest":"Watford","master":"Swansea City","result":null,"league":null,"date":"2015-16","id":1900,"gguest":"0","gmaster":"1"}
+{"guest":"Manchester United","master":"Liverpool","result":null,"league":null,"date":"2015-16","id":1901,"gguest":"1","gmaster":"0"}
+{"guest":"Arsenal","master":"Stoke City","result":null,"league":null,"date":"2015-16","id":1902,"gguest":"0","gmaster":"0"}
+{"guest":"Sunderland","master":"Tottenham Hotspur","result":null,"league":null,"date":"2015-16","id":1903,"gguest":"1","gmaster":"4"}
+{"guest":"Norwich City","master":"Bournemouth","result":null,"league":null,"date":"2015-16","id":1904,"gguest":"0","gmaster":"3"}
+{"guest":"Everton","master":"Chelsea","result":null,"league":null,"date":"2015-16","id":1905,"gguest":"3","gmaster":"3"}
+{"guest":"Crystal Palace","master":"Manchester City","result":null,"league":null,"date":"2015-16","id":1906,"gguest":"0","gmaster":"4"}
+{"guest":"West Ham United","master":"Newcastle United","result":null,"league":null,"date":"2015-16","id":1907,"gguest":"1","gmaster":"2"}
+{"guest":"West Bromwich Albion","master":"Southampton","result":null,"league":null,"date":"2015-16","id":1908,"gguest":"0","gmaster":"3"}
+{"guest":"Leicester City","master":"Aston Villa","result":null,"league":null,"date":"2015-16","id":1909,"gguest":"1","gmaster":"1"}
+{"guest":"West Bromwich Albion","master":"Chelsea","result":null,"league":null,"date":"2015-16","id":1910,"gguest":"2","gmaster":"2"}
+{"guest":"Everton","master":"Manchester City","result":null,"league":null,"date":"2015-16","id":1911,"gguest":"0","gmaster":"0"}
+{"guest":"Watford","master":"Southampton","result":null,"league":null,"date":"2015-16","id":1912,"gguest":"0","gmaster":"2"}
+{"guest":"Norwich City","master":"Stoke City","result":null,"league":null,"date":"2015-16","id":1913,"gguest":"1","gmaster":"3"}
+{"guest":"Sunderland","master":"Swansea City","result":null,"league":null,"date":"2015-16","id":1914,"gguest":"4","gmaster":"2"}
+{"guest":"Arsenal","master":"Liverpool","result":null,"league":null,"date":"2015-16","id":1915,"gguest":"3","gmaster":"3"}
+{"guest":"Leicester City","master":"Tottenham Hotspur","result":null,"league":null,"date":"2015-16","id":1916,"gguest":"1","gmaster":"0"}
+{"guest":"Crystal Palace","master":"Aston Villa","result":null,"league":null,"date":"2015-16","id":1917,"gguest":"0","gmaster":"1"}
+{"guest":"West Ham United","master":"Bournemouth","result":null,"league":null,"date":"2015-16","id":1918,"gguest":"3","gmaster":"1"}
+{"guest":"Manchester United","master":"Newcastle United","result":null,"league":null,"date":"2015-16","id":1919,"gguest":"3","gmaster":"3"}
+{"guest":"Chelsea","master":"Crystal Palace","result":null,"league":null,"date":"2015-16","id":1920,"gguest":"3","gmaster":"0"}
+{"guest":"Tottenham Hotspur","master":"Everton","result":null,"league":null,"date":"2015-16","id":1921,"gguest":"1","gmaster":"1"}
+{"guest":"Liverpool","master":"West Ham United","result":null,"league":null,"date":"2015-16","id":1922,"gguest":"0","gmaster":"2"}
+{"guest":"Newcastle United","master":"Arsenal","result":null,"league":null,"date":"2015-16","id":1923,"gguest":"0","gmaster":"1"}
+{"guest":"Bournemouth","master":"Leicester City","result":null,"league":null,"date":"2015-16","id":1924,"gguest":"0","gmaster":"0"}
+{"guest":"Swansea City","master":"Manchester United","result":null,"league":null,"date":"2015-16","id":1925,"gguest":"1","gmaster":"2"}
+{"guest":"Southampton","master":"Norwich City","result":null,"league":null,"date":"2015-16","id":1926,"gguest":"0","gmaster":"1"}
+{"guest":"Aston Villa","master":"Sunderland","result":null,"league":null,"date":"2015-16","id":1927,"gguest":"1","gmaster":"3"}
+{"guest":"Stoke City","master":"West Bromwich Albion","result":null,"league":null,"date":"2015-16","id":1928,"gguest":"1","gmaster":"2"}
+{"guest":"Manchester City","master":"Watford","result":null,"league":null,"date":"2015-16","id":1929,"gguest":"2","gmaster":"1"}
+{"guest":"Liverpool","master":"Sunderland","result":null,"league":null,"date":"2015-16","id":1930,"gguest":"1","gmaster":"0"}
+{"guest":"Manchester City","master":"Leicester City","result":null,"league":null,"date":"2015-16","id":1931,"gguest":"0","gmaster":"0"}
+{"guest":"Swansea City","master":"Crystal Palace","result":null,"league":null,"date":"2015-16","id":1932,"gguest":"0","gmaster":"0"}
+{"guest":"Stoke City","master":"Everton","result":null,"league":null,"date":"2015-16","id":1933,"gguest":"4","gmaster":"3"}
+{"guest":"Aston Villa","master":"Norwich City","result":null,"league":null,"date":"2015-16","id":1934,"gguest":"0","gmaster":"2"}
+{"guest":"Tottenham Hotspur","master":"Watford","result":null,"league":null,"date":"2015-16","id":1935,"gguest":"2","gmaster":"1"}
+{"guest":"Newcastle United","master":"West Bromwich Albion","result":null,"league":null,"date":"2015-16","id":1936,"gguest":"0","gmaster":"1"}
+{"guest":"Bournemouth","master":"Arsenal","result":null,"league":null,"date":"2015-16","id":1937,"gguest":"0","gmaster":"2"}
+{"guest":"Chelsea","master":"Manchester United","result":null,"league":null,"date":"2015-16","id":1938,"gguest":"0","gmaster":"0"}
+{"guest":"Southampton","master":"West Ham United","result":null,"league":null,"date":"2015-16","id":1939,"gguest":"1","gmaster":"2"}
+{"guest":"Everton","master":"Arsenal","result":null,"league":null,"date":"2016-17","id":1940,"gguest":"1","gmaster":"3"}
+{"guest":"West Ham United","master":"Burnley","result":null,"league":null,"date":"2016-17","id":1941,"gguest":"2","gmaster":"1"}
+{"guest":"Sunderland","master":"Chelsea","result":null,"league":null,"date":"2016-17","id":1942,"gguest":"1","gmaster":"5"}
+{"guest":"Tottenham Hotspur","master":"Hull City","result":null,"league":null,"date":"2016-17","id":1943,"gguest":"7","gmaster":"1"}
+{"guest":"Bournemouth","master":"Leicester City","result":null,"league":null,"date":"2016-17","id":1944,"gguest":"1","gmaster":"1"}
+{"guest":"Middlesbrough","master":"Liverpool","result":null,"league":null,"date":"2016-17","id":1945,"gguest":"0","gmaster":"3"}
+{"guest":"Crystal Palace","master":"Manchester United","result":null,"league":null,"date":"2016-17","id":1946,"gguest":"0","gmaster":"2"}
+{"guest":"Stoke City","master":"Southampton","result":null,"league":null,"date":"2016-17","id":1947,"gguest":"1","gmaster":"0"}
+{"guest":"West Bromwich Albion","master":"Swansea City","result":null,"league":null,"date":"2016-17","id":1948,"gguest":"1","gmaster":"2"}
+{"guest":"Manchester City","master":"Watford","result":null,"league":null,"date":"2016-17","id":1949,"gguest":"5","gmaster":"0"}
+{"guest":"Tottenham Hotspur","master":"Leicester City","result":null,"league":null,"date":"2016-17","id":1950,"gguest":"6","gmaster":"1"}
+{"guest":"Manchester United","master":"Southampton","result":null,"league":null,"date":"2016-17","id":1951,"gguest":"0","gmaster":"0"}
+{"guest":"Sunderland","master":"Arsenal","result":null,"league":null,"date":"2016-17","id":1952,"gguest":"0","gmaster":"2"}
+{"guest":"West Bromwich Albion","master":"Manchester City","result":null,"league":null,"date":"2016-17","id":1953,"gguest":"1","gmaster":"3"}
+{"guest":"Watford","master":"Chelsea","result":null,"league":null,"date":"2016-17","id":1954,"gguest":"3","gmaster":"4"}
+{"guest":"Hull City","master":"Crystal Palace","result":null,"league":null,"date":"2016-17","id":1955,"gguest":"0","gmaster":"4"}
+{"guest":"Liverpool","master":"West Ham United","result":null,"league":null,"date":"2016-17","id":1956,"gguest":"4","gmaster":"0"}
+{"guest":"Manchester United","master":"Tottenham Hotspur","result":null,"league":null,"date":"2016-17","id":1957,"gguest":"1","gmaster":"2"}
+{"guest":"Leicester City","master":"Manchester City","result":null,"league":null,"date":"2016-17","id":1958,"gguest":"1","gmaster":"2"}
+{"guest":"Burnley","master":"Bournemouth","result":null,"league":null,"date":"2016-17","id":1959,"gguest":"1","gmaster":"2"}
+{"guest":"Southampton","master":"Middlesbrough","result":null,"league":null,"date":"2016-17","id":1960,"gguest":"2","gmaster":"1"}
+{"guest":"Swansea City","master":"Sunderland","result":null,"league":null,"date":"2016-17","id":1961,"gguest":"2","gmaster":"0"}
+{"guest":"Arsenal","master":"Stoke City","result":null,"league":null,"date":"2016-17","id":1962,"gguest":"4","gmaster":"1"}
+{"guest":"Watford","master":"Everton","result":null,"league":null,"date":"2016-17","id":1963,"gguest":"0","gmaster":"1"}
+{"guest":"Chelsea","master":"West Bromwich Albion","result":null,"league":null,"date":"2016-17","id":1964,"gguest":"1","gmaster":"0"}
+{"guest":"Arsenal","master":"Southampton","result":null,"league":null,"date":"2016-17","id":1965,"gguest":"2","gmaster":"0"}
+{"guest":"Middlesbrough","master":"Chelsea","result":null,"league":null,"date":"2016-17","id":1966,"gguest":"0","gmaster":"3"}
+{"guest":"Southampton","master":"Liverpool","result":null,"league":null,"date":"2016-17","id":1967,"gguest":"0","gmaster":"0"}
+{"guest":"Manchester United","master":"Arsenal","result":null,"league":null,"date":"2016-17","id":1968,"gguest":"0","gmaster":"2"}
+{"guest":"Crystal Palace","master":"Manchester City","result":null,"league":null,"date":"2016-17","id":1969,"gguest":"0","gmaster":"5"}
+{"guest":"Stoke City","master":"Bournemouth","result":null,"league":null,"date":"2016-17","id":1970,"gguest":"2","gmaster":"2"}
+{"guest":"West Bromwich Albion","master":"Burnley","result":null,"league":null,"date":"2016-17","id":1971,"gguest":"2","gmaster":"2"}
+{"guest":"Sunderland","master":"Hull City","result":null,"league":null,"date":"2016-17","id":1972,"gguest":"2","gmaster":"0"}
+{"guest":"Watford","master":"Leicester City","result":null,"league":null,"date":"2016-17","id":1973,"gguest":"0","gmaster":"3"}
+{"guest":"Everton","master":"Swansea City","result":null,"league":null,"date":"2016-17","id":1974,"gguest":"0","gmaster":"1"}
+{"guest":"Tottenham Hotspur","master":"West Ham United","result":null,"league":null,"date":"2016-17","id":1975,"gguest":"0","gmaster":"1"}
+{"guest":"Liverpool","master":"Watford","result":null,"league":null,"date":"2016-17","id":1976,"gguest":"1","gmaster":"0"}
+{"guest":"Swansea City","master":"Manchester United","result":null,"league":null,"date":"2016-17","id":1977,"gguest":"1","gmaster":"1"}
+{"guest":"Chelsea","master":"Everton","result":null,"league":null,"date":"2016-17","id":1978,"gguest":"3","gmaster":"0"}
+{"guest":"Manchester City","master":"Middlesbrough","result":null,"league":null,"date":"2016-17","id":1979,"gguest":"2","gmaster":"2"}
+{"guest":"Arsenal","master":"Tottenham Hotspur","result":null,"league":null,"date":"2016-17","id":1980,"gguest":"0","gmaster":"2"}
+{"guest":"Hull City","master":"Southampton","result":null,"league":null,"date":"2016-17","id":1981,"gguest":"0","gmaster":"0"}
+{"guest":"West Ham United","master":"Stoke City","result":null,"league":null,"date":"2016-17","id":1982,"gguest":"0","gmaster":"0"}
+{"guest":"Bournemouth","master":"Sunderland","result":null,"league":null,"date":"2016-17","id":1983,"gguest":"1","gmaster":"0"}
+{"guest":"Leicester City","master":"West Bromwich Albion","result":null,"league":null,"date":"2016-17","id":1984,"gguest":"1","gmaster":"0"}
+{"guest":"Burnley","master":"Crystal Palace","result":null,"league":null,"date":"2016-17","id":1985,"gguest":"2","gmaster":"0"}
+{"guest":"Manchester United","master":"Manchester City","result":null,"league":null,"date":"2016-17","id":1986,"gguest":"0","gmaster":"0"}
+{"guest":"Leicester City","master":"Arsenal","result":null,"league":null,"date":"2016-17","id":1987,"gguest":"0","gmaster":"1"}
+{"guest":"Sunderland","master":"Middlesbrough","result":null,"league":null,"date":"2016-17","id":1988,"gguest":"0","gmaster":"1"}
+{"guest":"Tottenham Hotspur","master":"Crystal Palace","result":null,"league":null,"date":"2016-17","id":1989,"gguest":"1","gmaster":"0"}
+{"guest":"Southampton","master":"Chelsea","result":null,"league":null,"date":"2016-17","id":1990,"gguest":"2","gmaster":"4"}
+{"guest":"Manchester United","master":"Burnley","result":null,"league":null,"date":"2016-17","id":1991,"gguest":"2","gmaster":"0"}
+{"guest":"Crystal Palace","master":"Liverpool","result":null,"league":null,"date":"2016-17","id":1992,"gguest":"2","gmaster":"1"}
+{"guest":"Middlesbrough","master":"Bournemouth","result":null,"league":null,"date":"2016-17","id":1993,"gguest":"0","gmaster":"4"}
+{"guest":"Watford","master":"Hull City","result":null,"league":null,"date":"2016-17","id":1994,"gguest":"0","gmaster":"2"}
+{"guest":"Stoke City","master":"Swansea City","result":null,"league":null,"date":"2016-17","id":1995,"gguest":"0","gmaster":"2"}
+{"guest":"Everton","master":"West Ham United","result":null,"league":null,"date":"2016-17","id":1996,"gguest":"0","gmaster":"0"}
+{"guest":"Arsenal","master":"Middlesbrough","result":null,"league":null,"date":"2016-17","id":1997,"gguest":"2","gmaster":"1"}
+{"guest":"Liverpool","master":"West Bromwich Albion","result":null,"league":null,"date":"2016-17","id":1998,"gguest":"1","gmaster":"0"}
+{"guest":"Chelsea","master":"Manchester United","result":null,"league":null,"date":"2016-17","id":1999,"gguest":"0","gmaster":"2"}
+{"guest":"Bournemouth","master":"Tottenham Hotspur","result":null,"league":null,"date":"2016-17","id":2000,"gguest":"0","gmaster":"4"}
+{"guest":"Leicester City","master":"Crystal Palace","result":null,"league":null,"date":"2016-17","id":2001,"gguest":"2","gmaster":"2"}
+{"guest":"Burnley","master":"Everton","result":null,"league":null,"date":"2016-17","id":2002,"gguest":"1","gmaster":"3"}
+{"guest":"Hull City","master":"Stoke City","result":null,"league":null,"date":"2016-17","id":2003,"gguest":"1","gmaster":"3"}
+{"guest":"West Ham United","master":"Sunderland","result":null,"league":null,"date":"2016-17","id":2004,"gguest":"2","gmaster":"2"}
+{"guest":"Swansea City","master":"Watford","result":null,"league":null,"date":"2016-17","id":2005,"gguest":"0","gmaster":"1"}
+{"guest":"Manchester City","master":"Southampton","result":null,"league":null,"date":"2016-17","id":2006,"gguest":"3","gmaster":"0"}
+{"guest":"Arsenal","master":"Crystal Palace","result":null,"league":null,"date":"2016-17","id":2007,"gguest":"0","gmaster":"3"}
+{"guest":"Manchester United","master":"Sunderland","result":null,"league":null,"date":"2016-17","id":2008,"gguest":"3","gmaster":"0"}
+{"guest":"Leicester City","master":"Everton","result":null,"league":null,"date":"2016-17","id":2009,"gguest":"2","gmaster":"4"}
+{"guest":"Watford","master":"Tottenham Hotspur","result":null,"league":null,"date":"2016-17","id":2010,"gguest":"0","gmaster":"4"}
+{"guest":"Hull City","master":"Manchester City","result":null,"league":null,"date":"2016-17","id":2011,"gguest":"1","gmaster":"3"}
+{"guest":"Burnley","master":"Middlesbrough","result":null,"league":null,"date":"2016-17","id":2012,"gguest":"0","gmaster":"0"}
+{"guest":"Liverpool","master":"Stoke City","result":null,"league":null,"date":"2016-17","id":2013,"gguest":"2","gmaster":"1"}
+{"guest":"Southampton","master":"West Bromwich Albion","result":null,"league":null,"date":"2016-17","id":2014,"gguest":"1","gmaster":"0"}
+{"guest":"Swansea City","master":"West Ham United","result":null,"league":null,"date":"2016-17","id":2015,"gguest":"0","gmaster":"1"}
+{"guest":"Chelsea","master":"Bournemouth","result":null,"league":null,"date":"2016-17","id":2016,"gguest":"3","gmaster":"1"}
+{"guest":"West Ham United","master":"Arsenal","result":null,"league":null,"date":"2016-17","id":2017,"gguest":"0","gmaster":"3"}
+{"guest":"Middlesbrough","master":"Hull City","result":null,"league":null,"date":"2016-17","id":2018,"gguest":"2","gmaster":"4"}
+{"guest":"Crystal Palace","master":"Southampton","result":null,"league":null,"date":"2016-17","id":2019,"gguest":"1","gmaster":"3"}
+{"guest":"Tottenham Hotspur","master":"Swansea City","result":null,"league":null,"date":"2016-17","id":2020,"gguest":"3","gmaster":"1"}
+{"guest":"Manchester City","master":"Chelsea","result":null,"league":null,"date":"2016-17","id":2021,"gguest":"1","gmaster":"2"}
+{"guest":"Bournemouth","master":"Liverpool","result":null,"league":null,"date":"2016-17","id":2022,"gguest":"2","gmaster":"2"}
+{"guest":"Stoke City","master":"Burnley","result":null,"league":null,"date":"2016-17","id":2023,"gguest":"0","gmaster":"1"}
+{"guest":"Sunderland","master":"Leicester City","result":null,"league":null,"date":"2016-17","id":2024,"gguest":"0","gmaster":"2"}
+{"guest":"West Bromwich Albion","master":"Watford","result":null,"league":null,"date":"2016-17","id":2025,"gguest":"0","gmaster":"2"}
+{"guest":"Everton","master":"Manchester United","result":null,"league":null,"date":"2016-17","id":2026,"gguest":"1","gmaster":"1"}
+{"guest":"Middlesbrough","master":"Swansea City","result":null,"league":null,"date":"2016-17","id":2027,"gguest":"0","gmaster":"0"}
+{"guest":"Manchester City","master":"Arsenal","result":null,"league":null,"date":"2016-17","id":2028,"gguest":"2","gmaster":"2"}
+{"guest":"Everton","master":"Liverpool","result":null,"league":null,"date":"2016-17","id":2029,"gguest":"1","gmaster":"3"}
+{"guest":"Tottenham Hotspur","master":"Burnley","result":null,"league":null,"date":"2016-17","id":2030,"gguest":"2","gmaster":"0"}
+{"guest":"Crystal Palace","master":"Chelsea","result":null,"league":null,"date":"2016-17","id":2031,"gguest":"2","gmaster":"1"}
+{"guest":"West Ham United","master":"Hull City","result":null,"league":null,"date":"2016-17","id":2032,"gguest":"1","gmaster":"2"}
+{"guest":"Stoke City","master":"Leicester City","result":null,"league":null,"date":"2016-17","id":2033,"gguest":"0","gmaster":"2"}
+{"guest":"West Bromwich Albion","master":"Manchester United","result":null,"league":null,"date":"2016-17","id":2034,"gguest":"0","gmaster":"0"}
+{"guest":"Sunderland","master":"Watford","result":null,"league":null,"date":"2016-17","id":2035,"gguest":"0","gmaster":"1"}
+{"guest":"Bournemouth","master":"Southampton","result":null,"league":null,"date":"2016-17","id":2036,"gguest":"0","gmaster":"0"}
+{"guest":"Manchester United","master":"Middlesbrough","result":null,"league":null,"date":"2016-17","id":2037,"gguest":"3","gmaster":"1"}
+{"guest":"Southampton","master":"Tottenham Hotspur","result":null,"league":null,"date":"2016-17","id":2038,"gguest":"1","gmaster":"2"}
+{"guest":"Liverpool","master":"Manchester City","result":null,"league":null,"date":"2016-17","id":2039,"gguest":"1","gmaster":"1"}
+{"guest":"Arsenal","master":"West Bromwich Albion","result":null,"league":null,"date":"2016-17","id":2040,"gguest":"1","gmaster":"3"}
+{"guest":"Watford","master":"Crystal Palace","result":null,"league":null,"date":"2016-17","id":2041,"gguest":"0","gmaster":"1"}
+{"guest":"Hull City","master":"Everton","result":null,"league":null,"date":"2016-17","id":2042,"gguest":"0","gmaster":"4"}
+{"guest":"Chelsea","master":"Stoke City","result":null,"league":null,"date":"2016-17","id":2043,"gguest":"2","gmaster":"1"}
+{"guest":"Burnley","master":"Sunderland","result":null,"league":null,"date":"2016-17","id":2044,"gguest":"0","gmaster":"0"}
+{"guest":"Leicester City","master":"West Ham United","result":null,"league":null,"date":"2016-17","id":2045,"gguest":"3","gmaster":"2"}
+{"guest":"Swansea City","master":"Bournemouth","result":null,"league":null,"date":"2016-17","id":2046,"gguest":"0","gmaster":"2"}
+{"guest":"Burnley","master":"Liverpool","result":null,"league":null,"date":"2016-17","id":2047,"gguest":"1","gmaster":"2"}
+{"guest":"West Ham United","master":"Bournemouth","result":null,"league":null,"date":"2016-17","id":2048,"gguest":"2","gmaster":"3"}
+{"guest":"West Bromwich Albion","master":"Everton","result":null,"league":null,"date":"2016-17","id":2049,"gguest":"0","gmaster":"3"}
+{"guest":"Swansea City","master":"Hull City","result":null,"league":null,"date":"2016-17","id":2050,"gguest":"1","gmaster":"2"}
+{"guest":"Stoke City","master":"Manchester City","result":null,"league":null,"date":"2016-17","id":2051,"gguest":"0","gmaster":"0"}
+{"guest":"Chelsea","master":"West Ham United","result":null,"league":null,"date":"2016-17","id":2052,"gguest":"2","gmaster":"1"}
+{"guest":"Everton","master":"Tottenham Hotspur","result":null,"league":null,"date":"2016-17","id":2053,"gguest":"2","gmaster":"3"}
+{"guest":"Manchester City","master":"Sunderland","result":null,"league":null,"date":"2016-17","id":2054,"gguest":"2","gmaster":"0"}
+{"guest":"Bournemouth","master":"Manchester United","result":null,"league":null,"date":"2016-17","id":2055,"gguest":"1","gmaster":"1"}
+{"guest":"Hull City","master":"Leicester City","result":null,"league":null,"date":"2016-17","id":2056,"gguest":"1","gmaster":"3"}
+{"guest":"Middlesbrough","master":"Stoke City","result":null,"league":null,"date":"2016-17","id":2057,"gguest":"0","gmaster":"2"}
+{"guest":"Burnley","master":"Swansea City","result":null,"league":null,"date":"2016-17","id":2058,"gguest":"2","gmaster":"3"}
+{"guest":"Southampton","master":"Watford","result":null,"league":null,"date":"2016-17","id":2059,"gguest":"4","gmaster":"3"}
+{"guest":"Crystal Palace","master":"West Bromwich Albion","result":null,"league":null,"date":"2016-17","id":2060,"gguest":"2","gmaster":"0"}
+{"guest":"Arsenal","master":"Liverpool","result":null,"league":null,"date":"2016-17","id":2061,"gguest":"1","gmaster":"3"}
+{"guest":"Liverpool","master":"Leicester City","result":null,"league":null,"date":"2016-17","id":2062,"gguest":"1","gmaster":"3"}
+{"guest":"Stoke City","master":"Tottenham Hotspur","result":null,"league":null,"date":"2016-17","id":2063,"gguest":"0","gmaster":"4"}
+{"guest":"Swansea City","master":"Chelsea","result":null,"league":null,"date":"2016-17","id":2064,"gguest":"1","gmaster":"3"}
+{"guest":"Middlesbrough","master":"Crystal Palace","result":null,"league":null,"date":"2016-17","id":2065,"gguest":"0","gmaster":"1"}
+{"guest":"Sunderland","master":"Everton","result":null,"league":null,"date":"2016-17","id":2066,"gguest":"0","gmaster":"2"}
+{"guest":"Burnley","master":"Hull City","result":null,"league":null,"date":"2016-17","id":2067,"gguest":"1","gmaster":"1"}
+{"guest":"Bournemouth","master":"West Bromwich Albion","result":null,"league":null,"date":"2016-17","id":2068,"gguest":"1","gmaster":"2"}
+{"guest":"West Ham United","master":"Watford","result":null,"league":null,"date":"2016-17","id":2069,"gguest":"1","gmaster":"1"}
+{"guest":"Manchester City","master":"Bournemouth","result":null,"league":null,"date":"2016-17","id":2070,"gguest":"2","gmaster":"0"}
+{"guest":"Chelsea","master":"Burnley","result":null,"league":null,"date":"2016-17","id":2071,"gguest":"1","gmaster":"1"}
+{"guest":"Leicester City","master":"Swansea City","result":null,"league":null,"date":"2016-17","id":2072,"gguest":"0","gmaster":"2"}
+{"guest":"Hull City","master":"Arsenal","result":null,"league":null,"date":"2016-17","id":2073,"gguest":"0","gmaster":"2"}
+{"guest":"Watford","master":"Manchester United","result":null,"league":null,"date":"2016-17","id":2074,"gguest":"0","gmaster":"2"}
+{"guest":"Everton","master":"Middlesbrough","result":null,"league":null,"date":"2016-17","id":2075,"gguest":"0","gmaster":"0"}
+{"guest":"Crystal Palace","master":"Stoke City","result":null,"league":null,"date":"2016-17","id":2076,"gguest":"0","gmaster":"1"}
+{"guest":"Southampton","master":"Sunderland","result":null,"league":null,"date":"2016-17","id":2077,"gguest":"4","gmaster":"0"}
+{"guest":"West Bromwich Albion","master":"West Ham United","result":null,"league":null,"date":"2016-17","id":2078,"gguest":"2","gmaster":"2"}
+{"guest":"Tottenham Hotspur","master":"Liverpool","result":null,"league":null,"date":"2016-17","id":2079,"gguest":"0","gmaster":"2"}
+{"guest":"Swansea City","master":"Manchester City","result":null,"league":null,"date":"2016-17","id":2080,"gguest":"1","gmaster":"2"}
+{"guest":"Manchester United","master":"Leicester City","result":null,"league":null,"date":"2016-17","id":2081,"gguest":"3","gmaster":"0"}
+{"guest":"Arsenal","master":"Chelsea","result":null,"league":null,"date":"2016-17","id":2082,"gguest":"1","gmaster":"3"}
+{"guest":"Sunderland","master":"Crystal Palace","result":null,"league":null,"date":"2016-17","id":2083,"gguest":"4","gmaster":"0"}
+{"guest":"Bournemouth","master":"Everton","result":null,"league":null,"date":"2016-17","id":2084,"gguest":"3","gmaster":"6"}
+{"guest":"Liverpool","master":"Hull City","result":null,"league":null,"date":"2016-17","id":2085,"gguest":"0","gmaster":"2"}
+{"guest":"West Ham United","master":"Southampton","result":null,"league":null,"date":"2016-17","id":2086,"gguest":"3","gmaster":"1"}
+{"guest":"Burnley","master":"Watford","result":null,"league":null,"date":"2016-17","id":2087,"gguest":"1","gmaster":"2"}
+{"guest":"Stoke City","master":"West Bromwich Albion","result":null,"league":null,"date":"2016-17","id":2088,"gguest":"0","gmaster":"1"}
+{"guest":"Middlesbrough","master":"Tottenham Hotspur","result":null,"league":null,"date":"2016-17","id":2089,"gguest":"0","gmaster":"1"}
+{"guest":"Manchester City","master":"West Ham United","result":null,"league":null,"date":"2016-17","id":2090,"gguest":"4","gmaster":"0"}
+{"guest":"Hull City","master":"Manchester United","result":null,"league":null,"date":"2016-17","id":2091,"gguest":"0","gmaster":"0"}
+{"guest":"Everton","master":"Stoke City","result":null,"league":null,"date":"2016-17","id":2092,"gguest":"1","gmaster":"1"}
+{"guest":"Watford","master":"Arsenal","result":null,"league":null,"date":"2016-17","id":2093,"gguest":"2","gmaster":"1"}
+{"guest":"Crystal Palace","master":"Bournemouth","result":null,"league":null,"date":"2016-17","id":2094,"gguest":"2","gmaster":"0"}
+{"guest":"Leicester City","master":"Burnley","result":null,"league":null,"date":"2016-17","id":2095,"gguest":"0","gmaster":"1"}
+{"guest":"West Bromwich Albion","master":"Middlesbrough","result":null,"league":null,"date":"2016-17","id":2096,"gguest":"1","gmaster":"1"}
+{"guest":"Tottenham Hotspur","master":"Sunderland","result":null,"league":null,"date":"2016-17","id":2097,"gguest":"0","gmaster":"0"}
+{"guest":"Southampton","master":"Swansea City","result":null,"league":null,"date":"2016-17","id":2098,"gguest":"1","gmaster":"2"}
+{"guest":"Chelsea","master":"Liverpool","result":null,"league":null,"date":"2016-17","id":2099,"gguest":"1","gmaster":"1"}
+{"guest":"Leicester City","master":"Southampton","result":null,"league":null,"date":"2016-17","id":2100,"gguest":"0","gmaster":"3"}
+{"guest":"Burnley","master":"Arsenal","result":null,"league":null,"date":"2016-17","id":2101,"gguest":"1","gmaster":"2"}
+{"guest":"Hull City","master":"Chelsea","result":null,"league":null,"date":"2016-17","id":2102,"gguest":"0","gmaster":"2"}
+{"guest":"Swansea City","master":"Liverpool","result":null,"league":null,"date":"2016-17","id":2103,"gguest":"3","gmaster":"2"}
+{"guest":"Watford","master":"Bournemouth","result":null,"league":null,"date":"2016-17","id":2104,"gguest":"2","gmaster":"2"}
+{"guest":"Everton","master":"Crystal Palace","result":null,"league":null,"date":"2016-17","id":2105,"gguest":"1","gmaster":"0"}
+{"guest":"West Ham United","master":"Middlesbrough","result":null,"league":null,"date":"2016-17","id":2106,"gguest":"3","gmaster":"1"}
+{"guest":"Manchester United","master":"Stoke City","result":null,"league":null,"date":"2016-17","id":2107,"gguest":"1","gmaster":"1"}
+{"guest":"Sunderland","master":"West Bromwich Albion","result":null,"league":null,"date":"2016-17","id":2108,"gguest":"0","gmaster":"2"}
+{"guest":"Tottenham Hotspur","master":"Manchester City","result":null,"league":null,"date":"2016-17","id":2109,"gguest":"2","gmaster":"2"}
+{"guest":"Manchester City","master":"Everton","result":null,"league":null,"date":"2016-17","id":2110,"gguest":"0","gmaster":"4"}
+{"guest":"Liverpool","master":"Manchester United","result":null,"league":null,"date":"2016-17","id":2111,"gguest":"1","gmaster":"1"}
+{"guest":"West Bromwich Albion","master":"Tottenham Hotspur","result":null,"league":null,"date":"2016-17","id":2112,"gguest":"0","gmaster":"4"}
+{"guest":"Southampton","master":"Burnley","result":null,"league":null,"date":"2016-17","id":2113,"gguest":"0","gmaster":"1"}
+{"guest":"Bournemouth","master":"Hull City","result":null,"league":null,"date":"2016-17","id":2114,"gguest":"1","gmaster":"3"}
+{"guest":"Stoke City","master":"Sunderland","result":null,"league":null,"date":"2016-17","id":2115,"gguest":"3","gmaster":"1"}
+{"guest":"Arsenal","master":"Swansea City","result":null,"league":null,"date":"2016-17","id":2116,"gguest":"4","gmaster":"0"}
+{"guest":"Middlesbrough","master":"Watford","result":null,"league":null,"date":"2016-17","id":2117,"gguest":"0","gmaster":"0"}
+{"guest":"Crystal Palace","master":"West Ham United","result":null,"league":null,"date":"2016-17","id":2118,"gguest":"0","gmaster":"3"}
+{"guest":"Chelsea","master":"Leicester City","result":null,"league":null,"date":"2016-17","id":2119,"gguest":"3","gmaster":"0"}
+{"guest":"Chelsea","master":"Tottenham Hotspur","result":null,"league":null,"date":"2016-17","id":2120,"gguest":"0","gmaster":"2"}
+{"guest":"Arsenal","master":"Bournemouth","result":null,"league":null,"date":"2016-17","id":2121,"gguest":"3","gmaster":"3"}
+{"guest":"Swansea City","master":"Crystal Palace","result":null,"league":null,"date":"2016-17","id":2122,"gguest":"2","gmaster":"1"}
+{"guest":"Watford","master":"Stoke City","result":null,"league":null,"date":"2016-17","id":2123,"gguest":"0","gmaster":"2"}
+{"guest":"Leicester City","master":"Middlesbrough","result":null,"league":null,"date":"2016-17","id":2124,"gguest":"0","gmaster":"0"}
+{"guest":"Southampton","master":"Everton","result":null,"league":null,"date":"2016-17","id":2125,"gguest":"0","gmaster":"3"}
+{"guest":"Burnley","master":"Manchester City","result":null,"league":null,"date":"2016-17","id":2126,"gguest":"1","gmaster":"2"}
+{"guest":"Liverpool","master":"Sunderland","result":null,"league":null,"date":"2016-17","id":2127,"gguest":"2","gmaster":"2"}
+{"guest":"Hull City","master":"West Bromwich Albion","result":null,"league":null,"date":"2016-17","id":2128,"gguest":"1","gmaster":"3"}
+{"guest":"Manchester United","master":"West Ham United","result":null,"league":null,"date":"2016-17","id":2129,"gguest":"2","gmaster":"0"}
+{"guest":"Tottenham Hotspur","master":"Watford","result":null,"league":null,"date":"2016-17","id":2130,"gguest":"4","gmaster":"1"}
+{"guest":"Crystal Palace","master":"Arsenal","result":null,"league":null,"date":"2016-17","id":2131,"gguest":"0","gmaster":"2"}
+{"guest":"Sunderland","master":"Burnley","result":null,"league":null,"date":"2016-17","id":2132,"gguest":"1","gmaster":"4"}
+{"guest":"Stoke City","master":"Chelsea","result":null,"league":null,"date":"2016-17","id":2133,"gguest":"2","gmaster":"4"}
+{"guest":"West Ham United","master":"Leicester City","result":null,"league":null,"date":"2016-17","id":2134,"gguest":"0","gmaster":"1"}
+{"guest":"Middlesbrough","master":"Manchester United","result":null,"league":null,"date":"2016-17","id":2135,"gguest":"1","gmaster":"2"}
+{"guest":"West Bromwich Albion","master":"Southampton","result":null,"league":null,"date":"2016-17","id":2136,"gguest":"2","gmaster":"1"}
+{"guest":"Bournemouth","master":"Swansea City","result":null,"league":null,"date":"2016-17","id":2137,"gguest":"3","gmaster":"0"}
+{"guest":"Manchester City","master":"Liverpool","result":null,"league":null,"date":"2016-17","id":2138,"gguest":"0","gmaster":"1"}
+{"guest":"Everton","master":"Hull City","result":null,"league":null,"date":"2016-17","id":2139,"gguest":"2","gmaster":"2"}
+{"guest":"Newcastle United","master":"Chelsea","result":null,"league":null,"date":"2017-18","id":2140,"gguest":"1","gmaster":"3"}
+{"guest":"Liverpool","master":"Brighton and Hove Albion","result":null,"league":null,"date":"2017-18","id":2141,"gguest":"5","gmaster":"1"}
+{"guest":"Huddersfield Town","master":"Everton","result":null,"league":null,"date":"2017-18","id":2142,"gguest":"0","gmaster":"2"}
+{"guest":"Burnley","master":"Leicester City","result":null,"league":null,"date":"2017-18","id":2143,"gguest":"0","gmaster":"1"}
+{"guest":"Swansea City","master":"Stoke City","result":null,"league":null,"date":"2017-18","id":2144,"gguest":"1","gmaster":"2"}
+{"guest":"Tottenham Hotspur","master":"Watford","result":null,"league":null,"date":"2017-18","id":2145,"gguest":"1","gmaster":"1"}
+{"guest":"Crystal Palace","master":"West Bromwich Albion","result":null,"league":null,"date":"2017-18","id":2146,"gguest":"0","gmaster":"0"}
+{"guest":"Manchester United","master":"Arsenal","result":null,"league":null,"date":"2017-18","id":2147,"gguest":"3","gmaster":"1"}
+{"guest":"Huddersfield Town","master":"Arsenal","result":null,"league":null,"date":"2017-18","id":2148,"gguest":"0","gmaster":"5"}
+{"guest":"Burnley","master":"Bournemouth","result":null,"league":null,"date":"2017-18","id":2149,"gguest":"2","gmaster":"1"}
+{"guest":"Swansea City","master":"Chelsea","result":null,"league":null,"date":"2017-18","id":2150,"gguest":"0","gmaster":"1"}
+{"guest":"West Ham United","master":"Everton","result":null,"league":null,"date":"2017-18","id":2151,"gguest":"0","gmaster":"4"}
+{"guest":"Southampton","master":"Manchester City","result":null,"league":null,"date":"2017-18","id":2152,"gguest":"1","gmaster":"2"}
+{"guest":"Liverpool","master":"Stoke City","result":null,"league":null,"date":"2017-18","id":2153,"gguest":"3","gmaster":"0"}
+{"guest":"Crystal Palace","master":"Brighton and Hove Albion","result":null,"league":null,"date":"2017-18","id":2154,"gguest":"0","gmaster":"0"}
+{"guest":"Tottenham Hotspur","master":"Leicester City","result":null,"league":null,"date":"2017-18","id":2155,"gguest":"1","gmaster":"2"}
+{"guest":"Manchester United","master":"Watford","result":null,"league":null,"date":"2017-18","id":2156,"gguest":"4","gmaster":"2"}
+{"guest":"Newcastle United","master":"West Bromwich Albion","result":null,"league":null,"date":"2017-18","id":2157,"gguest":"2","gmaster":"2"}
+{"guest":"Everton","master":"Southampton","result":null,"league":null,"date":"2017-18","id":2158,"gguest":"1","gmaster":"4"}
+{"guest":"Arsenal","master":"Burnley","result":null,"league":null,"date":"2017-18","id":2159,"gguest":"1","gmaster":"0"}
+{"guest":"Manchester City","master":"Huddersfield Town","result":null,"league":null,"date":"2017-18","id":2160,"gguest":"2","gmaster":"1"}
+{"guest":"Stoke City","master":"Crystal Palace","result":null,"league":null,"date":"2017-18","id":2161,"gguest":"1","gmaster":"2"}
+{"guest":"Brighton and Hove Albion","master":"Manchester United","result":null,"league":null,"date":"2017-18","id":2162,"gguest":"0","gmaster":"1"}
+{"guest":"Watford","master":"Newcastle United","result":null,"league":null,"date":"2017-18","id":2163,"gguest":"3","gmaster":"0"}
+{"guest":"Bournemouth","master":"Swansea City","result":null,"league":null,"date":"2017-18","id":2164,"gguest":"0","gmaster":"0"}
+{"guest":"West Bromwich Albion","master":"Tottenham Hotspur","result":null,"league":null,"date":"2017-18","id":2165,"gguest":"1","gmaster":"1"}
+{"guest":"Chelsea","master":"Liverpool","result":null,"league":null,"date":"2017-18","id":2166,"gguest":"1","gmaster":"1"}
+{"guest":"Leicester City","master":"West Ham United","result":null,"league":null,"date":"2017-18","id":2167,"gguest":"1","gmaster":"1"}
+{"guest":"Stoke City","master":"Brighton and Hove Albion","result":null,"league":null,"date":"2017-18","id":2168,"gguest":"2","gmaster":"2"}
+{"guest":"West Ham United","master":"Watford","result":null,"league":null,"date":"2017-18","id":2169,"gguest":"0","gmaster":"2"}
+{"guest":"Tottenham Hotspur","master":"Arsenal","result":null,"league":null,"date":"2017-18","id":2170,"gguest":"0","gmaster":"2"}
+{"guest":"Huddersfield Town","master":"Bournemouth","result":null,"league":null,"date":"2017-18","id":2171,"gguest":"0","gmaster":"4"}
+{"guest":"Swansea City","master":"Burnley","result":null,"league":null,"date":"2017-18","id":2172,"gguest":"0","gmaster":"2"}
+{"guest":"Everton","master":"Crystal Palace","result":null,"league":null,"date":"2017-18","id":2173,"gguest":"2","gmaster":"2"}
+{"guest":"Manchester City","master":"Leicester City","result":null,"league":null,"date":"2017-18","id":2174,"gguest":"2","gmaster":"0"}
+{"guest":"Southampton","master":"Liverpool","result":null,"league":null,"date":"2017-18","id":2175,"gguest":"0","gmaster":"3"}
+{"guest":"Chelsea","master":"West Bromwich Albion","result":null,"league":null,"date":"2017-18","id":2176,"gguest":"4","gmaster":"0"}
+{"guest":"Newcastle United","master":"Manchester United","result":null,"league":null,"date":"2017-18","id":2177,"gguest":"1","gmaster":"4"}
+{"guest":"Crystal Palace","master":"Tottenham Hotspur","result":null,"league":null,"date":"2017-18","id":2178,"gguest":"0","gmaster":"1"}
+{"guest":"Arsenal","master":"Manchester City","result":null,"league":null,"date":"2017-18","id":2179,"gguest":"1","gmaster":"3"}
+{"guest":"Manchester United","master":"Chelsea","result":null,"league":null,"date":"2017-18","id":2180,"gguest":"0","gmaster":"1"}
+{"guest":"Watford","master":"Everton","result":null,"league":null,"date":"2017-18","id":2181,"gguest":"2","gmaster":"3"}
+{"guest":"Leicester City","master":"Stoke City","result":null,"league":null,"date":"2017-18","id":2182,"gguest":"2","gmaster":"2"}
+{"guest":"West Bromwich Albion","master":"Huddersfield Town","result":null,"league":null,"date":"2017-18","id":2183,"gguest":"0","gmaster":"1"}
+{"guest":"Bournemouth","master":"Newcastle United","result":null,"league":null,"date":"2017-18","id":2184,"gguest":"1","gmaster":"0"}
+{"guest":"Burnley","master":"Southampton","result":null,"league":null,"date":"2017-18","id":2185,"gguest":"1","gmaster":"0"}
+{"guest":"Brighton and Hove Albion","master":"Swansea City","result":null,"league":null,"date":"2017-18","id":2186,"gguest":"1","gmaster":"0"}
+{"guest":"Liverpool","master":"West Ham United","result":null,"league":null,"date":"2017-18","id":2187,"gguest":"4","gmaster":"1"}
+{"guest":"Newcastle United","master":"Burnley","result":null,"league":null,"date":"2017-18","id":2188,"gguest":"0","gmaster":"1"}
+{"guest":"Southampton","master":"Brighton and Hove Albion","result":null,"league":null,"date":"2017-18","id":2189,"gguest":"1","gmaster":"1"}
+{"guest":"Everton","master":"Leicester City","result":null,"league":null,"date":"2017-18","id":2190,"gguest":"0","gmaster":"2"}
+{"guest":"Tottenham Hotspur","master":"Manchester United","result":null,"league":null,"date":"2017-18","id":2191,"gguest":"0","gmaster":"1"}
+{"guest":"Swansea City","master":"Arsenal","result":null,"league":null,"date":"2017-18","id":2192,"gguest":"1","gmaster":"2"}
+{"guest":"West Ham United","master":"Crystal Palace","result":null,"league":null,"date":"2017-18","id":2193,"gguest":"2","gmaster":"2"}
+{"guest":"Huddersfield Town","master":"Liverpool","result":null,"league":null,"date":"2017-18","id":2194,"gguest":"0","gmaster":"3"}
+{"guest":"Stoke City","master":"Watford","result":null,"league":null,"date":"2017-18","id":2195,"gguest":"1","gmaster":"0"}
+{"guest":"Manchester City","master":"West Bromwich Albion","result":null,"league":null,"date":"2017-18","id":2196,"gguest":"3","gmaster":"2"}
+{"guest":"Chelsea","master":"Bournemouth","result":null,"league":null,"date":"2017-18","id":2197,"gguest":"1","gmaster":"0"}
+{"guest":"Arsenal","master":"Everton","result":null,"league":null,"date":"2017-18","id":2198,"gguest":"5","gmaster":"2"}
+{"guest":"Liverpool","master":"Tottenham Hotspur","result":null,"league":null,"date":"2017-18","id":2199,"gguest":"1","gmaster":"4"}
+{"guest":"Watford","master":"Chelsea","result":null,"league":null,"date":"2017-18","id":2200,"gguest":"2","gmaster":"4"}
+{"guest":"Manchester United","master":"Huddersfield Town","result":null,"league":null,"date":"2017-18","id":2201,"gguest":"1","gmaster":"2"}
+{"guest":"Burnley","master":"Manchester City","result":null,"league":null,"date":"2017-18","id":2202,"gguest":"0","gmaster":"3"}
+{"guest":"Crystal Palace","master":"Newcastle United","result":null,"league":null,"date":"2017-18","id":2203,"gguest":"0","gmaster":"1"}
+{"guest":"Bournemouth","master":"Stoke City","result":null,"league":null,"date":"2017-18","id":2204,"gguest":"2","gmaster":"1"}
+{"guest":"Leicester City","master":"Swansea City","result":null,"league":null,"date":"2017-18","id":2205,"gguest":"2","gmaster":"1"}
+{"guest":"West Bromwich Albion","master":"Southampton","result":null,"league":null,"date":"2017-18","id":2206,"gguest":"0","gmaster":"1"}
+{"guest":"Brighton and Hove Albion","master":"West Ham United","result":null,"league":null,"date":"2017-18","id":2207,"gguest":"3","gmaster":"0"}
+{"guest":"West Bromwich Albion","master":"Leicester City","result":null,"league":null,"date":"2017-18","id":2208,"gguest":"1","gmaster":"1"}
+{"guest":"Everton","master":"Brighton and Hove Albion","result":null,"league":null,"date":"2017-18","id":2209,"gguest":"1","gmaster":"1"}
+{"guest":"Newcastle United","master":"Southampton","result":null,"league":null,"date":"2017-18","id":2210,"gguest":"2","gmaster":"2"}
+{"guest":"Manchester United","master":"Liverpool","result":null,"league":null,"date":"2017-18","id":2211,"gguest":"0","gmaster":"0"}
+{"guest":"West Ham United","master":"Burnley","result":null,"league":null,"date":"2017-18","id":2212,"gguest":"1","gmaster":"1"}
+{"guest":"Chelsea","master":"Crystal Palace","result":null,"league":null,"date":"2017-18","id":2213,"gguest":"1","gmaster":"2"}
+{"guest":"Stoke City","master":"Manchester City","result":null,"league":null,"date":"2017-18","id":2214,"gguest":"2","gmaster":"7"}
+{"guest":"Huddersfield Town","master":"Swansea City","result":null,"league":null,"date":"2017-18","id":2215,"gguest":"0","gmaster":"2"}
+{"guest":"Bournemouth","master":"Tottenham Hotspur","result":null,"league":null,"date":"2017-18","id":2216,"gguest":"0","gmaster":"1"}
+{"guest":"Arsenal","master":"Watford","result":null,"league":null,"date":"2017-18","id":2217,"gguest":"1","gmaster":"2"}
+{"guest":"Brighton and Hove Albion","master":"Arsenal","result":null,"league":null,"date":"2017-18","id":2218,"gguest":"0","gmaster":"2"}
+{"guest":"Burnley","master":"Everton","result":null,"league":null,"date":"2017-18","id":2219,"gguest":"1","gmaster":"0"}
+{"guest":"Liverpool","master":"Newcastle United","result":null,"league":null,"date":"2017-18","id":2220,"gguest":"1","gmaster":"1"}
+{"guest":"Tottenham Hotspur","master":"Huddersfield Town","result":null,"league":null,"date":"2017-18","id":2221,"gguest":"4","gmaster":"0"}
+{"guest":"Leicester City","master":"Bournemouth","result":null,"league":null,"date":"2017-18","id":2222,"gguest":"0","gmaster":"0"}
+{"guest":"Crystal Palace","master":"Manchester United","result":null,"league":null,"date":"2017-18","id":2223,"gguest":"0","gmaster":"4"}
+{"guest":"Southampton","master":"Stoke City","result":null,"league":null,"date":"2017-18","id":2224,"gguest":"1","gmaster":"2"}
+{"guest":"Watford","master":"West Bromwich Albion","result":null,"league":null,"date":"2017-18","id":2225,"gguest":"2","gmaster":"2"}
+{"guest":"Swansea City","master":"West Ham United","result":null,"league":null,"date":"2017-18","id":2226,"gguest":"0","gmaster":"1"}
+{"guest":"Manchester City","master":"Chelsea","result":null,"league":null,"date":"2017-18","id":2227,"gguest":"1","gmaster":"0"}
+{"guest":"West Bromwich Albion","master":"Arsenal","result":null,"league":null,"date":"2017-18","id":2228,"gguest":"0","gmaster":"2"}
+{"guest":"Newcastle United","master":"Brighton and Hove Albion","result":null,"league":null,"date":"2017-18","id":2229,"gguest":"0","gmaster":"1"}
+{"guest":"Tottenham Hotspur","master":"West Ham United","result":null,"league":null,"date":"2017-18","id":2230,"gguest":"3","gmaster":"2"}
+{"guest":"Huddersfield Town","master":"Burnley","result":null,"league":null,"date":"2017-18","id":2231,"gguest":"0","gmaster":"0"}
+{"guest":"Bournemouth","master":"Everton","result":null,"league":null,"date":"2017-18","id":2232,"gguest":"1","gmaster":"2"}
+{"guest":"Crystal Palace","master":"Manchester City","result":null,"league":null,"date":"2017-18","id":2233,"gguest":"0","gmaster":"5"}
+{"guest":"Manchester United","master":"Southampton","result":null,"league":null,"date":"2017-18","id":2234,"gguest":"1","gmaster":"0"}
+{"guest":"Chelsea","master":"Stoke City","result":null,"league":null,"date":"2017-18","id":2235,"gguest":"4","gmaster":"0"}
+{"guest":"Watford","master":"Swansea City","result":null,"league":null,"date":"2017-18","id":2236,"gguest":"2","gmaster":"1"}
+{"guest":"Liverpool","master":"Leicester City","result":null,"league":null,"date":"2017-18","id":2237,"gguest":"3","gmaster":"2"}
+{"guest":"Arsenal","master":"Chelsea","result":null,"league":null,"date":"2017-18","id":2238,"gguest":"0","gmaster":"0"}
+{"guest":"Everton","master":"Manchester United","result":null,"league":null,"date":"2017-18","id":2239,"gguest":"0","gmaster":"4"}
+{"guest":"Southampton","master":"Crystal Palace","result":null,"league":null,"date":"2017-18","id":2240,"gguest":"1","gmaster":"0"}
+{"guest":"Leicester City","master":"Huddersfield Town","result":null,"league":null,"date":"2017-18","id":2241,"gguest":"1","gmaster":"1"}
+{"guest":"Burnley","master":"Liverpool","result":null,"league":null,"date":"2017-18","id":2242,"gguest":"1","gmaster":"1"}
+{"guest":"Stoke City","master":"Newcastle United","result":null,"league":null,"date":"2017-18","id":2243,"gguest":"1","gmaster":"2"}
+{"guest":"Manchester City","master":"Watford","result":null,"league":null,"date":"2017-18","id":2244,"gguest":"6","gmaster":"0"}
+{"guest":"West Ham United","master":"West Bromwich Albion","result":null,"league":null,"date":"2017-18","id":2245,"gguest":"0","gmaster":"0"}
+{"guest":"Swansea City","master":"Tottenham Hotspur","result":null,"league":null,"date":"2017-18","id":2246,"gguest":"0","gmaster":"0"}
+{"guest":"Brighton and Hove Albion","master":"Bournemouth","result":null,"league":null,"date":"2017-18","id":2247,"gguest":"1","gmaster":"2"}
+{"guest":"Huddersfield Town","master":"West Ham United","result":null,"league":null,"date":"2017-18","id":2248,"gguest":"0","gmaster":"2"}
+{"guest":"Crystal Palace","master":"Burnley","result":null,"league":null,"date":"2017-18","id":2249,"gguest":"0","gmaster":"1"}
+{"guest":"Newcastle United","master":"Swansea City","result":null,"league":null,"date":"2017-18","id":2250,"gguest":"1","gmaster":"0"}
+{"guest":"Liverpool","master":"Manchester City","result":null,"league":null,"date":"2017-18","id":2251,"gguest":"0","gmaster":"5"}
+{"guest":"Bournemouth","master":"Arsenal","result":null,"league":null,"date":"2017-18","id":2252,"gguest":"0","gmaster":"3"}
+{"guest":"West Bromwich Albion","master":"Brighton and Hove Albion","result":null,"league":null,"date":"2017-18","id":2253,"gguest":"1","gmaster":"3"}
+{"guest":"Tottenham Hotspur","master":"Everton","result":null,"league":null,"date":"2017-18","id":2254,"gguest":"3","gmaster":"0"}
+{"guest":"Chelsea","master":"Leicester City","result":null,"league":null,"date":"2017-18","id":2255,"gguest":"2","gmaster":"1"}
+{"guest":"Watford","master":"Southampton","result":null,"league":null,"date":"2017-18","id":2256,"gguest":"2","gmaster":"0"}
+{"guest":"Manchester United","master":"Stoke City","result":null,"league":null,"date":"2017-18","id":2257,"gguest":"2","gmaster":"2"}
+{"guest":"Everton","master":"Chelsea","result":null,"league":null,"date":"2017-18","id":2258,"gguest":"0","gmaster":"2"}
+{"guest":"Stoke City","master":"West Bromwich Albion","result":null,"league":null,"date":"2017-18","id":2259,"gguest":"1","gmaster":"1"}
+{"guest":"Arsenal","master":"Liverpool","result":null,"league":null,"date":"2017-18","id":2260,"gguest":"0","gmaster":"4"}
+{"guest":"Burnley","master":"Tottenham Hotspur","result":null,"league":null,"date":"2017-18","id":2261,"gguest":"1","gmaster":"1"}
+{"guest":"Manchester City","master":"Bournemouth","result":null,"league":null,"date":"2017-18","id":2262,"gguest":"2","gmaster":"1"}
+{"guest":"Swansea City","master":"Crystal Palace","result":null,"league":null,"date":"2017-18","id":2263,"gguest":"2","gmaster":"0"}
+{"guest":"Southampton","master":"Huddersfield Town","result":null,"league":null,"date":"2017-18","id":2264,"gguest":"0","gmaster":"0"}
+{"guest":"West Ham United","master":"Newcastle United","result":null,"league":null,"date":"2017-18","id":2265,"gguest":"0","gmaster":"3"}
+{"guest":"Brighton and Hove Albion","master":"Watford","result":null,"league":null,"date":"2017-18","id":2266,"gguest":"0","gmaster":"0"}
+{"guest":"Leicester City","master":"Manchester United","result":null,"league":null,"date":"2017-18","id":2267,"gguest":"0","gmaster":"2"}
+{"guest":"Everton","master":"Manchester City","result":null,"league":null,"date":"2017-18","id":2268,"gguest":"1","gmaster":"1"}
+{"guest":"Newcastle United","master":"Huddersfield Town","result":null,"league":null,"date":"2017-18","id":2269,"gguest":"0","gmaster":"1"}
+{"guest":"Chelsea","master":"Tottenham Hotspur","result":null,"league":null,"date":"2017-18","id":2270,"gguest":"2","gmaster":"1"}
+{"guest":"Manchester United","master":"Swansea City","result":null,"league":null,"date":"2017-18","id":2271,"gguest":"4","gmaster":"0"}
+{"guest":"Watford","master":"Bournemouth","result":null,"league":null,"date":"2017-18","id":2272,"gguest":"2","gmaster":"0"}
+{"guest":"West Bromwich Albion","master":"Burnley","result":null,"league":null,"date":"2017-18","id":2273,"gguest":"1","gmaster":"0"}
+{"guest":"Brighton and Hove Albion","master":"Leicester City","result":null,"league":null,"date":"2017-18","id":2274,"gguest":"0","gmaster":"2"}
+{"guest":"Crystal Palace","master":"Liverpool","result":null,"league":null,"date":"2017-18","id":2275,"gguest":"0","gmaster":"1"}
+{"guest":"West Ham United","master":"Southampton","result":null,"league":null,"date":"2017-18","id":2276,"gguest":"2","gmaster":"3"}
+{"guest":"Arsenal","master":"Stoke City","result":null,"league":null,"date":"2017-18","id":2277,"gguest":"0","gmaster":"1"}
+{"guest":"Tottenham Hotspur","master":"Newcastle United","result":null,"league":null,"date":"2017-18","id":2278,"gguest":"2","gmaster":"0"}
+{"guest":"West Ham United","master":"Manchester United","result":null,"league":null,"date":"2017-18","id":2279,"gguest":"0","gmaster":"4"}
+{"guest":"Liverpool","master":"Watford","result":null,"league":null,"date":"2017-18","id":2280,"gguest":"3","gmaster":"3"}
+{"guest":"Burnley","master":"Chelsea","result":null,"league":null,"date":"2017-18","id":2281,"gguest":"3","gmaster":"2"}
+{"guest":"Huddersfield Town","master":"Crystal Palace","result":null,"league":null,"date":"2017-18","id":2282,"gguest":"3","gmaster":"0"}
+{"guest":"Stoke City","master":"Everton","result":null,"league":null,"date":"2017-18","id":2283,"gguest":"0","gmaster":"1"}
+{"guest":"Swansea City","master":"Southampton","result":null,"league":null,"date":"2017-18","id":2284,"gguest":"0","gmaster":"0"}
+{"guest":"Bournemouth","master":"West Bromwich Albion","result":null,"league":null,"date":"2017-18","id":2285,"gguest":"0","gmaster":"1"}
+{"guest":"Manchester City","master":"Brighton and Hove Albion","result":null,"league":null,"date":"2017-18","id":2286,"gguest":"2","gmaster":"0"}
+{"guest":"Leicester City","master":"Arsenal","result":null,"league":null,"date":"2017-18","id":2287,"gguest":"3","gmaster":"4"}
