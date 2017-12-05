@@ -31,9 +31,10 @@ public class JDBCenter {
 		return (ArrayList<League>) jsonDBTemplate.find(jxQuery, league.getClass());
 	}
 
-	public ArrayList<League> findAllMatchByLeague(League league) {
+	public ArrayList<League> findAllMatchByLeague(League league ,String date) {
+		String jxQuery = String.format("/.[date = '%s']",date);
+		return (ArrayList<League>) jsonDBTemplate.find(jxQuery, league.getClass());
 
-		return (ArrayList<League>) jsonDBTemplate.findAll(league.getClass());
 	}
 
 }

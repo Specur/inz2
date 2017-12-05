@@ -138,10 +138,15 @@ public class InitialValue {
 
 	public static void main(String[] args) {
 
-		fetchSerieA();
-		fetchPremierLeague();
-		fetchChampionsLeague();
+//		fetchSerieA();
+//		fetchPremierLeague();
+//		fetchChampionsLeague();
 		fetchBundesliga();
+//		SerieADTO sa = new SerieADTO();
+//		sa.setMaster("Lazio");
+//		JDBCenter js = new JDBCenter();
+//		System.out.println(js.findAllMatchByLeague(sa).size());
+		
 
 	}
 

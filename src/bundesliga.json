@@ -1,1 +1,1127 @@
 {"schemaVersion":"1.0"}
+{"guest":"Hoffenheim","master":"Kaiserslautern","result":null,"league":null,"date":"2012-13","id":0,"gguest":"2","gmaster":"1"}
+{"guest":"Kaiserslautern","master":"Hoffenheim","result":null,"league":null,"date":"2012-13","id":1,"gguest":"1","gmaster":"3"}
+{"guest":"Hoffenheim","master":"Borussia Dortmund","result":null,"league":null,"date":"2012-13","id":2,"gguest":"2","gmaster":"1"}
+{"guest":"Wolfsburg","master":"Eintracht Frankfurt","result":null,"league":null,"date":"2012-13","id":3,"gguest":"2","gmaster":"2"}
+{"guest":"Greuther Furth","master":"FC Augsburg","result":null,"league":null,"date":"2012-13","id":4,"gguest":"1","gmaster":"3"}
+{"guest":"Werder Bremen","master":"FC Nurnberg","result":null,"league":null,"date":"2012-13","id":5,"gguest":"2","gmaster":"3"}
+{"guest":"Bayer Leverkusen","master":"Hamburg","result":null,"league":null,"date":"2012-13","id":6,"gguest":"1","gmaster":"0"}
+{"guest":"Fortuna Düsseldorf","master":"Hannover 96","result":null,"league":null,"date":"2012-13","id":7,"gguest":"0","gmaster":"3"}
+{"guest":"Bayern Munich","master":"M'gladbach","result":null,"league":null,"date":"2012-13","id":8,"gguest":"4","gmaster":"3"}
+{"guest":"Schalke","master":"SC Freiburg","result":null,"league":null,"date":"2012-13","id":9,"gguest":"2","gmaster":"1"}
+{"guest":"Mainz","master":"Stuttgart","result":null,"league":null,"date":"2012-13","id":10,"gguest":"2","gmaster":"2"}
+{"guest":"Hannover 96","master":"Bayer Leverkusen","result":null,"league":null,"date":"2012-13","id":11,"gguest":"1","gmaster":"3"}
+{"guest":"FC Augsburg","master":"Bayern Munich","result":null,"league":null,"date":"2012-13","id":12,"gguest":"0","gmaster":"3"}
+{"guest":"FC Nurnberg","master":"Fortuna Düsseldorf","result":null,"league":null,"date":"2012-13","id":13,"gguest":"2","gmaster":"1"}
+{"guest":"SC Freiburg","master":"Greuther Furth","result":null,"league":null,"date":"2012-13","id":14,"gguest":"2","gmaster":"1"}
+{"guest":"Hamburg","master":"Hoffenheim","result":null,"league":null,"date":"2012-13","id":15,"gguest":"4","gmaster":"1"}
+{"guest":"M'gladbach","master":"Mainz","result":null,"league":null,"date":"2012-13","id":16,"gguest":"4","gmaster":"2"}
+{"guest":"Stuttgart","master":"Schalke","result":null,"league":null,"date":"2012-13","id":17,"gguest":"2","gmaster":"1"}
+{"guest":"Eintracht Frankfurt","master":"Werder Bremen","result":null,"league":null,"date":"2012-13","id":18,"gguest":"1","gmaster":"1"}
+{"guest":"Borussia Dortmund","master":"Wolfsburg","result":null,"league":null,"date":"2012-13","id":19,"gguest":"3","gmaster":"3"}
+{"guest":"FC Augsburg","master":"SC Freiburg","result":null,"league":null,"date":"2012-13","id":20,"gguest":"0","gmaster":"2"}
+{"guest":"Wolfsburg","master":"Hamburg","result":null,"league":null,"date":"2012-13","id":21,"gguest":"1","gmaster":"1"}
+{"guest":"Fortuna Düsseldorf","master":"Eintracht Frankfurt","result":null,"league":null,"date":"2012-13","id":22,"gguest":"1","gmaster":"3"}
+{"guest":"Bayer Leverkusen","master":"FC Nurnberg","result":null,"league":null,"date":"2012-13","id":23,"gguest":"2","gmaster":"0"}
+{"guest":"Mainz","master":"Hannover 96","result":null,"league":null,"date":"2012-13","id":24,"gguest":"2","gmaster":"2"}
+{"guest":"Greuther Furth","master":"Stuttgart","result":null,"league":null,"date":"2012-13","id":25,"gguest":"2","gmaster":"0"}
+{"guest":"Hoffenheim","master":"Werder Bremen","result":null,"league":null,"date":"2012-13","id":26,"gguest":"2","gmaster":"2"}
+{"guest":"Bayern Munich","master":"Borussia Dortmund","result":null,"league":null,"date":"2012-13","id":27,"gguest":"1","gmaster":"1"}
+{"guest":"Schalke","master":"M'gladbach","result":null,"league":null,"date":"2012-13","id":28,"gguest":"1","gmaster":"0"}
+{"guest":"Eintracht Frankfurt","master":"Mainz","result":null,"league":null,"date":"2012-13","id":29,"gguest":"0","gmaster":"0"}
+{"guest":"Hamburg","master":"Schalke","result":null,"league":null,"date":"2012-13","id":30,"gguest":"1","gmaster":"4"}
+{"guest":"Werder Bremen","master":"Bayer Leverkusen","result":null,"league":null,"date":"2012-13","id":31,"gguest":"0","gmaster":"1"}
+{"guest":"SC Freiburg","master":"Bayern Munich","result":null,"league":null,"date":"2012-13","id":32,"gguest":"0","gmaster":"1"}
+{"guest":"Stuttgart","master":"FC Augsburg","result":null,"league":null,"date":"2012-13","id":33,"gguest":"0","gmaster":"3"}
+{"guest":"FC Nurnberg","master":"Hoffenheim","result":null,"league":null,"date":"2012-13","id":34,"gguest":"1","gmaster":"2"}
+{"guest":"M'gladbach","master":"Wolfsburg","result":null,"league":null,"date":"2012-13","id":35,"gguest":"1","gmaster":"3"}
+{"guest":"Borussia Dortmund","master":"Fortuna Düsseldorf","result":null,"league":null,"date":"2012-13","id":36,"gguest":"2","gmaster":"1"}
+{"guest":"Hannover 96","master":"Greuther Furth","result":null,"league":null,"date":"2012-13","id":37,"gguest":"3","gmaster":"2"}
+{"guest":"SC Freiburg","master":"Stuttgart","result":null,"league":null,"date":"2012-13","id":38,"gguest":"1","gmaster":"2"}
+{"guest":"Greuther Furth","master":"FC Nurnberg","result":null,"league":null,"date":"2012-13","id":39,"gguest":"1","gmaster":"0"}
+{"guest":"Hoffenheim","master":"Bayer Leverkusen","result":null,"league":null,"date":"2012-13","id":40,"gguest":"0","gmaster":"5"}
+{"guest":"Mainz","master":"Borussia Dortmund","result":null,"league":null,"date":"2012-13","id":41,"gguest":"0","gmaster":"2"}
+{"guest":"Schalke","master":"Eintracht Frankfurt","result":null,"league":null,"date":"2012-13","id":42,"gguest":"0","gmaster":"1"}
+{"guest":"Fortuna Düsseldorf","master":"Hamburg","result":null,"league":null,"date":"2012-13","id":43,"gguest":"1","gmaster":"2"}
+{"guest":"Bayern Munich","master":"Hannover 96","result":null,"league":null,"date":"2012-13","id":44,"gguest":"6","gmaster":"1"}
+{"guest":"Wolfsburg","master":"Werder Bremen","result":null,"league":null,"date":"2012-13","id":45,"gguest":"3","gmaster":"0"}
+{"guest":"FC Augsburg","master":"M'gladbach","result":null,"league":null,"date":"2012-13","id":46,"gguest":"0","gmaster":"1"}
+{"guest":"M'gladbach","master":"Stuttgart","result":null,"league":null,"date":"2012-13","id":47,"gguest":"0","gmaster":"2"}
+{"guest":"Eintracht Frankfurt","master":"FC Augsburg","result":null,"league":null,"date":"2012-13","id":48,"gguest":"0","gmaster":"2"}
+{"guest":"FC Nurnberg","master":"Bayern Munich","result":null,"league":null,"date":"2012-13","id":49,"gguest":"0","gmaster":"4"}
+{"guest":"Werder Bremen","master":"Fortuna Düsseldorf","result":null,"league":null,"date":"2012-13","id":50,"gguest":"2","gmaster":"2"}
+{"guest":"Borussia Dortmund","master":"Greuther Furth","result":null,"league":null,"date":"2012-13","id":51,"gguest":"6","gmaster":"1"}
+{"guest":"Hamburg","master":"Mainz","result":null,"league":null,"date":"2012-13","id":52,"gguest":"2","gmaster":"1"}
+{"guest":"Hoffenheim","master":"Wolfsburg","result":null,"league":null,"date":"2012-13","id":53,"gguest":"2","gmaster":"2"}
+{"guest":"Bayer Leverkusen","master":"Schalke","result":null,"league":null,"date":"2012-13","id":54,"gguest":"2","gmaster":"2"}
+{"guest":"Hannover 96","master":"SC Freiburg","result":null,"league":null,"date":"2012-13","id":55,"gguest":"1","gmaster":"3"}
+{"guest":"Mainz","master":"FC Nurnberg","result":null,"league":null,"date":"2012-13","id":56,"gguest":"1","gmaster":"2"}
+{"guest":"Stuttgart","master":"Hannover 96","result":null,"league":null,"date":"2012-13","id":57,"gguest":"0","gmaster":"0"}
+{"guest":"Wolfsburg","master":"Bayer Leverkusen","result":null,"league":null,"date":"2012-13","id":58,"gguest":"1","gmaster":"1"}
+{"guest":"FC Augsburg","master":"Borussia Dortmund","result":null,"league":null,"date":"2012-13","id":59,"gguest":"2","gmaster":"4"}
+{"guest":"Bayern Munich","master":"Eintracht Frankfurt","result":null,"league":null,"date":"2012-13","id":60,"gguest":"1","gmaster":"0"}
+{"guest":"Greuther Furth","master":"M'gladbach","result":null,"league":null,"date":"2012-13","id":61,"gguest":"0","gmaster":"1"}
+{"guest":"Schalke","master":"Werder Bremen","result":null,"league":null,"date":"2012-13","id":62,"gguest":"2","gmaster":"0"}
+{"guest":"SC Freiburg","master":"Hamburg","result":null,"league":null,"date":"2012-13","id":63,"gguest":"1","gmaster":"0"}
+{"guest":"Fortuna Düsseldorf","master":"Hoffenheim","result":null,"league":null,"date":"2012-13","id":64,"gguest":"0","gmaster":"3"}
+{"guest":"FC Nurnberg","master":"Wolfsburg","result":null,"league":null,"date":"2012-13","id":65,"gguest":"2","gmaster":"2"}
+{"guest":"Eintracht Frankfurt","master":"Greuther Furth","result":null,"league":null,"date":"2012-13","id":66,"gguest":"3","gmaster":"2"}
+{"guest":"Hannover 96","master":"FC Augsburg","result":null,"league":null,"date":"2012-13","id":67,"gguest":"2","gmaster":"0"}
+{"guest":"Bayer Leverkusen","master":"Fortuna Düsseldorf","result":null,"league":null,"date":"2012-13","id":68,"gguest":"4","gmaster":"1"}
+{"guest":"Werder Bremen","master":"Mainz","result":null,"league":null,"date":"2012-13","id":69,"gguest":"1","gmaster":"1"}
+{"guest":"M'gladbach","master":"SC Freiburg","result":null,"league":null,"date":"2012-13","id":70,"gguest":"0","gmaster":"2"}
+{"guest":"Hoffenheim","master":"Schalke","result":null,"league":null,"date":"2012-13","id":71,"gguest":"0","gmaster":"3"}
+{"guest":"Borussia Dortmund","master":"Stuttgart","result":null,"league":null,"date":"2012-13","id":72,"gguest":"2","gmaster":"1"}
+{"guest":"Hamburg","master":"Bayern Munich","result":null,"league":null,"date":"2012-13","id":73,"gguest":"2","gmaster":"9"}
+{"guest":"Stuttgart","master":"Eintracht Frankfurt","result":null,"league":null,"date":"2012-13","id":74,"gguest":"2","gmaster":"1"}
+{"guest":"Hannover 96","master":"M'gladbach","result":null,"league":null,"date":"2012-13","id":75,"gguest":"0","gmaster":"1"}
+{"guest":"SC Freiburg","master":"Borussia Dortmund","result":null,"league":null,"date":"2012-13","id":76,"gguest":"1","gmaster":"5"}
+{"guest":"Schalke","master":"FC Nurnberg","result":null,"league":null,"date":"2012-13","id":77,"gguest":"0","gmaster":"3"}
+{"guest":"FC Augsburg","master":"Hamburg","result":null,"league":null,"date":"2012-13","id":78,"gguest":"1","gmaster":"0"}
+{"guest":"Mainz","master":"Hoffenheim","result":null,"league":null,"date":"2012-13","id":79,"gguest":"0","gmaster":"0"}
+{"guest":"Greuther Furth","master":"Werder Bremen","result":null,"league":null,"date":"2012-13","id":80,"gguest":"2","gmaster":"2"}
+{"guest":"Bayern Munich","master":"Bayer Leverkusen","result":null,"league":null,"date":"2012-13","id":81,"gguest":"2","gmaster":"1"}
+{"guest":"Fortuna Düsseldorf","master":"Wolfsburg","result":null,"league":null,"date":"2012-13","id":82,"gguest":"1","gmaster":"1"}
+{"guest":"Eintracht Frankfurt","master":"Hannover 96","result":null,"league":null,"date":"2012-13","id":83,"gguest":"0","gmaster":"0"}
+{"guest":"Hamburg","master":"Stuttgart","result":null,"league":null,"date":"2012-13","id":84,"gguest":"1","gmaster":"0"}
+{"guest":"Fortuna Düsseldorf","master":"Bayern Munich","result":null,"league":null,"date":"2012-13","id":85,"gguest":"2","gmaster":"3"}
+{"guest":"Hoffenheim","master":"Greuther Furth","result":null,"league":null,"date":"2012-13","id":86,"gguest":"3","gmaster":"0"}
+{"guest":"Bayer Leverkusen","master":"Mainz","result":null,"league":null,"date":"2012-13","id":87,"gguest":"0","gmaster":"1"}
+{"guest":"Wolfsburg","master":"SC Freiburg","result":null,"league":null,"date":"2012-13","id":88,"gguest":"5","gmaster":"2"}
+{"guest":"Borussia Dortmund","master":"Schalke","result":null,"league":null,"date":"2012-13","id":89,"gguest":"1","gmaster":"2"}
+{"guest":"Werder Bremen","master":"M'gladbach","result":null,"league":null,"date":"2012-13","id":90,"gguest":"1","gmaster":"1"}
+{"guest":"FC Nurnberg","master":"FC Augsburg","result":null,"league":null,"date":"2012-13","id":91,"gguest":"2","gmaster":"1"}
+{"guest":"Bayern Munich","master":"Hoffenheim","result":null,"league":null,"date":"2012-13","id":92,"gguest":"1","gmaster":"0"}
+{"guest":"Mainz","master":"Fortuna Düsseldorf","result":null,"league":null,"date":"2012-13","id":93,"gguest":"1","gmaster":"1"}
+{"guest":"Hannover 96","master":"Borussia Dortmund","result":null,"league":null,"date":"2012-13","id":94,"gguest":"1","gmaster":"3"}
+{"guest":"SC Freiburg","master":"FC Nurnberg","result":null,"league":null,"date":"2012-13","id":95,"gguest":"1","gmaster":"1"}
+{"guest":"Greuther Furth","master":"Hamburg","result":null,"league":null,"date":"2012-13","id":96,"gguest":"1","gmaster":"1"}
+{"guest":"FC Augsburg","master":"Werder Bremen","result":null,"league":null,"date":"2012-13","id":97,"gguest":"1","gmaster":"0"}
+{"guest":"Schalke","master":"Wolfsburg","result":null,"league":null,"date":"2012-13","id":98,"gguest":"4","gmaster":"1"}
+{"guest":"Stuttgart","master":"Bayer Leverkusen","result":null,"league":null,"date":"2012-13","id":99,"gguest":"1","gmaster":"2"}
+{"guest":"M'gladbach","master":"Eintracht Frankfurt","result":null,"league":null,"date":"2012-13","id":100,"gguest":"1","gmaster":"0"}
+{"guest":"Borussia Dortmund","master":"M'gladbach","result":null,"league":null,"date":"2012-13","id":101,"gguest":"1","gmaster":"1"}
+{"guest":"Bayer Leverkusen","master":"Greuther Furth","result":null,"league":null,"date":"2012-13","id":102,"gguest":"0","gmaster":"0"}
+{"guest":"Werder Bremen","master":"Bayern Munich","result":null,"league":null,"date":"2012-13","id":103,"gguest":"1","gmaster":"6"}
+{"guest":"Hoffenheim","master":"FC Augsburg","result":null,"league":null,"date":"2012-13","id":104,"gguest":"1","gmaster":"2"}
+{"guest":"Hamburg","master":"Hannover 96","result":null,"league":null,"date":"2012-13","id":105,"gguest":"1","gmaster":"5"}
+{"guest":"Wolfsburg","master":"Mainz","result":null,"league":null,"date":"2012-13","id":106,"gguest":"1","gmaster":"1"}
+{"guest":"FC Nurnberg","master":"Stuttgart","result":null,"league":null,"date":"2012-13","id":107,"gguest":"1","gmaster":"1"}
+{"guest":"Fortuna Düsseldorf","master":"Schalke","result":null,"league":null,"date":"2012-13","id":108,"gguest":"1","gmaster":"2"}
+{"guest":"Eintracht Frankfurt","master":"SC Freiburg","result":null,"league":null,"date":"2012-13","id":109,"gguest":"0","gmaster":"0"}
+{"guest":"Hannover 96","master":"FC Nurnberg","result":null,"league":null,"date":"2012-13","id":110,"gguest":"2","gmaster":"2"}
+{"guest":"Stuttgart","master":"Hoffenheim","result":null,"league":null,"date":"2012-13","id":111,"gguest":"1","gmaster":"0"}
+{"guest":"FC Augsburg","master":"Bayer Leverkusen","result":null,"league":null,"date":"2012-13","id":112,"gguest":"1","gmaster":"2"}
+{"guest":"Greuther Furth","master":"Fortuna Düsseldorf","result":null,"league":null,"date":"2012-13","id":113,"gguest":"0","gmaster":"1"}
+{"guest":"M'gladbach","master":"Hamburg","result":null,"league":null,"date":"2012-13","id":114,"gguest":"0","gmaster":"1"}
+{"guest":"Schalke","master":"Mainz","result":null,"league":null,"date":"2012-13","id":115,"gguest":"2","gmaster":"2"}
+{"guest":"SC Freiburg","master":"Werder Bremen","result":null,"league":null,"date":"2012-13","id":116,"gguest":"3","gmaster":"2"}
+{"guest":"Eintracht Frankfurt","master":"Borussia Dortmund","result":null,"league":null,"date":"2012-13","id":117,"gguest":"0","gmaster":"3"}
+{"guest":"Bayern Munich","master":"Wolfsburg","result":null,"league":null,"date":"2012-13","id":118,"gguest":"2","gmaster":"0"}
+{"guest":"Mainz","master":"FC Augsburg","result":null,"league":null,"date":"2012-13","id":119,"gguest":"1","gmaster":"1"}
+{"guest":"Fortuna Düsseldorf","master":"SC Freiburg","result":null,"league":null,"date":"2012-13","id":120,"gguest":"0","gmaster":"1"}
+{"guest":"Hamburg","master":"Borussia Dortmund","result":null,"league":null,"date":"2012-13","id":121,"gguest":"4","gmaster":"1"}
+{"guest":"FC Nurnberg","master":"Eintracht Frankfurt","result":null,"league":null,"date":"2012-13","id":122,"gguest":"0","gmaster":"0"}
+{"guest":"Wolfsburg","master":"Greuther Furth","result":null,"league":null,"date":"2012-13","id":123,"gguest":"1","gmaster":"0"}
+{"guest":"Hoffenheim","master":"Hannover 96","result":null,"league":null,"date":"2012-13","id":124,"gguest":"0","gmaster":"1"}
+{"guest":"Bayer Leverkusen","master":"M'gladbach","result":null,"league":null,"date":"2012-13","id":125,"gguest":"3","gmaster":"3"}
+{"guest":"Werder Bremen","master":"Stuttgart","result":null,"league":null,"date":"2012-13","id":126,"gguest":"4","gmaster":"1"}
+{"guest":"Schalke","master":"Bayern Munich","result":null,"league":null,"date":"2012-13","id":127,"gguest":"0","gmaster":"4"}
+{"guest":"M'gladbach","master":"FC Nurnberg","result":null,"league":null,"date":"2012-13","id":128,"gguest":"1","gmaster":"2"}
+{"guest":"Borussia Dortmund","master":"Bayer Leverkusen","result":null,"league":null,"date":"2012-13","id":129,"gguest":"3","gmaster":"2"}
+{"guest":"Stuttgart","master":"Fortuna Düsseldorf","result":null,"league":null,"date":"2012-13","id":130,"gguest":"1","gmaster":"3"}
+{"guest":"SC Freiburg","master":"Hoffenheim","result":null,"league":null,"date":"2012-13","id":131,"gguest":"1","gmaster":"2"}
+{"guest":"Bayern Munich","master":"Mainz","result":null,"league":null,"date":"2012-13","id":132,"gguest":"3","gmaster":"0"}
+{"guest":"Greuther Furth","master":"Schalke","result":null,"league":null,"date":"2012-13","id":133,"gguest":"2","gmaster":"1"}
+{"guest":"FC Augsburg","master":"Wolfsburg","result":null,"league":null,"date":"2012-13","id":134,"gguest":"1","gmaster":"1"}
+{"guest":"Eintracht Frankfurt","master":"Hamburg","result":null,"league":null,"date":"2012-13","id":135,"gguest":"2","gmaster":"0"}
+{"guest":"Hannover 96","master":"Werder Bremen","result":null,"league":null,"date":"2012-13","id":136,"gguest":"0","gmaster":"2"}
+{"guest":"Werder Bremen","master":"Hamburg","result":null,"league":null,"date":"2012-13","id":137,"gguest":"2","gmaster":"3"}
+{"guest":"Bayern Munich","master":"Stuttgart","result":null,"league":null,"date":"2012-13","id":138,"gguest":"2","gmaster":"0"}
+{"guest":"Hoffenheim","master":"Eintracht Frankfurt","result":null,"league":null,"date":"2012-13","id":139,"gguest":"1","gmaster":"2"}
+{"guest":"Schalke","master":"FC Augsburg","result":null,"league":null,"date":"2012-13","id":140,"gguest":"0","gmaster":"0"}
+{"guest":"Mainz","master":"Greuther Furth","result":null,"league":null,"date":"2012-13","id":141,"gguest":"3","gmaster":"0"}
+{"guest":"Wolfsburg","master":"Hannover 96","result":null,"league":null,"date":"2012-13","id":142,"gguest":"1","gmaster":"2"}
+{"guest":"Fortuna Düsseldorf","master":"M'gladbach","result":null,"league":null,"date":"2012-13","id":143,"gguest":"1","gmaster":"2"}
+{"guest":"Bayer Leverkusen","master":"SC Freiburg","result":null,"league":null,"date":"2012-13","id":144,"gguest":"0","gmaster":"0"}
+{"guest":"FC Nurnberg","master":"Borussia Dortmund","result":null,"league":null,"date":"2012-13","id":145,"gguest":"0","gmaster":"3"}
+{"guest":"Hamburg","master":"FC Nurnberg","result":null,"league":null,"date":"2012-13","id":146,"gguest":"1","gmaster":"1"}
+{"guest":"FC Augsburg","master":"Fortuna Düsseldorf","result":null,"league":null,"date":"2012-13","id":147,"gguest":"3","gmaster":"2"}
+{"guest":"Eintracht Frankfurt","master":"Bayer Leverkusen","result":null,"league":null,"date":"2012-13","id":148,"gguest":"1","gmaster":"3"}
+{"guest":"Greuther Furth","master":"Bayern Munich","result":null,"league":null,"date":"2012-13","id":149,"gguest":"0","gmaster":"2"}
+{"guest":"M'gladbach","master":"Hoffenheim","result":null,"league":null,"date":"2012-13","id":150,"gguest":"0","gmaster":"0"}
+{"guest":"SC Freiburg","master":"Mainz","result":null,"league":null,"date":"2012-13","id":151,"gguest":"0","gmaster":"0"}
+{"guest":"Stuttgart","master":"Wolfsburg","result":null,"league":null,"date":"2012-13","id":152,"gguest":"0","gmaster":"2"}
+{"guest":"Borussia Dortmund","master":"Werder Bremen","result":null,"league":null,"date":"2012-13","id":153,"gguest":"5","gmaster":"0"}
+{"guest":"Hannover 96","master":"Schalke","result":null,"league":null,"date":"2012-13","id":154,"gguest":"4","gmaster":"5"}
+{"guest":"Borussia Dortmund","master":"Hoffenheim","result":null,"league":null,"date":"2012-13","id":155,"gguest":"3","gmaster":"1"}
+{"guest":"FC Nurnberg","master":"Werder Bremen","result":null,"league":null,"date":"2012-13","id":156,"gguest":"1","gmaster":"1"}
+{"guest":"Hamburg","master":"Bayer Leverkusen","result":null,"league":null,"date":"2012-13","id":157,"gguest":"0","gmaster":"3"}
+{"guest":"Hannover 96","master":"Fortuna Düsseldorf","result":null,"league":null,"date":"2012-13","id":158,"gguest":"1","gmaster":"2"}
+{"guest":"FC Augsburg","master":"Greuther Furth","result":null,"league":null,"date":"2012-13","id":159,"gguest":"1","gmaster":"1"}
+{"guest":"Stuttgart","master":"Mainz","result":null,"league":null,"date":"2012-13","id":160,"gguest":"1","gmaster":"3"}
+{"guest":"Eintracht Frankfurt","master":"Wolfsburg","result":null,"league":null,"date":"2012-13","id":161,"gguest":"2","gmaster":"0"}
+{"guest":"SC Freiburg","master":"Schalke","result":null,"league":null,"date":"2012-13","id":162,"gguest":"3","gmaster":"1"}
+{"guest":"M'gladbach","master":"Bayern Munich","result":null,"league":null,"date":"2012-13","id":163,"gguest":"1","gmaster":"1"}
+{"guest":"Mainz","master":"M'gladbach","result":null,"league":null,"date":"2012-13","id":164,"gguest":"0","gmaster":"2"}
+{"guest":"Bayer Leverkusen","master":"Hannover 96","result":null,"league":null,"date":"2012-13","id":165,"gguest":"2","gmaster":"3"}
+{"guest":"Wolfsburg","master":"Borussia Dortmund","result":null,"league":null,"date":"2012-13","id":166,"gguest":"3","gmaster":"2"}
+{"guest":"Bayern Munich","master":"FC Augsburg","result":null,"league":null,"date":"2012-13","id":167,"gguest":"2","gmaster":"0"}
+{"guest":"Fortuna Düsseldorf","master":"FC Nurnberg","result":null,"league":null,"date":"2012-13","id":168,"gguest":"0","gmaster":"2"}
+{"guest":"Greuther Furth","master":"SC Freiburg","result":null,"league":null,"date":"2012-13","id":169,"gguest":"0","gmaster":"1"}
+{"guest":"Schalke","master":"Stuttgart","result":null,"league":null,"date":"2012-13","id":170,"gguest":"1","gmaster":"3"}
+{"guest":"Werder Bremen","master":"Eintracht Frankfurt","result":null,"league":null,"date":"2012-13","id":171,"gguest":"1","gmaster":"4"}
+{"guest":"Hoffenheim","master":"Hamburg","result":null,"league":null,"date":"2012-13","id":172,"gguest":"0","gmaster":"2"}
+{"guest":"Werder Bremen","master":"Hoffenheim","result":null,"league":null,"date":"2012-13","id":173,"gguest":"4","gmaster":"1"}
+{"guest":"Hamburg","master":"Wolfsburg","result":null,"league":null,"date":"2012-13","id":174,"gguest":"1","gmaster":"1"}
+{"guest":"FC Nurnberg","master":"Bayer Leverkusen","result":null,"league":null,"date":"2012-13","id":175,"gguest":"0","gmaster":"1"}
+{"guest":"SC Freiburg","master":"FC Augsburg","result":null,"league":null,"date":"2012-13","id":176,"gguest":"1","gmaster":"1"}
+{"guest":"Stuttgart","master":"Greuther Furth","result":null,"league":null,"date":"2012-13","id":177,"gguest":"1","gmaster":"0"}
+{"guest":"Hannover 96","master":"Mainz","result":null,"league":null,"date":"2012-13","id":178,"gguest":"1","gmaster":"2"}
+{"guest":"M'gladbach","master":"Schalke","result":null,"league":null,"date":"2012-13","id":179,"gguest":"1","gmaster":"1"}
+{"guest":"Borussia Dortmund","master":"Bayern Munich","result":null,"league":null,"date":"2012-13","id":180,"gguest":"1","gmaster":"1"}
+{"guest":"Eintracht Frankfurt","master":"Fortuna Düsseldorf","result":null,"league":null,"date":"2012-13","id":181,"gguest":"0","gmaster":"4"}
+{"guest":"Wolfsburg","master":"M'gladbach","result":null,"league":null,"date":"2012-13","id":182,"gguest":"0","gmaster":"2"}
+{"guest":"Bayern Munich","master":"SC Freiburg","result":null,"league":null,"date":"2012-13","id":183,"gguest":"2","gmaster":"0"}
+{"guest":"FC Augsburg","master":"Stuttgart","result":null,"league":null,"date":"2012-13","id":184,"gguest":"1","gmaster":"2"}
+{"guest":"Bayer Leverkusen","master":"Werder Bremen","result":null,"league":null,"date":"2012-13","id":185,"gguest":"4","gmaster":"1"}
+{"guest":"Hoffenheim","master":"FC Nurnberg","result":null,"league":null,"date":"2012-13","id":186,"gguest":"2","gmaster":"4"}
+{"guest":"Fortuna Düsseldorf","master":"Borussia Dortmund","result":null,"league":null,"date":"2012-13","id":187,"gguest":"1","gmaster":"1"}
+{"guest":"Mainz","master":"Eintracht Frankfurt","result":null,"league":null,"date":"2012-13","id":188,"gguest":"3","gmaster":"1"}
+{"guest":"Schalke","master":"Hamburg","result":null,"league":null,"date":"2012-13","id":189,"gguest":"1","gmaster":"3"}
+{"guest":"Greuther Furth","master":"Hannover 96","result":null,"league":null,"date":"2012-13","id":190,"gguest":"0","gmaster":"2"}
+{"guest":"Stuttgart","master":"SC Freiburg","result":null,"league":null,"date":"2012-13","id":191,"gguest":"0","gmaster":"3"}
+{"guest":"M'gladbach","master":"FC Augsburg","result":null,"league":null,"date":"2012-13","id":192,"gguest":"1","gmaster":"1"}
+{"guest":"Bayer Leverkusen","master":"Hoffenheim","result":null,"league":null,"date":"2012-13","id":193,"gguest":"2","gmaster":"1"}
+{"guest":"Hannover 96","master":"Bayern Munich","result":null,"league":null,"date":"2012-13","id":194,"gguest":"0","gmaster":"5"}
+{"guest":"FC Nurnberg","master":"Greuther Furth","result":null,"league":null,"date":"2012-13","id":195,"gguest":"0","gmaster":"0"}
+{"guest":"Borussia Dortmund","master":"Mainz","result":null,"league":null,"date":"2012-13","id":196,"gguest":"2","gmaster":"1"}
+{"guest":"Eintracht Frankfurt","master":"Schalke","result":null,"league":null,"date":"2012-13","id":197,"gguest":"1","gmaster":"1"}
+{"guest":"Werder Bremen","master":"Wolfsburg","result":null,"league":null,"date":"2012-13","id":198,"gguest":"1","gmaster":"1"}
+{"guest":"Hamburg","master":"Fortuna Düsseldorf","result":null,"league":null,"date":"2012-13","id":199,"gguest":"0","gmaster":"2"}
+{"guest":"Hamburg","master":"Greuther Furth","result":null,"league":null,"date":"2013-14","id":200,"gguest":"1","gmaster":"1"}
+{"guest":"Greuther Furth","master":"Hamburg","result":null,"league":null,"date":"2013-14","id":201,"gguest":"0","gmaster":"0"}
+{"guest":"Werder Bremen","master":"Bayer Leverkusen","result":null,"league":null,"date":"2013-14","id":202,"gguest":"1","gmaster":"2"}
+{"guest":"Stuttgart","master":"Bayern Munich","result":null,"league":null,"date":"2013-14","id":203,"gguest":"0","gmaster":"1"}
+{"guest":"Eintracht Frankfurt","master":"FC Augsburg","result":null,"league":null,"date":"2013-14","id":204,"gguest":"1","gmaster":"2"}
+{"guest":"SC Freiburg","master":"Hannover 96","result":null,"league":null,"date":"2013-14","id":205,"gguest":"2","gmaster":"3"}
+{"guest":"Borussia Dortmund","master":"Hertha Berlin","result":null,"league":null,"date":"2013-14","id":206,"gguest":"4","gmaster":"0"}
+{"guest":"Eintracht Braunschweig","master":"Hoffenheim","result":null,"league":null,"date":"2013-14","id":207,"gguest":"1","gmaster":"3"}
+{"guest":"Hamburg","master":"Mainz","result":null,"league":null,"date":"2013-14","id":208,"gguest":"2","gmaster":"3"}
+{"guest":"FC Nurnberg","master":"Schalke","result":null,"league":null,"date":"2013-14","id":209,"gguest":"1","gmaster":"4"}
+{"guest":"M'gladbach","master":"Wolfsburg","result":null,"league":null,"date":"2013-14","id":210,"gguest":"1","gmaster":"3"}
+{"guest":"Hoffenheim","master":"Borussia Dortmund","result":null,"league":null,"date":"2013-14","id":211,"gguest":"2","gmaster":"3"}
+{"guest":"FC Augsburg","master":"Eintracht Braunschweig","result":null,"league":null,"date":"2013-14","id":212,"gguest":"1","gmaster":"0"}
+{"guest":"Bayer Leverkusen","master":"Eintracht Frankfurt","result":null,"league":null,"date":"2013-14","id":213,"gguest":"2","gmaster":"0"}
+{"guest":"Hannover 96","master":"FC Nurnberg","result":null,"league":null,"date":"2013-14","id":214,"gguest":"2","gmaster":"0"}
+{"guest":"Bayern Munich","master":"Hamburg","result":null,"league":null,"date":"2013-14","id":215,"gguest":"4","gmaster":"1"}
+{"guest":"Mainz","master":"M'gladbach","result":null,"league":null,"date":"2013-14","id":216,"gguest":"1","gmaster":"3"}
+{"guest":"Schalke","master":"SC Freiburg","result":null,"league":null,"date":"2013-14","id":217,"gguest":"2","gmaster":"0"}
+{"guest":"Wolfsburg","master":"Stuttgart","result":null,"league":null,"date":"2013-14","id":218,"gguest":"2","gmaster":"1"}
+{"guest":"Hertha Berlin","master":"Werder Bremen","result":null,"league":null,"date":"2013-14","id":219,"gguest":"0","gmaster":"2"}
+{"guest":"Hamburg","master":"FC Augsburg","result":null,"league":null,"date":"2013-14","id":220,"gguest":"1","gmaster":"3"}
+{"guest":"M'gladbach","master":"Schalke","result":null,"league":null,"date":"2013-14","id":221,"gguest":"1","gmaster":"0"}
+{"guest":"Werder Bremen","master":"Bayern Munich","result":null,"league":null,"date":"2013-14","id":222,"gguest":"2","gmaster":"5"}
+{"guest":"Eintracht Braunschweig","master":"Hertha Berlin","result":null,"league":null,"date":"2013-14","id":223,"gguest":"0","gmaster":"2"}
+{"guest":"Eintracht Frankfurt","master":"Hoffenheim","result":null,"league":null,"date":"2013-14","id":224,"gguest":"0","gmaster":"0"}
+{"guest":"FC Nurnberg","master":"Mainz","result":null,"league":null,"date":"2013-14","id":225,"gguest":"0","gmaster":"2"}
+{"guest":"SC Freiburg","master":"Wolfsburg","result":null,"league":null,"date":"2013-14","id":226,"gguest":"2","gmaster":"2"}
+{"guest":"Borussia Dortmund","master":"Bayer Leverkusen","result":null,"league":null,"date":"2013-14","id":227,"gguest":"2","gmaster":"2"}
+{"guest":"Stuttgart","master":"Hannover 96","result":null,"league":null,"date":"2013-14","id":228,"gguest":"0","gmaster":"0"}
+{"guest":"Bayer Leverkusen","master":"FC Nurnberg","result":null,"league":null,"date":"2013-14","id":229,"gguest":"4","gmaster":"1"}
+{"guest":"Schalke","master":"Stuttgart","result":null,"league":null,"date":"2013-14","id":230,"gguest":"1","gmaster":"3"}
+{"guest":"Mainz","master":"Borussia Dortmund","result":null,"league":null,"date":"2013-14","id":231,"gguest":"2","gmaster":"4"}
+{"guest":"Bayern Munich","master":"Eintracht Braunschweig","result":null,"league":null,"date":"2013-14","id":232,"gguest":"2","gmaster":"0"}
+{"guest":"Hertha Berlin","master":"FC Augsburg","result":null,"league":null,"date":"2013-14","id":233,"gguest":"0","gmaster":"0"}
+{"guest":"M'gladbach","master":"SC Freiburg","result":null,"league":null,"date":"2013-14","id":234,"gguest":"2","gmaster":"4"}
+{"guest":"Hoffenheim","master":"Werder Bremen","result":null,"league":null,"date":"2013-14","id":235,"gguest":"1","gmaster":"3"}
+{"guest":"Wolfsburg","master":"Hamburg","result":null,"league":null,"date":"2013-14","id":236,"gguest":"3","gmaster":"1"}
+{"guest":"Hannover 96","master":"Eintracht Frankfurt","result":null,"league":null,"date":"2013-14","id":237,"gguest":"3","gmaster":"2"}
+{"guest":"Hertha Berlin","master":"Bayer Leverkusen","result":null,"league":null,"date":"2013-14","id":238,"gguest":"1","gmaster":"2"}
+{"guest":"FC Augsburg","master":"Hoffenheim","result":null,"league":null,"date":"2013-14","id":239,"gguest":"0","gmaster":"2"}
+{"guest":"Hamburg","master":"Hannover 96","result":null,"league":null,"date":"2013-14","id":240,"gguest":"1","gmaster":"2"}
+{"guest":"Stuttgart","master":"M'gladbach","result":null,"league":null,"date":"2013-14","id":241,"gguest":"1","gmaster":"1"}
+{"guest":"Werder Bremen","master":"Mainz","result":null,"league":null,"date":"2013-14","id":242,"gguest":"0","gmaster":"3"}
+{"guest":"Eintracht Braunschweig","master":"SC Freiburg","result":null,"league":null,"date":"2013-14","id":243,"gguest":"0","gmaster":"2"}
+{"guest":"FC Nurnberg","master":"Wolfsburg","result":null,"league":null,"date":"2013-14","id":244,"gguest":"1","gmaster":"4"}
+{"guest":"Borussia Dortmund","master":"Bayern Munich","result":null,"league":null,"date":"2013-14","id":245,"gguest":"3","gmaster":"0"}
+{"guest":"Eintracht Frankfurt","master":"Schalke","result":null,"league":null,"date":"2013-14","id":246,"gguest":"0","gmaster":"2"}
+{"guest":"Hannover 96","master":"Eintracht Braunschweig","result":null,"league":null,"date":"2013-14","id":247,"gguest":"0","gmaster":"3"}
+{"guest":"Hoffenheim","master":"Hertha Berlin","result":null,"league":null,"date":"2013-14","id":248,"gguest":"1","gmaster":"1"}
+{"guest":"Mainz","master":"Eintracht Frankfurt","result":null,"league":null,"date":"2013-14","id":249,"gguest":"0","gmaster":"2"}
+{"guest":"Bayern Munich","master":"FC Augsburg","result":null,"league":null,"date":"2013-14","id":250,"gguest":"0","gmaster":"1"}
+{"guest":"M'gladbach","master":"FC Nurnberg","result":null,"league":null,"date":"2013-14","id":251,"gguest":"2","gmaster":"0"}
+{"guest":"SC Freiburg","master":"Stuttgart","result":null,"league":null,"date":"2013-14","id":252,"gguest":"0","gmaster":"2"}
+{"guest":"Schalke","master":"Werder Bremen","result":null,"league":null,"date":"2013-14","id":253,"gguest":"1","gmaster":"1"}
+{"guest":"Wolfsburg","master":"Borussia Dortmund","result":null,"league":null,"date":"2013-14","id":254,"gguest":"1","gmaster":"2"}
+{"guest":"Bayer Leverkusen","master":"Hamburg","result":null,"league":null,"date":"2013-14","id":255,"gguest":"1","gmaster":"2"}
+{"guest":"Hamburg","master":"M'gladbach","result":null,"league":null,"date":"2013-14","id":256,"gguest":"1","gmaster":"3"}
+{"guest":"Werder Bremen","master":"Hannover 96","result":null,"league":null,"date":"2013-14","id":257,"gguest":"2","gmaster":"1"}
+{"guest":"Eintracht Braunschweig","master":"Bayer Leverkusen","result":null,"league":null,"date":"2013-14","id":258,"gguest":"1","gmaster":"1"}
+{"guest":"Hoffenheim","master":"Bayern Munich","result":null,"league":null,"date":"2013-14","id":259,"gguest":"3","gmaster":"3"}
+{"guest":"FC Augsburg","master":"Mainz","result":null,"league":null,"date":"2013-14","id":260,"gguest":"0","gmaster":"3"}
+{"guest":"Borussia Dortmund","master":"Stuttgart","result":null,"league":null,"date":"2013-14","id":261,"gguest":"3","gmaster":"2"}
+{"guest":"Eintracht Frankfurt","master":"Wolfsburg","result":null,"league":null,"date":"2013-14","id":262,"gguest":"1","gmaster":"2"}
+{"guest":"FC Nurnberg","master":"SC Freiburg","result":null,"league":null,"date":"2013-14","id":263,"gguest":"2","gmaster":"3"}
+{"guest":"Hertha Berlin","master":"Schalke","result":null,"league":null,"date":"2013-14","id":264,"gguest":"0","gmaster":"2"}
+{"guest":"M'gladbach","master":"Eintracht Frankfurt","result":null,"league":null,"date":"2013-14","id":265,"gguest":"0","gmaster":"1"}
+{"guest":"Bayer Leverkusen","master":"FC Augsburg","result":null,"league":null,"date":"2013-14","id":266,"gguest":"3","gmaster":"1"}
+{"guest":"Stuttgart","master":"FC Nurnberg","result":null,"league":null,"date":"2013-14","id":267,"gguest":"0","gmaster":"2"}
+{"guest":"SC Freiburg","master":"Hamburg","result":null,"league":null,"date":"2013-14","id":268,"gguest":"1","gmaster":"1"}
+{"guest":"Hannover 96","master":"Hoffenheim","result":null,"league":null,"date":"2013-14","id":269,"gguest":"1","gmaster":"3"}
+{"guest":"Schalke","master":"Borussia Dortmund","result":null,"league":null,"date":"2013-14","id":270,"gguest":"0","gmaster":"0"}
+{"guest":"Mainz","master":"Eintracht Braunschweig","result":null,"league":null,"date":"2013-14","id":271,"gguest":"1","gmaster":"3"}
+{"guest":"Bayern Munich","master":"Hertha Berlin","result":null,"league":null,"date":"2013-14","id":272,"gguest":"3","gmaster":"1"}
+{"guest":"Wolfsburg","master":"Werder Bremen","result":null,"league":null,"date":"2013-14","id":273,"gguest":"3","gmaster":"1"}
+{"guest":"Eintracht Frankfurt","master":"FC Nurnberg","result":null,"league":null,"date":"2013-14","id":274,"gguest":"5","gmaster":"2"}
+{"guest":"Hoffenheim","master":"Bayer Leverkusen","result":null,"league":null,"date":"2013-14","id":275,"gguest":"3","gmaster":"2"}
+{"guest":"Borussia Dortmund","master":"Hannover 96","result":null,"league":null,"date":"2013-14","id":276,"gguest":"3","gmaster":"0"}
+{"guest":"Bayern Munich","master":"Mainz","result":null,"league":null,"date":"2013-14","id":277,"gguest":"2","gmaster":"0"}
+{"guest":"Eintracht Braunschweig","master":"Schalke","result":null,"league":null,"date":"2013-14","id":278,"gguest":"1","gmaster":"3"}
+{"guest":"Hamburg","master":"Stuttgart","result":null,"league":null,"date":"2013-14","id":279,"gguest":"0","gmaster":"1"}
+{"guest":"FC Augsburg","master":"Wolfsburg","result":null,"league":null,"date":"2013-14","id":280,"gguest":"1","gmaster":"1"}
+{"guest":"Hertha Berlin","master":"M'gladbach","result":null,"league":null,"date":"2013-14","id":281,"gguest":"0","gmaster":"3"}
+{"guest":"Werder Bremen","master":"SC Freiburg","result":null,"league":null,"date":"2013-14","id":282,"gguest":"1","gmaster":"3"}
+{"guest":"FC Nurnberg","master":"Hamburg","result":null,"league":null,"date":"2013-14","id":283,"gguest":"1","gmaster":"2"}
+{"guest":"SC Freiburg","master":"Eintracht Frankfurt","result":null,"league":null,"date":"2013-14","id":284,"gguest":"4","gmaster":"1"}
+{"guest":"M'gladbach","master":"Borussia Dortmund","result":null,"league":null,"date":"2013-14","id":285,"gguest":"2","gmaster":"1"}
+{"guest":"Wolfsburg","master":"Eintracht Braunschweig","result":null,"league":null,"date":"2013-14","id":286,"gguest":"1","gmaster":"1"}
+{"guest":"Hannover 96","master":"Hertha Berlin","result":null,"league":null,"date":"2013-14","id":287,"gguest":"3","gmaster":"0"}
+{"guest":"Mainz","master":"Hoffenheim","result":null,"league":null,"date":"2013-14","id":288,"gguest":"4","gmaster":"2"}
+{"guest":"Stuttgart","master":"Werder Bremen","result":null,"league":null,"date":"2013-14","id":289,"gguest":"1","gmaster":"1"}
+{"guest":"Bayer Leverkusen","master":"Bayern Munich","result":null,"league":null,"date":"2013-14","id":290,"gguest":"1","gmaster":"2"}
+{"guest":"Schalke","master":"FC Augsburg","result":null,"league":null,"date":"2013-14","id":291,"gguest":"2","gmaster":"1"}
+{"guest":"Borussia Dortmund","master":"SC Freiburg","result":null,"league":null,"date":"2013-14","id":292,"gguest":"1","gmaster":"0"}
+{"guest":"Hertha Berlin","master":"Mainz","result":null,"league":null,"date":"2013-14","id":293,"gguest":"1","gmaster":"1"}
+{"guest":"Eintracht Frankfurt","master":"Hamburg","result":null,"league":null,"date":"2013-14","id":294,"gguest":"1","gmaster":"1"}
+{"guest":"Bayer Leverkusen","master":"Hannover 96","result":null,"league":null,"date":"2013-14","id":295,"gguest":"1","gmaster":"1"}
+{"guest":"FC Augsburg","master":"M'gladbach","result":null,"league":null,"date":"2013-14","id":296,"gguest":"2","gmaster":"1"}
+{"guest":"Hoffenheim","master":"Schalke","result":null,"league":null,"date":"2013-14","id":297,"gguest":"0","gmaster":"4"}
+{"guest":"Eintracht Braunschweig","master":"Stuttgart","result":null,"league":null,"date":"2013-14","id":298,"gguest":"2","gmaster":"2"}
+{"guest":"Bayern Munich","master":"Wolfsburg","result":null,"league":null,"date":"2013-14","id":299,"gguest":"6","gmaster":"1"}
+{"guest":"Werder Bremen","master":"FC Nurnberg","result":null,"league":null,"date":"2013-14","id":300,"gguest":"2","gmaster":"0"}
+{"guest":"Wolfsburg","master":"Hoffenheim","result":null,"league":null,"date":"2013-14","id":301,"gguest":"2","gmaster":"6"}
+{"guest":"Stuttgart","master":"Eintracht Frankfurt","result":null,"league":null,"date":"2013-14","id":302,"gguest":"1","gmaster":"2"}
+{"guest":"Mainz","master":"Bayer Leverkusen","result":null,"league":null,"date":"2013-14","id":303,"gguest":"1","gmaster":"0"}
+{"guest":"FC Nurnberg","master":"Borussia Dortmund","result":null,"league":null,"date":"2013-14","id":304,"gguest":"0","gmaster":"3"}
+{"guest":"M'gladbach","master":"Eintracht Braunschweig","result":null,"league":null,"date":"2013-14","id":305,"gguest":"1","gmaster":"1"}
+{"guest":"Hannover 96","master":"FC Augsburg","result":null,"league":null,"date":"2013-14","id":306,"gguest":"1","gmaster":"1"}
+{"guest":"Hamburg","master":"Werder Bremen","result":null,"league":null,"date":"2013-14","id":307,"gguest":"0","gmaster":"1"}
+{"guest":"Schalke","master":"Bayern Munich","result":null,"league":null,"date":"2013-14","id":308,"gguest":"1","gmaster":"5"}
+{"guest":"SC Freiburg","master":"Hertha Berlin","result":null,"league":null,"date":"2013-14","id":309,"gguest":"0","gmaster":"0"}
+{"guest":"Werder Bremen","master":"Eintracht Frankfurt","result":null,"league":null,"date":"2013-14","id":310,"gguest":"0","gmaster":"0"}
+{"guest":"Bayern Munich","master":"Hannover 96","result":null,"league":null,"date":"2013-14","id":311,"gguest":"4","gmaster":"0"}
+{"guest":"Eintracht Braunschweig","master":"FC Nurnberg","result":null,"league":null,"date":"2013-14","id":312,"gguest":"1","gmaster":"2"}
+{"guest":"Borussia Dortmund","master":"Hamburg","result":null,"league":null,"date":"2013-14","id":313,"gguest":"0","gmaster":"3"}
+{"guest":"Hoffenheim","master":"M'gladbach","result":null,"league":null,"date":"2013-14","id":314,"gguest":"2","gmaster":"2"}
+{"guest":"FC Augsburg","master":"SC Freiburg","result":null,"league":null,"date":"2013-14","id":315,"gguest":"4","gmaster":"2"}
+{"guest":"Hertha Berlin","master":"Stuttgart","result":null,"league":null,"date":"2013-14","id":316,"gguest":"2","gmaster":"1"}
+{"guest":"Bayer Leverkusen","master":"Wolfsburg","result":null,"league":null,"date":"2013-14","id":317,"gguest":"1","gmaster":"3"}
+{"guest":"Mainz","master":"Schalke","result":null,"league":null,"date":"2013-14","id":318,"gguest":"0","gmaster":"0"}
+{"guest":"FC Nurnberg","master":"FC Augsburg","result":null,"league":null,"date":"2013-14","id":319,"gguest":"1","gmaster":"0"}
+{"guest":"Wolfsburg","master":"Hertha Berlin","result":null,"league":null,"date":"2013-14","id":320,"gguest":"2","gmaster":"1"}
+{"guest":"SC Freiburg","master":"Bayern Munich","result":null,"league":null,"date":"2013-14","id":321,"gguest":"0","gmaster":"4"}
+{"guest":"Eintracht Frankfurt","master":"Borussia Dortmund","result":null,"league":null,"date":"2013-14","id":322,"gguest":"0","gmaster":"4"}
+{"guest":"Hamburg","master":"Eintracht Braunschweig","result":null,"league":null,"date":"2013-14","id":323,"gguest":"2","gmaster":"4"}
+{"guest":"Stuttgart","master":"Hoffenheim","result":null,"league":null,"date":"2013-14","id":324,"gguest":"1","gmaster":"4"}
+{"guest":"M'gladbach","master":"Werder Bremen","result":null,"league":null,"date":"2013-14","id":325,"gguest":"1","gmaster":"1"}
+{"guest":"Schalke","master":"Bayer Leverkusen","result":null,"league":null,"date":"2013-14","id":326,"gguest":"2","gmaster":"1"}
+{"guest":"Hannover 96","master":"Mainz","result":null,"league":null,"date":"2013-14","id":327,"gguest":"0","gmaster":"2"}
+{"guest":"FC Augsburg","master":"Stuttgart","result":null,"league":null,"date":"2013-14","id":328,"gguest":"4","gmaster":"1"}
+{"guest":"Hannover 96","master":"Schalke","result":null,"league":null,"date":"2013-14","id":329,"gguest":"0","gmaster":"2"}
+{"guest":"Eintracht Braunschweig","master":"Eintracht Frankfurt","result":null,"league":null,"date":"2013-14","id":330,"gguest":"0","gmaster":"3"}
+{"guest":"Bayern Munich","master":"FC Nurnberg","result":null,"league":null,"date":"2013-14","id":331,"gguest":"2","gmaster":"0"}
+{"guest":"Hoffenheim","master":"SC Freiburg","result":null,"league":null,"date":"2013-14","id":332,"gguest":"1","gmaster":"1"}
+{"guest":"Borussia Dortmund","master":"Werder Bremen","result":null,"league":null,"date":"2013-14","id":333,"gguest":"5","gmaster":"1"}
+{"guest":"Mainz","master":"Wolfsburg","result":null,"league":null,"date":"2013-14","id":334,"gguest":"0","gmaster":"3"}
+{"guest":"Hertha Berlin","master":"Hamburg","result":null,"league":null,"date":"2013-14","id":335,"gguest":"3","gmaster":"0"}
+{"guest":"Bayer Leverkusen","master":"M'gladbach","result":null,"league":null,"date":"2013-14","id":336,"gguest":"1","gmaster":"0"}
+{"guest":"FC Nurnberg","master":"Hertha Berlin","result":null,"league":null,"date":"2013-14","id":337,"gguest":"3","gmaster":"1"}
+{"guest":"Eintracht Frankfurt","master":"Bayern Munich","result":null,"league":null,"date":"2013-14","id":338,"gguest":"0","gmaster":"5"}
+{"guest":"Stuttgart","master":"Bayer Leverkusen","result":null,"league":null,"date":"2013-14","id":339,"gguest":"1","gmaster":"2"}
+{"guest":"Werder Bremen","master":"FC Augsburg","result":null,"league":null,"date":"2013-14","id":340,"gguest":"1","gmaster":"3"}
+{"guest":"Hamburg","master":"Hoffenheim","result":null,"league":null,"date":"2013-14","id":341,"gguest":"0","gmaster":"3"}
+{"guest":"SC Freiburg","master":"Mainz","result":null,"league":null,"date":"2013-14","id":342,"gguest":"0","gmaster":"2"}
+{"guest":"Wolfsburg","master":"Schalke","result":null,"league":null,"date":"2013-14","id":343,"gguest":"1","gmaster":"2"}
+{"guest":"M'gladbach","master":"Hannover 96","result":null,"league":null,"date":"2013-14","id":344,"gguest":"1","gmaster":"3"}
+{"guest":"Borussia Dortmund","master":"Eintracht Braunschweig","result":null,"league":null,"date":"2013-14","id":345,"gguest":"2","gmaster":"1"}
+{"guest":"Bayern Munich","master":"Stuttgart","result":null,"league":null,"date":"2013-14","id":346,"gguest":"2","gmaster":"1"}
+{"guest":"Eintracht Braunschweig","master":"Werder Bremen","result":null,"league":null,"date":"2013-14","id":347,"gguest":"0","gmaster":"0"}
+{"guest":"Schalke","master":"Hamburg","result":null,"league":null,"date":"2013-14","id":348,"gguest":"3","gmaster":"0"}
+{"guest":"FC Augsburg","master":"Borussia Dortmund","result":null,"league":null,"date":"2013-14","id":349,"gguest":"2","gmaster":"2"}
+{"guest":"Hoffenheim","master":"FC Nurnberg","result":null,"league":null,"date":"2013-14","id":350,"gguest":"0","gmaster":"4"}
+{"guest":"Bayer Leverkusen","master":"SC Freiburg","result":null,"league":null,"date":"2013-14","id":351,"gguest":"2","gmaster":"3"}
+{"guest":"Mainz","master":"Stuttgart","result":null,"league":null,"date":"2013-14","id":352,"gguest":"2","gmaster":"1"}
+{"guest":"Hannover 96","master":"Wolfsburg","result":null,"league":null,"date":"2013-14","id":353,"gguest":"3","gmaster":"1"}
+{"guest":"Hertha Berlin","master":"Eintracht Frankfurt","result":null,"league":null,"date":"2013-14","id":354,"gguest":"0","gmaster":"1"}
+{"guest":"Bayern Munich","master":"M'gladbach","result":null,"league":null,"date":"2013-14","id":355,"gguest":"2","gmaster":"0"}
+{"guest":"Wolfsburg","master":"M'gladbach","result":null,"league":null,"date":"2013-14","id":356,"gguest":"2","gmaster":"2"}
+{"guest":"Hertha Berlin","master":"Borussia Dortmund","result":null,"league":null,"date":"2013-14","id":357,"gguest":"2","gmaster":"1"}
+{"guest":"Hoffenheim","master":"Eintracht Braunschweig","result":null,"league":null,"date":"2013-14","id":358,"gguest":"0","gmaster":"1"}
+{"guest":"Mainz","master":"Hamburg","result":null,"league":null,"date":"2013-14","id":359,"gguest":"3","gmaster":"2"}
+{"guest":"Hannover 96","master":"SC Freiburg","result":null,"league":null,"date":"2013-14","id":360,"gguest":"1","gmaster":"2"}
+{"guest":"Bayer Leverkusen","master":"Werder Bremen","result":null,"league":null,"date":"2013-14","id":361,"gguest":"0","gmaster":"1"}
+{"guest":"Schalke","master":"FC Nurnberg","result":null,"league":null,"date":"2013-14","id":362,"gguest":"0","gmaster":"0"}
+{"guest":"FC Augsburg","master":"Eintracht Frankfurt","result":null,"league":null,"date":"2013-14","id":363,"gguest":"1","gmaster":"1"}
+{"guest":"SC Freiburg","master":"Schalke","result":null,"league":null,"date":"2013-14","id":364,"gguest":"0","gmaster":"2"}
+{"guest":"Eintracht Frankfurt","master":"Bayer Leverkusen","result":null,"league":null,"date":"2013-14","id":365,"gguest":"1","gmaster":"0"}
+{"guest":"Hamburg","master":"Bayern Munich","result":null,"league":null,"date":"2013-14","id":366,"gguest":"1","gmaster":"3"}
+{"guest":"Eintracht Braunschweig","master":"FC Augsburg","result":null,"league":null,"date":"2013-14","id":367,"gguest":"1","gmaster":"4"}
+{"guest":"FC Nurnberg","master":"Hannover 96","result":null,"league":null,"date":"2013-14","id":368,"gguest":"3","gmaster":"3"}
+{"guest":"Borussia Dortmund","master":"Hoffenheim","result":null,"league":null,"date":"2013-14","id":369,"gguest":"2","gmaster":"2"}
+{"guest":"M'gladbach","master":"Mainz","result":null,"league":null,"date":"2013-14","id":370,"gguest":"0","gmaster":"0"}
+{"guest":"Stuttgart","master":"Wolfsburg","result":null,"league":null,"date":"2013-14","id":371,"gguest":"1","gmaster":"3"}
+{"guest":"Werder Bremen","master":"Hertha Berlin","result":null,"league":null,"date":"2013-14","id":372,"gguest":"2","gmaster":"3"}
+{"guest":"Wolfsburg","master":"SC Freiburg","result":null,"league":null,"date":"2013-14","id":373,"gguest":"3","gmaster":"0"}
+{"guest":"Hertha Berlin","master":"Eintracht Braunschweig","result":null,"league":null,"date":"2013-14","id":374,"gguest":"2","gmaster":"0"}
+{"guest":"Hoffenheim","master":"Eintracht Frankfurt","result":null,"league":null,"date":"2013-14","id":375,"gguest":"2","gmaster":"1"}
+{"guest":"FC Augsburg","master":"Hamburg","result":null,"league":null,"date":"2013-14","id":376,"gguest":"1","gmaster":"0"}
+{"guest":"Schalke","master":"M'gladbach","result":null,"league":null,"date":"2013-14","id":377,"gguest":"1","gmaster":"2"}
+{"guest":"Hannover 96","master":"Stuttgart","result":null,"league":null,"date":"2013-14","id":378,"gguest":"2","gmaster":"4"}
+{"guest":"Bayern Munich","master":"Werder Bremen","result":null,"league":null,"date":"2013-14","id":379,"gguest":"7","gmaster":"0"}
+{"guest":"Bayer Leverkusen","master":"Borussia Dortmund","result":null,"league":null,"date":"2013-14","id":380,"gguest":"1","gmaster":"0"}
+{"guest":"Mainz","master":"FC Nurnberg","result":null,"league":null,"date":"2013-14","id":381,"gguest":"1","gmaster":"1"}
+{"guest":"Eintracht Frankfurt","master":"Hannover 96","result":null,"league":null,"date":"2013-14","id":382,"gguest":"0","gmaster":"2"}
+{"guest":"SC Freiburg","master":"M'gladbach","result":null,"league":null,"date":"2013-14","id":383,"gguest":"0","gmaster":"1"}
+{"guest":"FC Nurnberg","master":"Bayer Leverkusen","result":null,"league":null,"date":"2013-14","id":384,"gguest":"0","gmaster":"3"}
+{"guest":"Eintracht Braunschweig","master":"Bayern Munich","result":null,"league":null,"date":"2013-14","id":385,"gguest":"0","gmaster":"2"}
+{"guest":"FC Augsburg","master":"Hertha Berlin","result":null,"league":null,"date":"2013-14","id":386,"gguest":"0","gmaster":"0"}
+{"guest":"Werder Bremen","master":"Hoffenheim","result":null,"league":null,"date":"2013-14","id":387,"gguest":"4","gmaster":"4"}
+{"guest":"Borussia Dortmund","master":"Mainz","result":null,"league":null,"date":"2013-14","id":388,"gguest":"3","gmaster":"1"}
+{"guest":"Stuttgart","master":"Schalke","result":null,"league":null,"date":"2013-14","id":389,"gguest":"0","gmaster":"3"}
+{"guest":"Hamburg","master":"Wolfsburg","result":null,"league":null,"date":"2013-14","id":390,"gguest":"1","gmaster":"1"}
+{"guest":"Hannover 96","master":"Hamburg","result":null,"league":null,"date":"2013-14","id":391,"gguest":"1","gmaster":"3"}
+{"guest":"Mainz","master":"Werder Bremen","result":null,"league":null,"date":"2013-14","id":392,"gguest":"3","gmaster":"2"}
+{"guest":"SC Freiburg","master":"Eintracht Braunschweig","result":null,"league":null,"date":"2013-14","id":393,"gguest":"1","gmaster":"0"}
+{"guest":"Schalke","master":"Eintracht Frankfurt","result":null,"league":null,"date":"2013-14","id":394,"gguest":"3","gmaster":"3"}
+{"guest":"Hoffenheim","master":"FC Augsburg","result":null,"league":null,"date":"2013-14","id":395,"gguest":"0","gmaster":"2"}
+{"guest":"Wolfsburg","master":"FC Nurnberg","result":null,"league":null,"date":"2013-14","id":396,"gguest":"1","gmaster":"1"}
+{"guest":"Bayer Leverkusen","master":"Hertha Berlin","result":null,"league":null,"date":"2013-14","id":397,"gguest":"1","gmaster":"0"}
+{"guest":"Bayern Munich","master":"Borussia Dortmund","result":null,"league":null,"date":"2013-14","id":398,"gguest":"3","gmaster":"0"}
+{"guest":"M'gladbach","master":"Stuttgart","result":null,"league":null,"date":"2013-14","id":399,"gguest":"2","gmaster":"0"}
+{"guest":"Mainz","master":"Bayern Munich","result":null,"league":null,"date":"2014-15","id":400,"gguest":"0","gmaster":"2"}
+{"guest":"Werder Bremen","master":"Borussia Dortmund","result":null,"league":null,"date":"2014-15","id":401,"gguest":"2","gmaster":"3"}
+{"guest":"Wolfsburg","master":"Cologne","result":null,"league":null,"date":"2014-15","id":402,"gguest":"2","gmaster":"2"}
+{"guest":"Bayer Leverkusen","master":"Eintracht Frankfurt","result":null,"league":null,"date":"2014-15","id":403,"gguest":"1","gmaster":"2"}
+{"guest":"Schalke","master":"Hamburg","result":null,"league":null,"date":"2014-15","id":404,"gguest":"0","gmaster":"2"}
+{"guest":"SC Freiburg","master":"Hannover 96","result":null,"league":null,"date":"2014-15","id":405,"gguest":"1","gmaster":"2"}
+{"guest":"Hertha Berlin","master":"Hoffenheim","result":null,"league":null,"date":"2014-15","id":406,"gguest":"1","gmaster":"2"}
+{"guest":"FC Augsburg","master":"M'gladbach","result":null,"league":null,"date":"2014-15","id":407,"gguest":"3","gmaster":"1"}
+{"guest":"Stuttgart","master":"SC Paderborn 07","result":null,"league":null,"date":"2014-15","id":408,"gguest":"2","gmaster":"1"}
+{"guest":"Hoffenheim","master":"Bayer Leverkusen","result":null,"league":null,"date":"2014-15","id":409,"gguest":"0","gmaster":"2"}
+{"guest":"Hannover 96","master":"FC Augsburg","result":null,"league":null,"date":"2014-15","id":410,"gguest":"2","gmaster":"1"}
+{"guest":"Eintracht Frankfurt","master":"Hertha Berlin","result":null,"league":null,"date":"2014-15","id":411,"gguest":"0","gmaster":"0"}
+{"guest":"Cologne","master":"Mainz","result":null,"league":null,"date":"2014-15","id":412,"gguest":"0","gmaster":"2"}
+{"guest":"Bayern Munich","master":"SC Freiburg","result":null,"league":null,"date":"2014-15","id":413,"gguest":"1","gmaster":"2"}
+{"guest":"SC Paderborn 07","master":"Schalke","result":null,"league":null,"date":"2014-15","id":414,"gguest":"0","gmaster":"1"}
+{"guest":"Hamburg","master":"Stuttgart","result":null,"league":null,"date":"2014-15","id":415,"gguest":"1","gmaster":"2"}
+{"guest":"M'gladbach","master":"Werder Bremen","result":null,"league":null,"date":"2014-15","id":416,"gguest":"2","gmaster":"0"}
+{"guest":"Borussia Dortmund","master":"Wolfsburg","result":null,"league":null,"date":"2014-15","id":417,"gguest":"1","gmaster":"2"}
+{"guest":"Wolfsburg","master":"SC Paderborn 07","result":null,"league":null,"date":"2014-15","id":418,"gguest":"3","gmaster":"1"}
+{"guest":"Schalke","master":"Cologne","result":null,"league":null,"date":"2014-15","id":419,"gguest":"0","gmaster":"2"}
+{"guest":"FC Augsburg","master":"Bayern Munich","result":null,"league":null,"date":"2014-15","id":420,"gguest":"1","gmaster":"0"}
+{"guest":"Hertha Berlin","master":"Borussia Dortmund","result":null,"league":null,"date":"2014-15","id":421,"gguest":"0","gmaster":"2"}
+{"guest":"Hoffenheim","master":"Eintracht Frankfurt","result":null,"league":null,"date":"2014-15","id":422,"gguest":"1","gmaster":"3"}
+{"guest":"Werder Bremen","master":"Hannover 96","result":null,"league":null,"date":"2014-15","id":423,"gguest":"1","gmaster":"1"}
+{"guest":"Bayer Leverkusen","master":"M'gladbach","result":null,"league":null,"date":"2014-15","id":424,"gguest":"0","gmaster":"3"}
+{"guest":"Mainz","master":"Stuttgart","result":null,"league":null,"date":"2014-15","id":425,"gguest":"0","gmaster":"2"}
+{"guest":"SC Freiburg","master":"Hamburg","result":null,"league":null,"date":"2014-15","id":426,"gguest":"1","gmaster":"1"}
+{"guest":"Hamburg","master":"Mainz","result":null,"league":null,"date":"2014-15","id":427,"gguest":"2","gmaster":"1"}
+{"guest":"M'gladbach","master":"Hertha Berlin","result":null,"league":null,"date":"2014-15","id":428,"gguest":"2","gmaster":"1"}
+{"guest":"Cologne","master":"FC Augsburg","result":null,"league":null,"date":"2014-15","id":429,"gguest":"0","gmaster":"0"}
+{"guest":"Borussia Dortmund","master":"Hoffenheim","result":null,"league":null,"date":"2014-15","id":430,"gguest":"1","gmaster":"1"}
+{"guest":"SC Paderborn 07","master":"SC Freiburg","result":null,"league":null,"date":"2014-15","id":431,"gguest":"2","gmaster":"1"}
+{"guest":"Stuttgart","master":"Schalke","result":null,"league":null,"date":"2014-15","id":432,"gguest":"2","gmaster":"3"}
+{"guest":"Eintracht Frankfurt","master":"Werder Bremen","result":null,"league":null,"date":"2014-15","id":433,"gguest":"0","gmaster":"1"}
+{"guest":"Hannover 96","master":"Wolfsburg","result":null,"league":null,"date":"2014-15","id":434,"gguest":"2","gmaster":"2"}
+{"guest":"Bayern Munich","master":"Bayer Leverkusen","result":null,"league":null,"date":"2014-15","id":435,"gguest":"0","gmaster":"2"}
+{"guest":"Werder Bremen","master":"SC Paderborn 07","result":null,"league":null,"date":"2014-15","id":436,"gguest":"2","gmaster":"2"}
+{"guest":"Wolfsburg","master":"M'gladbach","result":null,"league":null,"date":"2014-15","id":437,"gguest":"0","gmaster":"1"}
+{"guest":"Eintracht Frankfurt","master":"Borussia Dortmund","result":null,"league":null,"date":"2014-15","id":438,"gguest":"0","gmaster":"2"}
+{"guest":"Bayer Leverkusen","master":"Cologne","result":null,"league":null,"date":"2014-15","id":439,"gguest":"1","gmaster":"1"}
+{"guest":"FC Augsburg","master":"Hamburg","result":null,"league":null,"date":"2014-15","id":440,"gguest":"2","gmaster":"3"}
+{"guest":"Hoffenheim","master":"Hannover 96","result":null,"league":null,"date":"2014-15","id":441,"gguest":"2","gmaster":"1"}
+{"guest":"SC Freiburg","master":"Stuttgart","result":null,"league":null,"date":"2014-15","id":442,"gguest":"2","gmaster":"2"}
+{"guest":"Hertha Berlin","master":"Bayern Munich","result":null,"league":null,"date":"2014-15","id":443,"gguest":"0","gmaster":"1"}
+{"guest":"Schalke","master":"Mainz","result":null,"league":null,"date":"2014-15","id":444,"gguest":"0","gmaster":"2"}
+{"guest":"Hamburg","master":"Werder Bremen","result":null,"league":null,"date":"2014-15","id":445,"gguest":"0","gmaster":"1"}
+{"guest":"Schalke","master":"Wolfsburg","result":null,"league":null,"date":"2014-15","id":446,"gguest":"1","gmaster":"1"}
+{"guest":"Hannover 96","master":"Bayer Leverkusen","result":null,"league":null,"date":"2014-15","id":447,"gguest":"0","gmaster":"4"}
+{"guest":"SC Paderborn 07","master":"Borussia Dortmund","result":null,"league":null,"date":"2014-15","id":448,"gguest":"0","gmaster":"3"}
+{"guest":"Cologne","master":"Hertha Berlin","result":null,"league":null,"date":"2014-15","id":449,"gguest":"0","gmaster":"0"}
+{"guest":"Bayern Munich","master":"Hoffenheim","result":null,"league":null,"date":"2014-15","id":450,"gguest":"2","gmaster":"0"}
+{"guest":"Mainz","master":"SC Freiburg","result":null,"league":null,"date":"2014-15","id":451,"gguest":"3","gmaster":"2"}
+{"guest":"Stuttgart","master":"FC Augsburg","result":null,"league":null,"date":"2014-15","id":452,"gguest":"1","gmaster":"2"}
+{"guest":"M'gladbach","master":"Eintracht Frankfurt","result":null,"league":null,"date":"2014-15","id":453,"gguest":"0","gmaster":"0"}
+{"guest":"Hoffenheim","master":"Cologne","result":null,"league":null,"date":"2014-15","id":454,"gguest":"2","gmaster":"3"}
+{"guest":"Werder Bremen","master":"Stuttgart","result":null,"league":null,"date":"2014-15","id":455,"gguest":"2","gmaster":"3"}
+{"guest":"Eintracht Frankfurt","master":"Bayern Munich","result":null,"league":null,"date":"2014-15","id":456,"gguest":"0","gmaster":"3"}
+{"guest":"Borussia Dortmund","master":"M'gladbach","result":null,"league":null,"date":"2014-15","id":457,"gguest":"1","gmaster":"3"}
+{"guest":"Bayer Leverkusen","master":"Mainz","result":null,"league":null,"date":"2014-15","id":458,"gguest":"3","gmaster":"2"}
+{"guest":"FC Augsburg","master":"SC Paderborn 07","result":null,"league":null,"date":"2014-15","id":459,"gguest":"1","gmaster":"2"}
+{"guest":"SC Freiburg","master":"Schalke","result":null,"league":null,"date":"2014-15","id":460,"gguest":"0","gmaster":"0"}
+{"guest":"Wolfsburg","master":"Hamburg","result":null,"league":null,"date":"2014-15","id":461,"gguest":"2","gmaster":"0"}
+{"guest":"Hertha Berlin","master":"Hannover 96","result":null,"league":null,"date":"2014-15","id":462,"gguest":"1","gmaster":"1"}
+{"guest":"Schalke","master":"FC Augsburg","result":null,"league":null,"date":"2014-15","id":463,"gguest":"0","gmaster":"0"}
+{"guest":"SC Paderborn 07","master":"Hertha Berlin","result":null,"league":null,"date":"2014-15","id":464,"gguest":"0","gmaster":"2"}
+{"guest":"Hamburg","master":"Bayer Leverkusen","result":null,"league":null,"date":"2014-15","id":465,"gguest":"0","gmaster":"4"}
+{"guest":"Hannover 96","master":"Eintracht Frankfurt","result":null,"league":null,"date":"2014-15","id":466,"gguest":"2","gmaster":"2"}
+{"guest":"M'gladbach","master":"Hoffenheim","result":null,"league":null,"date":"2014-15","id":467,"gguest":"4","gmaster":"1"}
+{"guest":"Cologne","master":"SC Freiburg","result":null,"league":null,"date":"2014-15","id":468,"gguest":"0","gmaster":"1"}
+{"guest":"Mainz","master":"Werder Bremen","result":null,"league":null,"date":"2014-15","id":469,"gguest":"0","gmaster":"0"}
+{"guest":"Stuttgart","master":"Wolfsburg","result":null,"league":null,"date":"2014-15","id":470,"gguest":"1","gmaster":"3"}
+{"guest":"Bayern Munich","master":"Borussia Dortmund","result":null,"league":null,"date":"2014-15","id":471,"gguest":"1","gmaster":"0"}
+{"guest":"Wolfsburg","master":"Mainz","result":null,"league":null,"date":"2014-15","id":472,"gguest":"1","gmaster":"1"}
+{"guest":"M'gladbach","master":"Bayern Munich","result":null,"league":null,"date":"2014-15","id":473,"gguest":"2","gmaster":"0"}
+{"guest":"Werder Bremen","master":"Cologne","result":null,"league":null,"date":"2014-15","id":474,"gguest":"1","gmaster":"1"}
+{"guest":"Borussia Dortmund","master":"Hannover 96","result":null,"league":null,"date":"2014-15","id":475,"gguest":"3","gmaster":"2"}
+{"guest":"FC Augsburg","master":"SC Freiburg","result":null,"league":null,"date":"2014-15","id":476,"gguest":"0","gmaster":"2"}
+{"guest":"Hoffenheim","master":"SC Paderborn 07","result":null,"league":null,"date":"2014-15","id":477,"gguest":"0","gmaster":"0"}
+{"guest":"Eintracht Frankfurt","master":"Stuttgart","result":null,"league":null,"date":"2014-15","id":478,"gguest":"1","gmaster":"3"}
+{"guest":"Bayer Leverkusen","master":"Schalke","result":null,"league":null,"date":"2014-15","id":479,"gguest":"1","gmaster":"0"}
+{"guest":"Hertha Berlin","master":"Hamburg","result":null,"league":null,"date":"2014-15","id":480,"gguest":"1","gmaster":"0"}
+{"guest":"SC Freiburg","master":"Wolfsburg","result":null,"league":null,"date":"2014-15","id":481,"gguest":"0","gmaster":"3"}
+{"guest":"Hannover 96","master":"M'gladbach","result":null,"league":null,"date":"2014-15","id":482,"gguest":"0","gmaster":"2"}
+{"guest":"SC Paderborn 07","master":"Eintracht Frankfurt","result":null,"league":null,"date":"2014-15","id":483,"gguest":"0","gmaster":"4"}
+{"guest":"Mainz","master":"FC Augsburg","result":null,"league":null,"date":"2014-15","id":484,"gguest":"2","gmaster":"0"}
+{"guest":"Schalke","master":"Hertha Berlin","result":null,"league":null,"date":"2014-15","id":485,"gguest":"2","gmaster":"2"}
+{"guest":"Hamburg","master":"Hoffenheim","result":null,"league":null,"date":"2014-15","id":486,"gguest":"0","gmaster":"3"}
+{"guest":"Bayern Munich","master":"Werder Bremen","result":null,"league":null,"date":"2014-15","id":487,"gguest":"4","gmaster":"0"}
+{"guest":"Cologne","master":"Borussia Dortmund","result":null,"league":null,"date":"2014-15","id":488,"gguest":"0","gmaster":"0"}
+{"guest":"Stuttgart","master":"Bayer Leverkusen","result":null,"league":null,"date":"2014-15","id":489,"gguest":"0","gmaster":"4"}
+{"guest":"Eintracht Frankfurt","master":"Cologne","result":null,"league":null,"date":"2014-15","id":490,"gguest":"2","gmaster":"4"}
+{"guest":"Bayer Leverkusen","master":"SC Paderborn 07","result":null,"league":null,"date":"2014-15","id":491,"gguest":"3","gmaster":"0"}
+{"guest":"Wolfsburg","master":"FC Augsburg","result":null,"league":null,"date":"2014-15","id":492,"gguest":"0","gmaster":"1"}
+{"guest":"Borussia Dortmund","master":"Hamburg","result":null,"league":null,"date":"2014-15","id":493,"gguest":"0","gmaster":"0"}
+{"guest":"Bayern Munich","master":"Hannover 96","result":null,"league":null,"date":"2014-15","id":494,"gguest":"3","gmaster":"1"}
+{"guest":"Werder Bremen","master":"SC Freiburg","result":null,"league":null,"date":"2014-15","id":495,"gguest":"1","gmaster":"0"}
+{"guest":"Hoffenheim","master":"Schalke","result":null,"league":null,"date":"2014-15","id":496,"gguest":"1","gmaster":"3"}
+{"guest":"M'gladbach","master":"Mainz","result":null,"league":null,"date":"2014-15","id":497,"gguest":"2","gmaster":"2"}
+{"guest":"Hertha Berlin","master":"Stuttgart","result":null,"league":null,"date":"2014-15","id":498,"gguest":"0","gmaster":"0"}
+{"guest":"SC Paderborn 07","master":"M'gladbach","result":null,"league":null,"date":"2014-15","id":499,"gguest":"0","gmaster":"2"}
+{"guest":"Wolfsburg","master":"Werder Bremen","result":null,"league":null,"date":"2014-15","id":500,"gguest":"5","gmaster":"3"}
+{"guest":"SC Freiburg","master":"Bayer Leverkusen","result":null,"league":null,"date":"2014-15","id":501,"gguest":"0","gmaster":"1"}
+{"guest":"Schalke","master":"Borussia Dortmund","result":null,"league":null,"date":"2014-15","id":502,"gguest":"0","gmaster":"3"}
+{"guest":"Stuttgart","master":"Hannover 96","result":null,"league":null,"date":"2014-15","id":503,"gguest":"1","gmaster":"1"}
+{"guest":"FC Augsburg","master":"Hertha Berlin","result":null,"league":null,"date":"2014-15","id":504,"gguest":"0","gmaster":"1"}
+{"guest":"Mainz","master":"Hoffenheim","result":null,"league":null,"date":"2014-15","id":505,"gguest":"0","gmaster":"2"}
+{"guest":"Hamburg","master":"Eintracht Frankfurt","result":null,"league":null,"date":"2014-15","id":506,"gguest":"1","gmaster":"2"}
+{"guest":"Cologne","master":"Bayern Munich","result":null,"league":null,"date":"2014-15","id":507,"gguest":"1","gmaster":"4"}
+{"guest":"M'gladbach","master":"Hamburg","result":null,"league":null,"date":"2014-15","id":508,"gguest":"1","gmaster":"1"}
+{"guest":"Hertha Berlin","master":"Wolfsburg","result":null,"league":null,"date":"2014-15","id":509,"gguest":"1","gmaster":"2"}
+{"guest":"Bayer Leverkusen","master":"FC Augsburg","result":null,"league":null,"date":"2014-15","id":510,"gguest":"2","gmaster":"2"}
+{"guest":"Eintracht Frankfurt","master":"Mainz","result":null,"league":null,"date":"2014-15","id":511,"gguest":"1","gmaster":"3"}
+{"guest":"Hoffenheim","master":"SC Freiburg","result":null,"league":null,"date":"2014-15","id":512,"gguest":"1","gmaster":"1"}
+{"guest":"Bayern Munich","master":"SC Paderborn 07","result":null,"league":null,"date":"2014-15","id":513,"gguest":"6","gmaster":"0"}
+{"guest":"Werder Bremen","master":"Schalke","result":null,"league":null,"date":"2014-15","id":514,"gguest":"1","gmaster":"1"}
+{"guest":"Hannover 96","master":"Cologne","result":null,"league":null,"date":"2014-15","id":515,"gguest":"1","gmaster":"1"}
+{"guest":"Borussia Dortmund","master":"Stuttgart","result":null,"league":null,"date":"2014-15","id":516,"gguest":"3","gmaster":"2"}
+{"guest":"SC Freiburg","master":"Hertha Berlin","result":null,"league":null,"date":"2014-15","id":517,"gguest":"2","gmaster":"0"}
+{"guest":"SC Paderborn 07","master":"Hannover 96","result":null,"league":null,"date":"2014-15","id":518,"gguest":"2","gmaster":"1"}
+{"guest":"Wolfsburg","master":"Bayer Leverkusen","result":null,"league":null,"date":"2014-15","id":519,"gguest":"5","gmaster":"4"}
+{"guest":"Hamburg","master":"Bayern Munich","result":null,"league":null,"date":"2014-15","id":520,"gguest":"0","gmaster":"8"}
+{"guest":"Stuttgart","master":"Hoffenheim","result":null,"league":null,"date":"2014-15","id":521,"gguest":"1","gmaster":"2"}
+{"guest":"Cologne","master":"M'gladbach","result":null,"league":null,"date":"2014-15","id":522,"gguest":"0","gmaster":"1"}
+{"guest":"FC Augsburg","master":"Werder Bremen","result":null,"league":null,"date":"2014-15","id":523,"gguest":"2","gmaster":"3"}
+{"guest":"Schalke","master":"Eintracht Frankfurt","result":null,"league":null,"date":"2014-15","id":524,"gguest":"0","gmaster":"1"}
+{"guest":"Mainz","master":"Borussia Dortmund","result":null,"league":null,"date":"2014-15","id":525,"gguest":"2","gmaster":"4"}
+{"guest":"Bayer Leverkusen","master":"Werder Bremen","result":null,"league":null,"date":"2014-15","id":526,"gguest":"1","gmaster":"2"}
+{"guest":"Eintracht Frankfurt","master":"FC Augsburg","result":null,"league":null,"date":"2014-15","id":527,"gguest":"2","gmaster":"2"}
+{"guest":"SC Paderborn 07","master":"Cologne","result":null,"league":null,"date":"2014-15","id":528,"gguest":"0","gmaster":"0"}
+{"guest":"Hertha Berlin","master":"Mainz","result":null,"league":null,"date":"2014-15","id":529,"gguest":"2","gmaster":"0"}
+{"guest":"Borussia Dortmund","master":"SC Freiburg","result":null,"league":null,"date":"2014-15","id":530,"gguest":"3","gmaster":"0"}
+{"guest":"Bayern Munich","master":"Stuttgart","result":null,"league":null,"date":"2014-15","id":531,"gguest":"2","gmaster":"0"}
+{"guest":"Hoffenheim","master":"Wolfsburg","result":null,"league":null,"date":"2014-15","id":532,"gguest":"0","gmaster":"3"}
+{"guest":"Hannover 96","master":"Hamburg","result":null,"league":null,"date":"2014-15","id":533,"gguest":"1","gmaster":"2"}
+{"guest":"M'gladbach","master":"Schalke","result":null,"league":null,"date":"2014-15","id":534,"gguest":"0","gmaster":"1"}
+{"guest":"FC Augsburg","master":"Borussia Dortmund","result":null,"league":null,"date":"2014-15","id":535,"gguest":"1","gmaster":"0"}
+{"guest":"Stuttgart","master":"Cologne","result":null,"league":null,"date":"2014-15","id":536,"gguest":"0","gmaster":"0"}
+{"guest":"Bayer Leverkusen","master":"Hertha Berlin","result":null,"league":null,"date":"2014-15","id":537,"gguest":"1","gmaster":"0"}
+{"guest":"Werder Bremen","master":"Hoffenheim","result":null,"league":null,"date":"2014-15","id":538,"gguest":"2","gmaster":"1"}
+{"guest":"Hamburg","master":"SC Paderborn 07","result":null,"league":null,"date":"2014-15","id":539,"gguest":"3","gmaster":"0"}
+{"guest":"Schalke","master":"Bayern Munich","result":null,"league":null,"date":"2014-15","id":540,"gguest":"1","gmaster":"1"}
+{"guest":"Wolfsburg","master":"Eintracht Frankfurt","result":null,"league":null,"date":"2014-15","id":541,"gguest":"1","gmaster":"1"}
+{"guest":"Mainz","master":"Hannover 96","result":null,"league":null,"date":"2014-15","id":542,"gguest":"1","gmaster":"1"}
+{"guest":"SC Freiburg","master":"M'gladbach","result":null,"league":null,"date":"2014-15","id":543,"gguest":"0","gmaster":"1"}
+{"guest":"Hertha Berlin","master":"Werder Bremen","result":null,"league":null,"date":"2014-15","id":544,"gguest":"0","gmaster":"2"}
+{"guest":"Hoffenheim","master":"FC Augsburg","result":null,"league":null,"date":"2014-15","id":545,"gguest":"1","gmaster":"3"}
+{"guest":"Cologne","master":"Hamburg","result":null,"league":null,"date":"2014-15","id":546,"gguest":"2","gmaster":"0"}
+{"guest":"SC Paderborn 07","master":"Mainz","result":null,"league":null,"date":"2014-15","id":547,"gguest":"0","gmaster":"5"}
+{"guest":"Eintracht Frankfurt","master":"SC Freiburg","result":null,"league":null,"date":"2014-15","id":548,"gguest":"1","gmaster":"4"}
+{"guest":"Hannover 96","master":"Schalke","result":null,"league":null,"date":"2014-15","id":549,"gguest":"0","gmaster":"1"}
+{"guest":"M'gladbach","master":"Stuttgart","result":null,"league":null,"date":"2014-15","id":550,"gguest":"1","gmaster":"0"}
+{"guest":"Borussia Dortmund","master":"Bayer Leverkusen","result":null,"league":null,"date":"2014-15","id":551,"gguest":"0","gmaster":"0"}
+{"guest":"Bayern Munich","master":"Wolfsburg","result":null,"league":null,"date":"2014-15","id":552,"gguest":"1","gmaster":"4"}
+{"guest":"Hoffenheim","master":"Hertha Berlin","result":null,"league":null,"date":"2014-15","id":553,"gguest":"5","gmaster":"0"}
+{"guest":"Hannover 96","master":"SC Freiburg","result":null,"league":null,"date":"2014-15","id":554,"gguest":"2","gmaster":"2"}
+{"guest":"Eintracht Frankfurt","master":"Bayer Leverkusen","result":null,"league":null,"date":"2014-15","id":555,"gguest":"1","gmaster":"1"}
+{"guest":"M'gladbach","master":"FC Augsburg","result":null,"league":null,"date":"2014-15","id":556,"gguest":"1","gmaster":"2"}
+{"guest":"Hamburg","master":"Schalke","result":null,"league":null,"date":"2014-15","id":557,"gguest":"0","gmaster":"0"}
+{"guest":"SC Paderborn 07","master":"Stuttgart","result":null,"league":null,"date":"2014-15","id":558,"gguest":"0","gmaster":"0"}
+{"guest":"Borussia Dortmund","master":"Werder Bremen","result":null,"league":null,"date":"2014-15","id":559,"gguest":"1","gmaster":"2"}
+{"guest":"Cologne","master":"Wolfsburg","result":null,"league":null,"date":"2014-15","id":560,"gguest":"1","gmaster":"2"}
+{"guest":"Bayern Munich","master":"Mainz","result":null,"league":null,"date":"2014-15","id":561,"gguest":"2","gmaster":"1"}
+{"guest":"Wolfsburg","master":"Borussia Dortmund","result":null,"league":null,"date":"2014-15","id":562,"gguest":"2","gmaster":"2"}
+{"guest":"Hertha Berlin","master":"Eintracht Frankfurt","result":null,"league":null,"date":"2014-15","id":563,"gguest":"4","gmaster":"4"}
+{"guest":"Bayer Leverkusen","master":"Hoffenheim","result":null,"league":null,"date":"2014-15","id":564,"gguest":"1","gmaster":"0"}
+{"guest":"Werder Bremen","master":"M'gladbach","result":null,"league":null,"date":"2014-15","id":565,"gguest":"1","gmaster":"4"}
+{"guest":"Schalke","master":"SC Paderborn 07","result":null,"league":null,"date":"2014-15","id":566,"gguest":"2","gmaster":"1"}
+{"guest":"SC Freiburg","master":"Bayern Munich","result":null,"league":null,"date":"2014-15","id":567,"gguest":"0","gmaster":"2"}
+{"guest":"Mainz","master":"Cologne","result":null,"league":null,"date":"2014-15","id":568,"gguest":"0","gmaster":"0"}
+{"guest":"Stuttgart","master":"Hamburg","result":null,"league":null,"date":"2014-15","id":569,"gguest":"1","gmaster":"0"}
+{"guest":"FC Augsburg","master":"Hannover 96","result":null,"league":null,"date":"2014-15","id":570,"gguest":"0","gmaster":"2"}
+{"guest":"M'gladbach","master":"Bayer Leverkusen","result":null,"league":null,"date":"2014-15","id":571,"gguest":"1","gmaster":"1"}
+{"guest":"SC Paderborn 07","master":"Wolfsburg","result":null,"league":null,"date":"2014-15","id":572,"gguest":"1","gmaster":"1"}
+{"guest":"Bayern Munich","master":"FC Augsburg","result":null,"league":null,"date":"2014-15","id":573,"gguest":"4","gmaster":"0"}
+{"guest":"Borussia Dortmund","master":"Hertha Berlin","result":null,"league":null,"date":"2014-15","id":574,"gguest":"0","gmaster":"1"}
+{"guest":"Hamburg","master":"SC Freiburg","result":null,"league":null,"date":"2014-15","id":575,"gguest":"0","gmaster":"0"}
+{"guest":"Cologne","master":"Schalke","result":null,"league":null,"date":"2014-15","id":576,"gguest":"2","gmaster":"1"}
+{"guest":"Hannover 96","master":"Werder Bremen","result":null,"league":null,"date":"2014-15","id":577,"gguest":"3","gmaster":"3"}
+{"guest":"Stuttgart","master":"Mainz","result":null,"league":null,"date":"2014-15","id":578,"gguest":"1","gmaster":"1"}
+{"guest":"Eintracht Frankfurt","master":"Hoffenheim","result":null,"league":null,"date":"2014-15","id":579,"gguest":"2","gmaster":"3"}
+{"guest":"Mainz","master":"Hamburg","result":null,"league":null,"date":"2014-15","id":580,"gguest":"1","gmaster":"2"}
+{"guest":"Werder Bremen","master":"Eintracht Frankfurt","result":null,"league":null,"date":"2014-15","id":581,"gguest":"2","gmaster":"5"}
+{"guest":"FC Augsburg","master":"Cologne","result":null,"league":null,"date":"2014-15","id":582,"gguest":"2","gmaster":"1"}
+{"guest":"Wolfsburg","master":"Hannover 96","result":null,"league":null,"date":"2014-15","id":583,"gguest":"3","gmaster":"1"}
+{"guest":"Hertha Berlin","master":"M'gladbach","result":null,"league":null,"date":"2014-15","id":584,"gguest":"2","gmaster":"3"}
+{"guest":"SC Freiburg","master":"SC Paderborn 07","result":null,"league":null,"date":"2014-15","id":585,"gguest":"1","gmaster":"1"}
+{"guest":"Schalke","master":"Stuttgart","result":null,"league":null,"date":"2014-15","id":586,"gguest":"4","gmaster":"0"}
+{"guest":"Bayer Leverkusen","master":"Bayern Munich","result":null,"league":null,"date":"2014-15","id":587,"gguest":"0","gmaster":"1"}
+{"guest":"Hoffenheim","master":"Borussia Dortmund","result":null,"league":null,"date":"2014-15","id":588,"gguest":"0","gmaster":"1"}
+{"guest":"M'gladbach","master":"Wolfsburg","result":null,"league":null,"date":"2014-15","id":589,"gguest":"0","gmaster":"1"}
+{"guest":"Borussia Dortmund","master":"Eintracht Frankfurt","result":null,"league":null,"date":"2014-15","id":590,"gguest":"0","gmaster":"2"}
+{"guest":"Cologne","master":"Bayer Leverkusen","result":null,"league":null,"date":"2014-15","id":591,"gguest":"1","gmaster":"5"}
+{"guest":"Hamburg","master":"FC Augsburg","result":null,"league":null,"date":"2014-15","id":592,"gguest":"1","gmaster":"3"}
+{"guest":"Bayern Munich","master":"Hertha Berlin","result":null,"league":null,"date":"2014-15","id":593,"gguest":"1","gmaster":"0"}
+{"guest":"Mainz","master":"Schalke","result":null,"league":null,"date":"2014-15","id":594,"gguest":"1","gmaster":"4"}
+{"guest":"SC Paderborn 07","master":"Werder Bremen","result":null,"league":null,"date":"2014-15","id":595,"gguest":"0","gmaster":"4"}
+{"guest":"Hannover 96","master":"Hoffenheim","result":null,"league":null,"date":"2014-15","id":596,"gguest":"3","gmaster":"4"}
+{"guest":"Stuttgart","master":"SC Freiburg","result":null,"league":null,"date":"2014-15","id":597,"gguest":"4","gmaster":"1"}
+{"guest":"Werder Bremen","master":"Hamburg","result":null,"league":null,"date":"2014-15","id":598,"gguest":"0","gmaster":"2"}
+{"guest":"FC Augsburg","master":"Stuttgart","result":null,"league":null,"date":"2014-15","id":599,"gguest":"1","gmaster":"0"}
+{"guest":"FC Ingolstadt 04","master":"Bayer Leverkusen","result":null,"league":null,"date":"2015-16","id":600,"gguest":"2","gmaster":"3"}
+{"guest":"Hannover 96","master":"Bayern Munich","result":null,"league":null,"date":"2015-16","id":601,"gguest":"1","gmaster":"3"}
+{"guest":"Cologne","master":"Borussia Dortmund","result":null,"league":null,"date":"2015-16","id":602,"gguest":"2","gmaster":"2"}
+{"guest":"Hamburg","master":"FC Augsburg","result":null,"league":null,"date":"2015-16","id":603,"gguest":"3","gmaster":"1"}
+{"guest":"Schalke","master":"Hoffenheim","result":null,"league":null,"date":"2015-16","id":604,"gguest":"4","gmaster":"1"}
+{"guest":"Hertha Berlin","master":"Mainz","result":null,"league":null,"date":"2015-16","id":605,"gguest":"0","gmaster":"0"}
+{"guest":"M'gladbach","master":"SV Darmstadt 98","result":null,"league":null,"date":"2015-16","id":606,"gguest":"2","gmaster":"0"}
+{"guest":"Eintracht Frankfurt","master":"Werder Bremen","result":null,"league":null,"date":"2015-16","id":607,"gguest":"0","gmaster":"1"}
+{"guest":"Stuttgart","master":"Wolfsburg","result":null,"league":null,"date":"2015-16","id":608,"gguest":"1","gmaster":"3"}
+{"guest":"Werder Bremen","master":"Cologne","result":null,"league":null,"date":"2015-16","id":609,"gguest":"0","gmaster":"0"}
+{"guest":"Borussia Dortmund","master":"Eintracht Frankfurt","result":null,"league":null,"date":"2015-16","id":610,"gguest":"0","gmaster":"1"}
+{"guest":"Bayern Munich","master":"FC Ingolstadt 04","result":null,"league":null,"date":"2015-16","id":611,"gguest":"2","gmaster":"1"}
+{"guest":"Wolfsburg","master":"Hamburg","result":null,"league":null,"date":"2015-16","id":612,"gguest":"1","gmaster":"0"}
+{"guest":"Hoffenheim","master":"Hannover 96","result":null,"league":null,"date":"2015-16","id":613,"gguest":"0","gmaster":"1"}
+{"guest":"SV Darmstadt 98","master":"Hertha Berlin","result":null,"league":null,"date":"2015-16","id":614,"gguest":"2","gmaster":"1"}
+{"guest":"Bayer Leverkusen","master":"M'gladbach","result":null,"league":null,"date":"2015-16","id":615,"gguest":"1","gmaster":"2"}
+{"guest":"FC Augsburg","master":"Schalke","result":null,"league":null,"date":"2015-16","id":616,"gguest":"1","gmaster":"1"}
+{"guest":"Mainz","master":"Stuttgart","result":null,"league":null,"date":"2015-16","id":617,"gguest":"3","gmaster":"1"}
+{"guest":"Stuttgart","master":"Werder Bremen","result":null,"league":null,"date":"2015-16","id":618,"gguest":"2","gmaster":"6"}
+{"guest":"M'gladbach","master":"Bayern Munich","result":null,"league":null,"date":"2015-16","id":619,"gguest":"1","gmaster":"1"}
+{"guest":"Wolfsburg","master":"Borussia Dortmund","result":null,"league":null,"date":"2015-16","id":620,"gguest":"1","gmaster":"5"}
+{"guest":"Schalke","master":"Hannover 96","result":null,"league":null,"date":"2015-16","id":621,"gguest":"3","gmaster":"1"}
+{"guest":"FC Ingolstadt 04","master":"Hoffenheim","result":null,"league":null,"date":"2015-16","id":622,"gguest":"1","gmaster":"2"}
+{"guest":"Hamburg","master":"Mainz","result":null,"league":null,"date":"2015-16","id":623,"gguest":"0","gmaster":"0"}
+{"guest":"Eintracht Frankfurt","master":"SV Darmstadt 98","result":null,"league":null,"date":"2015-16","id":624,"gguest":"2","gmaster":"1"}
+{"guest":"Hertha Berlin","master":"Bayer Leverkusen","result":null,"league":null,"date":"2015-16","id":625,"gguest":"1","gmaster":"2"}
+{"guest":"Cologne","master":"FC Augsburg","result":null,"league":null,"date":"2015-16","id":626,"gguest":"0","gmaster":"0"}
+{"guest":"Hoffenheim","master":"M'gladbach","result":null,"league":null,"date":"2015-16","id":627,"gguest":"1","gmaster":"3"}
+{"guest":"Mainz","master":"Eintracht Frankfurt","result":null,"league":null,"date":"2015-16","id":628,"gguest":"1","gmaster":"2"}
+{"guest":"SV Darmstadt 98","master":"Cologne","result":null,"league":null,"date":"2015-16","id":629,"gguest":"1","gmaster":"4"}
+{"guest":"Hannover 96","master":"FC Ingolstadt 04","result":null,"league":null,"date":"2015-16","id":630,"gguest":"2","gmaster":"2"}
+{"guest":"Bayern Munich","master":"Hertha Berlin","result":null,"league":null,"date":"2015-16","id":631,"gguest":"2","gmaster":"0"}
+{"guest":"Borussia Dortmund","master":"Stuttgart","result":null,"league":null,"date":"2015-16","id":632,"gguest":"3","gmaster":"0"}
+{"guest":"FC Augsburg","master":"Wolfsburg","result":null,"league":null,"date":"2015-16","id":633,"gguest":"2","gmaster":"0"}
+{"guest":"Bayer Leverkusen","master":"Schalke","result":null,"league":null,"date":"2015-16","id":634,"gguest":"3","gmaster":"2"}
+{"guest":"Werder Bremen","master":"Hamburg","result":null,"league":null,"date":"2015-16","id":635,"gguest":"1","gmaster":"2"}
+{"guest":"Hamburg","master":"Borussia Dortmund","result":null,"league":null,"date":"2015-16","id":636,"gguest":"0","gmaster":"3"}
+{"guest":"Cologne","master":"Mainz","result":null,"league":null,"date":"2015-16","id":637,"gguest":"3","gmaster":"2"}
+{"guest":"Eintracht Frankfurt","master":"Bayer Leverkusen","result":null,"league":null,"date":"2015-16","id":638,"gguest":"0","gmaster":"3"}
+{"guest":"Stuttgart","master":"FC Augsburg","result":null,"league":null,"date":"2015-16","id":639,"gguest":"0","gmaster":"1"}
+{"guest":"Hertha Berlin","master":"Hoffenheim","result":null,"league":null,"date":"2015-16","id":640,"gguest":"1","gmaster":"2"}
+{"guest":"FC Ingolstadt 04","master":"SV Darmstadt 98","result":null,"league":null,"date":"2015-16","id":641,"gguest":"0","gmaster":"2"}
+{"guest":"Wolfsburg","master":"Werder Bremen","result":null,"league":null,"date":"2015-16","id":642,"gguest":"2","gmaster":"3"}
+{"guest":"Schalke","master":"Bayern Munich","result":null,"league":null,"date":"2015-16","id":643,"gguest":"0","gmaster":"3"}
+{"guest":"M'gladbach","master":"Hannover 96","result":null,"league":null,"date":"2015-16","id":644,"gguest":"0","gmaster":"2"}
+{"guest":"Borussia Dortmund","master":"Schalke","result":null,"league":null,"date":"2015-16","id":645,"gguest":"2","gmaster":"2"}
+{"guest":"Bayer Leverkusen","master":"Cologne","result":null,"league":null,"date":"2015-16","id":646,"gguest":"2","gmaster":"0"}
+{"guest":"Hoffenheim","master":"Eintracht Frankfurt","result":null,"league":null,"date":"2015-16","id":647,"gguest":"2","gmaster":"0"}
+{"guest":"M'gladbach","master":"FC Ingolstadt 04","result":null,"league":null,"date":"2015-16","id":648,"gguest":"0","gmaster":"1"}
+{"guest":"SV Darmstadt 98","master":"Hamburg","result":null,"league":null,"date":"2015-16","id":649,"gguest":"2","gmaster":"1"}
+{"guest":"Bayern Munich","master":"Stuttgart","result":null,"league":null,"date":"2015-16","id":650,"gguest":"3","gmaster":"1"}
+{"guest":"FC Augsburg","master":"Werder Bremen","result":null,"league":null,"date":"2015-16","id":651,"gguest":"2","gmaster":"1"}
+{"guest":"Mainz","master":"Wolfsburg","result":null,"league":null,"date":"2015-16","id":652,"gguest":"1","gmaster":"1"}
+{"guest":"Hannover 96","master":"Hertha Berlin","result":null,"league":null,"date":"2015-16","id":653,"gguest":"2","gmaster":"2"}
+{"guest":"Hertha Berlin","master":"M'gladbach","result":null,"league":null,"date":"2015-16","id":654,"gguest":"0","gmaster":"5"}
+{"guest":"Cologne","master":"Hoffenheim","result":null,"league":null,"date":"2015-16","id":655,"gguest":"1","gmaster":"1"}
+{"guest":"Eintracht Frankfurt","master":"Bayern Munich","result":null,"league":null,"date":"2015-16","id":656,"gguest":"0","gmaster":"1"}
+{"guest":"Schalke","master":"FC Ingolstadt 04","result":null,"league":null,"date":"2015-16","id":657,"gguest":"0","gmaster":"3"}
+{"guest":"Hamburg","master":"Hannover 96","result":null,"league":null,"date":"2015-16","id":658,"gguest":"3","gmaster":"0"}
+{"guest":"FC Augsburg","master":"Mainz","result":null,"league":null,"date":"2015-16","id":659,"gguest":"2","gmaster":"4"}
+{"guest":"Stuttgart","master":"SV Darmstadt 98","result":null,"league":null,"date":"2015-16","id":660,"gguest":"2","gmaster":"2"}
+{"guest":"Bayer Leverkusen","master":"Stuttgart","result":null,"league":null,"date":"2015-16","id":661,"gguest":"2","gmaster":"0"}
+{"guest":"Borussia Dortmund","master":"FC Augsburg","result":null,"league":null,"date":"2015-16","id":662,"gguest":"3","gmaster":"1"}
+{"guest":"Bayern Munich","master":"Cologne","result":null,"league":null,"date":"2015-16","id":663,"gguest":"1","gmaster":"0"}
+{"guest":"Hoffenheim","master":"Hamburg","result":null,"league":null,"date":"2015-16","id":664,"gguest":"3","gmaster":"1"}
+{"guest":"FC Ingolstadt 04","master":"Hertha Berlin","result":null,"league":null,"date":"2015-16","id":665,"gguest":"1","gmaster":"2"}
+{"guest":"Mainz","master":"Werder Bremen","result":null,"league":null,"date":"2015-16","id":666,"gguest":"1","gmaster":"1"}
+{"guest":"SV Darmstadt 98","master":"Wolfsburg","result":null,"league":null,"date":"2015-16","id":667,"gguest":"1","gmaster":"1"}
+{"guest":"Hannover 96","master":"Eintracht Frankfurt","result":null,"league":null,"date":"2015-16","id":668,"gguest":"0","gmaster":"1"}
+{"guest":"M'gladbach","master":"Schalke","result":null,"league":null,"date":"2015-16","id":669,"gguest":"1","gmaster":"2"}
+{"guest":"Hamburg","master":"Bayer Leverkusen","result":null,"league":null,"date":"2015-16","id":670,"gguest":"0","gmaster":"1"}
+{"guest":"Mainz","master":"Borussia Dortmund","result":null,"league":null,"date":"2015-16","id":671,"gguest":"0","gmaster":"2"}
+{"guest":"Stuttgart","master":"FC Ingolstadt 04","result":null,"league":null,"date":"2015-16","id":672,"gguest":"3","gmaster":"3"}
+{"guest":"Cologne","master":"Hannover 96","result":null,"league":null,"date":"2015-16","id":673,"gguest":"2","gmaster":"0"}
+{"guest":"Wolfsburg","master":"Hoffenheim","result":null,"league":null,"date":"2015-16","id":674,"gguest":"0","gmaster":"1"}
+{"guest":"Eintracht Frankfurt","master":"M'gladbach","result":null,"league":null,"date":"2015-16","id":675,"gguest":"0","gmaster":"3"}
+{"guest":"FC Augsburg","master":"SV Darmstadt 98","result":null,"league":null,"date":"2015-16","id":676,"gguest":"2","gmaster":"2"}
+{"guest":"Werder Bremen","master":"Bayern Munich","result":null,"league":null,"date":"2015-16","id":677,"gguest":"0","gmaster":"5"}
+{"guest":"Schalke","master":"Hertha Berlin","result":null,"league":null,"date":"2015-16","id":678,"gguest":"0","gmaster":"2"}
+{"guest":"SV Darmstadt 98","master":"Mainz","result":null,"league":null,"date":"2015-16","id":679,"gguest":"0","gmaster":"0"}
+{"guest":"Hertha Berlin","master":"Hamburg","result":null,"league":null,"date":"2015-16","id":680,"gguest":"0","gmaster":"2"}
+{"guest":"Schalke","master":"Cologne","result":null,"league":null,"date":"2015-16","id":681,"gguest":"3","gmaster":"1"}
+{"guest":"FC Ingolstadt 04","master":"Eintracht Frankfurt","result":null,"league":null,"date":"2015-16","id":682,"gguest":"1","gmaster":"1"}
+{"guest":"Bayer Leverkusen","master":"FC Augsburg","result":null,"league":null,"date":"2015-16","id":683,"gguest":"3","gmaster":"3"}
+{"guest":"Hoffenheim","master":"Stuttgart","result":null,"league":null,"date":"2015-16","id":684,"gguest":"1","gmaster":"5"}
+{"guest":"Hannover 96","master":"Werder Bremen","result":null,"league":null,"date":"2015-16","id":685,"gguest":"1","gmaster":"4"}
+{"guest":"M'gladbach","master":"Wolfsburg","result":null,"league":null,"date":"2015-16","id":686,"gguest":"1","gmaster":"2"}
+{"guest":"Bayern Munich","master":"Borussia Dortmund","result":null,"league":null,"date":"2015-16","id":687,"gguest":"0","gmaster":"0"}
+{"guest":"Werder Bremen","master":"Bayer Leverkusen","result":null,"league":null,"date":"2015-16","id":688,"gguest":"4","gmaster":"1"}
+{"guest":"Mainz","master":"Bayern Munich","result":null,"league":null,"date":"2015-16","id":689,"gguest":"2","gmaster":"1"}
+{"guest":"Eintracht Frankfurt","master":"Hertha Berlin","result":null,"league":null,"date":"2015-16","id":690,"gguest":"0","gmaster":"2"}
+{"guest":"FC Augsburg","master":"Hoffenheim","result":null,"league":null,"date":"2015-16","id":691,"gguest":"1","gmaster":"2"}
+{"guest":"Stuttgart","master":"M'gladbach","result":null,"league":null,"date":"2015-16","id":692,"gguest":"0","gmaster":"4"}
+{"guest":"Borussia Dortmund","master":"SV Darmstadt 98","result":null,"league":null,"date":"2015-16","id":693,"gguest":"2","gmaster":"0"}
+{"guest":"Hamburg","master":"Schalke","result":null,"league":null,"date":"2015-16","id":694,"gguest":"2","gmaster":"3"}
+{"guest":"Cologne","master":"FC Ingolstadt 04","result":null,"league":null,"date":"2015-16","id":695,"gguest":"1","gmaster":"1"}
+{"guest":"Wolfsburg","master":"Hannover 96","result":null,"league":null,"date":"2015-16","id":696,"gguest":"4","gmaster":"0"}
+{"guest":"M'gladbach","master":"FC Augsburg","result":null,"league":null,"date":"2015-16","id":697,"gguest":"2","gmaster":"2"}
+{"guest":"Hoffenheim","master":"Borussia Dortmund","result":null,"league":null,"date":"2015-16","id":698,"gguest":"1","gmaster":"3"}
+{"guest":"Bayer Leverkusen","master":"Mainz","result":null,"league":null,"date":"2015-16","id":699,"gguest":"1","gmaster":"3"}
+{"guest":"Schalke","master":"Eintracht Frankfurt","result":null,"league":null,"date":"2015-16","id":700,"gguest":"0","gmaster":"0"}
+{"guest":"FC Ingolstadt 04","master":"Hamburg","result":null,"league":null,"date":"2015-16","id":701,"gguest":"1","gmaster":"1"}
+{"guest":"Hannover 96","master":"Stuttgart","result":null,"league":null,"date":"2015-16","id":702,"gguest":"2","gmaster":"1"}
+{"guest":"SV Darmstadt 98","master":"Werder Bremen","result":null,"league":null,"date":"2015-16","id":703,"gguest":"2","gmaster":"2"}
+{"guest":"Bayern Munich","master":"Wolfsburg","result":null,"league":null,"date":"2015-16","id":704,"gguest":"2","gmaster":"0"}
+{"guest":"Hertha Berlin","master":"Cologne","result":null,"league":null,"date":"2015-16","id":705,"gguest":"1","gmaster":"0"}
+{"guest":"FC Augsburg","master":"Hannover 96","result":null,"league":null,"date":"2015-16","id":706,"gguest":"1","gmaster":"0"}
+{"guest":"Stuttgart","master":"Schalke","result":null,"league":null,"date":"2015-16","id":707,"gguest":"1","gmaster":"1"}
+{"guest":"SV Darmstadt 98","master":"Bayern Munich","result":null,"league":null,"date":"2015-16","id":708,"gguest":"1","gmaster":"3"}
+{"guest":"Werder Bremen","master":"FC Ingolstadt 04","result":null,"league":null,"date":"2015-16","id":709,"gguest":"0","gmaster":"2"}
+{"guest":"Wolfsburg","master":"Hertha Berlin","result":null,"league":null,"date":"2015-16","id":710,"gguest":"1","gmaster":"1"}
+{"guest":"Mainz","master":"Hoffenheim","result":null,"league":null,"date":"2015-16","id":711,"gguest":"2","gmaster":"3"}
+{"guest":"Cologne","master":"M'gladbach","result":null,"league":null,"date":"2015-16","id":712,"gguest":"0","gmaster":"1"}
+{"guest":"Hamburg","master":"Eintracht Frankfurt","result":null,"league":null,"date":"2015-16","id":713,"gguest":"0","gmaster":"0"}
+{"guest":"M'gladbach","master":"Hamburg","result":null,"league":null,"date":"2015-16","id":714,"gguest":"2","gmaster":"3"}
+{"guest":"Bayern Munich","master":"FC Augsburg","result":null,"league":null,"date":"2015-16","id":715,"gguest":"3","gmaster":"1"}
+{"guest":"Hannover 96","master":"Borussia Dortmund","result":null,"league":null,"date":"2015-16","id":716,"gguest":"0","gmaster":"1"}
+{"guest":"Bayer Leverkusen","master":"SV Darmstadt 98","result":null,"league":null,"date":"2015-16","id":717,"gguest":"2","gmaster":"1"}
+{"guest":"Hertha Berlin","master":"Stuttgart","result":null,"league":null,"date":"2015-16","id":718,"gguest":"0","gmaster":"2"}
+{"guest":"Hoffenheim","master":"Werder Bremen","result":null,"league":null,"date":"2015-16","id":719,"gguest":"1","gmaster":"1"}
+{"guest":"FC Ingolstadt 04","master":"Wolfsburg","result":null,"league":null,"date":"2015-16","id":720,"gguest":"0","gmaster":"2"}
+{"guest":"Eintracht Frankfurt","master":"Cologne","result":null,"league":null,"date":"2015-16","id":721,"gguest":"1","gmaster":"3"}
+{"guest":"Schalke","master":"Mainz","result":null,"league":null,"date":"2015-16","id":722,"gguest":"1","gmaster":"2"}
+{"guest":"Cologne","master":"Hamburg","result":null,"league":null,"date":"2015-16","id":723,"gguest":"1","gmaster":"1"}
+{"guest":"SV Darmstadt 98","master":"Hoffenheim","result":null,"league":null,"date":"2015-16","id":724,"gguest":"2","gmaster":"0"}
+{"guest":"Stuttgart","master":"Eintracht Frankfurt","result":null,"league":null,"date":"2015-16","id":725,"gguest":"4","gmaster":"2"}
+{"guest":"FC Augsburg","master":"FC Ingolstadt 04","result":null,"league":null,"date":"2015-16","id":726,"gguest":"1","gmaster":"2"}
+{"guest":"Mainz","master":"Hannover 96","result":null,"league":null,"date":"2015-16","id":727,"gguest":"1","gmaster":"0"}
+{"guest":"Borussia Dortmund","master":"Hertha Berlin","result":null,"league":null,"date":"2015-16","id":728,"gguest":"0","gmaster":"0"}
+{"guest":"Wolfsburg","master":"Schalke","result":null,"league":null,"date":"2015-16","id":729,"gguest":"0","gmaster":"3"}
+{"guest":"Bayern Munich","master":"Bayer Leverkusen","result":null,"league":null,"date":"2015-16","id":730,"gguest":"0","gmaster":"0"}
+{"guest":"Werder Bremen","master":"M'gladbach","result":null,"league":null,"date":"2015-16","id":731,"gguest":"1","gmaster":"5"}
+{"guest":"Cologne","master":"Wolfsburg","result":null,"league":null,"date":"2015-16","id":732,"gguest":"1","gmaster":"1"}
+{"guest":"Hoffenheim","master":"Bayern Munich","result":null,"league":null,"date":"2015-16","id":733,"gguest":"0","gmaster":"2"}
+{"guest":"Hannover 96","master":"Bayer Leverkusen","result":null,"league":null,"date":"2015-16","id":734,"gguest":"0","gmaster":"3"}
+{"guest":"FC Ingolstadt 04","master":"Borussia Dortmund","result":null,"league":null,"date":"2015-16","id":735,"gguest":"0","gmaster":"2"}
+{"guest":"Eintracht Frankfurt","master":"FC Augsburg","result":null,"league":null,"date":"2015-16","id":736,"gguest":"0","gmaster":"0"}
+{"guest":"Schalke","master":"SV Darmstadt 98","result":null,"league":null,"date":"2015-16","id":737,"gguest":"2","gmaster":"0"}
+{"guest":"Hertha Berlin","master":"Werder Bremen","result":null,"league":null,"date":"2015-16","id":738,"gguest":"3","gmaster":"3"}
+{"guest":"Hamburg","master":"Stuttgart","result":null,"league":null,"date":"2015-16","id":739,"gguest":"1","gmaster":"2"}
+{"guest":"M'gladbach","master":"Mainz","result":null,"league":null,"date":"2015-16","id":740,"gguest":"0","gmaster":"1"}
+{"guest":"Wolfsburg","master":"Eintracht Frankfurt","result":null,"league":null,"date":"2015-16","id":741,"gguest":"2","gmaster":"3"}
+{"guest":"Werder Bremen","master":"Schalke","result":null,"league":null,"date":"2015-16","id":742,"gguest":"3","gmaster":"1"}
+{"guest":"Stuttgart","master":"Cologne","result":null,"league":null,"date":"2015-16","id":743,"gguest":"3","gmaster":"1"}
+{"guest":"Mainz","master":"FC Ingolstadt 04","result":null,"league":null,"date":"2015-16","id":744,"gguest":"0","gmaster":"1"}
+{"guest":"SV Darmstadt 98","master":"Hannover 96","result":null,"league":null,"date":"2015-16","id":745,"gguest":"2","gmaster":"1"}
+{"guest":"FC Augsburg","master":"Hertha Berlin","result":null,"league":null,"date":"2015-16","id":746,"gguest":"0","gmaster":"0"}
+{"guest":"Bayer Leverkusen","master":"Hoffenheim","result":null,"league":null,"date":"2015-16","id":747,"gguest":"1","gmaster":"1"}
+{"guest":"Borussia Dortmund","master":"M'gladbach","result":null,"league":null,"date":"2015-16","id":748,"gguest":"3","gmaster":"1"}
+{"guest":"Bayern Munich","master":"Hamburg","result":null,"league":null,"date":"2015-16","id":749,"gguest":"2","gmaster":"1"}
+{"guest":"Mainz","master":"Hertha Berlin","result":null,"league":null,"date":"2015-16","id":750,"gguest":"0","gmaster":"2"}
+{"guest":"SV Darmstadt 98","master":"M'gladbach","result":null,"league":null,"date":"2015-16","id":751,"gguest":"2","gmaster":"3"}
+{"guest":"Borussia Dortmund","master":"Cologne","result":null,"league":null,"date":"2015-16","id":752,"gguest":"1","gmaster":"2"}
+{"guest":"Werder Bremen","master":"Eintracht Frankfurt","result":null,"league":null,"date":"2015-16","id":753,"gguest":"1","gmaster":"2"}
+{"guest":"Bayer Leverkusen","master":"FC Ingolstadt 04","result":null,"league":null,"date":"2015-16","id":754,"gguest":"1","gmaster":"0"}
+{"guest":"FC Augsburg","master":"Hamburg","result":null,"league":null,"date":"2015-16","id":755,"gguest":"1","gmaster":"0"}
+{"guest":"Bayern Munich","master":"Hannover 96","result":null,"league":null,"date":"2015-16","id":756,"gguest":"1","gmaster":"0"}
+{"guest":"Wolfsburg","master":"Stuttgart","result":null,"league":null,"date":"2015-16","id":757,"gguest":"1","gmaster":"3"}
+{"guest":"Hoffenheim","master":"Schalke","result":null,"league":null,"date":"2015-16","id":758,"gguest":"0","gmaster":"1"}
+{"guest":"Schalke","master":"FC Augsburg","result":null,"league":null,"date":"2015-16","id":759,"gguest":"1","gmaster":"2"}
+{"guest":"Eintracht Frankfurt","master":"Borussia Dortmund","result":null,"league":null,"date":"2015-16","id":760,"gguest":"1","gmaster":"4"}
+{"guest":"FC Ingolstadt 04","master":"Bayern Munich","result":null,"league":null,"date":"2015-16","id":761,"gguest":"0","gmaster":"2"}
+{"guest":"Hannover 96","master":"Hoffenheim","result":null,"league":null,"date":"2015-16","id":762,"gguest":"0","gmaster":"1"}
+{"guest":"Hertha Berlin","master":"SV Darmstadt 98","result":null,"league":null,"date":"2015-16","id":763,"gguest":"4","gmaster":"0"}
+{"guest":"Cologne","master":"Werder Bremen","result":null,"league":null,"date":"2015-16","id":764,"gguest":"1","gmaster":"1"}
+{"guest":"Hamburg","master":"Wolfsburg","result":null,"league":null,"date":"2015-16","id":765,"gguest":"1","gmaster":"1"}
+{"guest":"M'gladbach","master":"Bayer Leverkusen","result":null,"league":null,"date":"2015-16","id":766,"gguest":"0","gmaster":"5"}
+{"guest":"Stuttgart","master":"Mainz","result":null,"league":null,"date":"2015-16","id":767,"gguest":"0","gmaster":"0"}
+{"guest":"Werder Bremen","master":"Stuttgart","result":null,"league":null,"date":"2015-16","id":768,"gguest":"1","gmaster":"1"}
+{"guest":"SV Darmstadt 98","master":"Eintracht Frankfurt","result":null,"league":null,"date":"2015-16","id":769,"gguest":"1","gmaster":"0"}
+{"guest":"FC Augsburg","master":"Cologne","result":null,"league":null,"date":"2015-16","id":770,"gguest":"1","gmaster":"0"}
+{"guest":"Hoffenheim","master":"FC Ingolstadt 04","result":null,"league":null,"date":"2015-16","id":771,"gguest":"1","gmaster":"1"}
+{"guest":"Mainz","master":"Hamburg","result":null,"league":null,"date":"2015-16","id":772,"gguest":"3","gmaster":"1"}
+{"guest":"Bayer Leverkusen","master":"Hertha Berlin","result":null,"league":null,"date":"2015-16","id":773,"gguest":"1","gmaster":"2"}
+{"guest":"Bayern Munich","master":"M'gladbach","result":null,"league":null,"date":"2015-16","id":774,"gguest":"1","gmaster":"3"}
+{"guest":"Borussia Dortmund","master":"Wolfsburg","result":null,"league":null,"date":"2015-16","id":775,"gguest":"2","gmaster":"1"}
+{"guest":"Hannover 96","master":"Schalke","result":null,"league":null,"date":"2015-16","id":776,"gguest":"1","gmaster":"3"}
+{"guest":"Stuttgart","master":"Borussia Dortmund","result":null,"league":null,"date":"2015-16","id":777,"gguest":"1","gmaster":"4"}
+{"guest":"Schalke","master":"Bayer Leverkusen","result":null,"league":null,"date":"2015-16","id":778,"gguest":"1","gmaster":"1"}
+{"guest":"Wolfsburg","master":"FC Augsburg","result":null,"league":null,"date":"2015-16","id":779,"gguest":"0","gmaster":"0"}
+{"guest":"Hertha Berlin","master":"Bayern Munich","result":null,"league":null,"date":"2015-16","id":780,"gguest":"0","gmaster":"2"}
+{"guest":"FC Ingolstadt 04","master":"Hannover 96","result":null,"league":null,"date":"2015-16","id":781,"gguest":"0","gmaster":"4"}
+{"guest":"M'gladbach","master":"Hoffenheim","result":null,"league":null,"date":"2015-16","id":782,"gguest":"3","gmaster":"3"}
+{"guest":"Eintracht Frankfurt","master":"Mainz","result":null,"league":null,"date":"2015-16","id":783,"gguest":"1","gmaster":"2"}
+{"guest":"Hamburg","master":"Werder Bremen","result":null,"league":null,"date":"2015-16","id":784,"gguest":"3","gmaster":"1"}
+{"guest":"Cologne","master":"SV Darmstadt 98","result":null,"league":null,"date":"2015-16","id":785,"gguest":"0","gmaster":"0"}
+{"guest":"Hoffenheim","master":"Hertha Berlin","result":null,"league":null,"date":"2015-16","id":786,"gguest":"0","gmaster":"1"}
+{"guest":"SV Darmstadt 98","master":"FC Ingolstadt 04","result":null,"league":null,"date":"2015-16","id":787,"gguest":"1","gmaster":"3"}
+{"guest":"Mainz","master":"Cologne","result":null,"league":null,"date":"2015-16","id":788,"gguest":"0","gmaster":"0"}
+{"guest":"Bayer Leverkusen","master":"Eintracht Frankfurt","result":null,"league":null,"date":"2015-16","id":789,"gguest":"3","gmaster":"1"}
+{"guest":"Hannover 96","master":"M'gladbach","result":null,"league":null,"date":"2015-16","id":790,"gguest":"1","gmaster":"2"}
+{"guest":"FC Augsburg","master":"Stuttgart","result":null,"league":null,"date":"2015-16","id":791,"gguest":"4","gmaster":"0"}
+{"guest":"Werder Bremen","master":"Wolfsburg","result":null,"league":null,"date":"2015-16","id":792,"gguest":"0","gmaster":"6"}
+{"guest":"Bayern Munich","master":"Schalke","result":null,"league":null,"date":"2015-16","id":793,"gguest":"3","gmaster":"1"}
+{"guest":"Borussia Dortmund","master":"Hamburg","result":null,"league":null,"date":"2015-16","id":794,"gguest":"1","gmaster":"3"}
+{"guest":"Schalke","master":"Borussia Dortmund","result":null,"league":null,"date":"2015-16","id":795,"gguest":"2","gmaster":"3"}
+{"guest":"Werder Bremen","master":"FC Augsburg","result":null,"league":null,"date":"2015-16","id":796,"gguest":"2","gmaster":"1"}
+{"guest":"Cologne","master":"Bayer Leverkusen","result":null,"league":null,"date":"2015-16","id":797,"gguest":"2","gmaster":"1"}
+{"guest":"Stuttgart","master":"Bayern Munich","result":null,"league":null,"date":"2015-16","id":798,"gguest":"0","gmaster":"4"}
+{"guest":"Eintracht Frankfurt","master":"Hoffenheim","result":null,"league":null,"date":"2015-16","id":799,"gguest":"0","gmaster":"0"}
+{"guest":"SC Freiburg","master":"Bayern Munich","result":null,"league":null,"date":"2016-17","id":800,"gguest":"1","gmaster":"4"}
+{"guest":"Werder Bremen","master":"Borussia Dortmund","result":null,"league":null,"date":"2016-17","id":801,"gguest":"3","gmaster":"4"}
+{"guest":"Mainz","master":"Cologne","result":null,"league":null,"date":"2016-17","id":802,"gguest":"0","gmaster":"2"}
+{"guest":"RB Leipzig","master":"Eintracht Frankfurt","result":null,"league":null,"date":"2016-17","id":803,"gguest":"2","gmaster":"2"}
+{"guest":"Schalke","master":"FC Ingolstadt 04","result":null,"league":null,"date":"2016-17","id":804,"gguest":"1","gmaster":"1"}
+{"guest":"Wolfsburg","master":"Hamburg","result":null,"league":null,"date":"2016-17","id":805,"gguest":"1","gmaster":"2"}
+{"guest":"Bayer Leverkusen","master":"Hertha Berlin","result":null,"league":null,"date":"2016-17","id":806,"gguest":"6","gmaster":"2"}
+{"guest":"FC Augsburg","master":"Hoffenheim","result":null,"league":null,"date":"2016-17","id":807,"gguest":"0","gmaster":"0"}
+{"guest":"SV Darmstadt 98","master":"M'gladbach","result":null,"league":null,"date":"2016-17","id":808,"gguest":"2","gmaster":"2"}
+{"guest":"Cologne","master":"Bayer Leverkusen","result":null,"league":null,"date":"2016-17","id":809,"gguest":"2","gmaster":"2"}
+{"guest":"Borussia Dortmund","master":"FC Augsburg","result":null,"league":null,"date":"2016-17","id":810,"gguest":"1","gmaster":"1"}
+{"guest":"Eintracht Frankfurt","master":"Mainz","result":null,"league":null,"date":"2016-17","id":811,"gguest":"2","gmaster":"4"}
+{"guest":"Bayern Munich","master":"RB Leipzig","result":null,"league":null,"date":"2016-17","id":812,"gguest":"5","gmaster":"4"}
+{"guest":"FC Ingolstadt 04","master":"SC Freiburg","result":null,"league":null,"date":"2016-17","id":813,"gguest":"1","gmaster":"1"}
+{"guest":"Hertha Berlin","master":"SV Darmstadt 98","result":null,"league":null,"date":"2016-17","id":814,"gguest":"2","gmaster":"0"}
+{"guest":"Hamburg","master":"Schalke","result":null,"league":null,"date":"2016-17","id":815,"gguest":"1","gmaster":"1"}
+{"guest":"Hoffenheim","master":"Werder Bremen","result":null,"league":null,"date":"2016-17","id":816,"gguest":"5","gmaster":"3"}
+{"guest":"M'gladbach","master":"Wolfsburg","result":null,"league":null,"date":"2016-17","id":817,"gguest":"1","gmaster":"1"}
+{"guest":"Mainz","master":"Hamburg","result":null,"league":null,"date":"2016-17","id":818,"gguest":"0","gmaster":"0"}
+{"guest":"Schalke","master":"SC Freiburg","result":null,"league":null,"date":"2016-17","id":819,"gguest":"0","gmaster":"2"}
+{"guest":"SV Darmstadt 98","master":"Bayern Munich","result":null,"league":null,"date":"2016-17","id":820,"gguest":"0","gmaster":"1"}
+{"guest":"Hoffenheim","master":"Borussia Dortmund","result":null,"league":null,"date":"2016-17","id":821,"gguest":"1","gmaster":"2"}
+{"guest":"Wolfsburg","master":"Eintracht Frankfurt","result":null,"league":null,"date":"2016-17","id":822,"gguest":"2","gmaster":"0"}
+{"guest":"Bayer Leverkusen","master":"FC Ingolstadt 04","result":null,"league":null,"date":"2016-17","id":823,"gguest":"1","gmaster":"1"}
+{"guest":"FC Augsburg","master":"M'gladbach","result":null,"league":null,"date":"2016-17","id":824,"gguest":"1","gmaster":"1"}
+{"guest":"RB Leipzig","master":"Hertha Berlin","result":null,"league":null,"date":"2016-17","id":825,"gguest":"4","gmaster":"1"}
+{"guest":"Werder Bremen","master":"Cologne","result":null,"league":null,"date":"2016-17","id":826,"gguest":"3","gmaster":"4"}
+{"guest":"Eintracht Frankfurt","master":"Hoffenheim","result":null,"league":null,"date":"2016-17","id":827,"gguest":"0","gmaster":"1"}
+{"guest":"Cologne","master":"Borussia Dortmund","result":null,"league":null,"date":"2016-17","id":828,"gguest":"0","gmaster":"0"}
+{"guest":"M'gladbach","master":"Mainz","result":null,"league":null,"date":"2016-17","id":829,"gguest":"2","gmaster":"1"}
+{"guest":"FC Ingolstadt 04","master":"RB Leipzig","result":null,"league":null,"date":"2016-17","id":830,"gguest":"0","gmaster":"0"}
+{"guest":"SC Freiburg","master":"SV Darmstadt 98","result":null,"league":null,"date":"2016-17","id":831,"gguest":"0","gmaster":"3"}
+{"guest":"Hertha Berlin","master":"Werder Bremen","result":null,"league":null,"date":"2016-17","id":832,"gguest":"0","gmaster":"2"}
+{"guest":"Bayern Munich","master":"Wolfsburg","result":null,"league":null,"date":"2016-17","id":833,"gguest":"6","gmaster":"0"}
+{"guest":"Schalke","master":"Bayer Leverkusen","result":null,"league":null,"date":"2016-17","id":834,"gguest":"4","gmaster":"1"}
+{"guest":"Bayer Leverkusen","master":"SC Freiburg","result":null,"league":null,"date":"2016-17","id":835,"gguest":"1","gmaster":"2"}
+{"guest":"RB Leipzig","master":"Schalke","result":null,"league":null,"date":"2016-17","id":836,"gguest":"1","gmaster":"1"}
+{"guest":"Mainz","master":"Bayern Munich","result":null,"league":null,"date":"2016-17","id":837,"gguest":"2","gmaster":"2"}
+{"guest":"FC Augsburg","master":"Eintracht Frankfurt","result":null,"league":null,"date":"2016-17","id":838,"gguest":"1","gmaster":"3"}
+{"guest":"Werder Bremen","master":"FC Ingolstadt 04","result":null,"league":null,"date":"2016-17","id":839,"gguest":"4","gmaster":"2"}
+{"guest":"SV Darmstadt 98","master":"Hamburg","result":null,"league":null,"date":"2016-17","id":840,"gguest":"2","gmaster":"1"}
+{"guest":"Wolfsburg","master":"Hertha Berlin","result":null,"league":null,"date":"2016-17","id":841,"gguest":"0","gmaster":"1"}
+{"guest":"Borussia Dortmund","master":"M'gladbach","result":null,"league":null,"date":"2016-17","id":842,"gguest":"3","gmaster":"2"}
+{"guest":"Hoffenheim","master":"Cologne","result":null,"league":null,"date":"2016-17","id":843,"gguest":"1","gmaster":"1"}
+{"guest":"Hamburg","master":"Werder Bremen","result":null,"league":null,"date":"2016-17","id":844,"gguest":"1","gmaster":"2"}
+{"guest":"Schalke","master":"SV Darmstadt 98","result":null,"league":null,"date":"2016-17","id":845,"gguest":"1","gmaster":"2"}
+{"guest":"Eintracht Frankfurt","master":"Borussia Dortmund","result":null,"league":null,"date":"2016-17","id":846,"gguest":"1","gmaster":"3"}
+{"guest":"Cologne","master":"FC Augsburg","result":null,"league":null,"date":"2016-17","id":847,"gguest":"1","gmaster":"2"}
+{"guest":"M'gladbach","master":"Hoffenheim","result":null,"league":null,"date":"2016-17","id":848,"gguest":"3","gmaster":"5"}
+{"guest":"Hertha Berlin","master":"Mainz","result":null,"league":null,"date":"2016-17","id":849,"gguest":"0","gmaster":"1"}
+{"guest":"FC Ingolstadt 04","master":"Wolfsburg","result":null,"league":null,"date":"2016-17","id":850,"gguest":"0","gmaster":"3"}
+{"guest":"Bayern Munich","master":"Bayer Leverkusen","result":null,"league":null,"date":"2016-17","id":851,"gguest":"0","gmaster":"0"}
+{"guest":"FC Augsburg","master":"Hertha Berlin","result":null,"league":null,"date":"2016-17","id":852,"gguest":"0","gmaster":"2"}
+{"guest":"SV Darmstadt 98","master":"FC Ingolstadt 04","result":null,"league":null,"date":"2016-17","id":853,"gguest":"2","gmaster":"3"}
+{"guest":"M'gladbach","master":"Cologne","result":null,"league":null,"date":"2016-17","id":854,"gguest":"3","gmaster":"2"}
+{"guest":"Hoffenheim","master":"Hamburg","result":null,"league":null,"date":"2016-17","id":855,"gguest":"1","gmaster":"2"}
+{"guest":"Bayer Leverkusen","master":"RB Leipzig","result":null,"league":null,"date":"2016-17","id":856,"gguest":"0","gmaster":"1"}
+{"guest":"Mainz","master":"SC Freiburg","result":null,"league":null,"date":"2016-17","id":857,"gguest":"0","gmaster":"1"}
+{"guest":"Wolfsburg","master":"Schalke","result":null,"league":null,"date":"2016-17","id":858,"gguest":"1","gmaster":"4"}
+{"guest":"Borussia Dortmund","master":"Bayern Munich","result":null,"league":null,"date":"2016-17","id":859,"gguest":"1","gmaster":"4"}
+{"guest":"Werder Bremen","master":"Eintracht Frankfurt","result":null,"league":null,"date":"2016-17","id":860,"gguest":"2","gmaster":"2"}
+{"guest":"FC Ingolstadt 04","master":"FC Augsburg","result":null,"league":null,"date":"2016-17","id":861,"gguest":"3","gmaster":"2"}
+{"guest":"Hertha Berlin","master":"M'gladbach","result":null,"league":null,"date":"2016-17","id":862,"gguest":"0","gmaster":"1"}
+{"guest":"RB Leipzig","master":"Mainz","result":null,"league":null,"date":"2016-17","id":863,"gguest":"3","gmaster":"2"}
+{"guest":"Bayer Leverkusen","master":"SV Darmstadt 98","result":null,"league":null,"date":"2016-17","id":864,"gguest":"2","gmaster":"0"}
+{"guest":"SC Freiburg","master":"Wolfsburg","result":null,"league":null,"date":"2016-17","id":865,"gguest":"1","gmaster":"0"}
+{"guest":"Hamburg","master":"Borussia Dortmund","result":null,"league":null,"date":"2016-17","id":866,"gguest":"0","gmaster":"3"}
+{"guest":"Eintracht Frankfurt","master":"Cologne","result":null,"league":null,"date":"2016-17","id":867,"gguest":"0","gmaster":"1"}
+{"guest":"Bayern Munich","master":"Hoffenheim","result":null,"league":null,"date":"2016-17","id":868,"gguest":"0","gmaster":"1"}
+{"guest":"Schalke","master":"Werder Bremen","result":null,"league":null,"date":"2016-17","id":869,"gguest":"0","gmaster":"3"}
+{"guest":"Mainz","master":"FC Ingolstadt 04","result":null,"league":null,"date":"2016-17","id":870,"gguest":"1","gmaster":"2"}
+{"guest":"Wolfsburg","master":"Bayer Leverkusen","result":null,"league":null,"date":"2016-17","id":871,"gguest":"3","gmaster":"3"}
+{"guest":"FC Augsburg","master":"Bayern Munich","result":null,"league":null,"date":"2016-17","id":872,"gguest":"0","gmaster":"6"}
+{"guest":"Cologne","master":"Hamburg","result":null,"league":null,"date":"2016-17","id":873,"gguest":"1","gmaster":"2"}
+{"guest":"SV Darmstadt 98","master":"RB Leipzig","result":null,"league":null,"date":"2016-17","id":874,"gguest":"0","gmaster":"4"}
+{"guest":"Werder Bremen","master":"SC Freiburg","result":null,"league":null,"date":"2016-17","id":875,"gguest":"5","gmaster":"2"}
+{"guest":"Borussia Dortmund","master":"Schalke","result":null,"league":null,"date":"2016-17","id":876,"gguest":"1","gmaster":"1"}
+{"guest":"M'gladbach","master":"Eintracht Frankfurt","result":null,"league":null,"date":"2016-17","id":877,"gguest":"0","gmaster":"0"}
+{"guest":"Hoffenheim","master":"Hertha Berlin","result":null,"league":null,"date":"2016-17","id":878,"gguest":"3","gmaster":"1"}
+{"guest":"Schalke","master":"Mainz","result":null,"league":null,"date":"2016-17","id":879,"gguest":"1","gmaster":"0"}
+{"guest":"Bayern Munich","master":"M'gladbach","result":null,"league":null,"date":"2016-17","id":880,"gguest":"1","gmaster":"0"}
+{"guest":"Hertha Berlin","master":"Cologne","result":null,"league":null,"date":"2016-17","id":881,"gguest":"2","gmaster":"4"}
+{"guest":"SC Freiburg","master":"FC Augsburg","result":null,"league":null,"date":"2016-17","id":882,"gguest":"1","gmaster":"1"}
+{"guest":"Bayer Leverkusen","master":"Hoffenheim","result":null,"league":null,"date":"2016-17","id":883,"gguest":"0","gmaster":"1"}
+{"guest":"RB Leipzig","master":"Werder Bremen","result":null,"league":null,"date":"2016-17","id":884,"gguest":"0","gmaster":"3"}
+{"guest":"SV Darmstadt 98","master":"Wolfsburg","result":null,"league":null,"date":"2016-17","id":885,"gguest":"0","gmaster":"1"}
+{"guest":"Hamburg","master":"Eintracht Frankfurt","result":null,"league":null,"date":"2016-17","id":886,"gguest":"0","gmaster":"0"}
+{"guest":"FC Ingolstadt 04","master":"Borussia Dortmund","result":null,"league":null,"date":"2016-17","id":887,"gguest":"0","gmaster":"1"}
+{"guest":"FC Augsburg","master":"Schalke","result":null,"league":null,"date":"2016-17","id":888,"gguest":"0","gmaster":"3"}
+{"guest":"M'gladbach","master":"Hamburg","result":null,"league":null,"date":"2016-17","id":889,"gguest":"1","gmaster":"2"}
+{"guest":"Eintracht Frankfurt","master":"Bayern Munich","result":null,"league":null,"date":"2016-17","id":890,"gguest":"0","gmaster":"3"}
+{"guest":"Borussia Dortmund","master":"Hertha Berlin","result":null,"league":null,"date":"2016-17","id":891,"gguest":"1","gmaster":"2"}
+{"guest":"Wolfsburg","master":"RB Leipzig","result":null,"league":null,"date":"2016-17","id":892,"gguest":"1","gmaster":"0"}
+{"guest":"Hoffenheim","master":"SC Freiburg","result":null,"league":null,"date":"2016-17","id":893,"gguest":"1","gmaster":"1"}
+{"guest":"Mainz","master":"SV Darmstadt 98","result":null,"league":null,"date":"2016-17","id":894,"gguest":"1","gmaster":"2"}
+{"guest":"Cologne","master":"FC Ingolstadt 04","result":null,"league":null,"date":"2016-17","id":895,"gguest":"2","gmaster":"2"}
+{"guest":"Werder Bremen","master":"Bayer Leverkusen","result":null,"league":null,"date":"2016-17","id":896,"gguest":"1","gmaster":"1"}
+{"guest":"SC Freiburg","master":"Eintracht Frankfurt","result":null,"league":null,"date":"2016-17","id":897,"gguest":"2","gmaster":"1"}
+{"guest":"Hertha Berlin","master":"Hamburg","result":null,"league":null,"date":"2016-17","id":898,"gguest":"0","gmaster":"1"}
+{"guest":"Bayer Leverkusen","master":"Borussia Dortmund","result":null,"league":null,"date":"2016-17","id":899,"gguest":"2","gmaster":"6"}
+{"guest":"Bayern Munich","master":"Cologne","result":null,"league":null,"date":"2016-17","id":900,"gguest":"3","gmaster":"0"}
+{"guest":"FC Ingolstadt 04","master":"Hoffenheim","result":null,"league":null,"date":"2016-17","id":901,"gguest":"2","gmaster":"5"}
+{"guest":"Wolfsburg","master":"Mainz","result":null,"league":null,"date":"2016-17","id":902,"gguest":"1","gmaster":"1"}
+{"guest":"SV Darmstadt 98","master":"Werder Bremen","result":null,"league":null,"date":"2016-17","id":903,"gguest":"0","gmaster":"2"}
+{"guest":"Schalke","master":"M'gladbach","result":null,"league":null,"date":"2016-17","id":904,"gguest":"2","gmaster":"4"}
+{"guest":"RB Leipzig","master":"FC Augsburg","result":null,"league":null,"date":"2016-17","id":905,"gguest":"2","gmaster":"2"}
+{"guest":"M'gladbach","master":"FC Ingolstadt 04","result":null,"league":null,"date":"2016-17","id":906,"gguest":"2","gmaster":"0"}
+{"guest":"Hoffenheim","master":"Schalke","result":null,"league":null,"date":"2016-17","id":907,"gguest":"1","gmaster":"1"}
+{"guest":"Mainz","master":"Bayer Leverkusen","result":null,"league":null,"date":"2016-17","id":908,"gguest":"2","gmaster":"0"}
+{"guest":"Hamburg","master":"Bayern Munich","result":null,"league":null,"date":"2016-17","id":909,"gguest":"0","gmaster":"8"}
+{"guest":"Cologne","master":"RB Leipzig","result":null,"league":null,"date":"2016-17","id":910,"gguest":"1","gmaster":"3"}
+{"guest":"Borussia Dortmund","master":"SC Freiburg","result":null,"league":null,"date":"2016-17","id":911,"gguest":"3","gmaster":"0"}
+{"guest":"FC Augsburg","master":"SV Darmstadt 98","result":null,"league":null,"date":"2016-17","id":912,"gguest":"2","gmaster":"1"}
+{"guest":"Eintracht Frankfurt","master":"Hertha Berlin","result":null,"league":null,"date":"2016-17","id":913,"gguest":"0","gmaster":"2"}
+{"guest":"Werder Bremen","master":"Wolfsburg","result":null,"league":null,"date":"2016-17","id":914,"gguest":"2","gmaster":"1"}
+{"guest":"RB Leipzig","master":"M'gladbach","result":null,"league":null,"date":"2016-17","id":915,"gguest":"2","gmaster":"1"}
+{"guest":"Schalke","master":"Cologne","result":null,"league":null,"date":"2016-17","id":916,"gguest":"1","gmaster":"1"}
+{"guest":"Wolfsburg","master":"Borussia Dortmund","result":null,"league":null,"date":"2016-17","id":917,"gguest":"0","gmaster":"3"}
+{"guest":"FC Ingolstadt 04","master":"Eintracht Frankfurt","result":null,"league":null,"date":"2016-17","id":918,"gguest":"2","gmaster":"0"}
+{"guest":"Bayern Munich","master":"Hertha Berlin","result":null,"league":null,"date":"2016-17","id":919,"gguest":"1","gmaster":"1"}
+{"guest":"SV Darmstadt 98","master":"Hoffenheim","result":null,"league":null,"date":"2016-17","id":920,"gguest":"0","gmaster":"2"}
+{"guest":"Werder Bremen","master":"Mainz","result":null,"league":null,"date":"2016-17","id":921,"gguest":"2","gmaster":"0"}
+{"guest":"SC Freiburg","master":"Hamburg","result":null,"league":null,"date":"2016-17","id":922,"gguest":"2","gmaster":"2"}
+{"guest":"Bayer Leverkusen","master":"FC Augsburg","result":null,"league":null,"date":"2016-17","id":923,"gguest":"3","gmaster":"1"}
+{"guest":"Hoffenheim","master":"Wolfsburg","result":null,"league":null,"date":"2016-17","id":924,"gguest":"1","gmaster":"2"}
+{"guest":"Cologne","master":"SC Freiburg","result":null,"league":null,"date":"2016-17","id":925,"gguest":"1","gmaster":"2"}
+{"guest":"Eintracht Frankfurt","master":"Bayer Leverkusen","result":null,"league":null,"date":"2016-17","id":926,"gguest":"0","gmaster":"3"}
+{"guest":"Bayern Munich","master":"FC Ingolstadt 04","result":null,"league":null,"date":"2016-17","id":927,"gguest":"2","gmaster":"0"}
+{"guest":"Hamburg","master":"RB Leipzig","result":null,"league":null,"date":"2016-17","id":928,"gguest":"3","gmaster":"0"}
+{"guest":"Borussia Dortmund","master":"SV Darmstadt 98","result":null,"league":null,"date":"2016-17","id":929,"gguest":"1","gmaster":"2"}
+{"guest":"M'gladbach","master":"Werder Bremen","result":null,"league":null,"date":"2016-17","id":930,"gguest":"1","gmaster":"0"}
+{"guest":"Hertha Berlin","master":"Schalke","result":null,"league":null,"date":"2016-17","id":931,"gguest":"0","gmaster":"2"}
+{"guest":"FC Augsburg","master":"Mainz","result":null,"league":null,"date":"2016-17","id":932,"gguest":"0","gmaster":"2"}
+{"guest":"Werder Bremen","master":"FC Augsburg","result":null,"league":null,"date":"2016-17","id":933,"gguest":"2","gmaster":"3"}
+{"guest":"SV Darmstadt 98","master":"Eintracht Frankfurt","result":null,"league":null,"date":"2016-17","id":934,"gguest":"0","gmaster":"2"}
+{"guest":"Schalke","master":"Bayern Munich","result":null,"league":null,"date":"2016-17","id":935,"gguest":"1","gmaster":"1"}
+{"guest":"Wolfsburg","master":"Cologne","result":null,"league":null,"date":"2016-17","id":936,"gguest":"0","gmaster":"1"}
+{"guest":"FC Ingolstadt 04","master":"Hertha Berlin","result":null,"league":null,"date":"2016-17","id":937,"gguest":"0","gmaster":"1"}
+{"guest":"Mainz","master":"Hoffenheim","result":null,"league":null,"date":"2016-17","id":938,"gguest":"0","gmaster":"4"}
+{"guest":"SC Freiburg","master":"M'gladbach","result":null,"league":null,"date":"2016-17","id":939,"gguest":"0","gmaster":"3"}
+{"guest":"RB Leipzig","master":"Borussia Dortmund","result":null,"league":null,"date":"2016-17","id":940,"gguest":"0","gmaster":"1"}
+{"guest":"Bayer Leverkusen","master":"Hamburg","result":null,"league":null,"date":"2016-17","id":941,"gguest":"0","gmaster":"1"}
+{"guest":"Hertha Berlin","master":"SC Freiburg","result":null,"league":null,"date":"2016-17","id":942,"gguest":"1","gmaster":"2"}
+{"guest":"Borussia Dortmund","master":"Mainz","result":null,"league":null,"date":"2016-17","id":943,"gguest":"1","gmaster":"1"}
+{"guest":"Hamburg","master":"FC Ingolstadt 04","result":null,"league":null,"date":"2016-17","id":944,"gguest":"1","gmaster":"3"}
+{"guest":"Hoffenheim","master":"RB Leipzig","result":null,"league":null,"date":"2016-17","id":945,"gguest":"1","gmaster":"2"}
+{"guest":"Cologne","master":"SV Darmstadt 98","result":null,"league":null,"date":"2016-17","id":946,"gguest":"6","gmaster":"1"}
+{"guest":"Bayern Munich","master":"Werder Bremen","result":null,"league":null,"date":"2016-17","id":947,"gguest":"2","gmaster":"1"}
+{"guest":"FC Augsburg","master":"Wolfsburg","result":null,"league":null,"date":"2016-17","id":948,"gguest":"2","gmaster":"1"}
+{"guest":"M'gladbach","master":"Bayer Leverkusen","result":null,"league":null,"date":"2016-17","id":949,"gguest":"3","gmaster":"2"}
+{"guest":"Eintracht Frankfurt","master":"Schalke","result":null,"league":null,"date":"2016-17","id":950,"gguest":"1","gmaster":"0"}
+{"guest":"Hertha Berlin","master":"Bayer Leverkusen","result":null,"league":null,"date":"2016-17","id":951,"gguest":"1","gmaster":"3"}
+{"guest":"Cologne","master":"Mainz","result":null,"league":null,"date":"2016-17","id":952,"gguest":"0","gmaster":"0"}
+{"guest":"Hoffenheim","master":"FC Augsburg","result":null,"league":null,"date":"2016-17","id":953,"gguest":"2","gmaster":"0"}
+{"guest":"M'gladbach","master":"SV Darmstadt 98","result":null,"league":null,"date":"2016-17","id":954,"gguest":"0","gmaster":"0"}
+{"guest":"FC Ingolstadt 04","master":"Schalke","result":null,"league":null,"date":"2016-17","id":955,"gguest":"0","gmaster":"1"}
+{"guest":"Borussia Dortmund","master":"Werder Bremen","result":null,"league":null,"date":"2016-17","id":956,"gguest":"2","gmaster":"1"}
+{"guest":"Hamburg","master":"Wolfsburg","result":null,"league":null,"date":"2016-17","id":957,"gguest":"0","gmaster":"1"}
+{"guest":"Eintracht Frankfurt","master":"RB Leipzig","result":null,"league":null,"date":"2016-17","id":958,"gguest":"0","gmaster":"3"}
+{"guest":"Bayern Munich","master":"SC Freiburg","result":null,"league":null,"date":"2016-17","id":959,"gguest":"2","gmaster":"1"}
+{"guest":"RB Leipzig","master":"Bayern Munich","result":null,"league":null,"date":"2016-17","id":960,"gguest":"0","gmaster":"3"}
+{"guest":"Bayer Leverkusen","master":"Cologne","result":null,"league":null,"date":"2016-17","id":961,"gguest":"1","gmaster":"1"}
+{"guest":"SC Freiburg","master":"FC Ingolstadt 04","result":null,"league":null,"date":"2016-17","id":962,"gguest":"2","gmaster":"1"}
+{"guest":"SV Darmstadt 98","master":"Hertha Berlin","result":null,"league":null,"date":"2016-17","id":963,"gguest":"0","gmaster":"2"}
+{"guest":"Werder Bremen","master":"Hoffenheim","result":null,"league":null,"date":"2016-17","id":964,"gguest":"1","gmaster":"1"}
+{"guest":"FC Augsburg","master":"Borussia Dortmund","result":null,"league":null,"date":"2016-17","id":965,"gguest":"1","gmaster":"1"}
+{"guest":"Mainz","master":"Eintracht Frankfurt","result":null,"league":null,"date":"2016-17","id":966,"gguest":"0","gmaster":"3"}
+{"guest":"Schalke","master":"Hamburg","result":null,"league":null,"date":"2016-17","id":967,"gguest":"1","gmaster":"2"}
+{"guest":"Wolfsburg","master":"M'gladbach","result":null,"league":null,"date":"2016-17","id":968,"gguest":"2","gmaster":"1"}
+{"guest":"Bayern Munich","master":"SV Darmstadt 98","result":null,"league":null,"date":"2016-17","id":969,"gguest":"1","gmaster":"0"}
+{"guest":"FC Ingolstadt 04","master":"Bayer Leverkusen","result":null,"league":null,"date":"2016-17","id":970,"gguest":"2","gmaster":"1"}
+{"guest":"M'gladbach","master":"FC Augsburg","result":null,"league":null,"date":"2016-17","id":971,"gguest":"0","gmaster":"1"}
+{"guest":"Hamburg","master":"Mainz","result":null,"league":null,"date":"2016-17","id":972,"gguest":"1","gmaster":"3"}
+{"guest":"Hertha Berlin","master":"RB Leipzig","result":null,"league":null,"date":"2016-17","id":973,"gguest":"0","gmaster":"2"}
+{"guest":"SC Freiburg","master":"Schalke","result":null,"league":null,"date":"2016-17","id":974,"gguest":"1","gmaster":"1"}
+{"guest":"Cologne","master":"Werder Bremen","result":null,"league":null,"date":"2016-17","id":975,"gguest":"1","gmaster":"1"}
+{"guest":"Eintracht Frankfurt","master":"Wolfsburg","result":null,"league":null,"date":"2016-17","id":976,"gguest":"0","gmaster":"1"}
+{"guest":"Borussia Dortmund","master":"Hoffenheim","result":null,"league":null,"date":"2016-17","id":977,"gguest":"2","gmaster":"2"}
+{"guest":"Mainz","master":"M'gladbach","result":null,"league":null,"date":"2016-17","id":978,"gguest":"0","gmaster":"1"}
+{"guest":"Bayer Leverkusen","master":"Schalke","result":null,"league":null,"date":"2016-17","id":979,"gguest":"1","gmaster":"0"}
+{"guest":"Wolfsburg","master":"Bayern Munich","result":null,"league":null,"date":"2016-17","id":980,"gguest":"0","gmaster":"5"}
+{"guest":"Borussia Dortmund","master":"Cologne","result":null,"league":null,"date":"2016-17","id":981,"gguest":"1","gmaster":"1"}
+{"guest":"RB Leipzig","master":"FC Ingolstadt 04","result":null,"league":null,"date":"2016-17","id":982,"gguest":"0","gmaster":"1"}
+{"guest":"FC Augsburg","master":"Hamburg","result":null,"league":null,"date":"2016-17","id":983,"gguest":"0","gmaster":"1"}
+{"guest":"SV Darmstadt 98","master":"SC Freiburg","result":null,"league":null,"date":"2016-17","id":984,"gguest":"0","gmaster":"1"}
+{"guest":"Werder Bremen","master":"Hertha Berlin","result":null,"league":null,"date":"2016-17","id":985,"gguest":"1","gmaster":"0"}
+{"guest":"Hoffenheim","master":"Eintracht Frankfurt","result":null,"league":null,"date":"2016-17","id":986,"gguest":"0","gmaster":"0"}
+{"guest":"Hamburg","master":"SV Darmstadt 98","result":null,"league":null,"date":"2016-17","id":987,"gguest":"2","gmaster":"0"}
+{"guest":"Eintracht Frankfurt","master":"FC Augsburg","result":null,"league":null,"date":"2016-17","id":988,"gguest":"1","gmaster":"1"}
+{"guest":"SC Freiburg","master":"Bayer Leverkusen","result":null,"league":null,"date":"2016-17","id":989,"gguest":"1","gmaster":"1"}
+{"guest":"M'gladbach","master":"Borussia Dortmund","result":null,"league":null,"date":"2016-17","id":990,"gguest":"1","gmaster":"4"}
+{"guest":"Cologne","master":"Hoffenheim","result":null,"league":null,"date":"2016-17","id":991,"gguest":"0","gmaster":"4"}
+{"guest":"FC Ingolstadt 04","master":"Werder Bremen","result":null,"league":null,"date":"2016-17","id":992,"gguest":"1","gmaster":"2"}
+{"guest":"Hertha Berlin","master":"Wolfsburg","result":null,"league":null,"date":"2016-17","id":993,"gguest":"3","gmaster":"2"}
+{"guest":"Schalke","master":"RB Leipzig","result":null,"league":null,"date":"2016-17","id":994,"gguest":"1","gmaster":"2"}
+{"guest":"Bayern Munich","master":"Mainz","result":null,"league":null,"date":"2016-17","id":995,"gguest":"3","gmaster":"1"}
+{"guest":"SV Darmstadt 98","master":"Schalke","result":null,"league":null,"date":"2016-17","id":996,"gguest":"1","gmaster":"3"}
+{"guest":"Mainz","master":"Hertha Berlin","result":null,"league":null,"date":"2016-17","id":997,"gguest":"1","gmaster":"2"}
+{"guest":"FC Augsburg","master":"Cologne","result":null,"league":null,"date":"2016-17","id":998,"gguest":"0","gmaster":"0"}
+{"guest":"Borussia Dortmund","master":"Eintracht Frankfurt","result":null,"league":null,"date":"2016-17","id":999,"gguest":"1","gmaster":"2"}
+{"guest":"Eintracht Frankfurt","master":"Hertha Berlin","result":null,"league":null,"date":"2017-18","id":1000,"gguest":"2","gmaster":"1"}
+{"guest":"M'gladbach","master":"Wolfsburg","result":null,"league":null,"date":"2017-18","id":1001,"gguest":"0","gmaster":"3"}
+{"guest":"Borussia Dortmund","master":"Bayer Leverkusen","result":null,"league":null,"date":"2017-18","id":1002,"gguest":"1","gmaster":"1"}
+{"guest":"Hannover 96","master":"Bayern Munich","result":null,"league":null,"date":"2017-18","id":1003,"gguest":"1","gmaster":"3"}
+{"guest":"RB Leipzig","master":"Hoffenheim","result":null,"league":null,"date":"2017-18","id":1004,"gguest":"0","gmaster":"4"}
+{"guest":"FC Augsburg","master":"Mainz","result":null,"league":null,"date":"2017-18","id":1005,"gguest":"3","gmaster":"1"}
+{"guest":"Stuttgart","master":"Werder Bremen","result":null,"league":null,"date":"2017-18","id":1006,"gguest":"0","gmaster":"1"}
+{"guest":"Cologne","master":"Schalke","result":null,"league":null,"date":"2017-18","id":1007,"gguest":"2","gmaster":"2"}
+{"guest":"Hamburg","master":"SC Freiburg","result":null,"league":null,"date":"2017-18","id":1008,"gguest":"0","gmaster":"0"}
+{"guest":"Hoffenheim","master":"Hamburg","result":null,"league":null,"date":"2017-18","id":1009,"gguest":"0","gmaster":"3"}
+{"guest":"Hertha Berlin","master":"Cologne","result":null,"league":null,"date":"2017-18","id":1010,"gguest":"2","gmaster":"0"}
+{"guest":"Schalke","master":"Borussia Dortmund","result":null,"league":null,"date":"2017-18","id":1011,"gguest":"4","gmaster":"4"}
+{"guest":"Bayer Leverkusen","master":"Eintracht Frankfurt","result":null,"league":null,"date":"2017-18","id":1012,"gguest":"1","gmaster":"0"}
+{"guest":"Wolfsburg","master":"FC Augsburg","result":null,"league":null,"date":"2017-18","id":1013,"gguest":"1","gmaster":"2"}
+{"guest":"Werder Bremen","master":"RB Leipzig","result":null,"league":null,"date":"2017-18","id":1014,"gguest":"0","gmaster":"2"}
+{"guest":"Mainz","master":"SC Freiburg","result":null,"league":null,"date":"2017-18","id":1015,"gguest":"1","gmaster":"2"}
+{"guest":"Bayern Munich","master":"M'gladbach","result":null,"league":null,"date":"2017-18","id":1016,"gguest":"1","gmaster":"2"}
+{"guest":"Stuttgart","master":"Hannover 96","result":null,"league":null,"date":"2017-18","id":1017,"gguest":"1","gmaster":"1"}
+{"guest":"Hamburg","master":"Schalke","result":null,"league":null,"date":"2017-18","id":1018,"gguest":"0","gmaster":"2"}
+{"guest":"Hannover 96","master":"Werder Bremen","result":null,"league":null,"date":"2017-18","id":1019,"gguest":"0","gmaster":"4"}
+{"guest":"RB Leipzig","master":"Bayer Leverkusen","result":null,"league":null,"date":"2017-18","id":1020,"gguest":"2","gmaster":"2"}
+{"guest":"FC Augsburg","master":"Bayern Munich","result":null,"league":null,"date":"2017-18","id":1021,"gguest":"0","gmaster":"3"}
+{"guest":"Eintracht Frankfurt","master":"Hoffenheim","result":null,"league":null,"date":"2017-18","id":1022,"gguest":"1","gmaster":"1"}
+{"guest":"Cologne","master":"Mainz","result":null,"league":null,"date":"2017-18","id":1023,"gguest":"0","gmaster":"1"}
+{"guest":"SC Freiburg","master":"Wolfsburg","result":null,"league":null,"date":"2017-18","id":1024,"gguest":"1","gmaster":"3"}
+{"guest":"M'gladbach","master":"Hertha Berlin","result":null,"league":null,"date":"2017-18","id":1025,"gguest":"4","gmaster":"2"}
+{"guest":"Borussia Dortmund","master":"Stuttgart","result":null,"league":null,"date":"2017-18","id":1026,"gguest":"1","gmaster":"2"}
+{"guest":"Hoffenheim","master":"Cologne","result":null,"league":null,"date":"2017-18","id":1027,"gguest":"3","gmaster":"0"}
+{"guest":"Hertha Berlin","master":"Wolfsburg","result":null,"league":null,"date":"2017-18","id":1028,"gguest":"3","gmaster":"3"}
+{"guest":"Bayer Leverkusen","master":"FC Augsburg","result":null,"league":null,"date":"2017-18","id":1029,"gguest":"1","gmaster":"1"}
+{"guest":"Stuttgart","master":"Hamburg","result":null,"league":null,"date":"2017-18","id":1030,"gguest":"1","gmaster":"3"}
+{"guest":"Mainz","master":"M'gladbach","result":null,"league":null,"date":"2017-18","id":1031,"gguest":"1","gmaster":"1"}
+{"guest":"Hannover 96","master":"RB Leipzig","result":null,"league":null,"date":"2017-18","id":1032,"gguest":"1","gmaster":"2"}
+{"guest":"Schalke","master":"SC Freiburg","result":null,"league":null,"date":"2017-18","id":1033,"gguest":"1","gmaster":"0"}
+{"guest":"Bayern Munich","master":"Borussia Dortmund","result":null,"league":null,"date":"2017-18","id":1034,"gguest":"3","gmaster":"1"}
+{"guest":"Werder Bremen","master":"Eintracht Frankfurt","result":null,"league":null,"date":"2017-18","id":1035,"gguest":"1","gmaster":"2"}
+{"guest":"FC Augsburg","master":"Werder Bremen","result":null,"league":null,"date":"2017-18","id":1036,"gguest":"3","gmaster":"0"}
+{"guest":"SC Freiburg","master":"Stuttgart","result":null,"league":null,"date":"2017-18","id":1037,"gguest":"0","gmaster":"3"}
+{"guest":"Cologne","master":"Bayer Leverkusen","result":null,"league":null,"date":"2017-18","id":1038,"gguest":"1","gmaster":"2"}
+{"guest":"Borussia Dortmund","master":"Hannover 96","result":null,"league":null,"date":"2017-18","id":1039,"gguest":"2","gmaster":"4"}
+{"guest":"Hamburg","master":"Hertha Berlin","result":null,"league":null,"date":"2017-18","id":1040,"gguest":"1","gmaster":"2"}
+{"guest":"M'gladbach","master":"Hoffenheim","result":null,"league":null,"date":"2017-18","id":1041,"gguest":"3","gmaster":"1"}
+{"guest":"Wolfsburg","master":"Schalke","result":null,"league":null,"date":"2017-18","id":1042,"gguest":"1","gmaster":"1"}
+{"guest":"RB Leipzig","master":"Bayern Munich","result":null,"league":null,"date":"2017-18","id":1043,"gguest":"0","gmaster":"2"}
+{"guest":"Eintracht Frankfurt","master":"Mainz","result":null,"league":null,"date":"2017-18","id":1044,"gguest":"1","gmaster":"1"}
+{"guest":"Werder Bremen","master":"Cologne","result":null,"league":null,"date":"2017-18","id":1045,"gguest":"0","gmaster":"0"}
+{"guest":"Hertha Berlin","master":"SC Freiburg","result":null,"league":null,"date":"2017-18","id":1046,"gguest":"1","gmaster":"1"}
+{"guest":"Hoffenheim","master":"Wolfsburg","result":null,"league":null,"date":"2017-18","id":1047,"gguest":"1","gmaster":"1"}
+{"guest":"Borussia Dortmund","master":"Eintracht Frankfurt","result":null,"league":null,"date":"2017-18","id":1048,"gguest":"2","gmaster":"2"}
+{"guest":"Hannover 96","master":"FC Augsburg","result":null,"league":null,"date":"2017-18","id":1049,"gguest":"2","gmaster":"1"}
+{"guest":"Bayer Leverkusen","master":"M'gladbach","result":null,"league":null,"date":"2017-18","id":1050,"gguest":"5","gmaster":"1"}
+{"guest":"Stuttgart","master":"RB Leipzig","result":null,"league":null,"date":"2017-18","id":1051,"gguest":"0","gmaster":"1"}
+{"guest":"Bayern Munich","master":"Hamburg","result":null,"league":null,"date":"2017-18","id":1052,"gguest":"1","gmaster":"0"}
+{"guest":"Mainz","master":"Schalke","result":null,"league":null,"date":"2017-18","id":1053,"gguest":"0","gmaster":"2"}
+{"guest":"Wolfsburg","master":"Bayer Leverkusen","result":null,"league":null,"date":"2017-18","id":1054,"gguest":"2","gmaster":"2"}
+{"guest":"M'gladbach","master":"Werder Bremen","result":null,"league":null,"date":"2017-18","id":1055,"gguest":"2","gmaster":"0"}
+{"guest":"SC Freiburg","master":"Bayern Munich","result":null,"league":null,"date":"2017-18","id":1056,"gguest":"0","gmaster":"5"}
+{"guest":"Eintracht Frankfurt","master":"Hannover 96","result":null,"league":null,"date":"2017-18","id":1057,"gguest":"2","gmaster":"1"}
+{"guest":"Schalke","master":"Hertha Berlin","result":null,"league":null,"date":"2017-18","id":1058,"gguest":"2","gmaster":"0"}
+{"guest":"FC Augsburg","master":"Hoffenheim","result":null,"league":null,"date":"2017-18","id":1059,"gguest":"2","gmaster":"2"}
+{"guest":"Hamburg","master":"Mainz","result":null,"league":null,"date":"2017-18","id":1060,"gguest":"2","gmaster":"3"}
+{"guest":"RB Leipzig","master":"Borussia Dortmund","result":null,"league":null,"date":"2017-18","id":1061,"gguest":"3","gmaster":"2"}
+{"guest":"Cologne","master":"Stuttgart","result":null,"league":null,"date":"2017-18","id":1062,"gguest":"1","gmaster":"2"}
+{"guest":"Hoffenheim","master":"SC Freiburg","result":null,"league":null,"date":"2017-18","id":1063,"gguest":"2","gmaster":"3"}
+{"guest":"Bayern Munich","master":"Hertha Berlin","result":null,"league":null,"date":"2017-18","id":1064,"gguest":"2","gmaster":"2"}
+{"guest":"RB Leipzig","master":"Cologne","result":null,"league":null,"date":"2017-18","id":1065,"gguest":"2","gmaster":"1"}
+{"guest":"Stuttgart","master":"Eintracht Frankfurt","result":null,"league":null,"date":"2017-18","id":1066,"gguest":"1","gmaster":"2"}
+{"guest":"Borussia Dortmund","master":"FC Augsburg","result":null,"league":null,"date":"2017-18","id":1067,"gguest":"2","gmaster":"1"}
+{"guest":"Hannover 96","master":"M'gladbach","result":null,"league":null,"date":"2017-18","id":1068,"gguest":"1","gmaster":"2"}
+{"guest":"Mainz","master":"Wolfsburg","result":null,"league":null,"date":"2017-18","id":1069,"gguest":"1","gmaster":"1"}
+{"guest":"Werder Bremen","master":"Hamburg","result":null,"league":null,"date":"2017-18","id":1070,"gguest":"0","gmaster":"0"}
+{"guest":"Bayer Leverkusen","master":"Schalke","result":null,"league":null,"date":"2017-18","id":1071,"gguest":"1","gmaster":"1"}
+{"guest":"Cologne","master":"Hannover 96","result":null,"league":null,"date":"2017-18","id":1072,"gguest":"0","gmaster":"0"}
+{"guest":"Hamburg","master":"Bayer Leverkusen","result":null,"league":null,"date":"2017-18","id":1073,"gguest":"0","gmaster":"3"}
+{"guest":"Schalke","master":"Hoffenheim","result":null,"league":null,"date":"2017-18","id":1074,"gguest":"0","gmaster":"2"}
+{"guest":"Hertha Berlin","master":"Mainz","result":null,"league":null,"date":"2017-18","id":1075,"gguest":"0","gmaster":"1"}
+{"guest":"Eintracht Frankfurt","master":"RB Leipzig","result":null,"league":null,"date":"2017-18","id":1076,"gguest":"1","gmaster":"2"}
+{"guest":"FC Augsburg","master":"Stuttgart","result":null,"league":null,"date":"2017-18","id":1077,"gguest":"0","gmaster":"0"}
+{"guest":"SC Freiburg","master":"Werder Bremen","result":null,"league":null,"date":"2017-18","id":1078,"gguest":"0","gmaster":"0"}
+{"guest":"M'gladbach","master":"Borussia Dortmund","result":null,"league":null,"date":"2017-18","id":1079,"gguest":"1","gmaster":"6"}
+{"guest":"Wolfsburg","master":"Bayern Munich","result":null,"league":null,"date":"2017-18","id":1080,"gguest":"2","gmaster":"2"}
+{"guest":"Eintracht Frankfurt","master":"Cologne","result":null,"league":null,"date":"2017-18","id":1081,"gguest":"1","gmaster":"0"}
+{"guest":"Borussia Dortmund","master":"Hamburg","result":null,"league":null,"date":"2017-18","id":1082,"gguest":"3","gmaster":"0"}
+{"guest":"Bayer Leverkusen","master":"Hertha Berlin","result":null,"league":null,"date":"2017-18","id":1083,"gguest":"1","gmaster":"2"}
+{"guest":"Hoffenheim","master":"Mainz","result":null,"league":null,"date":"2017-18","id":1084,"gguest":"3","gmaster":"2"}
+{"guest":"Hannover 96","master":"SC Freiburg","result":null,"league":null,"date":"2017-18","id":1085,"gguest":"1","gmaster":"1"}
+{"guest":"Stuttgart","master":"M'gladbach","result":null,"league":null,"date":"2017-18","id":1086,"gguest":"0","gmaster":"2"}
+{"guest":"RB Leipzig","master":"FC Augsburg","result":null,"league":null,"date":"2017-18","id":1087,"gguest":"0","gmaster":"1"}
+{"guest":"Bayern Munich","master":"Schalke","result":null,"league":null,"date":"2017-18","id":1088,"gguest":"3","gmaster":"0"}
+{"guest":"Werder Bremen","master":"Wolfsburg","result":null,"league":null,"date":"2017-18","id":1089,"gguest":"1","gmaster":"1"}
+{"guest":"Hertha Berlin","master":"Hoffenheim","result":null,"league":null,"date":"2017-18","id":1090,"gguest":"1","gmaster":"1"}
+{"guest":"SC Freiburg","master":"Bayer Leverkusen","result":null,"league":null,"date":"2017-18","id":1091,"gguest":"0","gmaster":"4"}
+{"guest":"Cologne","master":"Borussia Dortmund","result":null,"league":null,"date":"2017-18","id":1092,"gguest":"0","gmaster":"5"}
+{"guest":"Mainz","master":"Bayern Munich","result":null,"league":null,"date":"2017-18","id":1093,"gguest":"0","gmaster":"4"}
+{"guest":"FC Augsburg","master":"Eintracht Frankfurt","result":null,"league":null,"date":"2017-18","id":1094,"gguest":"2","gmaster":"1"}
+{"guest":"Wolfsburg","master":"Stuttgart","result":null,"league":null,"date":"2017-18","id":1095,"gguest":"0","gmaster":"1"}
+{"guest":"Schalke","master":"Werder Bremen","result":null,"league":null,"date":"2017-18","id":1096,"gguest":"2","gmaster":"1"}
+{"guest":"M'gladbach","master":"RB Leipzig","result":null,"league":null,"date":"2017-18","id":1097,"gguest":"2","gmaster":"2"}
+{"guest":"Hamburg","master":"Hannover 96","result":null,"league":null,"date":"2017-18","id":1098,"gguest":"0","gmaster":"2"}
+{"guest":"Werder Bremen","master":"Hertha Berlin","result":null,"league":null,"date":"2017-18","id":1099,"gguest":"1","gmaster":"1"}
+{"guest":"Stuttgart","master":"Schalke","result":null,"league":null,"date":"2017-18","id":1100,"gguest":"1","gmaster":"3"}
+{"guest":"Cologne","master":"FC Augsburg","result":null,"league":null,"date":"2017-18","id":1101,"gguest":"0","gmaster":"3"}
+{"guest":"Eintracht Frankfurt","master":"M'gladbach","result":null,"league":null,"date":"2017-18","id":1102,"gguest":"1","gmaster":"0"}
+{"guest":"Bayer Leverkusen","master":"Mainz","result":null,"league":null,"date":"2017-18","id":1103,"gguest":"1","gmaster":"3"}
+{"guest":"Borussia Dortmund","master":"SC Freiburg","result":null,"league":null,"date":"2017-18","id":1104,"gguest":"0","gmaster":"0"}
+{"guest":"Hannover 96","master":"Wolfsburg","result":null,"league":null,"date":"2017-18","id":1105,"gguest":"1","gmaster":"1"}
+{"guest":"Bayern Munich","master":"Hoffenheim","result":null,"league":null,"date":"2017-18","id":1106,"gguest":"0","gmaster":"2"}
+{"guest":"RB Leipzig","master":"Hamburg","result":null,"league":null,"date":"2017-18","id":1107,"gguest":"2","gmaster":"0"}
+{"guest":"SC Freiburg","master":"RB Leipzig","result":null,"league":null,"date":"2017-18","id":1108,"gguest":"1","gmaster":"4"}
+{"guest":"Schalke","master":"Hannover 96","result":null,"league":null,"date":"2017-18","id":1109,"gguest":"0","gmaster":"1"}
+{"guest":"Hoffenheim","master":"Bayer Leverkusen","result":null,"league":null,"date":"2017-18","id":1110,"gguest":"2","gmaster":"2"}
+{"guest":"Wolfsburg","master":"Eintracht Frankfurt","result":null,"league":null,"date":"2017-18","id":1111,"gguest":"1","gmaster":"0"}
+{"guest":"M'gladbach","master":"FC Augsburg","result":null,"league":null,"date":"2017-18","id":1112,"gguest":"2","gmaster":"2"}
+{"guest":"Mainz","master":"Stuttgart","result":null,"league":null,"date":"2017-18","id":1113,"gguest":"0","gmaster":"1"}
+{"guest":"Bayern Munich","master":"Werder Bremen","result":null,"league":null,"date":"2017-18","id":1114,"gguest":"2","gmaster":"0"}
+{"guest":"Hertha Berlin","master":"Borussia Dortmund","result":null,"league":null,"date":"2017-18","id":1115,"gguest":"0","gmaster":"2"}
+{"guest":"Hamburg","master":"Cologne","result":null,"league":null,"date":"2017-18","id":1116,"gguest":"3","gmaster":"1"}
+{"guest":"Eintracht Frankfurt","master":"SC Freiburg","result":null,"league":null,"date":"2017-18","id":1117,"gguest":"0","gmaster":"0"}
+{"guest":"Cologne","master":"M'gladbach","result":null,"league":null,"date":"2017-18","id":1118,"gguest":"0","gmaster":"1"}
+{"guest":"FC Augsburg","master":"Hamburg","result":null,"league":null,"date":"2017-18","id":1119,"gguest":"0","gmaster":"1"}
+{"guest":"Stuttgart","master":"Hertha Berlin","result":null,"league":null,"date":"2017-18","id":1120,"gguest":"0","gmaster":"2"}
+{"guest":"Werder Bremen","master":"Hoffenheim","result":null,"league":null,"date":"2017-18","id":1121,"gguest":"0","gmaster":"1"}
+{"guest":"Hannover 96","master":"Mainz","result":null,"league":null,"date":"2017-18","id":1122,"gguest":"1","gmaster":"0"}
+{"guest":"Borussia Dortmund","master":"Wolfsburg","result":null,"league":null,"date":"2017-18","id":1123,"gguest":"3","gmaster":"0"}
+{"guest":"RB Leipzig","master":"Schalke","result":null,"league":null,"date":"2017-18","id":1124,"gguest":"0","gmaster":"2"}
+{"guest":"Bayer Leverkusen","master":"Bayern Munich","result":null,"league":null,"date":"2017-18","id":1125,"gguest":"1","gmaster":"3"}
