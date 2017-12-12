@@ -6,15 +6,20 @@ import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider';
 import './App.css';
 
 class App extends Component {
+  constructor(props) {
+    super(props);
+  }
+
+
   render() {
     return (
       <div>
       <MuiThemeProvider>
-      <AppBar/>
+      <AppBar ref={(change) => { this.change = change; }} cha={this}/>
       </MuiThemeProvider>
 
       <MuiThemeProvider>
-      <TopMenu/>
+      <TopMenu tkk={this} ref="child"/>
       </MuiThemeProvider>
 
       <MuiThemeProvider>

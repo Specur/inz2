@@ -6,10 +6,14 @@ class AppBarM extends Component{
   constructor(props) {
     super(props);
     this.changeIt = this.changeIt.bind(this);
+
+  }
+  state={
+    index: 0
   }
 
   changeIt() {
-    // Explicitly focus the text input using the raw DOM API
+    this.state.index = this.change.state.valueSingle;
     this.change.handleToggle();
   }
 
@@ -23,7 +27,7 @@ class AppBarM extends Component{
         iconClassNameRight="muidocs-icon-navigation-expand-more"
         onLeftIconButtonTouchTap={this.changeIt}
       />
-      <LeftMenu ref={(change) => { this.change = change; }}/>
+      <LeftMenu ref={(change) => { this.change = change; }}  cha={this}/>
       </div>
     );
   }

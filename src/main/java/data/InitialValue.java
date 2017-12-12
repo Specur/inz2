@@ -14,7 +14,7 @@ import dto.PremierLeagueDTO;
 import dto.SerieADTO;
 
 public class InitialValue {
-	public static String[] YEAR = { "2012-13", "2013-14", "2014-15", "2015-16", "2016-17", "2017-18" };
+	public static String[] YEAR = { "2014-15", "2015-16", "2016-17", "2017-18" };
 	static JDBCenter jsdb;
 	static AtomicInteger atomicInteger = new AtomicInteger();
 
@@ -138,9 +138,9 @@ public class InitialValue {
 
 	public static void main(String[] args) {
 
-//		fetchSerieA();
-//		fetchPremierLeague();
-//		fetchChampionsLeague();
+		fetchSerieA();
+		fetchPremierLeague();
+		fetchChampionsLeague();
 		fetchBundesliga();
 //		SerieADTO sa = new SerieADTO();
 //		sa.setMaster("Lazio");

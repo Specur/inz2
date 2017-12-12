@@ -1,9 +1,10 @@
 import {Tabs, Tab} from 'material-ui/Tabs';
 import Slider from 'material-ui/Slider';
-import Table from './HistoryTable.js';
+import Table from './HistoryTable/HistoryTable.js';
 import React, { Component } from 'react';
 import SwipeableViews from 'react-swipeable-views';
-import SeasonButton from './SeasonButton.js'
+import SeasonButton from './HistoryTable/SeasonButton.js'
+
 const styles = {
   headline: {
     fontSize: 24,
@@ -20,6 +21,8 @@ class TopTabs extends Component{
     super(props);
     this.state = {
       slideIndex: 0,
+      change: 0,
+      ind: 0
     };
   }
 
@@ -29,8 +32,22 @@ class TopTabs extends Component{
       });
     };
 
+    update = () =>{
+      this.setState({
+        ind:this.props.tkk.change.change.state.valueSingle,
+      });
+
+    }
+
+
+    componentDidMount(){
+      this.state.ind = this.props.tkk.change.change.state.valueSingle;
+    }
+
+
 render()
 {
+  if(this.state.ind === 0){
   return(
     <div>
         <Tabs
@@ -62,6 +79,20 @@ render()
         </SwipeableViews>
       </div>
 )
+}
+
+if(this.state.ind === 1){
+return(
+  <div></div>
+)
+}
+if(this.state.ind === 2){
+return(
+  <div>
+    dwodmw
+    </div>
+)
+}
 }
 
 }

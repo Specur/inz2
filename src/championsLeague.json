@@ -1,706 +1,472 @@
 {"schemaVersion":"1.0"}
-{"guest":"Bayern Munich","master":"Borussia Dortmund","result":null,"league":null,"date":"2012-13","id":2298,"gguest":"2","gmaster":"1"}
-{"guest":"Bayern Munich","master":"Barcelona","result":null,"league":null,"date":"2012-13","id":2299,"gguest":"3","gmaster":"0"}
-{"guest":"Borussia Dortmund","master":"Real Madrid","result":null,"league":null,"date":"2012-13","id":2300,"gguest":"0","gmaster":"2"}
-{"guest":"Real Madrid","master":"Borussia Dortmund","result":null,"league":null,"date":"2012-13","id":2301,"gguest":"1","gmaster":"4"}
-{"guest":"Barcelona","master":"Bayern Munich","result":null,"league":null,"date":"2012-13","id":2302,"gguest":"0","gmaster":"4"}
-{"guest":"Paris Saint-Germain","master":"Barcelona","result":null,"league":null,"date":"2012-13","id":2303,"gguest":"1","gmaster":"1"}
-{"guest":"Bayern Munich","master":"Juventus","result":null,"league":null,"date":"2012-13","id":2304,"gguest":"2","gmaster":"0"}
-{"guest":"Malaga","master":"Borussia Dortmund","result":null,"league":null,"date":"2012-13","id":2305,"gguest":"2","gmaster":"3"}
-{"guest":"Real Madrid","master":"Galatasaray","result":null,"league":null,"date":"2012-13","id":2306,"gguest":"2","gmaster":"3"}
-{"guest":"Borussia Dortmund","master":"Malaga","result":null,"league":null,"date":"2012-13","id":2307,"gguest":"0","gmaster":"0"}
-{"guest":"Galatasaray","master":"Real Madrid","result":null,"league":null,"date":"2012-13","id":2308,"gguest":"0","gmaster":"3"}
-{"guest":"Juventus","master":"Bayern Munich","result":null,"league":null,"date":"2012-13","id":2309,"gguest":"0","gmaster":"2"}
-{"guest":"Barcelona","master":"Paris Saint-Germain","result":null,"league":null,"date":"2012-13","id":2310,"gguest":"2","gmaster":"2"}
-{"guest":"Arsenal","master":"Bayern Munich","result":null,"league":null,"date":"2012-13","id":2311,"gguest":"2","gmaster":"0"}
-{"guest":"FC Porto","master":"Malaga","result":null,"league":null,"date":"2012-13","id":2312,"gguest":"0","gmaster":"2"}
-{"guest":"AC Milan","master":"Barcelona","result":null,"league":null,"date":"2012-13","id":2313,"gguest":"0","gmaster":"4"}
-{"guest":"Galatasaray","master":"Schalke","result":null,"league":null,"date":"2012-13","id":2314,"gguest":"3","gmaster":"2"}
-{"guest":"Celtic","master":"Juventus","result":null,"league":null,"date":"2012-13","id":2315,"gguest":"0","gmaster":"2"}
-{"guest":"Valencia","master":"Paris Saint-Germain","result":null,"league":null,"date":"2012-13","id":2316,"gguest":"1","gmaster":"1"}
-{"guest":"Shakhtar Donetsk","master":"Borussia Dortmund","result":null,"league":null,"date":"2012-13","id":2317,"gguest":"0","gmaster":"3"}
-{"guest":"Real Madrid","master":"Manchester United","result":null,"league":null,"date":"2012-13","id":2318,"gguest":"2","gmaster":"1"}
-{"guest":"Barcelona","master":"AC Milan","result":null,"league":null,"date":"2012-13","id":2319,"gguest":"0","gmaster":"2"}
-{"guest":"Schalke","master":"Galatasaray","result":null,"league":null,"date":"2012-13","id":2320,"gguest":"1","gmaster":"1"}
-{"guest":"Bayern Munich","master":"Arsenal","result":null,"league":null,"date":"2012-13","id":2321,"gguest":"3","gmaster":"1"}
-{"guest":"Malaga","master":"FC Porto","result":null,"league":null,"date":"2012-13","id":2322,"gguest":"0","gmaster":"1"}
-{"guest":"Manchester United","master":"Real Madrid","result":null,"league":null,"date":"2012-13","id":2323,"gguest":"1","gmaster":"1"}
-{"guest":"Borussia Dortmund","master":"Shakhtar Donetsk","result":null,"league":null,"date":"2012-13","id":2324,"gguest":"2","gmaster":"2"}
-{"guest":"Juventus","master":"Celtic","result":null,"league":null,"date":"2012-13","id":2325,"gguest":"3","gmaster":"0"}
-{"guest":"Paris Saint-Germain","master":"Valencia","result":null,"league":null,"date":"2012-13","id":2326,"gguest":"2","gmaster":"1"}
-{"guest":"Benfica","master":"Barcelona","result":null,"league":null,"date":"2012-13","id":2327,"gguest":"0","gmaster":"0"}
-{"guest":"BATE Borisov","master":"Bayern Munich","result":null,"league":null,"date":"2012-13","id":2328,"gguest":"1","gmaster":"4"}
-{"guest":"Galatasaray","master":"Braga","result":null,"league":null,"date":"2012-13","id":2329,"gguest":"2","gmaster":"1"}
-{"guest":"Spartak Moscow","master":"Celtic","result":null,"league":null,"date":"2012-13","id":2330,"gguest":"1","gmaster":"2"}
-{"guest":"FC Nordsjaelland","master":"Chelsea","result":null,"league":null,"date":"2012-13","id":2331,"gguest":"1","gmaster":"6"}
-{"guest":"Valencia","master":"Lille","result":null,"league":null,"date":"2012-13","id":2332,"gguest":"1","gmaster":"0"}
-{"guest":"CFR Cluj-Napoca","master":"Manchester United","result":null,"league":null,"date":"2012-13","id":2333,"gguest":"1","gmaster":"0"}
-{"guest":"Juventus","master":"Shakhtar Donetsk","result":null,"league":null,"date":"2012-13","id":2334,"gguest":"1","gmaster":"0"}
-{"guest":"Zenit St. Petersburg","master":"AC Milan","result":null,"league":null,"date":"2012-13","id":2335,"gguest":"1","gmaster":"0"}
-{"guest":"Manchester City","master":"Borussia Dortmund","result":null,"league":null,"date":"2012-13","id":2336,"gguest":"0","gmaster":"1"}
-{"guest":"Dynamo Kiev","master":"Dinamo Zagreb","result":null,"league":null,"date":"2012-13","id":2337,"gguest":"1","gmaster":"1"}
-{"guest":"Anderlecht","master":"Malaga","result":null,"league":null,"date":"2012-13","id":2338,"gguest":"2","gmaster":"2"}
-{"guest":"Schalke","master":"Montpellier","result":null,"league":null,"date":"2012-13","id":2339,"gguest":"1","gmaster":"1"}
-{"guest":"Arsenal","master":"Olympiakos FC","result":null,"league":null,"date":"2012-13","id":2340,"gguest":"1","gmaster":"2"}
-{"guest":"FC Porto","master":"Paris Saint-Germain","result":null,"league":null,"date":"2012-13","id":2341,"gguest":"1","gmaster":"2"}
-{"guest":"Ajax","master":"Real Madrid","result":null,"league":null,"date":"2012-13","id":2342,"gguest":"1","gmaster":"4"}
-{"guest":"Malaga","master":"Zenit St. Petersburg","result":null,"league":null,"date":"2012-13","id":2343,"gguest":"2","gmaster":"2"}
-{"guest":"Borussia Dortmund","master":"Ajax","result":null,"league":null,"date":"2012-13","id":2344,"gguest":"4","gmaster":"1"}
-{"guest":"AC Milan","master":"Anderlecht","result":null,"league":null,"date":"2012-13","id":2345,"gguest":"3","gmaster":"1"}
-{"guest":"Montpellier","master":"Arsenal","result":null,"league":null,"date":"2012-13","id":2346,"gguest":"0","gmaster":"2"}
-{"guest":"Paris Saint-Germain","master":"Dynamo Kiev","result":null,"league":null,"date":"2012-13","id":2347,"gguest":"2","gmaster":"0"}
-{"guest":"Dinamo Zagreb","master":"FC Porto","result":null,"league":null,"date":"2012-13","id":2348,"gguest":"0","gmaster":"3"}
-{"guest":"Real Madrid","master":"Manchester City","result":null,"league":null,"date":"2012-13","id":2349,"gguest":"1","gmaster":"1"}
-{"guest":"Olympiakos FC","master":"Schalke","result":null,"league":null,"date":"2012-13","id":2350,"gguest":"0","gmaster":"1"}
-{"guest":"Lille","master":"BATE Borisov","result":null,"league":null,"date":"2012-13","id":2351,"gguest":"2","gmaster":"0"}
-{"guest":"Barcelona","master":"Spartak Moscow","result":null,"league":null,"date":"2012-13","id":2352,"gguest":"3","gmaster":"0"}
-{"guest":"Celtic","master":"Benfica","result":null,"league":null,"date":"2012-13","id":2353,"gguest":"1","gmaster":"2"}
-{"guest":"Braga","master":"CFR Cluj-Napoca","result":null,"league":null,"date":"2012-13","id":2354,"gguest":"1","gmaster":"3"}
-{"guest":"Shakhtar Donetsk","master":"FC Nordsjaelland","result":null,"league":null,"date":"2012-13","id":2355,"gguest":"5","gmaster":"2"}
-{"guest":"Manchester United","master":"Galatasaray","result":null,"league":null,"date":"2012-13","id":2356,"gguest":"0","gmaster":"1"}
-{"guest":"Chelsea","master":"Juventus","result":null,"league":null,"date":"2012-13","id":2357,"gguest":"0","gmaster":"3"}
-{"guest":"Bayern Munich","master":"Valencia","result":null,"league":null,"date":"2012-13","id":2358,"gguest":"1","gmaster":"1"}
-{"guest":"Lille","master":"Bayern Munich","result":null,"league":null,"date":"2012-13","id":2359,"gguest":"1","gmaster":"6"}
-{"guest":"Spartak Moscow","master":"Benfica","result":null,"league":null,"date":"2012-13","id":2360,"gguest":"0","gmaster":"2"}
-{"guest":"Manchester United","master":"Braga","result":null,"league":null,"date":"2012-13","id":2361,"gguest":"3","gmaster":"1"}
-{"guest":"Galatasaray","master":"CFR Cluj-Napoca","result":null,"league":null,"date":"2012-13","id":2362,"gguest":"3","gmaster":"1"}
-{"guest":"Barcelona","master":"Celtic","result":null,"league":null,"date":"2012-13","id":2363,"gguest":"1","gmaster":"2"}
-{"guest":"Shakhtar Donetsk","master":"Chelsea","result":null,"league":null,"date":"2012-13","id":2364,"gguest":"2","gmaster":"3"}
-{"guest":"FC Nordsjaelland","master":"Juventus","result":null,"league":null,"date":"2012-13","id":2365,"gguest":"0","gmaster":"4"}
-{"guest":"BATE Borisov","master":"Valencia","result":null,"league":null,"date":"2012-13","id":2366,"gguest":"2","gmaster":"4"}
-{"guest":"Malaga","master":"AC Milan","result":null,"league":null,"date":"2012-13","id":2367,"gguest":"1","gmaster":"1"}
-{"guest":"Zenit St. Petersburg","master":"Anderlecht","result":null,"league":null,"date":"2012-13","id":2368,"gguest":"0","gmaster":"1"}
-{"guest":"FC Porto","master":"Dynamo Kiev","result":null,"league":null,"date":"2012-13","id":2369,"gguest":"0","gmaster":"0"}
-{"guest":"Ajax","master":"Manchester City","result":null,"league":null,"date":"2012-13","id":2370,"gguest":"2","gmaster":"2"}
-{"guest":"Montpellier","master":"Olympiakos FC","result":null,"league":null,"date":"2012-13","id":2371,"gguest":"1","gmaster":"3"}
-{"guest":"Dinamo Zagreb","master":"Paris Saint-Germain","result":null,"league":null,"date":"2012-13","id":2372,"gguest":"0","gmaster":"4"}
-{"guest":"Borussia Dortmund","master":"Real Madrid","result":null,"league":null,"date":"2012-13","id":2373,"gguest":"2","gmaster":"2"}
-{"guest":"Arsenal","master":"Schalke","result":null,"league":null,"date":"2012-13","id":2374,"gguest":"2","gmaster":"2"}
-{"guest":"Anderlecht","master":"Zenit St. Petersburg","result":null,"league":null,"date":"2012-13","id":2375,"gguest":"0","gmaster":"1"}
-{"guest":"Manchester City","master":"Ajax","result":null,"league":null,"date":"2012-13","id":2376,"gguest":"1","gmaster":"3"}
-{"guest":"Schalke","master":"Arsenal","result":null,"league":null,"date":"2012-13","id":2377,"gguest":"2","gmaster":"0"}
-{"guest":"Real Madrid","master":"Borussia Dortmund","result":null,"league":null,"date":"2012-13","id":2378,"gguest":"1","gmaster":"2"}
-{"guest":"Paris Saint-Germain","master":"Dinamo Zagreb","result":null,"league":null,"date":"2012-13","id":2379,"gguest":"2","gmaster":"0"}
-{"guest":"Dynamo Kiev","master":"FC Porto","result":null,"league":null,"date":"2012-13","id":2380,"gguest":"2","gmaster":"3"}
-{"guest":"AC Milan","master":"Malaga","result":null,"league":null,"date":"2012-13","id":2381,"gguest":"0","gmaster":"1"}
-{"guest":"Olympiakos FC","master":"Montpellier","result":null,"league":null,"date":"2012-13","id":2382,"gguest":"2","gmaster":"1"}
-{"guest":"Benfica","master":"Spartak Moscow","result":null,"league":null,"date":"2012-13","id":2383,"gguest":"1","gmaster":"2"}
-{"guest":"Valencia","master":"BATE Borisov","result":null,"league":null,"date":"2012-13","id":2384,"gguest":"3","gmaster":"0"}
-{"guest":"Celtic","master":"Barcelona","result":null,"league":null,"date":"2012-13","id":2385,"gguest":"1","gmaster":"2"}
-{"guest":"Juventus","master":"FC Nordsjaelland","result":null,"league":null,"date":"2012-13","id":2386,"gguest":"1","gmaster":"1"}
-{"guest":"CFR Cluj-Napoca","master":"Galatasaray","result":null,"league":null,"date":"2012-13","id":2387,"gguest":"1","gmaster":"1"}
-{"guest":"Bayern Munich","master":"Lille","result":null,"league":null,"date":"2012-13","id":2388,"gguest":"1","gmaster":"0"}
-{"guest":"Braga","master":"Manchester United","result":null,"league":null,"date":"2012-13","id":2389,"gguest":"2","gmaster":"3"}
-{"guest":"Chelsea","master":"Shakhtar Donetsk","result":null,"league":null,"date":"2012-13","id":2390,"gguest":"1","gmaster":"2"}
-{"guest":"AC Milan","master":"Zenit St. Petersburg","result":null,"league":null,"date":"2012-13","id":2391,"gguest":"3","gmaster":"2"}
-{"guest":"Real Madrid","master":"Ajax","result":null,"league":null,"date":"2012-13","id":2392,"gguest":"4","gmaster":"1"}
-{"guest":"Malaga","master":"Anderlecht","result":null,"league":null,"date":"2012-13","id":2393,"gguest":"3","gmaster":"0"}
-{"guest":"Olympiakos FC","master":"Arsenal","result":null,"league":null,"date":"2012-13","id":2394,"gguest":"1","gmaster":"3"}
-{"guest":"Dinamo Zagreb","master":"Dynamo Kiev","result":null,"league":null,"date":"2012-13","id":2395,"gguest":"0","gmaster":"2"}
-{"guest":"Paris Saint-Germain","master":"FC Porto","result":null,"league":null,"date":"2012-13","id":2396,"gguest":"0","gmaster":"1"}
-{"guest":"Borussia Dortmund","master":"Manchester City","result":null,"league":null,"date":"2012-13","id":2397,"gguest":"1","gmaster":"1"}
-{"guest":"Montpellier","master":"Schalke","result":null,"league":null,"date":"2012-13","id":2398,"gguest":"2","gmaster":"2"}
-{"guest":"Celtic","master":"Spartak Moscow","result":null,"league":null,"date":"2012-13","id":2399,"gguest":"3","gmaster":"2"}
-{"guest":"Bayern Munich","master":"BATE Borisov","result":null,"league":null,"date":"2012-13","id":2400,"gguest":"1","gmaster":"3"}
-{"guest":"Barcelona","master":"Benfica","result":null,"league":null,"date":"2012-13","id":2401,"gguest":"2","gmaster":"0"}
-{"guest":"Manchester United","master":"CFR Cluj-Napoca","result":null,"league":null,"date":"2012-13","id":2402,"gguest":"2","gmaster":"1"}
-{"guest":"Chelsea","master":"FC Nordsjaelland","result":null,"league":null,"date":"2012-13","id":2403,"gguest":"4","gmaster":"0"}
-{"guest":"Braga","master":"Galatasaray","result":null,"league":null,"date":"2012-13","id":2404,"gguest":"2","gmaster":"0"}
-{"guest":"Shakhtar Donetsk","master":"Juventus","result":null,"league":null,"date":"2012-13","id":2405,"gguest":"1","gmaster":"1"}
-{"guest":"Lille","master":"Valencia","result":null,"league":null,"date":"2012-13","id":2406,"gguest":"0","gmaster":"2"}
-{"guest":"Spartak Moscow","master":"Barcelona","result":null,"league":null,"date":"2012-13","id":2407,"gguest":"2","gmaster":"3"}
-{"guest":"Valencia","master":"Bayern Munich","result":null,"league":null,"date":"2012-13","id":2408,"gguest":"1","gmaster":"2"}
-{"guest":"CFR Cluj-Napoca","master":"Braga","result":null,"league":null,"date":"2012-13","id":2409,"gguest":"2","gmaster":"0"}
-{"guest":"Benfica","master":"Celtic","result":null,"league":null,"date":"2012-13","id":2410,"gguest":"0","gmaster":"0"}
-{"guest":"Juventus","master":"Chelsea","result":null,"league":null,"date":"2012-13","id":2411,"gguest":"2","gmaster":"2"}
-{"guest":"BATE Borisov","master":"Lille","result":null,"league":null,"date":"2012-13","id":2412,"gguest":"3","gmaster":"1"}
-{"guest":"Galatasaray","master":"Manchester United","result":null,"league":null,"date":"2012-13","id":2413,"gguest":"0","gmaster":"1"}
-{"guest":"FC Nordsjaelland","master":"Shakhtar Donetsk","result":null,"league":null,"date":"2012-13","id":2414,"gguest":"0","gmaster":"2"}
-{"guest":"Anderlecht","master":"AC Milan","result":null,"league":null,"date":"2012-13","id":2415,"gguest":"0","gmaster":"0"}
-{"guest":"Ajax","master":"Borussia Dortmund","result":null,"league":null,"date":"2012-13","id":2416,"gguest":"0","gmaster":"1"}
-{"guest":"FC Porto","master":"Dinamo Zagreb","result":null,"league":null,"date":"2012-13","id":2417,"gguest":"2","gmaster":"0"}
-{"guest":"Zenit St. Petersburg","master":"Malaga","result":null,"league":null,"date":"2012-13","id":2418,"gguest":"0","gmaster":"3"}
-{"guest":"Arsenal","master":"Montpellier","result":null,"league":null,"date":"2012-13","id":2419,"gguest":"2","gmaster":"1"}
-{"guest":"Schalke","master":"Olympiakos FC","result":null,"league":null,"date":"2012-13","id":2420,"gguest":"2","gmaster":"1"}
-{"guest":"Dynamo Kiev","master":"Paris Saint-Germain","result":null,"league":null,"date":"2012-13","id":2421,"gguest":"1","gmaster":"4"}
-{"guest":"Manchester City","master":"Real Madrid","result":null,"league":null,"date":"2012-13","id":2422,"gguest":"2","gmaster":"3"}
-{"guest":"Atletico Madrid","master":"Real Madrid","result":null,"league":null,"date":"2013-14","id":2423,"gguest":"1","gmaster":"4"}
-{"guest":"Atletico Madrid","master":"Chelsea","result":null,"league":null,"date":"2013-14","id":2424,"gguest":"3","gmaster":"1"}
-{"guest":"Real Madrid","master":"Bayern Munich","result":null,"league":null,"date":"2013-14","id":2425,"gguest":"4","gmaster":"0"}
-{"guest":"Bayern Munich","master":"Real Madrid","result":null,"league":null,"date":"2013-14","id":2426,"gguest":"0","gmaster":"1"}
-{"guest":"Chelsea","master":"Atletico Madrid","result":null,"league":null,"date":"2013-14","id":2427,"gguest":"0","gmaster":"0"}
-{"guest":"Barcelona","master":"Atletico Madrid","result":null,"league":null,"date":"2013-14","id":2428,"gguest":"0","gmaster":"1"}
-{"guest":"Manchester United","master":"Bayern Munich","result":null,"league":null,"date":"2013-14","id":2429,"gguest":"1","gmaster":"3"}
-{"guest":"Real Madrid","master":"Borussia Dortmund","result":null,"league":null,"date":"2013-14","id":2430,"gguest":"0","gmaster":"2"}
-{"guest":"Paris Saint-Germain","master":"Chelsea","result":null,"league":null,"date":"2013-14","id":2431,"gguest":"0","gmaster":"2"}
-{"guest":"Chelsea","master":"Paris Saint-Germain","result":null,"league":null,"date":"2013-14","id":2432,"gguest":"1","gmaster":"3"}
-{"guest":"Borussia Dortmund","master":"Real Madrid","result":null,"league":null,"date":"2013-14","id":2433,"gguest":"0","gmaster":"3"}
-{"guest":"Atletico Madrid","master":"Barcelona","result":null,"league":null,"date":"2013-14","id":2434,"gguest":"1","gmaster":"1"}
-{"guest":"Bayern Munich","master":"Manchester United","result":null,"league":null,"date":"2013-14","id":2435,"gguest":"1","gmaster":"1"}
-{"guest":"Zenit St. Petersburg","master":"Borussia Dortmund","result":null,"league":null,"date":"2013-14","id":2436,"gguest":"2","gmaster":"1"}
-{"guest":"Olympiakos FC","master":"Manchester United","result":null,"league":null,"date":"2013-14","id":2437,"gguest":"0","gmaster":"3"}
-{"guest":"Galatasaray","master":"Chelsea","result":null,"league":null,"date":"2013-14","id":2438,"gguest":"0","gmaster":"2"}
-{"guest":"Schalke","master":"Real Madrid","result":null,"league":null,"date":"2013-14","id":2439,"gguest":"1","gmaster":"3"}
-{"guest":"Manchester City","master":"Barcelona","result":null,"league":null,"date":"2013-14","id":2440,"gguest":"1","gmaster":"2"}
-{"guest":"Bayer Leverkusen","master":"Paris Saint-Germain","result":null,"league":null,"date":"2013-14","id":2441,"gguest":"1","gmaster":"2"}
-{"guest":"AC Milan","master":"Atletico Madrid","result":null,"league":null,"date":"2013-14","id":2442,"gguest":"1","gmaster":"4"}
-{"guest":"Arsenal","master":"Bayern Munich","result":null,"league":null,"date":"2013-14","id":2443,"gguest":"1","gmaster":"1"}
-{"guest":"Chelsea","master":"Galatasaray","result":null,"league":null,"date":"2013-14","id":2444,"gguest":"1","gmaster":"1"}
-{"guest":"Real Madrid","master":"Schalke","result":null,"league":null,"date":"2013-14","id":2445,"gguest":"6","gmaster":"1"}
-{"guest":"Borussia Dortmund","master":"Zenit St. Petersburg","result":null,"league":null,"date":"2013-14","id":2446,"gguest":"4","gmaster":"2"}
-{"guest":"Manchester United","master":"Olympiakos FC","result":null,"league":null,"date":"2013-14","id":2447,"gguest":"0","gmaster":"2"}
-{"guest":"Atletico Madrid","master":"AC Milan","result":null,"league":null,"date":"2013-14","id":2448,"gguest":"1","gmaster":"0"}
-{"guest":"Bayern Munich","master":"Arsenal","result":null,"league":null,"date":"2013-14","id":2449,"gguest":"2","gmaster":"0"}
-{"guest":"Paris Saint-Germain","master":"Bayer Leverkusen","result":null,"league":null,"date":"2013-14","id":2450,"gguest":"4","gmaster":"0"}
-{"guest":"Barcelona","master":"Manchester City","result":null,"league":null,"date":"2013-14","id":2451,"gguest":"2","gmaster":"0"}
-{"guest":"Juventus","master":"Galatasaray","result":null,"league":null,"date":"2013-14","id":2452,"gguest":"0","gmaster":"1"}
-{"guest":"Ajax","master":"AC Milan","result":null,"league":null,"date":"2013-14","id":2453,"gguest":"0","gmaster":"0"}
-{"guest":"FC Porto","master":"Atletico Madrid","result":null,"league":null,"date":"2013-14","id":2454,"gguest":"0","gmaster":"2"}
-{"guest":"Celtic","master":"Barcelona","result":null,"league":null,"date":"2013-14","id":2455,"gguest":"1","gmaster":"6"}
-{"guest":"FC Steaua Bucuresti","master":"Chelsea","result":null,"league":null,"date":"2013-14","id":2456,"gguest":"0","gmaster":"1"}
-{"guest":"Zenit St. Petersburg","master":"FK Austria Wien","result":null,"league":null,"date":"2013-14","id":2457,"gguest":"1","gmaster":"4"}
-{"guest":"Borussia Dortmund","master":"Marseille","result":null,"league":null,"date":"2013-14","id":2458,"gguest":"2","gmaster":"1"}
-{"guest":"Arsenal","master":"Napoli","result":null,"league":null,"date":"2013-14","id":2459,"gguest":"0","gmaster":"2"}
-{"guest":"Basel","master":"Schalke","result":null,"league":null,"date":"2013-14","id":2460,"gguest":"0","gmaster":"2"}
-{"guest":"Manchester City","master":"Bayern Munich","result":null,"league":null,"date":"2013-14","id":2461,"gguest":"3","gmaster":"2"}
-{"guest":"Paris Saint-Germain","master":"Benfica","result":null,"league":null,"date":"2013-14","id":2462,"gguest":"1","gmaster":"2"}
-{"guest":"Real Madrid","master":"FC Copenhagen","result":null,"league":null,"date":"2013-14","id":2463,"gguest":"2","gmaster":"0"}
-{"guest":"CSKA Moscow","master":"FC Viktoria Plzen","result":null,"league":null,"date":"2013-14","id":2464,"gguest":"1","gmaster":"2"}
-{"guest":"Shakhtar Donetsk","master":"Manchester United","result":null,"league":null,"date":"2013-14","id":2465,"gguest":"0","gmaster":"1"}
-{"guest":"Anderlecht","master":"Olympiakos FC","result":null,"league":null,"date":"2013-14","id":2466,"gguest":"1","gmaster":"3"}
-{"guest":"Bayer Leverkusen","master":"Real Sociedad","result":null,"league":null,"date":"2013-14","id":2467,"gguest":"1","gmaster":"0"}
-{"guest":"Bayern Munich","master":"CSKA Moscow","result":null,"league":null,"date":"2013-14","id":2468,"gguest":"3","gmaster":"1"}
-{"guest":"Benfica","master":"Anderlecht","result":null,"league":null,"date":"2013-14","id":2469,"gguest":"3","gmaster":"2"}
-{"guest":"Manchester United","master":"Bayer Leverkusen","result":null,"league":null,"date":"2013-14","id":2470,"gguest":"5","gmaster":"0"}
-{"guest":"FC Copenhagen","master":"Juventus","result":null,"league":null,"date":"2013-14","id":2471,"gguest":"1","gmaster":"3"}
-{"guest":"FC Viktoria Plzen","master":"Manchester City","result":null,"league":null,"date":"2013-14","id":2472,"gguest":"2","gmaster":"4"}
-{"guest":"Olympiakos FC","master":"Paris Saint-Germain","result":null,"league":null,"date":"2013-14","id":2473,"gguest":"1","gmaster":"2"}
-{"guest":"Galatasaray","master":"Real Madrid","result":null,"league":null,"date":"2013-14","id":2474,"gguest":"1","gmaster":"4"}
-{"guest":"Real Sociedad","master":"Shakhtar Donetsk","result":null,"league":null,"date":"2013-14","id":2475,"gguest":"0","gmaster":"4"}
-{"guest":"Atletico Madrid","master":"Zenit St. Petersburg","result":null,"league":null,"date":"2013-14","id":2476,"gguest":"1","gmaster":"1"}
-{"guest":"Barcelona","master":"Ajax","result":null,"league":null,"date":"2013-14","id":2477,"gguest":"1","gmaster":"2"}
-{"guest":"Marseille","master":"Arsenal","result":null,"league":null,"date":"2013-14","id":2478,"gguest":"0","gmaster":"2"}
-{"guest":"Chelsea","master":"Basel","result":null,"league":null,"date":"2013-14","id":2479,"gguest":"0","gmaster":"1"}
-{"guest":"Napoli","master":"Borussia Dortmund","result":null,"league":null,"date":"2013-14","id":2480,"gguest":"1","gmaster":"3"}
-{"guest":"AC Milan","master":"Celtic","result":null,"league":null,"date":"2013-14","id":2481,"gguest":"3","gmaster":"0"}
-{"guest":"FK Austria Wien","master":"FC Porto","result":null,"league":null,"date":"2013-14","id":2482,"gguest":"1","gmaster":"1"}
-{"guest":"Schalke","master":"FC Steaua Bucuresti","result":null,"league":null,"date":"2013-14","id":2483,"gguest":"0","gmaster":"0"}
-{"guest":"FC Porto","master":"Zenit St. Petersburg","result":null,"league":null,"date":"2013-14","id":2484,"gguest":"1","gmaster":"1"}
-{"guest":"Celtic","master":"Ajax","result":null,"league":null,"date":"2013-14","id":2485,"gguest":"0","gmaster":"1"}
-{"guest":"FK Austria Wien","master":"Atletico Madrid","result":null,"league":null,"date":"2013-14","id":2486,"gguest":"0","gmaster":"4"}
-{"guest":"AC Milan","master":"Barcelona","result":null,"league":null,"date":"2013-14","id":2487,"gguest":"1","gmaster":"3"}
-{"guest":"FC Steaua Bucuresti","master":"Basel","result":null,"league":null,"date":"2013-14","id":2488,"gguest":"1","gmaster":"1"}
-{"guest":"Arsenal","master":"Borussia Dortmund","result":null,"league":null,"date":"2013-14","id":2489,"gguest":"1","gmaster":"0"}
-{"guest":"Schalke","master":"Chelsea","result":null,"league":null,"date":"2013-14","id":2490,"gguest":"0","gmaster":"3"}
-{"guest":"Marseille","master":"Napoli","result":null,"league":null,"date":"2013-14","id":2491,"gguest":"2","gmaster":"3"}
-{"guest":"Galatasaray","master":"FC Copenhagen","result":null,"league":null,"date":"2013-14","id":2492,"gguest":"0","gmaster":"1"}
-{"guest":"Bayern Munich","master":"FC Viktoria Plzen","result":null,"league":null,"date":"2013-14","id":2493,"gguest":"1","gmaster":"0"}
-{"guest":"Real Madrid","master":"Juventus","result":null,"league":null,"date":"2013-14","id":2494,"gguest":"2","gmaster":"2"}
-{"guest":"CSKA Moscow","master":"Manchester City","result":null,"league":null,"date":"2013-14","id":2495,"gguest":"2","gmaster":"5"}
-{"guest":"Benfica","master":"Olympiakos FC","result":null,"league":null,"date":"2013-14","id":2496,"gguest":"0","gmaster":"1"}
-{"guest":"Anderlecht","master":"Paris Saint-Germain","result":null,"league":null,"date":"2013-14","id":2497,"gguest":"1","gmaster":"1"}
-{"guest":"Manchester United","master":"Real Sociedad","result":null,"league":null,"date":"2013-14","id":2498,"gguest":"0","gmaster":"0"}
-{"guest":"Bayer Leverkusen","master":"Shakhtar Donetsk","result":null,"league":null,"date":"2013-14","id":2499,"gguest":"0","gmaster":"0"}
-{"guest":"Manchester City","master":"CSKA Moscow","result":null,"league":null,"date":"2013-14","id":2500,"gguest":"2","gmaster":"1"}
-{"guest":"Paris Saint-Germain","master":"Anderlecht","result":null,"league":null,"date":"2013-14","id":2501,"gguest":"5","gmaster":"0"}
-{"guest":"Shakhtar Donetsk","master":"Bayer Leverkusen","result":null,"league":null,"date":"2013-14","id":2502,"gguest":"0","gmaster":"4"}
-{"guest":"FC Viktoria Plzen","master":"Bayern Munich","result":null,"league":null,"date":"2013-14","id":2503,"gguest":"0","gmaster":"5"}
-{"guest":"Olympiakos FC","master":"Benfica","result":null,"league":null,"date":"2013-14","id":2504,"gguest":"1","gmaster":"1"}
-{"guest":"FC Copenhagen","master":"Galatasaray","result":null,"league":null,"date":"2013-14","id":2505,"gguest":"1","gmaster":"3"}
-{"guest":"Real Sociedad","master":"Manchester United","result":null,"league":null,"date":"2013-14","id":2506,"gguest":"0","gmaster":"1"}
-{"guest":"Juventus","master":"Real Madrid","result":null,"league":null,"date":"2013-14","id":2507,"gguest":"1","gmaster":"2"}
-{"guest":"Barcelona","master":"AC Milan","result":null,"league":null,"date":"2013-14","id":2508,"gguest":"1","gmaster":"1"}
-{"guest":"Borussia Dortmund","master":"Arsenal","result":null,"league":null,"date":"2013-14","id":2509,"gguest":"2","gmaster":"1"}
-{"guest":"Ajax","master":"Celtic","result":null,"league":null,"date":"2013-14","id":2510,"gguest":"1","gmaster":"2"}
-{"guest":"Zenit St. Petersburg","master":"FC Porto","result":null,"league":null,"date":"2013-14","id":2511,"gguest":"1","gmaster":"0"}
-{"guest":"Basel","master":"FC Steaua Bucuresti","result":null,"league":null,"date":"2013-14","id":2512,"gguest":"1","gmaster":"1"}
-{"guest":"Atletico Madrid","master":"FK Austria Wien","result":null,"league":null,"date":"2013-14","id":2513,"gguest":"3","gmaster":"0"}
-{"guest":"Napoli","master":"Marseille","result":null,"league":null,"date":"2013-14","id":2514,"gguest":"2","gmaster":"1"}
-{"guest":"Chelsea","master":"Schalke","result":null,"league":null,"date":"2013-14","id":2515,"gguest":"3","gmaster":"0"}
-{"guest":"FC Viktoria Plzen","master":"CSKA Moscow","result":null,"league":null,"date":"2013-14","id":2516,"gguest":"2","gmaster":"3"}
-{"guest":"Olympiakos FC","master":"Anderlecht","result":null,"league":null,"date":"2013-14","id":2517,"gguest":"3","gmaster":"0"}
-{"guest":"Real Sociedad","master":"Bayer Leverkusen","result":null,"league":null,"date":"2013-14","id":2518,"gguest":"1","gmaster":"2"}
-{"guest":"Galatasaray","master":"Juventus","result":null,"league":null,"date":"2013-14","id":2519,"gguest":"2","gmaster":"2"}
-{"guest":"Bayern Munich","master":"Manchester City","result":null,"league":null,"date":"2013-14","id":2520,"gguest":"3","gmaster":"1"}
-{"guest":"Benfica","master":"Paris Saint-Germain","result":null,"league":null,"date":"2013-14","id":2521,"gguest":"0","gmaster":"3"}
-{"guest":"FC Copenhagen","master":"Real Madrid","result":null,"league":null,"date":"2013-14","id":2522,"gguest":"0","gmaster":"4"}
-{"guest":"Manchester United","master":"Shakhtar Donetsk","result":null,"league":null,"date":"2013-14","id":2523,"gguest":"1","gmaster":"1"}
-{"guest":"FK Austria Wien","master":"Zenit St. Petersburg","result":null,"league":null,"date":"2013-14","id":2524,"gguest":"0","gmaster":"0"}
-{"guest":"AC Milan","master":"Ajax","result":null,"league":null,"date":"2013-14","id":2525,"gguest":"1","gmaster":"1"}
-{"guest":"Napoli","master":"Arsenal","result":null,"league":null,"date":"2013-14","id":2526,"gguest":"0","gmaster":"2"}
-{"guest":"Schalke","master":"Basel","result":null,"league":null,"date":"2013-14","id":2527,"gguest":"1","gmaster":"0"}
-{"guest":"Marseille","master":"Borussia Dortmund","result":null,"league":null,"date":"2013-14","id":2528,"gguest":"0","gmaster":"3"}
-{"guest":"Barcelona","master":"Celtic","result":null,"league":null,"date":"2013-14","id":2529,"gguest":"1","gmaster":"0"}
-{"guest":"Atletico Madrid","master":"FC Porto","result":null,"league":null,"date":"2013-14","id":2530,"gguest":"2","gmaster":"1"}
-{"guest":"Chelsea","master":"FC Steaua Bucuresti","result":null,"league":null,"date":"2013-14","id":2531,"gguest":"4","gmaster":"0"}
-{"guest":"Celtic","master":"AC Milan","result":null,"league":null,"date":"2013-14","id":2532,"gguest":"0","gmaster":"2"}
-{"guest":"Zenit St. Petersburg","master":"Atletico Madrid","result":null,"league":null,"date":"2013-14","id":2533,"gguest":"1","gmaster":"3"}
-{"guest":"Ajax","master":"Barcelona","result":null,"league":null,"date":"2013-14","id":2534,"gguest":"0","gmaster":"4"}
-{"guest":"Basel","master":"Chelsea","result":null,"league":null,"date":"2013-14","id":2535,"gguest":"2","gmaster":"1"}
-{"guest":"FC Porto","master":"FK Austria Wien","result":null,"league":null,"date":"2013-14","id":2536,"gguest":"1","gmaster":"0"}
-{"guest":"Arsenal","master":"Marseille","result":null,"league":null,"date":"2013-14","id":2537,"gguest":"2","gmaster":"1"}
-{"guest":"Borussia Dortmund","master":"Napoli","result":null,"league":null,"date":"2013-14","id":2538,"gguest":"1","gmaster":"2"}
-{"guest":"FC Steaua Bucuresti","master":"Schalke","result":null,"league":null,"date":"2013-14","id":2539,"gguest":"0","gmaster":"3"}
-{"guest":"CSKA Moscow","master":"Bayern Munich","result":null,"league":null,"date":"2013-14","id":2540,"gguest":"0","gmaster":"3"}
-{"guest":"Anderlecht","master":"Benfica","result":null,"league":null,"date":"2013-14","id":2541,"gguest":"0","gmaster":"2"}
-{"guest":"Juventus","master":"FC Copenhagen","result":null,"league":null,"date":"2013-14","id":2542,"gguest":"1","gmaster":"1"}
-{"guest":"Manchester City","master":"FC Viktoria Plzen","result":null,"league":null,"date":"2013-14","id":2543,"gguest":"3","gmaster":"0"}
-{"guest":"Real Madrid","master":"Galatasaray","result":null,"league":null,"date":"2013-14","id":2544,"gguest":"6","gmaster":"1"}
-{"guest":"Bayer Leverkusen","master":"Manchester United","result":null,"league":null,"date":"2013-14","id":2545,"gguest":"2","gmaster":"4"}
-{"guest":"Paris Saint-Germain","master":"Olympiakos FC","result":null,"league":null,"date":"2013-14","id":2546,"gguest":"4","gmaster":"1"}
-{"guest":"Shakhtar Donetsk","master":"Real Sociedad","result":null,"league":null,"date":"2013-14","id":2547,"gguest":"2","gmaster":"0"}
-{"guest":"Barcelona","master":"Juventus","result":null,"league":null,"date":"2014-15","id":2548,"gguest":"3","gmaster":"1"}
-{"guest":"Juventus","master":"Real Madrid","result":null,"league":null,"date":"2014-15","id":2549,"gguest":"1","gmaster":"1"}
-{"guest":"Barcelona","master":"Bayern Munich","result":null,"league":null,"date":"2014-15","id":2550,"gguest":"2","gmaster":"3"}
-{"guest":"Bayern Munich","master":"Barcelona","result":null,"league":null,"date":"2014-15","id":2551,"gguest":"0","gmaster":"3"}
-{"guest":"Real Madrid","master":"Juventus","result":null,"league":null,"date":"2014-15","id":2552,"gguest":"1","gmaster":"2"}
-{"guest":"Juventus","master":"Monaco","result":null,"league":null,"date":"2014-15","id":2553,"gguest":"0","gmaster":"0"}
-{"guest":"Atletico Madrid","master":"Real Madrid","result":null,"league":null,"date":"2014-15","id":2554,"gguest":"0","gmaster":"1"}
-{"guest":"Paris Saint-Germain","master":"Barcelona","result":null,"league":null,"date":"2014-15","id":2555,"gguest":"0","gmaster":"2"}
-{"guest":"FC Porto","master":"Bayern Munich","result":null,"league":null,"date":"2014-15","id":2556,"gguest":"1","gmaster":"6"}
-{"guest":"Bayern Munich","master":"FC Porto","result":null,"league":null,"date":"2014-15","id":2557,"gguest":"1","gmaster":"3"}
-{"guest":"Barcelona","master":"Paris Saint-Germain","result":null,"league":null,"date":"2014-15","id":2558,"gguest":"3","gmaster":"1"}
-{"guest":"Real Madrid","master":"Atletico Madrid","result":null,"league":null,"date":"2014-15","id":2559,"gguest":"0","gmaster":"0"}
-{"guest":"Monaco","master":"Juventus","result":null,"league":null,"date":"2014-15","id":2560,"gguest":"0","gmaster":"1"}
-{"guest":"Manchester City","master":"Barcelona","result":null,"league":null,"date":"2014-15","id":2561,"gguest":"0","gmaster":"1"}
-{"guest":"Juventus","master":"Borussia Dortmund","result":null,"league":null,"date":"2014-15","id":2562,"gguest":"3","gmaster":"0"}
-{"guest":"Bayer Leverkusen","master":"Atletico Madrid","result":null,"league":null,"date":"2014-15","id":2563,"gguest":"0","gmaster":"1"}
-{"guest":"Arsenal","master":"Monaco","result":null,"league":null,"date":"2014-15","id":2564,"gguest":"2","gmaster":"0"}
-{"guest":"Shakhtar Donetsk","master":"Bayern Munich","result":null,"league":null,"date":"2014-15","id":2565,"gguest":"0","gmaster":"7"}
-{"guest":"Paris Saint-Germain","master":"Chelsea","result":null,"league":null,"date":"2014-15","id":2566,"gguest":"2","gmaster":"2"}
-{"guest":"Basel","master":"FC Porto","result":null,"league":null,"date":"2014-15","id":2567,"gguest":"0","gmaster":"4"}
-{"guest":"Schalke","master":"Real Madrid","result":null,"league":null,"date":"2014-15","id":2568,"gguest":"4","gmaster":"3"}
-{"guest":"Monaco","master":"Arsenal","result":null,"league":null,"date":"2014-15","id":2569,"gguest":"3","gmaster":"1"}
-{"guest":"Atletico Madrid","master":"Bayer Leverkusen","result":null,"league":null,"date":"2014-15","id":2570,"gguest":"0","gmaster":"1"}
-{"guest":"Borussia Dortmund","master":"Juventus","result":null,"league":null,"date":"2014-15","id":2571,"gguest":"1","gmaster":"2"}
-{"guest":"Barcelona","master":"Manchester City","result":null,"league":null,"date":"2014-15","id":2572,"gguest":"2","gmaster":"1"}
-{"guest":"FC Porto","master":"Basel","result":null,"league":null,"date":"2014-15","id":2573,"gguest":"1","gmaster":"1"}
-{"guest":"Real Madrid","master":"Schalke","result":null,"league":null,"date":"2014-15","id":2574,"gguest":"2","gmaster":"0"}
-{"guest":"Chelsea","master":"Paris Saint-Germain","result":null,"league":null,"date":"2014-15","id":2575,"gguest":"1","gmaster":"1"}
-{"guest":"Bayern Munich","master":"Shakhtar Donetsk","result":null,"league":null,"date":"2014-15","id":2576,"gguest":"0","gmaster":"0"}
-{"guest":"Apoel Nicosia","master":"Ajax","result":null,"league":null,"date":"2014-15","id":2577,"gguest":"0","gmaster":"4"}
-{"guest":"BATE Borisov","master":"Athletic Bilbao","result":null,"league":null,"date":"2014-15","id":2578,"gguest":"0","gmaster":"2"}
-{"guest":"Paris Saint-Germain","master":"Barcelona","result":null,"league":null,"date":"2014-15","id":2579,"gguest":"1","gmaster":"3"}
-{"guest":"CSKA Moscow","master":"Bayern Munich","result":null,"league":null,"date":"2014-15","id":2580,"gguest":"0","gmaster":"3"}
-{"guest":"Sporting Lisbon","master":"Chelsea","result":null,"league":null,"date":"2014-15","id":2581,"gguest":"1","gmaster":"3"}
-{"guest":"Shakhtar Donetsk","master":"FC Porto","result":null,"league":null,"date":"2014-15","id":2582,"gguest":"1","gmaster":"1"}
-{"guest":"Schalke","master":"Maribor","result":null,"league":null,"date":"2014-15","id":2583,"gguest":"1","gmaster":"0"}
-{"guest":"Manchester City","master":"Roma","result":null,"league":null,"date":"2014-15","id":2584,"gguest":"2","gmaster":"1"}
-{"guest":"Bayer Leverkusen","master":"Benfica","result":null,"league":null,"date":"2014-15","id":2585,"gguest":"0","gmaster":"0"}
-{"guest":"Anderlecht","master":"Borussia Dortmund","result":null,"league":null,"date":"2014-15","id":2586,"gguest":"1","gmaster":"1"}
-{"guest":"Arsenal","master":"Galatasaray","result":null,"league":null,"date":"2014-15","id":2587,"gguest":"4","gmaster":"1"}
-{"guest":"Atletico Madrid","master":"Juventus","result":null,"league":null,"date":"2014-15","id":2588,"gguest":"0","gmaster":"0"}
-{"guest":"Basel","master":"Liverpool","result":null,"league":null,"date":"2014-15","id":2589,"gguest":"1","gmaster":"1"}
-{"guest":"Zenit St. Petersburg","master":"Monaco","result":null,"league":null,"date":"2014-15","id":2590,"gguest":"0","gmaster":"2"}
-{"guest":"Malmo FF","master":"Olympiakos FC","result":null,"league":null,"date":"2014-15","id":2591,"gguest":"2","gmaster":"4"}
-{"guest":"Ludogorets","master":"Real Madrid","result":null,"league":null,"date":"2014-15","id":2592,"gguest":"0","gmaster":"4"}
-{"guest":"Benfica","master":"Zenit St. Petersburg","result":null,"league":null,"date":"2014-15","id":2593,"gguest":"0","gmaster":"1"}
-{"guest":"Galatasaray","master":"Anderlecht","result":null,"league":null,"date":"2014-15","id":2594,"gguest":"0","gmaster":"2"}
-{"guest":"Borussia Dortmund","master":"Arsenal","result":null,"league":null,"date":"2014-15","id":2595,"gguest":"0","gmaster":"2"}
-{"guest":"Olympiakos FC","master":"Atletico Madrid","result":null,"league":null,"date":"2014-15","id":2596,"gguest":"0","gmaster":"4"}
-{"guest":"Real Madrid","master":"Basel","result":null,"league":null,"date":"2014-15","id":2597,"gguest":"1","gmaster":"0"}
-{"guest":"Monaco","master":"Bayer Leverkusen","result":null,"league":null,"date":"2014-15","id":2598,"gguest":"1","gmaster":"0"}
-{"guest":"Liverpool","master":"Ludogorets","result":null,"league":null,"date":"2014-15","id":2599,"gguest":"2","gmaster":"2"}
-{"guest":"Juventus","master":"Malmo FF","result":null,"league":null,"date":"2014-15","id":2600,"gguest":"2","gmaster":"0"}
-{"guest":"FC Porto","master":"BATE Borisov","result":null,"league":null,"date":"2014-15","id":2601,"gguest":"3","gmaster":"0"}
-{"guest":"Roma","master":"CSKA Moscow","result":null,"league":null,"date":"2014-15","id":2602,"gguest":"1","gmaster":"1"}
-{"guest":"Barcelona","master":"Apoel Nicosia","result":null,"league":null,"date":"2014-15","id":2603,"gguest":"4","gmaster":"0"}
-{"guest":"Bayern Munich","master":"Manchester City","result":null,"league":null,"date":"2014-15","id":2604,"gguest":"2","gmaster":"3"}
-{"guest":"Ajax","master":"Paris Saint-Germain","result":null,"league":null,"date":"2014-15","id":2605,"gguest":"1","gmaster":"3"}
-{"guest":"Chelsea","master":"Schalke","result":null,"league":null,"date":"2014-15","id":2606,"gguest":"5","gmaster":"0"}
-{"guest":"Athletic Bilbao","master":"Shakhtar Donetsk","result":null,"league":null,"date":"2014-15","id":2607,"gguest":"1","gmaster":"0"}
-{"guest":"Maribor","master":"Sporting Lisbon","result":null,"league":null,"date":"2014-15","id":2608,"gguest":"1","gmaster":"3"}
-{"guest":"Barcelona","master":"Ajax","result":null,"league":null,"date":"2014-15","id":2609,"gguest":"2","gmaster":"0"}
-{"guest":"FC Porto","master":"Athletic Bilbao","result":null,"league":null,"date":"2014-15","id":2610,"gguest":"2","gmaster":"0"}
-{"guest":"Roma","master":"Bayern Munich","result":null,"league":null,"date":"2014-15","id":2611,"gguest":"0","gmaster":"2"}
-{"guest":"CSKA Moscow","master":"Manchester City","result":null,"league":null,"date":"2014-15","id":2612,"gguest":"2","gmaster":"1"}
-{"guest":"Chelsea","master":"Maribor","result":null,"league":null,"date":"2014-15","id":2613,"gguest":"1","gmaster":"1"}
-{"guest":"Apoel Nicosia","master":"Paris Saint-Germain","result":null,"league":null,"date":"2014-15","id":2614,"gguest":"0","gmaster":"1"}
-{"guest":"BATE Borisov","master":"Shakhtar Donetsk","result":null,"league":null,"date":"2014-15","id":2615,"gguest":"0","gmaster":"5"}
-{"guest":"Schalke","master":"Sporting Lisbon","result":null,"league":null,"date":"2014-15","id":2616,"gguest":"2","gmaster":"4"}
-{"guest":"Bayer Leverkusen","master":"Zenit St. Petersburg","result":null,"league":null,"date":"2014-15","id":2617,"gguest":"2","gmaster":"1"}
-{"guest":"Anderlecht","master":"Arsenal","result":null,"league":null,"date":"2014-15","id":2618,"gguest":"3","gmaster":"3"}
-{"guest":"Ludogorets","master":"Basel","result":null,"league":null,"date":"2014-15","id":2619,"gguest":"0","gmaster":"4"}
-{"guest":"Monaco","master":"Benfica","result":null,"league":null,"date":"2014-15","id":2620,"gguest":"0","gmaster":"1"}
-{"guest":"Galatasaray","master":"Borussia Dortmund","result":null,"league":null,"date":"2014-15","id":2621,"gguest":"1","gmaster":"4"}
-{"guest":"Olympiakos FC","master":"Juventus","result":null,"league":null,"date":"2014-15","id":2622,"gguest":"2","gmaster":"3"}
-{"guest":"Atletico Madrid","master":"Malmo FF","result":null,"league":null,"date":"2014-15","id":2623,"gguest":"2","gmaster":"0"}
-{"guest":"Liverpool","master":"Real Madrid","result":null,"league":null,"date":"2014-15","id":2624,"gguest":"0","gmaster":"1"}
-{"guest":"Arsenal","master":"Anderlecht","result":null,"league":null,"date":"2014-15","id":2625,"gguest":"2","gmaster":"1"}
-{"guest":"Malmo FF","master":"Atletico Madrid","result":null,"league":null,"date":"2014-15","id":2626,"gguest":"0","gmaster":"5"}
-{"guest":"Zenit St. Petersburg","master":"Bayer Leverkusen","result":null,"league":null,"date":"2014-15","id":2627,"gguest":"0","gmaster":"2"}
-{"guest":"Borussia Dortmund","master":"Galatasaray","result":null,"league":null,"date":"2014-15","id":2628,"gguest":"4","gmaster":"0"}
-{"guest":"Real Madrid","master":"Liverpool","result":null,"league":null,"date":"2014-15","id":2629,"gguest":"3","gmaster":"0"}
-{"guest":"Basel","master":"Ludogorets","result":null,"league":null,"date":"2014-15","id":2630,"gguest":"0","gmaster":"1"}
-{"guest":"Benfica","master":"Monaco","result":null,"league":null,"date":"2014-15","id":2631,"gguest":"0","gmaster":"0"}
-{"guest":"Juventus","master":"Olympiakos FC","result":null,"league":null,"date":"2014-15","id":2632,"gguest":"0","gmaster":"1"}
-{"guest":"Manchester City","master":"CSKA Moscow","result":null,"league":null,"date":"2014-15","id":2633,"gguest":"2","gmaster":"2"}
-{"guest":"Paris Saint-Germain","master":"Apoel Nicosia","result":null,"league":null,"date":"2014-15","id":2634,"gguest":"1","gmaster":"0"}
-{"guest":"Shakhtar Donetsk","master":"BATE Borisov","result":null,"league":null,"date":"2014-15","id":2635,"gguest":"7","gmaster":"0"}
-{"guest":"Ajax","master":"Barcelona","result":null,"league":null,"date":"2014-15","id":2636,"gguest":"1","gmaster":"3"}
-{"guest":"Maribor","master":"Chelsea","result":null,"league":null,"date":"2014-15","id":2637,"gguest":"0","gmaster":"6"}
-{"guest":"Athletic Bilbao","master":"FC Porto","result":null,"league":null,"date":"2014-15","id":2638,"gguest":"1","gmaster":"2"}
-{"guest":"Bayern Munich","master":"Roma","result":null,"league":null,"date":"2014-15","id":2639,"gguest":"7","gmaster":"1"}
-{"guest":"Sporting Lisbon","master":"Schalke","result":null,"league":null,"date":"2014-15","id":2640,"gguest":"3","gmaster":"4"}
-{"guest":"Monaco","master":"Zenit St. Petersburg","result":null,"league":null,"date":"2014-15","id":2641,"gguest":"0","gmaster":"0"}
-{"guest":"Borussia Dortmund","master":"Anderlecht","result":null,"league":null,"date":"2014-15","id":2642,"gguest":"3","gmaster":"0"}
-{"guest":"Galatasaray","master":"Arsenal","result":null,"league":null,"date":"2014-15","id":2643,"gguest":"1","gmaster":"4"}
-{"guest":"Juventus","master":"Atletico Madrid","result":null,"league":null,"date":"2014-15","id":2644,"gguest":"0","gmaster":"1"}
-{"guest":"Liverpool","master":"Basel","result":null,"league":null,"date":"2014-15","id":2645,"gguest":"0","gmaster":"1"}
-{"guest":"Benfica","master":"Bayer Leverkusen","result":null,"league":null,"date":"2014-15","id":2646,"gguest":"1","gmaster":"3"}
-{"guest":"Real Madrid","master":"Ludogorets","result":null,"league":null,"date":"2014-15","id":2647,"gguest":"2","gmaster":"1"}
-{"guest":"Olympiakos FC","master":"Malmo FF","result":null,"league":null,"date":"2014-15","id":2648,"gguest":"0","gmaster":"2"}
-{"guest":"Bayern Munich","master":"CSKA Moscow","result":null,"league":null,"date":"2014-15","id":2649,"gguest":"1","gmaster":"0"}
-{"guest":"Ajax","master":"Apoel Nicosia","result":null,"league":null,"date":"2014-15","id":2650,"gguest":"1","gmaster":"1"}
-{"guest":"Athletic Bilbao","master":"BATE Borisov","result":null,"league":null,"date":"2014-15","id":2651,"gguest":"1","gmaster":"2"}
-{"guest":"Roma","master":"Manchester City","result":null,"league":null,"date":"2014-15","id":2652,"gguest":"1","gmaster":"1"}
-{"guest":"Barcelona","master":"Paris Saint-Germain","result":null,"league":null,"date":"2014-15","id":2653,"gguest":"2","gmaster":"3"}
-{"guest":"Maribor","master":"Schalke","result":null,"league":null,"date":"2014-15","id":2654,"gguest":"1","gmaster":"1"}
-{"guest":"FC Porto","master":"Shakhtar Donetsk","result":null,"league":null,"date":"2014-15","id":2655,"gguest":"2","gmaster":"2"}
-{"guest":"Chelsea","master":"Sporting Lisbon","result":null,"league":null,"date":"2014-15","id":2656,"gguest":"1","gmaster":"0"}
-{"guest":"Paris Saint-Germain","master":"Ajax","result":null,"league":null,"date":"2014-15","id":2657,"gguest":"1","gmaster":"1"}
-{"guest":"Shakhtar Donetsk","master":"Athletic Bilbao","result":null,"league":null,"date":"2014-15","id":2658,"gguest":"0","gmaster":"0"}
-{"guest":"Apoel Nicosia","master":"Barcelona","result":null,"league":null,"date":"2014-15","id":2659,"gguest":"0","gmaster":"1"}
-{"guest":"Manchester City","master":"Bayern Munich","result":null,"league":null,"date":"2014-15","id":2660,"gguest":"0","gmaster":"1"}
-{"guest":"Schalke","master":"Chelsea","result":null,"league":null,"date":"2014-15","id":2661,"gguest":"1","gmaster":"1"}
-{"guest":"BATE Borisov","master":"FC Porto","result":null,"league":null,"date":"2014-15","id":2662,"gguest":"0","gmaster":"6"}
-{"guest":"Sporting Lisbon","master":"Maribor","result":null,"league":null,"date":"2014-15","id":2663,"gguest":"1","gmaster":"1"}
-{"guest":"CSKA Moscow","master":"Roma","result":null,"league":null,"date":"2014-15","id":2664,"gguest":"1","gmaster":"5"}
-{"guest":"Zenit St. Petersburg","master":"Benfica","result":null,"league":null,"date":"2014-15","id":2665,"gguest":"2","gmaster":"0"}
-{"guest":"Arsenal","master":"Borussia Dortmund","result":null,"league":null,"date":"2014-15","id":2666,"gguest":"0","gmaster":"2"}
-{"guest":"Anderlecht","master":"Galatasaray","result":null,"league":null,"date":"2014-15","id":2667,"gguest":"1","gmaster":"1"}
-{"guest":"Malmo FF","master":"Juventus","result":null,"league":null,"date":"2014-15","id":2668,"gguest":"0","gmaster":"2"}
-{"guest":"Ludogorets","master":"Liverpool","result":null,"league":null,"date":"2014-15","id":2669,"gguest":"1","gmaster":"2"}
-{"guest":"Bayer Leverkusen","master":"Monaco","result":null,"league":null,"date":"2014-15","id":2670,"gguest":"0","gmaster":"1"}
-{"guest":"Atletico Madrid","master":"Olympiakos FC","result":null,"league":null,"date":"2014-15","id":2671,"gguest":"2","gmaster":"3"}
-{"guest":"Basel","master":"Real Madrid","result":null,"league":null,"date":"2014-15","id":2672,"gguest":"1","gmaster":"5"}
-{"guest":"Atletico Madrid","master":"Real Madrid","result":null,"league":null,"date":"2015-16","id":2673,"gguest":"1","gmaster":"1"}
-{"guest":"Manchester City","master":"Real Madrid","result":null,"league":null,"date":"2015-16","id":2674,"gguest":"0","gmaster":"1"}
-{"guest":"Atletico Madrid","master":"Bayern Munich","result":null,"league":null,"date":"2015-16","id":2675,"gguest":"1","gmaster":"2"}
-{"guest":"Bayern Munich","master":"Atletico Madrid","result":null,"league":null,"date":"2015-16","id":2676,"gguest":"0","gmaster":"1"}
-{"guest":"Real Madrid","master":"Manchester City","result":null,"league":null,"date":"2015-16","id":2677,"gguest":"0","gmaster":"0"}
-{"guest":"Barcelona","master":"Atletico Madrid","result":null,"league":null,"date":"2015-16","id":2678,"gguest":"0","gmaster":"2"}
-{"guest":"Bayern Munich","master":"Benfica","result":null,"league":null,"date":"2015-16","id":2679,"gguest":"2","gmaster":"2"}
-{"guest":"Paris Saint-Germain","master":"Manchester City","result":null,"league":null,"date":"2015-16","id":2680,"gguest":"0","gmaster":"1"}
-{"guest":"Wolfsburg","master":"Real Madrid","result":null,"league":null,"date":"2015-16","id":2681,"gguest":"0","gmaster":"3"}
-{"guest":"Manchester City","master":"Paris Saint-Germain","result":null,"league":null,"date":"2015-16","id":2682,"gguest":"2","gmaster":"2"}
-{"guest":"Real Madrid","master":"Wolfsburg","result":null,"league":null,"date":"2015-16","id":2683,"gguest":"0","gmaster":"2"}
-{"guest":"Atletico Madrid","master":"Barcelona","result":null,"league":null,"date":"2015-16","id":2684,"gguest":"1","gmaster":"2"}
-{"guest":"Benfica","master":"Bayern Munich","result":null,"league":null,"date":"2015-16","id":2685,"gguest":"0","gmaster":"1"}
-{"guest":"Arsenal","master":"Barcelona","result":null,"league":null,"date":"2015-16","id":2686,"gguest":"1","gmaster":"3"}
-{"guest":"Juventus","master":"Bayern Munich","result":null,"league":null,"date":"2015-16","id":2687,"gguest":"2","gmaster":"4"}
-{"guest":"PSV Eindhoven","master":"Atletico Madrid","result":null,"league":null,"date":"2015-16","id":2688,"gguest":"0","gmaster":"0"}
-{"guest":"Dynamo Kiev","master":"Manchester City","result":null,"league":null,"date":"2015-16","id":2689,"gguest":"0","gmaster":"0"}
-{"guest":"Benfica","master":"Zenit St. Petersburg","result":null,"league":null,"date":"2015-16","id":2690,"gguest":"2","gmaster":"1"}
-{"guest":"Paris Saint-Germain","master":"Chelsea","result":null,"league":null,"date":"2015-16","id":2691,"gguest":"2","gmaster":"1"}
-{"guest":"Roma","master":"Real Madrid","result":null,"league":null,"date":"2015-16","id":2692,"gguest":"0","gmaster":"2"}
-{"guest":"AA Gent (Bel)","master":"Wolfsburg","result":null,"league":null,"date":"2015-16","id":2693,"gguest":"0","gmaster":"1"}
-{"guest":"Manchester City","master":"Dynamo Kiev","result":null,"league":null,"date":"2015-16","id":2694,"gguest":"3","gmaster":"1"}
-{"guest":"Atletico Madrid","master":"PSV Eindhoven","result":null,"league":null,"date":"2015-16","id":2695,"gguest":"0","gmaster":"0"}
-{"guest":"Barcelona","master":"Arsenal","result":null,"league":null,"date":"2015-16","id":2696,"gguest":"2","gmaster":"0"}
-{"guest":"Bayern Munich","master":"Juventus","result":null,"league":null,"date":"2015-16","id":2697,"gguest":"2","gmaster":"2"}
-{"guest":"Wolfsburg","master":"AA Gent (Bel)","result":null,"league":null,"date":"2015-16","id":2698,"gguest":"3","gmaster":"2"}
-{"guest":"Real Madrid","master":"Roma","result":null,"league":null,"date":"2015-16","id":2699,"gguest":"2","gmaster":"0"}
-{"guest":"Zenit St. Petersburg","master":"Benfica","result":null,"league":null,"date":"2015-16","id":2700,"gguest":"0","gmaster":"1"}
-{"guest":"Chelsea","master":"Paris Saint-Germain","result":null,"league":null,"date":"2015-16","id":2701,"gguest":"1","gmaster":"2"}
-{"guest":"Zenit St. Petersburg","master":"AA Gent (Bel)","result":null,"league":null,"date":"2015-16","id":2702,"gguest":"1","gmaster":"2"}
-{"guest":"Barcelona","master":"Bayer Leverkusen","result":null,"league":null,"date":"2015-16","id":2703,"gguest":"1","gmaster":"1"}
-{"guest":"FC Porto","master":"Chelsea","result":null,"league":null,"date":"2015-16","id":2704,"gguest":"0","gmaster":"2"}
-{"guest":"Bayern Munich","master":"Dinamo Zagreb","result":null,"league":null,"date":"2015-16","id":2705,"gguest":"2","gmaster":"0"}
-{"guest":"Maccabi Tel Aviv","master":"Dynamo Kiev","result":null,"league":null,"date":"2015-16","id":2706,"gguest":"0","gmaster":"1"}
-{"guest":"Arsenal","master":"Olympiakos FC","result":null,"league":null,"date":"2015-16","id":2707,"gguest":"3","gmaster":"0"}
-{"guest":"BATE Borisov","master":"Roma","result":null,"league":null,"date":"2015-16","id":2708,"gguest":"0","gmaster":"0"}
-{"guest":"Lyon","master":"Valencia","result":null,"league":null,"date":"2015-16","id":2709,"gguest":"2","gmaster":"0"}
-{"guest":"Atletico Madrid","master":"Benfica","result":null,"league":null,"date":"2015-16","id":2710,"gguest":"2","gmaster":"1"}
-{"guest":"Astana","master":"Galatasaray","result":null,"league":null,"date":"2015-16","id":2711,"gguest":"1","gmaster":"1"}
-{"guest":"M'gladbach","master":"Manchester City","result":null,"league":null,"date":"2015-16","id":2712,"gguest":"2","gmaster":"4"}
-{"guest":"CSKA Moscow","master":"PSV Eindhoven","result":null,"league":null,"date":"2015-16","id":2713,"gguest":"1","gmaster":"2"}
-{"guest":"Shakhtar Donetsk","master":"Paris Saint-Germain","result":null,"league":null,"date":"2015-16","id":2714,"gguest":"0","gmaster":"2"}
-{"guest":"Malmo FF","master":"Real Madrid","result":null,"league":null,"date":"2015-16","id":2715,"gguest":"0","gmaster":"8"}
-{"guest":"Juventus","master":"Sevilla","result":null,"league":null,"date":"2015-16","id":2716,"gguest":"0","gmaster":"1"}
-{"guest":"Manchester United","master":"Wolfsburg","result":null,"league":null,"date":"2015-16","id":2717,"gguest":"2","gmaster":"3"}
-{"guest":"Benfica","master":"Astana","result":null,"league":null,"date":"2015-16","id":2718,"gguest":"2","gmaster":"2"}
-{"guest":"Wolfsburg","master":"CSKA Moscow","result":null,"league":null,"date":"2015-16","id":2719,"gguest":"2","gmaster":"0"}
-{"guest":"Galatasaray","master":"Atletico Madrid","result":null,"league":null,"date":"2015-16","id":2720,"gguest":"0","gmaster":"2"}
-{"guest":"Manchester City","master":"Juventus","result":null,"league":null,"date":"2015-16","id":2721,"gguest":"0","gmaster":"1"}
-{"guest":"Sevilla","master":"M'gladbach","result":null,"league":null,"date":"2015-16","id":2722,"gguest":"2","gmaster":"4"}
-{"guest":"Paris Saint-Germain","master":"Malmo FF","result":null,"league":null,"date":"2015-16","id":2723,"gguest":"5","gmaster":"0"}
-{"guest":"PSV Eindhoven","master":"Manchester United","result":null,"league":null,"date":"2015-16","id":2724,"gguest":"0","gmaster":"0"}
-{"guest":"Real Madrid","master":"Shakhtar Donetsk","result":null,"league":null,"date":"2015-16","id":2725,"gguest":"4","gmaster":"3"}
-{"guest":"Bayer Leverkusen","master":"BATE Borisov","result":null,"league":null,"date":"2015-16","id":2726,"gguest":"1","gmaster":"1"}
-{"guest":"Valencia","master":"Zenit St. Petersburg","result":null,"league":null,"date":"2015-16","id":2727,"gguest":"0","gmaster":"2"}
-{"guest":"Dinamo Zagreb","master":"Arsenal","result":null,"league":null,"date":"2015-16","id":2728,"gguest":"0","gmaster":"3"}
-{"guest":"Roma","master":"Barcelona","result":null,"league":null,"date":"2015-16","id":2729,"gguest":"1","gmaster":"6"}
-{"guest":"Olympiakos FC","master":"Bayern Munich","result":null,"league":null,"date":"2015-16","id":2730,"gguest":"0","gmaster":"4"}
-{"guest":"Dynamo Kiev","master":"FC Porto","result":null,"league":null,"date":"2015-16","id":2731,"gguest":"2","gmaster":"0"}
-{"guest":"AA Gent (Bel)","master":"Lyon","result":null,"league":null,"date":"2015-16","id":2732,"gguest":"2","gmaster":"1"}
-{"guest":"Chelsea","master":"Maccabi Tel Aviv","result":null,"league":null,"date":"2015-16","id":2733,"gguest":"4","gmaster":"0"}
-{"guest":"Valencia","master":"AA Gent (Bel)","result":null,"league":null,"date":"2015-16","id":2734,"gguest":"0","gmaster":"1"}
-{"guest":"BATE Borisov","master":"Barcelona","result":null,"league":null,"date":"2015-16","id":2735,"gguest":"0","gmaster":"3"}
-{"guest":"Arsenal","master":"Bayern Munich","result":null,"league":null,"date":"2015-16","id":2736,"gguest":"1","gmaster":"5"}
-{"guest":"Dynamo Kiev","master":"Chelsea","result":null,"league":null,"date":"2015-16","id":2737,"gguest":"1","gmaster":"2"}
-{"guest":"Zenit St. Petersburg","master":"Lyon","result":null,"league":null,"date":"2015-16","id":2738,"gguest":"2","gmaster":"0"}
-{"guest":"FC Porto","master":"Maccabi Tel Aviv","result":null,"league":null,"date":"2015-16","id":2739,"gguest":"3","gmaster":"1"}
-{"guest":"Dinamo Zagreb","master":"Olympiakos FC","result":null,"league":null,"date":"2015-16","id":2740,"gguest":"1","gmaster":"2"}
-{"guest":"Bayer Leverkusen","master":"Roma","result":null,"league":null,"date":"2015-16","id":2741,"gguest":"2","gmaster":"3"}
-{"guest":"Atletico Madrid","master":"Astana","result":null,"league":null,"date":"2015-16","id":2742,"gguest":"0","gmaster":"0"}
-{"guest":"Galatasaray","master":"Benfica","result":null,"league":null,"date":"2015-16","id":2743,"gguest":"1","gmaster":"2"}
-{"guest":"Juventus","master":"M'gladbach","result":null,"league":null,"date":"2015-16","id":2744,"gguest":"1","gmaster":"1"}
-{"guest":"CSKA Moscow","master":"Manchester United","result":null,"league":null,"date":"2015-16","id":2745,"gguest":"0","gmaster":"1"}
-{"guest":"Wolfsburg","master":"PSV Eindhoven","result":null,"league":null,"date":"2015-16","id":2746,"gguest":"0","gmaster":"2"}
-{"guest":"Paris Saint-Germain","master":"Real Madrid","result":null,"league":null,"date":"2015-16","id":2747,"gguest":"0","gmaster":"1"}
-{"guest":"Manchester City","master":"Sevilla","result":null,"league":null,"date":"2015-16","id":2748,"gguest":"3","gmaster":"1"}
-{"guest":"Malmo FF","master":"Shakhtar Donetsk","result":null,"league":null,"date":"2015-16","id":2749,"gguest":"0","gmaster":"4"}
-{"guest":"Astana","master":"Atletico Madrid","result":null,"league":null,"date":"2015-16","id":2750,"gguest":"0","gmaster":"4"}
-{"guest":"Manchester United","master":"CSKA Moscow","result":null,"league":null,"date":"2015-16","id":2751,"gguest":"1","gmaster":"1"}
-{"guest":"Benfica","master":"Galatasaray","result":null,"league":null,"date":"2015-16","id":2752,"gguest":"1","gmaster":"2"}
-{"guest":"M'gladbach","master":"Juventus","result":null,"league":null,"date":"2015-16","id":2753,"gguest":"0","gmaster":"0"}
-{"guest":"Shakhtar Donetsk","master":"Malmo FF","result":null,"league":null,"date":"2015-16","id":2754,"gguest":"0","gmaster":"1"}
-{"guest":"Sevilla","master":"Manchester City","result":null,"league":null,"date":"2015-16","id":2755,"gguest":"1","gmaster":"2"}
-{"guest":"Real Madrid","master":"Paris Saint-Germain","result":null,"league":null,"date":"2015-16","id":2756,"gguest":"0","gmaster":"0"}
-{"guest":"PSV Eindhoven","master":"Wolfsburg","result":null,"league":null,"date":"2015-16","id":2757,"gguest":"0","gmaster":"2"}
-{"guest":"Bayern Munich","master":"Arsenal","result":null,"league":null,"date":"2015-16","id":2758,"gguest":"0","gmaster":"2"}
-{"guest":"Barcelona","master":"BATE Borisov","result":null,"league":null,"date":"2015-16","id":2759,"gguest":"2","gmaster":"0"}
-{"guest":"Roma","master":"Bayer Leverkusen","result":null,"league":null,"date":"2015-16","id":2760,"gguest":"4","gmaster":"4"}
-{"guest":"Olympiakos FC","master":"Dinamo Zagreb","result":null,"league":null,"date":"2015-16","id":2761,"gguest":"1","gmaster":"0"}
-{"guest":"Chelsea","master":"Dynamo Kiev","result":null,"league":null,"date":"2015-16","id":2762,"gguest":"0","gmaster":"0"}
-{"guest":"Maccabi Tel Aviv","master":"FC Porto","result":null,"league":null,"date":"2015-16","id":2763,"gguest":"0","gmaster":"2"}
-{"guest":"AA Gent (Bel)","master":"Valencia","result":null,"league":null,"date":"2015-16","id":2764,"gguest":"1","gmaster":"2"}
-{"guest":"Lyon","master":"Zenit St. Petersburg","result":null,"league":null,"date":"2015-16","id":2765,"gguest":"1","gmaster":"3"}
-{"guest":"Galatasaray","master":"Astana","result":null,"league":null,"date":"2015-16","id":2766,"gguest":"2","gmaster":"2"}
-{"guest":"Benfica","master":"Atletico Madrid","result":null,"league":null,"date":"2015-16","id":2767,"gguest":"2","gmaster":"1"}
-{"guest":"PSV Eindhoven","master":"CSKA Moscow","result":null,"league":null,"date":"2015-16","id":2768,"gguest":"2","gmaster":"3"}
-{"guest":"Sevilla","master":"Juventus","result":null,"league":null,"date":"2015-16","id":2769,"gguest":"0","gmaster":"2"}
-{"guest":"Manchester City","master":"M'gladbach","result":null,"league":null,"date":"2015-16","id":2770,"gguest":"2","gmaster":"1"}
-{"guest":"Real Madrid","master":"Malmo FF","result":null,"league":null,"date":"2015-16","id":2771,"gguest":"2","gmaster":"0"}
-{"guest":"Wolfsburg","master":"Manchester United","result":null,"league":null,"date":"2015-16","id":2772,"gguest":"1","gmaster":"2"}
-{"guest":"Paris Saint-Germain","master":"Shakhtar Donetsk","result":null,"league":null,"date":"2015-16","id":2773,"gguest":"3","gmaster":"0"}
-{"guest":"Olympiakos FC","master":"Arsenal","result":null,"league":null,"date":"2015-16","id":2774,"gguest":"3","gmaster":"2"}
-{"guest":"Roma","master":"BATE Borisov","result":null,"league":null,"date":"2015-16","id":2775,"gguest":"2","gmaster":"3"}
-{"guest":"Bayer Leverkusen","master":"Barcelona","result":null,"league":null,"date":"2015-16","id":2776,"gguest":"1","gmaster":"2"}
-{"guest":"Dinamo Zagreb","master":"Bayern Munich","result":null,"league":null,"date":"2015-16","id":2777,"gguest":"0","gmaster":"5"}
-{"guest":"Chelsea","master":"FC Porto","result":null,"league":null,"date":"2015-16","id":2778,"gguest":"1","gmaster":"2"}
-{"guest":"Valencia","master":"Lyon","result":null,"league":null,"date":"2015-16","id":2779,"gguest":"1","gmaster":"0"}
-{"guest":"Dynamo Kiev","master":"Maccabi Tel Aviv","result":null,"league":null,"date":"2015-16","id":2780,"gguest":"2","gmaster":"0"}
-{"guest":"AA Gent (Bel)","master":"Zenit St. Petersburg","result":null,"league":null,"date":"2015-16","id":2781,"gguest":"1","gmaster":"2"}
-{"guest":"Lyon","master":"AA Gent (Bel)","result":null,"league":null,"date":"2015-16","id":2782,"gguest":"1","gmaster":"1"}
-{"guest":"BATE Borisov","master":"Bayer Leverkusen","result":null,"league":null,"date":"2015-16","id":2783,"gguest":"1","gmaster":"4"}
-{"guest":"Maccabi Tel Aviv","master":"Chelsea","result":null,"league":null,"date":"2015-16","id":2784,"gguest":"0","gmaster":"4"}
-{"guest":"Arsenal","master":"Dinamo Zagreb","result":null,"league":null,"date":"2015-16","id":2785,"gguest":"1","gmaster":"2"}
-{"guest":"FC Porto","master":"Dynamo Kiev","result":null,"league":null,"date":"2015-16","id":2786,"gguest":"2","gmaster":"2"}
-{"guest":"Bayern Munich","master":"Olympiakos FC","result":null,"league":null,"date":"2015-16","id":2787,"gguest":"3","gmaster":"0"}
-{"guest":"Barcelona","master":"Roma","result":null,"league":null,"date":"2015-16","id":2788,"gguest":"1","gmaster":"1"}
-{"guest":"Zenit St. Petersburg","master":"Valencia","result":null,"league":null,"date":"2015-16","id":2789,"gguest":"3","gmaster":"2"}
-{"guest":"Astana","master":"Benfica","result":null,"league":null,"date":"2015-16","id":2790,"gguest":"0","gmaster":"2"}
-{"guest":"Atletico Madrid","master":"Galatasaray","result":null,"league":null,"date":"2015-16","id":2791,"gguest":"2","gmaster":"0"}
-{"guest":"Juventus","master":"Manchester City","result":null,"league":null,"date":"2015-16","id":2792,"gguest":"2","gmaster":"1"}
-{"guest":"Manchester United","master":"PSV Eindhoven","result":null,"league":null,"date":"2015-16","id":2793,"gguest":"1","gmaster":"2"}
-{"guest":"Malmo FF","master":"Paris Saint-Germain","result":null,"league":null,"date":"2015-16","id":2794,"gguest":"0","gmaster":"2"}
-{"guest":"Shakhtar Donetsk","master":"Real Madrid","result":null,"league":null,"date":"2015-16","id":2795,"gguest":"0","gmaster":"4"}
-{"guest":"M'gladbach","master":"Sevilla","result":null,"league":null,"date":"2015-16","id":2796,"gguest":"0","gmaster":"3"}
-{"guest":"CSKA Moscow","master":"Wolfsburg","result":null,"league":null,"date":"2015-16","id":2797,"gguest":"0","gmaster":"1"}
-{"guest":"Real Madrid","master":"Juventus","result":null,"league":null,"date":"2016-17","id":2798,"gguest":"4","gmaster":"1"}
-{"guest":"Real Madrid","master":"Atletico Madrid","result":null,"league":null,"date":"2016-17","id":2799,"gguest":"1","gmaster":"2"}
-{"guest":"Monaco","master":"Juventus","result":null,"league":null,"date":"2016-17","id":2800,"gguest":"1","gmaster":"2"}
-{"guest":"Juventus","master":"Monaco","result":null,"league":null,"date":"2016-17","id":2801,"gguest":"2","gmaster":"0"}
-{"guest":"Atletico Madrid","master":"Real Madrid","result":null,"league":null,"date":"2016-17","id":2802,"gguest":"0","gmaster":"3"}
-{"guest":"Juventus","master":"Barcelona","result":null,"league":null,"date":"2016-17","id":2803,"gguest":"0","gmaster":"0"}
-{"guest":"Borussia Dortmund","master":"Monaco","result":null,"league":null,"date":"2016-17","id":2804,"gguest":"1","gmaster":"3"}
-{"guest":"Atletico Madrid","master":"Leicester City","result":null,"league":null,"date":"2016-17","id":2805,"gguest":"1","gmaster":"1"}
-{"guest":"Bayern Munich","master":"Real Madrid","result":null,"league":null,"date":"2016-17","id":2806,"gguest":"2","gmaster":"4"}
-{"guest":"Monaco","master":"Borussia Dortmund","result":null,"league":null,"date":"2016-17","id":2807,"gguest":"3","gmaster":"2"}
-{"guest":"Leicester City","master":"Atletico Madrid","result":null,"league":null,"date":"2016-17","id":2808,"gguest":"0","gmaster":"1"}
-{"guest":"Real Madrid","master":"Bayern Munich","result":null,"league":null,"date":"2016-17","id":2809,"gguest":"2","gmaster":"1"}
-{"guest":"Barcelona","master":"Juventus","result":null,"league":null,"date":"2016-17","id":2810,"gguest":"0","gmaster":"3"}
-{"guest":"Bayer Leverkusen","master":"Atletico Madrid","result":null,"league":null,"date":"2016-17","id":2811,"gguest":"0","gmaster":"0"}
-{"guest":"Manchester City","master":"Monaco","result":null,"league":null,"date":"2016-17","id":2812,"gguest":"1","gmaster":"3"}
-{"guest":"FC Porto","master":"Juventus","result":null,"league":null,"date":"2016-17","id":2813,"gguest":"0","gmaster":"1"}
-{"guest":"Sevilla","master":"Leicester City","result":null,"league":null,"date":"2016-17","id":2814,"gguest":"0","gmaster":"2"}
-{"guest":"Paris Saint-Germain","master":"Barcelona","result":null,"league":null,"date":"2016-17","id":2815,"gguest":"1","gmaster":"6"}
-{"guest":"Benfica","master":"Borussia Dortmund","result":null,"league":null,"date":"2016-17","id":2816,"gguest":"0","gmaster":"4"}
-{"guest":"Bayern Munich","master":"Arsenal","result":null,"league":null,"date":"2016-17","id":2817,"gguest":"5","gmaster":"1"}
-{"guest":"Real Madrid","master":"Napoli","result":null,"league":null,"date":"2016-17","id":2818,"gguest":"3","gmaster":"1"}
-{"guest":"Juventus","master":"FC Porto","result":null,"league":null,"date":"2016-17","id":2819,"gguest":"2","gmaster":"0"}
-{"guest":"Leicester City","master":"Sevilla","result":null,"league":null,"date":"2016-17","id":2820,"gguest":"1","gmaster":"2"}
-{"guest":"Atletico Madrid","master":"Bayer Leverkusen","result":null,"league":null,"date":"2016-17","id":2821,"gguest":"4","gmaster":"2"}
-{"guest":"Monaco","master":"Manchester City","result":null,"league":null,"date":"2016-17","id":2822,"gguest":"3","gmaster":"5"}
-{"guest":"Arsenal","master":"Bayern Munich","result":null,"league":null,"date":"2016-17","id":2823,"gguest":"1","gmaster":"5"}
-{"guest":"Napoli","master":"Real Madrid","result":null,"league":null,"date":"2016-17","id":2824,"gguest":"1","gmaster":"3"}
-{"guest":"Borussia Dortmund","master":"Benfica","result":null,"league":null,"date":"2016-17","id":2825,"gguest":"0","gmaster":"1"}
-{"guest":"Barcelona","master":"Paris Saint-Germain","result":null,"league":null,"date":"2016-17","id":2826,"gguest":"0","gmaster":"4"}
-{"guest":"Monaco","master":"Bayer Leverkusen","result":null,"league":null,"date":"2016-17","id":2827,"gguest":"0","gmaster":"3"}
-{"guest":"FC Copenhagen","master":"Club Brugge","result":null,"league":null,"date":"2016-17","id":2828,"gguest":"2","gmaster":"0"}
-{"guest":"Leicester City","master":"FC Porto","result":null,"league":null,"date":"2016-17","id":2829,"gguest":"0","gmaster":"5"}
-{"guest":"Dinamo Zagreb","master":"Juventus","result":null,"league":null,"date":"2016-17","id":2830,"gguest":"0","gmaster":"2"}
-{"guest":"Sporting Lisbon","master":"Legia Warsaw","result":null,"league":null,"date":"2016-17","id":2831,"gguest":"0","gmaster":"1"}
-{"guest":"Sevilla","master":"Lyon","result":null,"league":null,"date":"2016-17","id":2832,"gguest":"0","gmaster":"0"}
-{"guest":"Borussia Dortmund","master":"Real Madrid","result":null,"league":null,"date":"2016-17","id":2833,"gguest":"2","gmaster":"2"}
-{"guest":"CSKA Moscow","master":"Tottenham Hotspur","result":null,"league":null,"date":"2016-17","id":2834,"gguest":"1","gmaster":"3"}
-{"guest":"M'gladbach","master":"Barcelona","result":null,"league":null,"date":"2016-17","id":2835,"gguest":"0","gmaster":"4"}
-{"guest":"Arsenal","master":"Basel","result":null,"league":null,"date":"2016-17","id":2836,"gguest":"4","gmaster":"1"}
-{"guest":"Atletico Madrid","master":"Bayern Munich","result":null,"league":null,"date":"2016-17","id":2837,"gguest":"0","gmaster":"1"}
-{"guest":"Napoli","master":"Benfica","result":null,"league":null,"date":"2016-17","id":2838,"gguest":"2","gmaster":"1"}
-{"guest":"Besiktas","master":"Dynamo Kiev","result":null,"league":null,"date":"2016-17","id":2839,"gguest":"0","gmaster":"6"}
-{"guest":"Celtic","master":"Manchester City","result":null,"league":null,"date":"2016-17","id":2840,"gguest":"1","gmaster":"1"}
-{"guest":"FK Rostov","master":"PSV Eindhoven","result":null,"league":null,"date":"2016-17","id":2841,"gguest":"0","gmaster":"0"}
-{"guest":"Ludogorets","master":"Paris Saint-Germain","result":null,"league":null,"date":"2016-17","id":2842,"gguest":"2","gmaster":"2"}
-{"guest":"Bayern Munich","master":"FK Rostov","result":null,"league":null,"date":"2016-17","id":2843,"gguest":"2","gmaster":"3"}
-{"guest":"Benfica","master":"Besiktas","result":null,"league":null,"date":"2016-17","id":2844,"gguest":"3","gmaster":"3"}
-{"guest":"Paris Saint-Germain","master":"Arsenal","result":null,"league":null,"date":"2016-17","id":2845,"gguest":"2","gmaster":"2"}
-{"guest":"PSV Eindhoven","master":"Atletico Madrid","result":null,"league":null,"date":"2016-17","id":2846,"gguest":"0","gmaster":"2"}
-{"guest":"Barcelona","master":"Celtic","result":null,"league":null,"date":"2016-17","id":2847,"gguest":"2","gmaster":"0"}
-{"guest":"Basel","master":"Ludogorets","result":null,"league":null,"date":"2016-17","id":2848,"gguest":"0","gmaster":"0"}
-{"guest":"Manchester City","master":"M'gladbach","result":null,"league":null,"date":"2016-17","id":2849,"gguest":"1","gmaster":"1"}
-{"guest":"Dynamo Kiev","master":"Napoli","result":null,"league":null,"date":"2016-17","id":2850,"gguest":"0","gmaster":"0"}
-{"guest":"Bayer Leverkusen","master":"CSKA Moscow","result":null,"league":null,"date":"2016-17","id":2851,"gguest":"1","gmaster":"1"}
-{"guest":"Legia Warsaw","master":"Borussia Dortmund","result":null,"league":null,"date":"2016-17","id":2852,"gguest":"4","gmaster":"8"}
-{"guest":"Lyon","master":"Dinamo Zagreb","result":null,"league":null,"date":"2016-17","id":2853,"gguest":"1","gmaster":"0"}
-{"guest":"FC Porto","master":"FC Copenhagen","result":null,"league":null,"date":"2016-17","id":2854,"gguest":"0","gmaster":"0"}
-{"guest":"Club Brugge","master":"Leicester City","result":null,"league":null,"date":"2016-17","id":2855,"gguest":"1","gmaster":"2"}
-{"guest":"Tottenham Hotspur","master":"Monaco","result":null,"league":null,"date":"2016-17","id":2856,"gguest":"1","gmaster":"2"}
-{"guest":"Juventus","master":"Sevilla","result":null,"league":null,"date":"2016-17","id":2857,"gguest":"3","gmaster":"1"}
-{"guest":"Real Madrid","master":"Sporting Lisbon","result":null,"league":null,"date":"2016-17","id":2858,"gguest":"2","gmaster":"1"}
-{"guest":"Sporting Lisbon","master":"Borussia Dortmund","result":null,"league":null,"date":"2016-17","id":2859,"gguest":"0","gmaster":"1"}
-{"guest":"Leicester City","master":"FC Copenhagen","result":null,"league":null,"date":"2016-17","id":2860,"gguest":"0","gmaster":"0"}
-{"guest":"Club Brugge","master":"FC Porto","result":null,"league":null,"date":"2016-17","id":2861,"gguest":"0","gmaster":"1"}
-{"guest":"Lyon","master":"Juventus","result":null,"league":null,"date":"2016-17","id":2862,"gguest":"1","gmaster":"1"}
-{"guest":"Real Madrid","master":"Legia Warsaw","result":null,"league":null,"date":"2016-17","id":2863,"gguest":"3","gmaster":"3"}
-{"guest":"CSKA Moscow","master":"Monaco","result":null,"league":null,"date":"2016-17","id":2864,"gguest":"0","gmaster":"3"}
-{"guest":"Dinamo Zagreb","master":"Sevilla","result":null,"league":null,"date":"2016-17","id":2865,"gguest":"0","gmaster":"4"}
-{"guest":"Bayer Leverkusen","master":"Tottenham Hotspur","result":null,"league":null,"date":"2016-17","id":2866,"gguest":"1","gmaster":"0"}
-{"guest":"Napoli","master":"Besiktas","result":null,"league":null,"date":"2016-17","id":2867,"gguest":"1","gmaster":"1"}
-{"guest":"FK Rostov","master":"Atletico Madrid","result":null,"league":null,"date":"2016-17","id":2868,"gguest":"1","gmaster":"2"}
-{"guest":"Paris Saint-Germain","master":"Basel","result":null,"league":null,"date":"2016-17","id":2869,"gguest":"2","gmaster":"1"}
-{"guest":"Dynamo Kiev","master":"Benfica","result":null,"league":null,"date":"2016-17","id":2870,"gguest":"0","gmaster":"1"}
-{"guest":"Arsenal","master":"Ludogorets","result":null,"league":null,"date":"2016-17","id":2871,"gguest":"3","gmaster":"2"}
-{"guest":"Celtic","master":"M'gladbach","result":null,"league":null,"date":"2016-17","id":2872,"gguest":"1","gmaster":"1"}
-{"guest":"Barcelona","master":"Manchester City","result":null,"league":null,"date":"2016-17","id":2873,"gguest":"1","gmaster":"3"}
-{"guest":"Bayern Munich","master":"PSV Eindhoven","result":null,"league":null,"date":"2016-17","id":2874,"gguest":"2","gmaster":"1"}
-{"guest":"Ludogorets","master":"Arsenal","result":null,"league":null,"date":"2016-17","id":2875,"gguest":"0","gmaster":"6"}
-{"guest":"Manchester City","master":"Barcelona","result":null,"league":null,"date":"2016-17","id":2876,"gguest":"0","gmaster":"4"}
-{"guest":"PSV Eindhoven","master":"Bayern Munich","result":null,"league":null,"date":"2016-17","id":2877,"gguest":"1","gmaster":"4"}
-{"guest":"M'gladbach","master":"Celtic","result":null,"league":null,"date":"2016-17","id":2878,"gguest":"2","gmaster":"0"}
-{"guest":"Benfica","master":"Dynamo Kiev","result":null,"league":null,"date":"2016-17","id":2879,"gguest":"2","gmaster":"0"}
-{"guest":"Atletico Madrid","master":"FK Rostov","result":null,"league":null,"date":"2016-17","id":2880,"gguest":"1","gmaster":"0"}
-{"guest":"Besiktas","master":"Napoli","result":null,"league":null,"date":"2016-17","id":2881,"gguest":"3","gmaster":"2"}
-{"guest":"Basel","master":"Paris Saint-Germain","result":null,"league":null,"date":"2016-17","id":2882,"gguest":"0","gmaster":"3"}
-{"guest":"Tottenham Hotspur","master":"Bayer Leverkusen","result":null,"league":null,"date":"2016-17","id":2883,"gguest":"0","gmaster":"0"}
-{"guest":"Monaco","master":"CSKA Moscow","result":null,"league":null,"date":"2016-17","id":2884,"gguest":"1","gmaster":"1"}
-{"guest":"FC Porto","master":"Club Brugge","result":null,"league":null,"date":"2016-17","id":2885,"gguest":"2","gmaster":"1"}
-{"guest":"Sevilla","master":"Dinamo Zagreb","result":null,"league":null,"date":"2016-17","id":2886,"gguest":"1","gmaster":"0"}
-{"guest":"FC Copenhagen","master":"Leicester City","result":null,"league":null,"date":"2016-17","id":2887,"gguest":"0","gmaster":"1"}
-{"guest":"Juventus","master":"Lyon","result":null,"league":null,"date":"2016-17","id":2888,"gguest":"1","gmaster":"0"}
-{"guest":"Legia Warsaw","master":"Real Madrid","result":null,"league":null,"date":"2016-17","id":2889,"gguest":"1","gmaster":"5"}
-{"guest":"Borussia Dortmund","master":"Sporting Lisbon","result":null,"league":null,"date":"2016-17","id":2890,"gguest":"2","gmaster":"1"}
-{"guest":"Basel","master":"Arsenal","result":null,"league":null,"date":"2016-17","id":2891,"gguest":"0","gmaster":"2"}
-{"guest":"Bayern Munich","master":"Atletico Madrid","result":null,"league":null,"date":"2016-17","id":2892,"gguest":"0","gmaster":"1"}
-{"guest":"Dynamo Kiev","master":"Besiktas","result":null,"league":null,"date":"2016-17","id":2893,"gguest":"1","gmaster":"1"}
-{"guest":"Manchester City","master":"Celtic","result":null,"league":null,"date":"2016-17","id":2894,"gguest":"3","gmaster":"3"}
-{"guest":"PSV Eindhoven","master":"FK Rostov","result":null,"league":null,"date":"2016-17","id":2895,"gguest":"2","gmaster":"2"}
-{"guest":"Paris Saint-Germain","master":"Ludogorets","result":null,"league":null,"date":"2016-17","id":2896,"gguest":"3","gmaster":"1"}
-{"guest":"Barcelona","master":"M'gladbach","result":null,"league":null,"date":"2016-17","id":2897,"gguest":"2","gmaster":"1"}
-{"guest":"Benfica","master":"Napoli","result":null,"league":null,"date":"2016-17","id":2898,"gguest":"2","gmaster":"4"}
-{"guest":"Real Madrid","master":"Borussia Dortmund","result":null,"league":null,"date":"2016-17","id":2899,"gguest":"2","gmaster":"2"}
-{"guest":"Tottenham Hotspur","master":"CSKA Moscow","result":null,"league":null,"date":"2016-17","id":2900,"gguest":"1","gmaster":"0"}
-{"guest":"Juventus","master":"Dinamo Zagreb","result":null,"league":null,"date":"2016-17","id":2901,"gguest":"4","gmaster":"0"}
-{"guest":"Club Brugge","master":"FC Copenhagen","result":null,"league":null,"date":"2016-17","id":2902,"gguest":"0","gmaster":"4"}
-{"guest":"FC Porto","master":"Leicester City","result":null,"league":null,"date":"2016-17","id":2903,"gguest":"0","gmaster":"1"}
-{"guest":"Bayer Leverkusen","master":"Monaco","result":null,"league":null,"date":"2016-17","id":2904,"gguest":"1","gmaster":"1"}
-{"guest":"Lyon","master":"Sevilla","result":null,"league":null,"date":"2016-17","id":2905,"gguest":"0","gmaster":"1"}
-{"guest":"Legia Warsaw","master":"Sporting Lisbon","result":null,"league":null,"date":"2016-17","id":2906,"gguest":"0","gmaster":"2"}
-{"guest":"CSKA Moscow","master":"Bayer Leverkusen","result":null,"league":null,"date":"2016-17","id":2907,"gguest":"2","gmaster":"2"}
-{"guest":"Leicester City","master":"Club Brugge","result":null,"league":null,"date":"2016-17","id":2908,"gguest":"3","gmaster":"0"}
-{"guest":"FC Copenhagen","master":"FC Porto","result":null,"league":null,"date":"2016-17","id":2909,"gguest":"1","gmaster":"1"}
-{"guest":"Sevilla","master":"Juventus","result":null,"league":null,"date":"2016-17","id":2910,"gguest":"0","gmaster":"0"}
-{"guest":"Borussia Dortmund","master":"Legia Warsaw","result":null,"league":null,"date":"2016-17","id":2911,"gguest":"6","gmaster":"0"}
-{"guest":"Dinamo Zagreb","master":"Lyon","result":null,"league":null,"date":"2016-17","id":2912,"gguest":"0","gmaster":"3"}
-{"guest":"M'gladbach","master":"Manchester City","result":null,"league":null,"date":"2016-17","id":2913,"gguest":"0","gmaster":"4"}
-{"guest":"Sporting Lisbon","master":"Real Madrid","result":null,"league":null,"date":"2016-17","id":2914,"gguest":"1","gmaster":"2"}
-{"guest":"Monaco","master":"Tottenham Hotspur","result":null,"league":null,"date":"2016-17","id":2915,"gguest":"2","gmaster":"1"}
-{"guest":"Celtic","master":"Barcelona","result":null,"league":null,"date":"2016-17","id":2916,"gguest":"0","gmaster":"7"}
-{"guest":"Ludogorets","master":"Basel","result":null,"league":null,"date":"2016-17","id":2917,"gguest":"1","gmaster":"1"}
-{"guest":"FK Rostov","master":"Bayern Munich","result":null,"league":null,"date":"2016-17","id":2918,"gguest":"0","gmaster":"5"}
-{"guest":"Besiktas","master":"Benfica","result":null,"league":null,"date":"2016-17","id":2919,"gguest":"1","gmaster":"1"}
-{"guest":"Napoli","master":"Dynamo Kiev","result":null,"league":null,"date":"2016-17","id":2920,"gguest":"2","gmaster":"1"}
-{"guest":"Atletico Madrid","master":"PSV Eindhoven","result":null,"league":null,"date":"2016-17","id":2921,"gguest":"1","gmaster":"0"}
-{"guest":"Arsenal","master":"Paris Saint-Germain","result":null,"league":null,"date":"2016-17","id":2922,"gguest":"1","gmaster":"1"}
-{"guest":"Benfica","master":"CSKA Moscow","result":null,"league":null,"date":"2017-18","id":2923,"gguest":"0","gmaster":"2"}
-{"guest":"Chelsea","master":"Qarabag FK","result":null,"league":null,"date":"2017-18","id":2924,"gguest":"4","gmaster":"0"}
-{"guest":"Bayern Munich","master":"Anderlecht","result":null,"league":null,"date":"2017-18","id":2925,"gguest":"2","gmaster":"1"}
-{"guest":"Roma","master":"Atletico Madrid","result":null,"league":null,"date":"2017-18","id":2926,"gguest":"0","gmaster":"2"}
-{"guest":"Manchester United","master":"Basel","result":null,"league":null,"date":"2017-18","id":2927,"gguest":"0","gmaster":"1"}
-{"guest":"Barcelona","master":"Juventus","result":null,"league":null,"date":"2017-18","id":2928,"gguest":"0","gmaster":"0"}
-{"guest":"Celtic","master":"Paris Saint-Germain","result":null,"league":null,"date":"2017-18","id":2929,"gguest":"1","gmaster":"7"}
-{"guest":"Olympiakos FC","master":"Sporting Lisbon","result":null,"league":null,"date":"2017-18","id":2930,"gguest":"1","gmaster":"3"}
-{"guest":"FC Porto","master":"Besiktas","result":null,"league":null,"date":"2017-18","id":2931,"gguest":"1","gmaster":"1"}
-{"guest":"Maribor","master":"Spartak Moscow","result":null,"league":null,"date":"2017-18","id":2932,"gguest":"1","gmaster":"1"}
-{"guest":"Real Madrid","master":"Apoel Nicosia","result":null,"league":null,"date":"2017-18","id":2933,"gguest":"6","gmaster":"0"}
-{"guest":"Tottenham Hotspur","master":"Borussia Dortmund","result":null,"league":null,"date":"2017-18","id":2934,"gguest":"2","gmaster":"1"}
-{"guest":"Feyenoord","master":"Manchester City","result":null,"league":null,"date":"2017-18","id":2935,"gguest":"0","gmaster":"1"}
-{"guest":"RB Leipzig","master":"Monaco","result":null,"league":null,"date":"2017-18","id":2936,"gguest":"4","gmaster":"1"}
-{"guest":"Shakhtar Donetsk","master":"Napoli","result":null,"league":null,"date":"2017-18","id":2937,"gguest":"0","gmaster":"3"}
-{"guest":"Liverpool","master":"Sevilla","result":null,"league":null,"date":"2017-18","id":2938,"gguest":"3","gmaster":"3"}
-{"guest":"Monaco","master":"Besiktas","result":null,"league":null,"date":"2017-18","id":2939,"gguest":"1","gmaster":"1"}
-{"guest":"Apoel Nicosia","master":"Borussia Dortmund","result":null,"league":null,"date":"2017-18","id":2940,"gguest":"1","gmaster":"1"}
-{"guest":"RB Leipzig","master":"FC Porto","result":null,"league":null,"date":"2017-18","id":2941,"gguest":"1","gmaster":"3"}
-{"guest":"Maribor","master":"Liverpool","result":null,"league":null,"date":"2017-18","id":2942,"gguest":"0","gmaster":"3"}
-{"guest":"Manchester City","master":"Napoli","result":null,"league":null,"date":"2017-18","id":2943,"gguest":"4","gmaster":"2"}
-{"guest":"Spartak Moscow","master":"Sevilla","result":null,"league":null,"date":"2017-18","id":2944,"gguest":"1","gmaster":"2"}
-{"guest":"Feyenoord","master":"Shakhtar Donetsk","result":null,"league":null,"date":"2017-18","id":2945,"gguest":"1","gmaster":"3"}
-{"guest":"Real Madrid","master":"Tottenham Hotspur","result":null,"league":null,"date":"2017-18","id":2946,"gguest":"1","gmaster":"3"}
-{"guest":"Qarabag FK","master":"Atletico Madrid","result":null,"league":null,"date":"2017-18","id":2947,"gguest":"1","gmaster":"1"}
-{"guest":"CSKA Moscow","master":"Basel","result":null,"league":null,"date":"2017-18","id":2948,"gguest":"2","gmaster":"1"}
-{"guest":"Bayern Munich","master":"Celtic","result":null,"league":null,"date":"2017-18","id":2949,"gguest":"2","gmaster":"1"}
-{"guest":"Benfica","master":"Manchester United","result":null,"league":null,"date":"2017-18","id":2950,"gguest":"0","gmaster":"2"}
-{"guest":"Barcelona","master":"Olympiakos FC","result":null,"league":null,"date":"2017-18","id":2951,"gguest":"0","gmaster":"0"}
-{"guest":"Anderlecht","master":"Paris Saint-Germain","result":null,"league":null,"date":"2017-18","id":2952,"gguest":"0","gmaster":"5"}
-{"guest":"Chelsea","master":"Roma","result":null,"league":null,"date":"2017-18","id":2953,"gguest":"0","gmaster":"3"}
-{"guest":"Juventus","master":"Sporting Lisbon","result":null,"league":null,"date":"2017-18","id":2954,"gguest":"1","gmaster":"1"}
-{"guest":"Atletico Madrid","master":"Qarabag FK","result":null,"league":null,"date":"2017-18","id":2955,"gguest":"0","gmaster":"0"}
-{"guest":"Paris Saint-Germain","master":"Anderlecht","result":null,"league":null,"date":"2017-18","id":2956,"gguest":"4","gmaster":"0"}
-{"guest":"Olympiakos FC","master":"Barcelona","result":null,"league":null,"date":"2017-18","id":2957,"gguest":"1","gmaster":"3"}
-{"guest":"Celtic","master":"Bayern Munich","result":null,"league":null,"date":"2017-18","id":2958,"gguest":"0","gmaster":"3"}
-{"guest":"Manchester United","master":"Benfica","result":null,"league":null,"date":"2017-18","id":2959,"gguest":"1","gmaster":"0"}
-{"guest":"Basel","master":"CSKA Moscow","result":null,"league":null,"date":"2017-18","id":2960,"gguest":"2","gmaster":"0"}
-{"guest":"Roma","master":"Chelsea","result":null,"league":null,"date":"2017-18","id":2961,"gguest":"3","gmaster":"3"}
-{"guest":"Sporting Lisbon","master":"Juventus","result":null,"league":null,"date":"2017-18","id":2962,"gguest":"1","gmaster":"2"}
-{"guest":"Borussia Dortmund","master":"Apoel Nicosia","result":null,"league":null,"date":"2017-18","id":2963,"gguest":"1","gmaster":"1"}
-{"guest":"Shakhtar Donetsk","master":"Feyenoord","result":null,"league":null,"date":"2017-18","id":2964,"gguest":"2","gmaster":"1"}
-{"guest":"Napoli","master":"Manchester City","result":null,"league":null,"date":"2017-18","id":2965,"gguest":"1","gmaster":"2"}
-{"guest":"Liverpool","master":"Maribor","result":null,"league":null,"date":"2017-18","id":2966,"gguest":"7","gmaster":"0"}
-{"guest":"Besiktas","master":"Monaco","result":null,"league":null,"date":"2017-18","id":2967,"gguest":"2","gmaster":"1"}
-{"guest":"FC Porto","master":"RB Leipzig","result":null,"league":null,"date":"2017-18","id":2968,"gguest":"2","gmaster":"3"}
-{"guest":"Tottenham Hotspur","master":"Real Madrid","result":null,"league":null,"date":"2017-18","id":2969,"gguest":"1","gmaster":"1"}
-{"guest":"Sevilla","master":"Spartak Moscow","result":null,"league":null,"date":"2017-18","id":2970,"gguest":"1","gmaster":"5"}
-{"guest":"Roma","master":"Qarabag FK","result":null,"league":null,"date":"2017-18","id":2971,"gguest":"2","gmaster":"1"}
-{"guest":"Celtic","master":"Anderlecht","result":null,"league":null,"date":"2017-18","id":2972,"gguest":"3","gmaster":"0"}
-{"guest":"Chelsea","master":"Atletico Madrid","result":null,"league":null,"date":"2017-18","id":2973,"gguest":"2","gmaster":"1"}
-{"guest":"Benfica","master":"Basel","result":null,"league":null,"date":"2017-18","id":2974,"gguest":"0","gmaster":"5"}
-{"guest":"Manchester United","master":"CSKA Moscow","result":null,"league":null,"date":"2017-18","id":2975,"gguest":"4","gmaster":"1"}
-{"guest":"Olympiakos FC","master":"Juventus","result":null,"league":null,"date":"2017-18","id":2976,"gguest":"0","gmaster":"2"}
-{"guest":"Bayern Munich","master":"Paris Saint-Germain","result":null,"league":null,"date":"2017-18","id":2977,"gguest":"0","gmaster":"3"}
-{"guest":"Barcelona","master":"Sporting Lisbon","result":null,"league":null,"date":"2017-18","id":2978,"gguest":"1","gmaster":"0"}
-{"guest":"Tottenham Hotspur","master":"Apoel Nicosia","result":null,"league":null,"date":"2017-18","id":2979,"gguest":"3","gmaster":"0"}
-{"guest":"RB Leipzig","master":"Besiktas","result":null,"league":null,"date":"2017-18","id":2980,"gguest":"0","gmaster":"2"}
-{"guest":"Real Madrid","master":"Borussia Dortmund","result":null,"league":null,"date":"2017-18","id":2981,"gguest":"3","gmaster":"1"}
-{"guest":"Shakhtar Donetsk","master":"Manchester City","result":null,"league":null,"date":"2017-18","id":2982,"gguest":"0","gmaster":"2"}
-{"guest":"FC Porto","master":"Monaco","result":null,"league":null,"date":"2017-18","id":2983,"gguest":"3","gmaster":"0"}
-{"guest":"Feyenoord","master":"Napoli","result":null,"league":null,"date":"2017-18","id":2984,"gguest":"1","gmaster":"3"}
-{"guest":"Maribor","master":"Sevilla","result":null,"league":null,"date":"2017-18","id":2985,"gguest":"0","gmaster":"3"}
-{"guest":"Liverpool","master":"Spartak Moscow","result":null,"league":null,"date":"2017-18","id":2986,"gguest":"1","gmaster":"1"}
-{"guest":"Besiktas","master":"FC Porto","result":null,"league":null,"date":"2017-18","id":2987,"gguest":"3","gmaster":"1"}
-{"guest":"Manchester City","master":"Feyenoord","result":null,"league":null,"date":"2017-18","id":2988,"gguest":"4","gmaster":"0"}
-{"guest":"Sevilla","master":"Liverpool","result":null,"league":null,"date":"2017-18","id":2989,"gguest":"2","gmaster":"2"}
-{"guest":"Spartak Moscow","master":"Maribor","result":null,"league":null,"date":"2017-18","id":2990,"gguest":"1","gmaster":"1"}
-{"guest":"Monaco","master":"RB Leipzig","result":null,"league":null,"date":"2017-18","id":2991,"gguest":"1","gmaster":"1"}
-{"guest":"Apoel Nicosia","master":"Real Madrid","result":null,"league":null,"date":"2017-18","id":2992,"gguest":"0","gmaster":"3"}
-{"guest":"Napoli","master":"Shakhtar Donetsk","result":null,"league":null,"date":"2017-18","id":2993,"gguest":"1","gmaster":"2"}
-{"guest":"Borussia Dortmund","master":"Tottenham Hotspur","result":null,"league":null,"date":"2017-18","id":2994,"gguest":"1","gmaster":"3"}
-{"guest":"Juventus","master":"Barcelona","result":null,"league":null,"date":"2017-18","id":2995,"gguest":"0","gmaster":"3"}
-{"guest":"Anderlecht","master":"Bayern Munich","result":null,"league":null,"date":"2017-18","id":2996,"gguest":"0","gmaster":"3"}
-{"guest":"CSKA Moscow","master":"Benfica","result":null,"league":null,"date":"2017-18","id":2997,"gguest":"2","gmaster":"1"}
-{"guest":"Paris Saint-Germain","master":"Celtic","result":null,"league":null,"date":"2017-18","id":2998,"gguest":"5","gmaster":"0"}
-{"guest":"Qarabag FK","master":"Chelsea","result":null,"league":null,"date":"2017-18","id":2999,"gguest":"0","gmaster":"6"}
-{"guest":"Basel","master":"Manchester United","result":null,"league":null,"date":"2017-18","id":3000,"gguest":"0","gmaster":"3"}
-{"guest":"Sporting Lisbon","master":"Olympiakos FC","result":null,"league":null,"date":"2017-18","id":3001,"gguest":"3","gmaster":"2"}
-{"guest":"Atletico Madrid","master":"Roma","result":null,"league":null,"date":"2017-18","id":3002,"gguest":"0","gmaster":"0"}
+{"guest":"Barcelona","master":"Juventus","result":null,"league":null,"date":"2014-15","id":1517,"gguest":"3","gmaster":"1"}
+{"guest":"Juventus","master":"Real Madrid","result":null,"league":null,"date":"2014-15","id":1518,"gguest":"1","gmaster":"1"}
+{"guest":"Barcelona","master":"Bayern Munich","result":null,"league":null,"date":"2014-15","id":1519,"gguest":"2","gmaster":"3"}
+{"guest":"Bayern Munich","master":"Barcelona","result":null,"league":null,"date":"2014-15","id":1520,"gguest":"0","gmaster":"3"}
+{"guest":"Real Madrid","master":"Juventus","result":null,"league":null,"date":"2014-15","id":1521,"gguest":"1","gmaster":"2"}
+{"guest":"Juventus","master":"Monaco","result":null,"league":null,"date":"2014-15","id":1522,"gguest":"0","gmaster":"0"}
+{"guest":"Atletico Madrid","master":"Real Madrid","result":null,"league":null,"date":"2014-15","id":1523,"gguest":"0","gmaster":"1"}
+{"guest":"Paris Saint-Germain","master":"Barcelona","result":null,"league":null,"date":"2014-15","id":1524,"gguest":"0","gmaster":"2"}
+{"guest":"FC Porto","master":"Bayern Munich","result":null,"league":null,"date":"2014-15","id":1525,"gguest":"1","gmaster":"6"}
+{"guest":"Bayern Munich","master":"FC Porto","result":null,"league":null,"date":"2014-15","id":1526,"gguest":"1","gmaster":"3"}
+{"guest":"Barcelona","master":"Paris Saint-Germain","result":null,"league":null,"date":"2014-15","id":1527,"gguest":"3","gmaster":"1"}
+{"guest":"Real Madrid","master":"Atletico Madrid","result":null,"league":null,"date":"2014-15","id":1528,"gguest":"0","gmaster":"0"}
+{"guest":"Monaco","master":"Juventus","result":null,"league":null,"date":"2014-15","id":1529,"gguest":"0","gmaster":"1"}
+{"guest":"Manchester City","master":"Barcelona","result":null,"league":null,"date":"2014-15","id":1530,"gguest":"0","gmaster":"1"}
+{"guest":"Juventus","master":"Borussia Dortmund","result":null,"league":null,"date":"2014-15","id":1531,"gguest":"3","gmaster":"0"}
+{"guest":"Bayer Leverkusen","master":"Atletico Madrid","result":null,"league":null,"date":"2014-15","id":1532,"gguest":"0","gmaster":"1"}
+{"guest":"Arsenal","master":"Monaco","result":null,"league":null,"date":"2014-15","id":1533,"gguest":"2","gmaster":"0"}
+{"guest":"Shakhtar Donetsk","master":"Bayern Munich","result":null,"league":null,"date":"2014-15","id":1534,"gguest":"0","gmaster":"7"}
+{"guest":"Paris Saint-Germain","master":"Chelsea","result":null,"league":null,"date":"2014-15","id":1535,"gguest":"2","gmaster":"2"}
+{"guest":"Basel","master":"FC Porto","result":null,"league":null,"date":"2014-15","id":1536,"gguest":"0","gmaster":"4"}
+{"guest":"Schalke","master":"Real Madrid","result":null,"league":null,"date":"2014-15","id":1537,"gguest":"4","gmaster":"3"}
+{"guest":"Monaco","master":"Arsenal","result":null,"league":null,"date":"2014-15","id":1538,"gguest":"3","gmaster":"1"}
+{"guest":"Atletico Madrid","master":"Bayer Leverkusen","result":null,"league":null,"date":"2014-15","id":1539,"gguest":"0","gmaster":"1"}
+{"guest":"Borussia Dortmund","master":"Juventus","result":null,"league":null,"date":"2014-15","id":1540,"gguest":"1","gmaster":"2"}
+{"guest":"Barcelona","master":"Manchester City","result":null,"league":null,"date":"2014-15","id":1541,"gguest":"2","gmaster":"1"}
+{"guest":"FC Porto","master":"Basel","result":null,"league":null,"date":"2014-15","id":1542,"gguest":"1","gmaster":"1"}
+{"guest":"Real Madrid","master":"Schalke","result":null,"league":null,"date":"2014-15","id":1543,"gguest":"2","gmaster":"0"}
+{"guest":"Chelsea","master":"Paris Saint-Germain","result":null,"league":null,"date":"2014-15","id":1544,"gguest":"1","gmaster":"1"}
+{"guest":"Bayern Munich","master":"Shakhtar Donetsk","result":null,"league":null,"date":"2014-15","id":1545,"gguest":"0","gmaster":"0"}
+{"guest":"Apoel Nicosia","master":"Ajax","result":null,"league":null,"date":"2014-15","id":1546,"gguest":"0","gmaster":"4"}
+{"guest":"BATE Borisov","master":"Athletic Bilbao","result":null,"league":null,"date":"2014-15","id":1547,"gguest":"0","gmaster":"2"}
+{"guest":"Paris Saint-Germain","master":"Barcelona","result":null,"league":null,"date":"2014-15","id":1548,"gguest":"1","gmaster":"3"}
+{"guest":"CSKA Moscow","master":"Bayern Munich","result":null,"league":null,"date":"2014-15","id":1549,"gguest":"0","gmaster":"3"}
+{"guest":"Sporting Lisbon","master":"Chelsea","result":null,"league":null,"date":"2014-15","id":1550,"gguest":"1","gmaster":"3"}
+{"guest":"Shakhtar Donetsk","master":"FC Porto","result":null,"league":null,"date":"2014-15","id":1551,"gguest":"1","gmaster":"1"}
+{"guest":"Schalke","master":"Maribor","result":null,"league":null,"date":"2014-15","id":1552,"gguest":"1","gmaster":"0"}
+{"guest":"Manchester City","master":"Roma","result":null,"league":null,"date":"2014-15","id":1553,"gguest":"2","gmaster":"1"}
+{"guest":"Bayer Leverkusen","master":"Benfica","result":null,"league":null,"date":"2014-15","id":1554,"gguest":"0","gmaster":"0"}
+{"guest":"Anderlecht","master":"Borussia Dortmund","result":null,"league":null,"date":"2014-15","id":1555,"gguest":"1","gmaster":"1"}
+{"guest":"Arsenal","master":"Galatasaray","result":null,"league":null,"date":"2014-15","id":1556,"gguest":"4","gmaster":"1"}
+{"guest":"Atletico Madrid","master":"Juventus","result":null,"league":null,"date":"2014-15","id":1557,"gguest":"0","gmaster":"0"}
+{"guest":"Basel","master":"Liverpool","result":null,"league":null,"date":"2014-15","id":1558,"gguest":"1","gmaster":"1"}
+{"guest":"Zenit St. Petersburg","master":"Monaco","result":null,"league":null,"date":"2014-15","id":1559,"gguest":"0","gmaster":"2"}
+{"guest":"Malmo FF","master":"Olympiakos FC","result":null,"league":null,"date":"2014-15","id":1560,"gguest":"2","gmaster":"4"}
+{"guest":"Ludogorets","master":"Real Madrid","result":null,"league":null,"date":"2014-15","id":1561,"gguest":"0","gmaster":"4"}
+{"guest":"Benfica","master":"Zenit St. Petersburg","result":null,"league":null,"date":"2014-15","id":1562,"gguest":"0","gmaster":"1"}
+{"guest":"Galatasaray","master":"Anderlecht","result":null,"league":null,"date":"2014-15","id":1563,"gguest":"0","gmaster":"2"}
+{"guest":"Borussia Dortmund","master":"Arsenal","result":null,"league":null,"date":"2014-15","id":1564,"gguest":"0","gmaster":"2"}
+{"guest":"Olympiakos FC","master":"Atletico Madrid","result":null,"league":null,"date":"2014-15","id":1565,"gguest":"0","gmaster":"4"}
+{"guest":"Real Madrid","master":"Basel","result":null,"league":null,"date":"2014-15","id":1566,"gguest":"1","gmaster":"0"}
+{"guest":"Monaco","master":"Bayer Leverkusen","result":null,"league":null,"date":"2014-15","id":1567,"gguest":"1","gmaster":"0"}
+{"guest":"Liverpool","master":"Ludogorets","result":null,"league":null,"date":"2014-15","id":1568,"gguest":"2","gmaster":"2"}
+{"guest":"Juventus","master":"Malmo FF","result":null,"league":null,"date":"2014-15","id":1569,"gguest":"2","gmaster":"0"}
+{"guest":"FC Porto","master":"BATE Borisov","result":null,"league":null,"date":"2014-15","id":1570,"gguest":"3","gmaster":"0"}
+{"guest":"Roma","master":"CSKA Moscow","result":null,"league":null,"date":"2014-15","id":1571,"gguest":"1","gmaster":"1"}
+{"guest":"Barcelona","master":"Apoel Nicosia","result":null,"league":null,"date":"2014-15","id":1572,"gguest":"4","gmaster":"0"}
+{"guest":"Bayern Munich","master":"Manchester City","result":null,"league":null,"date":"2014-15","id":1573,"gguest":"2","gmaster":"3"}
+{"guest":"Ajax","master":"Paris Saint-Germain","result":null,"league":null,"date":"2014-15","id":1574,"gguest":"1","gmaster":"3"}
+{"guest":"Chelsea","master":"Schalke","result":null,"league":null,"date":"2014-15","id":1575,"gguest":"5","gmaster":"0"}
+{"guest":"Athletic Bilbao","master":"Shakhtar Donetsk","result":null,"league":null,"date":"2014-15","id":1576,"gguest":"1","gmaster":"0"}
+{"guest":"Maribor","master":"Sporting Lisbon","result":null,"league":null,"date":"2014-15","id":1577,"gguest":"1","gmaster":"3"}
+{"guest":"Barcelona","master":"Ajax","result":null,"league":null,"date":"2014-15","id":1578,"gguest":"2","gmaster":"0"}
+{"guest":"FC Porto","master":"Athletic Bilbao","result":null,"league":null,"date":"2014-15","id":1579,"gguest":"2","gmaster":"0"}
+{"guest":"Roma","master":"Bayern Munich","result":null,"league":null,"date":"2014-15","id":1580,"gguest":"0","gmaster":"2"}
+{"guest":"CSKA Moscow","master":"Manchester City","result":null,"league":null,"date":"2014-15","id":1581,"gguest":"2","gmaster":"1"}
+{"guest":"Chelsea","master":"Maribor","result":null,"league":null,"date":"2014-15","id":1582,"gguest":"1","gmaster":"1"}
+{"guest":"Apoel Nicosia","master":"Paris Saint-Germain","result":null,"league":null,"date":"2014-15","id":1583,"gguest":"0","gmaster":"1"}
+{"guest":"BATE Borisov","master":"Shakhtar Donetsk","result":null,"league":null,"date":"2014-15","id":1584,"gguest":"0","gmaster":"5"}
+{"guest":"Schalke","master":"Sporting Lisbon","result":null,"league":null,"date":"2014-15","id":1585,"gguest":"2","gmaster":"4"}
+{"guest":"Bayer Leverkusen","master":"Zenit St. Petersburg","result":null,"league":null,"date":"2014-15","id":1586,"gguest":"2","gmaster":"1"}
+{"guest":"Anderlecht","master":"Arsenal","result":null,"league":null,"date":"2014-15","id":1587,"gguest":"3","gmaster":"3"}
+{"guest":"Ludogorets","master":"Basel","result":null,"league":null,"date":"2014-15","id":1588,"gguest":"0","gmaster":"4"}
+{"guest":"Monaco","master":"Benfica","result":null,"league":null,"date":"2014-15","id":1589,"gguest":"0","gmaster":"1"}
+{"guest":"Galatasaray","master":"Borussia Dortmund","result":null,"league":null,"date":"2014-15","id":1590,"gguest":"1","gmaster":"4"}
+{"guest":"Olympiakos FC","master":"Juventus","result":null,"league":null,"date":"2014-15","id":1591,"gguest":"2","gmaster":"3"}
+{"guest":"Atletico Madrid","master":"Malmo FF","result":null,"league":null,"date":"2014-15","id":1592,"gguest":"2","gmaster":"0"}
+{"guest":"Liverpool","master":"Real Madrid","result":null,"league":null,"date":"2014-15","id":1593,"gguest":"0","gmaster":"1"}
+{"guest":"Arsenal","master":"Anderlecht","result":null,"league":null,"date":"2014-15","id":1594,"gguest":"2","gmaster":"1"}
+{"guest":"Malmo FF","master":"Atletico Madrid","result":null,"league":null,"date":"2014-15","id":1595,"gguest":"0","gmaster":"5"}
+{"guest":"Zenit St. Petersburg","master":"Bayer Leverkusen","result":null,"league":null,"date":"2014-15","id":1596,"gguest":"0","gmaster":"2"}
+{"guest":"Borussia Dortmund","master":"Galatasaray","result":null,"league":null,"date":"2014-15","id":1597,"gguest":"4","gmaster":"0"}
+{"guest":"Real Madrid","master":"Liverpool","result":null,"league":null,"date":"2014-15","id":1598,"gguest":"3","gmaster":"0"}
+{"guest":"Basel","master":"Ludogorets","result":null,"league":null,"date":"2014-15","id":1599,"gguest":"0","gmaster":"1"}
+{"guest":"Benfica","master":"Monaco","result":null,"league":null,"date":"2014-15","id":1600,"gguest":"0","gmaster":"0"}
+{"guest":"Juventus","master":"Olympiakos FC","result":null,"league":null,"date":"2014-15","id":1601,"gguest":"0","gmaster":"1"}
+{"guest":"Manchester City","master":"CSKA Moscow","result":null,"league":null,"date":"2014-15","id":1602,"gguest":"2","gmaster":"2"}
+{"guest":"Paris Saint-Germain","master":"Apoel Nicosia","result":null,"league":null,"date":"2014-15","id":1603,"gguest":"1","gmaster":"0"}
+{"guest":"Shakhtar Donetsk","master":"BATE Borisov","result":null,"league":null,"date":"2014-15","id":1604,"gguest":"7","gmaster":"0"}
+{"guest":"Ajax","master":"Barcelona","result":null,"league":null,"date":"2014-15","id":1605,"gguest":"1","gmaster":"3"}
+{"guest":"Maribor","master":"Chelsea","result":null,"league":null,"date":"2014-15","id":1606,"gguest":"0","gmaster":"6"}
+{"guest":"Athletic Bilbao","master":"FC Porto","result":null,"league":null,"date":"2014-15","id":1607,"gguest":"1","gmaster":"2"}
+{"guest":"Bayern Munich","master":"Roma","result":null,"league":null,"date":"2014-15","id":1608,"gguest":"7","gmaster":"1"}
+{"guest":"Sporting Lisbon","master":"Schalke","result":null,"league":null,"date":"2014-15","id":1609,"gguest":"3","gmaster":"4"}
+{"guest":"Monaco","master":"Zenit St. Petersburg","result":null,"league":null,"date":"2014-15","id":1610,"gguest":"0","gmaster":"0"}
+{"guest":"Borussia Dortmund","master":"Anderlecht","result":null,"league":null,"date":"2014-15","id":1611,"gguest":"3","gmaster":"0"}
+{"guest":"Galatasaray","master":"Arsenal","result":null,"league":null,"date":"2014-15","id":1612,"gguest":"1","gmaster":"4"}
+{"guest":"Juventus","master":"Atletico Madrid","result":null,"league":null,"date":"2014-15","id":1613,"gguest":"0","gmaster":"1"}
+{"guest":"Liverpool","master":"Basel","result":null,"league":null,"date":"2014-15","id":1614,"gguest":"0","gmaster":"1"}
+{"guest":"Benfica","master":"Bayer Leverkusen","result":null,"league":null,"date":"2014-15","id":1615,"gguest":"1","gmaster":"3"}
+{"guest":"Real Madrid","master":"Ludogorets","result":null,"league":null,"date":"2014-15","id":1616,"gguest":"2","gmaster":"1"}
+{"guest":"Olympiakos FC","master":"Malmo FF","result":null,"league":null,"date":"2014-15","id":1617,"gguest":"0","gmaster":"2"}
+{"guest":"Bayern Munich","master":"CSKA Moscow","result":null,"league":null,"date":"2014-15","id":1618,"gguest":"1","gmaster":"0"}
+{"guest":"Ajax","master":"Apoel Nicosia","result":null,"league":null,"date":"2014-15","id":1619,"gguest":"1","gmaster":"1"}
+{"guest":"Athletic Bilbao","master":"BATE Borisov","result":null,"league":null,"date":"2014-15","id":1620,"gguest":"1","gmaster":"2"}
+{"guest":"Roma","master":"Manchester City","result":null,"league":null,"date":"2014-15","id":1621,"gguest":"1","gmaster":"1"}
+{"guest":"Barcelona","master":"Paris Saint-Germain","result":null,"league":null,"date":"2014-15","id":1622,"gguest":"2","gmaster":"3"}
+{"guest":"Maribor","master":"Schalke","result":null,"league":null,"date":"2014-15","id":1623,"gguest":"1","gmaster":"1"}
+{"guest":"FC Porto","master":"Shakhtar Donetsk","result":null,"league":null,"date":"2014-15","id":1624,"gguest":"2","gmaster":"2"}
+{"guest":"Chelsea","master":"Sporting Lisbon","result":null,"league":null,"date":"2014-15","id":1625,"gguest":"1","gmaster":"0"}
+{"guest":"Paris Saint-Germain","master":"Ajax","result":null,"league":null,"date":"2014-15","id":1626,"gguest":"1","gmaster":"1"}
+{"guest":"Shakhtar Donetsk","master":"Athletic Bilbao","result":null,"league":null,"date":"2014-15","id":1627,"gguest":"0","gmaster":"0"}
+{"guest":"Apoel Nicosia","master":"Barcelona","result":null,"league":null,"date":"2014-15","id":1628,"gguest":"0","gmaster":"1"}
+{"guest":"Manchester City","master":"Bayern Munich","result":null,"league":null,"date":"2014-15","id":1629,"gguest":"0","gmaster":"1"}
+{"guest":"Schalke","master":"Chelsea","result":null,"league":null,"date":"2014-15","id":1630,"gguest":"1","gmaster":"1"}
+{"guest":"BATE Borisov","master":"FC Porto","result":null,"league":null,"date":"2014-15","id":1631,"gguest":"0","gmaster":"6"}
+{"guest":"Sporting Lisbon","master":"Maribor","result":null,"league":null,"date":"2014-15","id":1632,"gguest":"1","gmaster":"1"}
+{"guest":"CSKA Moscow","master":"Roma","result":null,"league":null,"date":"2014-15","id":1633,"gguest":"1","gmaster":"5"}
+{"guest":"Zenit St. Petersburg","master":"Benfica","result":null,"league":null,"date":"2014-15","id":1634,"gguest":"2","gmaster":"0"}
+{"guest":"Arsenal","master":"Borussia Dortmund","result":null,"league":null,"date":"2014-15","id":1635,"gguest":"0","gmaster":"2"}
+{"guest":"Anderlecht","master":"Galatasaray","result":null,"league":null,"date":"2014-15","id":1636,"gguest":"1","gmaster":"1"}
+{"guest":"Malmo FF","master":"Juventus","result":null,"league":null,"date":"2014-15","id":1637,"gguest":"0","gmaster":"2"}
+{"guest":"Ludogorets","master":"Liverpool","result":null,"league":null,"date":"2014-15","id":1638,"gguest":"1","gmaster":"2"}
+{"guest":"Bayer Leverkusen","master":"Monaco","result":null,"league":null,"date":"2014-15","id":1639,"gguest":"0","gmaster":"1"}
+{"guest":"Atletico Madrid","master":"Olympiakos FC","result":null,"league":null,"date":"2014-15","id":1640,"gguest":"2","gmaster":"3"}
+{"guest":"Basel","master":"Real Madrid","result":null,"league":null,"date":"2014-15","id":1641,"gguest":"1","gmaster":"5"}
+{"guest":"Atletico Madrid","master":"Real Madrid","result":null,"league":null,"date":"2015-16","id":1642,"gguest":"1","gmaster":"1"}
+{"guest":"Manchester City","master":"Real Madrid","result":null,"league":null,"date":"2015-16","id":1643,"gguest":"0","gmaster":"1"}
+{"guest":"Atletico Madrid","master":"Bayern Munich","result":null,"league":null,"date":"2015-16","id":1644,"gguest":"1","gmaster":"2"}
+{"guest":"Bayern Munich","master":"Atletico Madrid","result":null,"league":null,"date":"2015-16","id":1645,"gguest":"0","gmaster":"1"}
+{"guest":"Real Madrid","master":"Manchester City","result":null,"league":null,"date":"2015-16","id":1646,"gguest":"0","gmaster":"0"}
+{"guest":"Barcelona","master":"Atletico Madrid","result":null,"league":null,"date":"2015-16","id":1647,"gguest":"0","gmaster":"2"}
+{"guest":"Bayern Munich","master":"Benfica","result":null,"league":null,"date":"2015-16","id":1648,"gguest":"2","gmaster":"2"}
+{"guest":"Paris Saint-Germain","master":"Manchester City","result":null,"league":null,"date":"2015-16","id":1649,"gguest":"0","gmaster":"1"}
+{"guest":"Wolfsburg","master":"Real Madrid","result":null,"league":null,"date":"2015-16","id":1650,"gguest":"0","gmaster":"3"}
+{"guest":"Manchester City","master":"Paris Saint-Germain","result":null,"league":null,"date":"2015-16","id":1651,"gguest":"2","gmaster":"2"}
+{"guest":"Real Madrid","master":"Wolfsburg","result":null,"league":null,"date":"2015-16","id":1652,"gguest":"0","gmaster":"2"}
+{"guest":"Atletico Madrid","master":"Barcelona","result":null,"league":null,"date":"2015-16","id":1653,"gguest":"1","gmaster":"2"}
+{"guest":"Benfica","master":"Bayern Munich","result":null,"league":null,"date":"2015-16","id":1654,"gguest":"0","gmaster":"1"}
+{"guest":"Arsenal","master":"Barcelona","result":null,"league":null,"date":"2015-16","id":1655,"gguest":"1","gmaster":"3"}
+{"guest":"Juventus","master":"Bayern Munich","result":null,"league":null,"date":"2015-16","id":1656,"gguest":"2","gmaster":"4"}
+{"guest":"PSV Eindhoven","master":"Atletico Madrid","result":null,"league":null,"date":"2015-16","id":1657,"gguest":"0","gmaster":"0"}
+{"guest":"Dynamo Kiev","master":"Manchester City","result":null,"league":null,"date":"2015-16","id":1658,"gguest":"0","gmaster":"0"}
+{"guest":"Benfica","master":"Zenit St. Petersburg","result":null,"league":null,"date":"2015-16","id":1659,"gguest":"2","gmaster":"1"}
+{"guest":"Paris Saint-Germain","master":"Chelsea","result":null,"league":null,"date":"2015-16","id":1660,"gguest":"2","gmaster":"1"}
+{"guest":"Roma","master":"Real Madrid","result":null,"league":null,"date":"2015-16","id":1661,"gguest":"0","gmaster":"2"}
+{"guest":"AA Gent (Bel)","master":"Wolfsburg","result":null,"league":null,"date":"2015-16","id":1662,"gguest":"0","gmaster":"1"}
+{"guest":"Manchester City","master":"Dynamo Kiev","result":null,"league":null,"date":"2015-16","id":1663,"gguest":"3","gmaster":"1"}
+{"guest":"Atletico Madrid","master":"PSV Eindhoven","result":null,"league":null,"date":"2015-16","id":1664,"gguest":"0","gmaster":"0"}
+{"guest":"Barcelona","master":"Arsenal","result":null,"league":null,"date":"2015-16","id":1665,"gguest":"2","gmaster":"0"}
+{"guest":"Bayern Munich","master":"Juventus","result":null,"league":null,"date":"2015-16","id":1666,"gguest":"2","gmaster":"2"}
+{"guest":"Wolfsburg","master":"AA Gent (Bel)","result":null,"league":null,"date":"2015-16","id":1667,"gguest":"3","gmaster":"2"}
+{"guest":"Real Madrid","master":"Roma","result":null,"league":null,"date":"2015-16","id":1668,"gguest":"2","gmaster":"0"}
+{"guest":"Zenit St. Petersburg","master":"Benfica","result":null,"league":null,"date":"2015-16","id":1669,"gguest":"0","gmaster":"1"}
+{"guest":"Chelsea","master":"Paris Saint-Germain","result":null,"league":null,"date":"2015-16","id":1670,"gguest":"1","gmaster":"2"}
+{"guest":"Zenit St. Petersburg","master":"AA Gent (Bel)","result":null,"league":null,"date":"2015-16","id":1671,"gguest":"1","gmaster":"2"}
+{"guest":"Barcelona","master":"Bayer Leverkusen","result":null,"league":null,"date":"2015-16","id":1672,"gguest":"1","gmaster":"1"}
+{"guest":"FC Porto","master":"Chelsea","result":null,"league":null,"date":"2015-16","id":1673,"gguest":"0","gmaster":"2"}
+{"guest":"Bayern Munich","master":"Dinamo Zagreb","result":null,"league":null,"date":"2015-16","id":1674,"gguest":"2","gmaster":"0"}
+{"guest":"Maccabi Tel Aviv","master":"Dynamo Kiev","result":null,"league":null,"date":"2015-16","id":1675,"gguest":"0","gmaster":"1"}
+{"guest":"Arsenal","master":"Olympiakos FC","result":null,"league":null,"date":"2015-16","id":1676,"gguest":"3","gmaster":"0"}
+{"guest":"BATE Borisov","master":"Roma","result":null,"league":null,"date":"2015-16","id":1677,"gguest":"0","gmaster":"0"}
+{"guest":"Lyon","master":"Valencia","result":null,"league":null,"date":"2015-16","id":1678,"gguest":"2","gmaster":"0"}
+{"guest":"Atletico Madrid","master":"Benfica","result":null,"league":null,"date":"2015-16","id":1679,"gguest":"2","gmaster":"1"}
+{"guest":"Astana","master":"Galatasaray","result":null,"league":null,"date":"2015-16","id":1680,"gguest":"1","gmaster":"1"}
+{"guest":"M'gladbach","master":"Manchester City","result":null,"league":null,"date":"2015-16","id":1681,"gguest":"2","gmaster":"4"}
+{"guest":"CSKA Moscow","master":"PSV Eindhoven","result":null,"league":null,"date":"2015-16","id":1682,"gguest":"1","gmaster":"2"}
+{"guest":"Shakhtar Donetsk","master":"Paris Saint-Germain","result":null,"league":null,"date":"2015-16","id":1683,"gguest":"0","gmaster":"2"}
+{"guest":"Malmo FF","master":"Real Madrid","result":null,"league":null,"date":"2015-16","id":1684,"gguest":"0","gmaster":"8"}
+{"guest":"Juventus","master":"Sevilla","result":null,"league":null,"date":"2015-16","id":1685,"gguest":"0","gmaster":"1"}
+{"guest":"Manchester United","master":"Wolfsburg","result":null,"league":null,"date":"2015-16","id":1686,"gguest":"2","gmaster":"3"}
+{"guest":"Benfica","master":"Astana","result":null,"league":null,"date":"2015-16","id":1687,"gguest":"2","gmaster":"2"}
+{"guest":"Wolfsburg","master":"CSKA Moscow","result":null,"league":null,"date":"2015-16","id":1688,"gguest":"2","gmaster":"0"}
+{"guest":"Galatasaray","master":"Atletico Madrid","result":null,"league":null,"date":"2015-16","id":1689,"gguest":"0","gmaster":"2"}
+{"guest":"Manchester City","master":"Juventus","result":null,"league":null,"date":"2015-16","id":1690,"gguest":"0","gmaster":"1"}
+{"guest":"Sevilla","master":"M'gladbach","result":null,"league":null,"date":"2015-16","id":1691,"gguest":"2","gmaster":"4"}
+{"guest":"Paris Saint-Germain","master":"Malmo FF","result":null,"league":null,"date":"2015-16","id":1692,"gguest":"5","gmaster":"0"}
+{"guest":"PSV Eindhoven","master":"Manchester United","result":null,"league":null,"date":"2015-16","id":1693,"gguest":"0","gmaster":"0"}
+{"guest":"Real Madrid","master":"Shakhtar Donetsk","result":null,"league":null,"date":"2015-16","id":1694,"gguest":"4","gmaster":"3"}
+{"guest":"Bayer Leverkusen","master":"BATE Borisov","result":null,"league":null,"date":"2015-16","id":1695,"gguest":"1","gmaster":"1"}
+{"guest":"Valencia","master":"Zenit St. Petersburg","result":null,"league":null,"date":"2015-16","id":1696,"gguest":"0","gmaster":"2"}
+{"guest":"Dinamo Zagreb","master":"Arsenal","result":null,"league":null,"date":"2015-16","id":1697,"gguest":"0","gmaster":"3"}
+{"guest":"Roma","master":"Barcelona","result":null,"league":null,"date":"2015-16","id":1698,"gguest":"1","gmaster":"6"}
+{"guest":"Olympiakos FC","master":"Bayern Munich","result":null,"league":null,"date":"2015-16","id":1699,"gguest":"0","gmaster":"4"}
+{"guest":"Dynamo Kiev","master":"FC Porto","result":null,"league":null,"date":"2015-16","id":1700,"gguest":"2","gmaster":"0"}
+{"guest":"AA Gent (Bel)","master":"Lyon","result":null,"league":null,"date":"2015-16","id":1701,"gguest":"2","gmaster":"1"}
+{"guest":"Chelsea","master":"Maccabi Tel Aviv","result":null,"league":null,"date":"2015-16","id":1702,"gguest":"4","gmaster":"0"}
+{"guest":"Valencia","master":"AA Gent (Bel)","result":null,"league":null,"date":"2015-16","id":1703,"gguest":"0","gmaster":"1"}
+{"guest":"BATE Borisov","master":"Barcelona","result":null,"league":null,"date":"2015-16","id":1704,"gguest":"0","gmaster":"3"}
+{"guest":"Arsenal","master":"Bayern Munich","result":null,"league":null,"date":"2015-16","id":1705,"gguest":"1","gmaster":"5"}
+{"guest":"Dynamo Kiev","master":"Chelsea","result":null,"league":null,"date":"2015-16","id":1706,"gguest":"1","gmaster":"2"}
+{"guest":"Zenit St. Petersburg","master":"Lyon","result":null,"league":null,"date":"2015-16","id":1707,"gguest":"2","gmaster":"0"}
+{"guest":"FC Porto","master":"Maccabi Tel Aviv","result":null,"league":null,"date":"2015-16","id":1708,"gguest":"3","gmaster":"1"}
+{"guest":"Dinamo Zagreb","master":"Olympiakos FC","result":null,"league":null,"date":"2015-16","id":1709,"gguest":"1","gmaster":"2"}
+{"guest":"Bayer Leverkusen","master":"Roma","result":null,"league":null,"date":"2015-16","id":1710,"gguest":"2","gmaster":"3"}
+{"guest":"Atletico Madrid","master":"Astana","result":null,"league":null,"date":"2015-16","id":1711,"gguest":"0","gmaster":"0"}
+{"guest":"Galatasaray","master":"Benfica","result":null,"league":null,"date":"2015-16","id":1712,"gguest":"1","gmaster":"2"}
+{"guest":"Juventus","master":"M'gladbach","result":null,"league":null,"date":"2015-16","id":1713,"gguest":"1","gmaster":"1"}
+{"guest":"CSKA Moscow","master":"Manchester United","result":null,"league":null,"date":"2015-16","id":1714,"gguest":"0","gmaster":"1"}
+{"guest":"Wolfsburg","master":"PSV Eindhoven","result":null,"league":null,"date":"2015-16","id":1715,"gguest":"0","gmaster":"2"}
+{"guest":"Paris Saint-Germain","master":"Real Madrid","result":null,"league":null,"date":"2015-16","id":1716,"gguest":"0","gmaster":"1"}
+{"guest":"Manchester City","master":"Sevilla","result":null,"league":null,"date":"2015-16","id":1717,"gguest":"3","gmaster":"1"}
+{"guest":"Malmo FF","master":"Shakhtar Donetsk","result":null,"league":null,"date":"2015-16","id":1718,"gguest":"0","gmaster":"4"}
+{"guest":"Astana","master":"Atletico Madrid","result":null,"league":null,"date":"2015-16","id":1719,"gguest":"0","gmaster":"4"}
+{"guest":"Manchester United","master":"CSKA Moscow","result":null,"league":null,"date":"2015-16","id":1720,"gguest":"1","gmaster":"1"}
+{"guest":"Benfica","master":"Galatasaray","result":null,"league":null,"date":"2015-16","id":1721,"gguest":"1","gmaster":"2"}
+{"guest":"M'gladbach","master":"Juventus","result":null,"league":null,"date":"2015-16","id":1722,"gguest":"0","gmaster":"0"}
+{"guest":"Shakhtar Donetsk","master":"Malmo FF","result":null,"league":null,"date":"2015-16","id":1723,"gguest":"0","gmaster":"1"}
+{"guest":"Sevilla","master":"Manchester City","result":null,"league":null,"date":"2015-16","id":1724,"gguest":"1","gmaster":"2"}
+{"guest":"Real Madrid","master":"Paris Saint-Germain","result":null,"league":null,"date":"2015-16","id":1725,"gguest":"0","gmaster":"0"}
+{"guest":"PSV Eindhoven","master":"Wolfsburg","result":null,"league":null,"date":"2015-16","id":1726,"gguest":"0","gmaster":"2"}
+{"guest":"Bayern Munich","master":"Arsenal","result":null,"league":null,"date":"2015-16","id":1727,"gguest":"0","gmaster":"2"}
+{"guest":"Barcelona","master":"BATE Borisov","result":null,"league":null,"date":"2015-16","id":1728,"gguest":"2","gmaster":"0"}
+{"guest":"Roma","master":"Bayer Leverkusen","result":null,"league":null,"date":"2015-16","id":1729,"gguest":"4","gmaster":"4"}
+{"guest":"Olympiakos FC","master":"Dinamo Zagreb","result":null,"league":null,"date":"2015-16","id":1730,"gguest":"1","gmaster":"0"}
+{"guest":"Chelsea","master":"Dynamo Kiev","result":null,"league":null,"date":"2015-16","id":1731,"gguest":"0","gmaster":"0"}
+{"guest":"Maccabi Tel Aviv","master":"FC Porto","result":null,"league":null,"date":"2015-16","id":1732,"gguest":"0","gmaster":"2"}
+{"guest":"AA Gent (Bel)","master":"Valencia","result":null,"league":null,"date":"2015-16","id":1733,"gguest":"1","gmaster":"2"}
+{"guest":"Lyon","master":"Zenit St. Petersburg","result":null,"league":null,"date":"2015-16","id":1734,"gguest":"1","gmaster":"3"}
+{"guest":"Galatasaray","master":"Astana","result":null,"league":null,"date":"2015-16","id":1735,"gguest":"2","gmaster":"2"}
+{"guest":"Benfica","master":"Atletico Madrid","result":null,"league":null,"date":"2015-16","id":1736,"gguest":"2","gmaster":"1"}
+{"guest":"PSV Eindhoven","master":"CSKA Moscow","result":null,"league":null,"date":"2015-16","id":1737,"gguest":"2","gmaster":"3"}
+{"guest":"Sevilla","master":"Juventus","result":null,"league":null,"date":"2015-16","id":1738,"gguest":"0","gmaster":"2"}
+{"guest":"Manchester City","master":"M'gladbach","result":null,"league":null,"date":"2015-16","id":1739,"gguest":"2","gmaster":"1"}
+{"guest":"Real Madrid","master":"Malmo FF","result":null,"league":null,"date":"2015-16","id":1740,"gguest":"2","gmaster":"0"}
+{"guest":"Wolfsburg","master":"Manchester United","result":null,"league":null,"date":"2015-16","id":1741,"gguest":"1","gmaster":"2"}
+{"guest":"Paris Saint-Germain","master":"Shakhtar Donetsk","result":null,"league":null,"date":"2015-16","id":1742,"gguest":"3","gmaster":"0"}
+{"guest":"Olympiakos FC","master":"Arsenal","result":null,"league":null,"date":"2015-16","id":1743,"gguest":"3","gmaster":"2"}
+{"guest":"Roma","master":"BATE Borisov","result":null,"league":null,"date":"2015-16","id":1744,"gguest":"2","gmaster":"3"}
+{"guest":"Bayer Leverkusen","master":"Barcelona","result":null,"league":null,"date":"2015-16","id":1745,"gguest":"1","gmaster":"2"}
+{"guest":"Dinamo Zagreb","master":"Bayern Munich","result":null,"league":null,"date":"2015-16","id":1746,"gguest":"0","gmaster":"5"}
+{"guest":"Chelsea","master":"FC Porto","result":null,"league":null,"date":"2015-16","id":1747,"gguest":"1","gmaster":"2"}
+{"guest":"Valencia","master":"Lyon","result":null,"league":null,"date":"2015-16","id":1748,"gguest":"1","gmaster":"0"}
+{"guest":"Dynamo Kiev","master":"Maccabi Tel Aviv","result":null,"league":null,"date":"2015-16","id":1749,"gguest":"2","gmaster":"0"}
+{"guest":"AA Gent (Bel)","master":"Zenit St. Petersburg","result":null,"league":null,"date":"2015-16","id":1750,"gguest":"1","gmaster":"2"}
+{"guest":"Lyon","master":"AA Gent (Bel)","result":null,"league":null,"date":"2015-16","id":1751,"gguest":"1","gmaster":"1"}
+{"guest":"BATE Borisov","master":"Bayer Leverkusen","result":null,"league":null,"date":"2015-16","id":1752,"gguest":"1","gmaster":"4"}
+{"guest":"Maccabi Tel Aviv","master":"Chelsea","result":null,"league":null,"date":"2015-16","id":1753,"gguest":"0","gmaster":"4"}
+{"guest":"Arsenal","master":"Dinamo Zagreb","result":null,"league":null,"date":"2015-16","id":1754,"gguest":"1","gmaster":"2"}
+{"guest":"FC Porto","master":"Dynamo Kiev","result":null,"league":null,"date":"2015-16","id":1755,"gguest":"2","gmaster":"2"}
+{"guest":"Bayern Munich","master":"Olympiakos FC","result":null,"league":null,"date":"2015-16","id":1756,"gguest":"3","gmaster":"0"}
+{"guest":"Barcelona","master":"Roma","result":null,"league":null,"date":"2015-16","id":1757,"gguest":"1","gmaster":"1"}
+{"guest":"Zenit St. Petersburg","master":"Valencia","result":null,"league":null,"date":"2015-16","id":1758,"gguest":"3","gmaster":"2"}
+{"guest":"Astana","master":"Benfica","result":null,"league":null,"date":"2015-16","id":1759,"gguest":"0","gmaster":"2"}
+{"guest":"Atletico Madrid","master":"Galatasaray","result":null,"league":null,"date":"2015-16","id":1760,"gguest":"2","gmaster":"0"}
+{"guest":"Juventus","master":"Manchester City","result":null,"league":null,"date":"2015-16","id":1761,"gguest":"2","gmaster":"1"}
+{"guest":"Manchester United","master":"PSV Eindhoven","result":null,"league":null,"date":"2015-16","id":1762,"gguest":"1","gmaster":"2"}
+{"guest":"Malmo FF","master":"Paris Saint-Germain","result":null,"league":null,"date":"2015-16","id":1763,"gguest":"0","gmaster":"2"}
+{"guest":"Shakhtar Donetsk","master":"Real Madrid","result":null,"league":null,"date":"2015-16","id":1764,"gguest":"0","gmaster":"4"}
+{"guest":"M'gladbach","master":"Sevilla","result":null,"league":null,"date":"2015-16","id":1765,"gguest":"0","gmaster":"3"}
+{"guest":"CSKA Moscow","master":"Wolfsburg","result":null,"league":null,"date":"2015-16","id":1766,"gguest":"0","gmaster":"1"}
+{"guest":"Real Madrid","master":"Juventus","result":null,"league":null,"date":"2016-17","id":1767,"gguest":"4","gmaster":"1"}
+{"guest":"Real Madrid","master":"Atletico Madrid","result":null,"league":null,"date":"2016-17","id":1768,"gguest":"1","gmaster":"2"}
+{"guest":"Monaco","master":"Juventus","result":null,"league":null,"date":"2016-17","id":1769,"gguest":"1","gmaster":"2"}
+{"guest":"Juventus","master":"Monaco","result":null,"league":null,"date":"2016-17","id":1770,"gguest":"2","gmaster":"0"}
+{"guest":"Atletico Madrid","master":"Real Madrid","result":null,"league":null,"date":"2016-17","id":1771,"gguest":"0","gmaster":"3"}
+{"guest":"Juventus","master":"Barcelona","result":null,"league":null,"date":"2016-17","id":1772,"gguest":"0","gmaster":"0"}
+{"guest":"Borussia Dortmund","master":"Monaco","result":null,"league":null,"date":"2016-17","id":1773,"gguest":"1","gmaster":"3"}
+{"guest":"Atletico Madrid","master":"Leicester City","result":null,"league":null,"date":"2016-17","id":1774,"gguest":"1","gmaster":"1"}
+{"guest":"Bayern Munich","master":"Real Madrid","result":null,"league":null,"date":"2016-17","id":1775,"gguest":"2","gmaster":"4"}
+{"guest":"Monaco","master":"Borussia Dortmund","result":null,"league":null,"date":"2016-17","id":1776,"gguest":"3","gmaster":"2"}
+{"guest":"Leicester City","master":"Atletico Madrid","result":null,"league":null,"date":"2016-17","id":1777,"gguest":"0","gmaster":"1"}
+{"guest":"Real Madrid","master":"Bayern Munich","result":null,"league":null,"date":"2016-17","id":1778,"gguest":"2","gmaster":"1"}
+{"guest":"Barcelona","master":"Juventus","result":null,"league":null,"date":"2016-17","id":1779,"gguest":"0","gmaster":"3"}
+{"guest":"Bayer Leverkusen","master":"Atletico Madrid","result":null,"league":null,"date":"2016-17","id":1780,"gguest":"0","gmaster":"0"}
+{"guest":"Manchester City","master":"Monaco","result":null,"league":null,"date":"2016-17","id":1781,"gguest":"1","gmaster":"3"}
+{"guest":"FC Porto","master":"Juventus","result":null,"league":null,"date":"2016-17","id":1782,"gguest":"0","gmaster":"1"}
+{"guest":"Sevilla","master":"Leicester City","result":null,"league":null,"date":"2016-17","id":1783,"gguest":"0","gmaster":"2"}
+{"guest":"Paris Saint-Germain","master":"Barcelona","result":null,"league":null,"date":"2016-17","id":1784,"gguest":"1","gmaster":"6"}
+{"guest":"Benfica","master":"Borussia Dortmund","result":null,"league":null,"date":"2016-17","id":1785,"gguest":"0","gmaster":"4"}
+{"guest":"Bayern Munich","master":"Arsenal","result":null,"league":null,"date":"2016-17","id":1786,"gguest":"5","gmaster":"1"}
+{"guest":"Real Madrid","master":"Napoli","result":null,"league":null,"date":"2016-17","id":1787,"gguest":"3","gmaster":"1"}
+{"guest":"Juventus","master":"FC Porto","result":null,"league":null,"date":"2016-17","id":1788,"gguest":"2","gmaster":"0"}
+{"guest":"Leicester City","master":"Sevilla","result":null,"league":null,"date":"2016-17","id":1789,"gguest":"1","gmaster":"2"}
+{"guest":"Atletico Madrid","master":"Bayer Leverkusen","result":null,"league":null,"date":"2016-17","id":1790,"gguest":"4","gmaster":"2"}
+{"guest":"Monaco","master":"Manchester City","result":null,"league":null,"date":"2016-17","id":1791,"gguest":"3","gmaster":"5"}
+{"guest":"Arsenal","master":"Bayern Munich","result":null,"league":null,"date":"2016-17","id":1792,"gguest":"1","gmaster":"5"}
+{"guest":"Napoli","master":"Real Madrid","result":null,"league":null,"date":"2016-17","id":1793,"gguest":"1","gmaster":"3"}
+{"guest":"Borussia Dortmund","master":"Benfica","result":null,"league":null,"date":"2016-17","id":1794,"gguest":"0","gmaster":"1"}
+{"guest":"Barcelona","master":"Paris Saint-Germain","result":null,"league":null,"date":"2016-17","id":1795,"gguest":"0","gmaster":"4"}
+{"guest":"Monaco","master":"Bayer Leverkusen","result":null,"league":null,"date":"2016-17","id":1796,"gguest":"0","gmaster":"3"}
+{"guest":"FC Copenhagen","master":"Club Brugge","result":null,"league":null,"date":"2016-17","id":1797,"gguest":"2","gmaster":"0"}
+{"guest":"Leicester City","master":"FC Porto","result":null,"league":null,"date":"2016-17","id":1798,"gguest":"0","gmaster":"5"}
+{"guest":"Dinamo Zagreb","master":"Juventus","result":null,"league":null,"date":"2016-17","id":1799,"gguest":"0","gmaster":"2"}
+{"guest":"Sporting Lisbon","master":"Legia Warsaw","result":null,"league":null,"date":"2016-17","id":1800,"gguest":"0","gmaster":"1"}
+{"guest":"Sevilla","master":"Lyon","result":null,"league":null,"date":"2016-17","id":1801,"gguest":"0","gmaster":"0"}
+{"guest":"Borussia Dortmund","master":"Real Madrid","result":null,"league":null,"date":"2016-17","id":1802,"gguest":"2","gmaster":"2"}
+{"guest":"CSKA Moscow","master":"Tottenham Hotspur","result":null,"league":null,"date":"2016-17","id":1803,"gguest":"1","gmaster":"3"}
+{"guest":"M'gladbach","master":"Barcelona","result":null,"league":null,"date":"2016-17","id":1804,"gguest":"0","gmaster":"4"}
+{"guest":"Arsenal","master":"Basel","result":null,"league":null,"date":"2016-17","id":1805,"gguest":"4","gmaster":"1"}
+{"guest":"Atletico Madrid","master":"Bayern Munich","result":null,"league":null,"date":"2016-17","id":1806,"gguest":"0","gmaster":"1"}
+{"guest":"Napoli","master":"Benfica","result":null,"league":null,"date":"2016-17","id":1807,"gguest":"2","gmaster":"1"}
+{"guest":"Besiktas","master":"Dynamo Kiev","result":null,"league":null,"date":"2016-17","id":1808,"gguest":"0","gmaster":"6"}
+{"guest":"Celtic","master":"Manchester City","result":null,"league":null,"date":"2016-17","id":1809,"gguest":"1","gmaster":"1"}
+{"guest":"FK Rostov","master":"PSV Eindhoven","result":null,"league":null,"date":"2016-17","id":1810,"gguest":"0","gmaster":"0"}
+{"guest":"Ludogorets","master":"Paris Saint-Germain","result":null,"league":null,"date":"2016-17","id":1811,"gguest":"2","gmaster":"2"}
+{"guest":"Bayern Munich","master":"FK Rostov","result":null,"league":null,"date":"2016-17","id":1812,"gguest":"2","gmaster":"3"}
+{"guest":"Benfica","master":"Besiktas","result":null,"league":null,"date":"2016-17","id":1813,"gguest":"3","gmaster":"3"}
+{"guest":"Paris Saint-Germain","master":"Arsenal","result":null,"league":null,"date":"2016-17","id":1814,"gguest":"2","gmaster":"2"}
+{"guest":"PSV Eindhoven","master":"Atletico Madrid","result":null,"league":null,"date":"2016-17","id":1815,"gguest":"0","gmaster":"2"}
+{"guest":"Barcelona","master":"Celtic","result":null,"league":null,"date":"2016-17","id":1816,"gguest":"2","gmaster":"0"}
+{"guest":"Basel","master":"Ludogorets","result":null,"league":null,"date":"2016-17","id":1817,"gguest":"0","gmaster":"0"}
+{"guest":"Manchester City","master":"M'gladbach","result":null,"league":null,"date":"2016-17","id":1818,"gguest":"1","gmaster":"1"}
+{"guest":"Dynamo Kiev","master":"Napoli","result":null,"league":null,"date":"2016-17","id":1819,"gguest":"0","gmaster":"0"}
+{"guest":"Bayer Leverkusen","master":"CSKA Moscow","result":null,"league":null,"date":"2016-17","id":1820,"gguest":"1","gmaster":"1"}
+{"guest":"Legia Warsaw","master":"Borussia Dortmund","result":null,"league":null,"date":"2016-17","id":1821,"gguest":"4","gmaster":"8"}
+{"guest":"Lyon","master":"Dinamo Zagreb","result":null,"league":null,"date":"2016-17","id":1822,"gguest":"1","gmaster":"0"}
+{"guest":"FC Porto","master":"FC Copenhagen","result":null,"league":null,"date":"2016-17","id":1823,"gguest":"0","gmaster":"0"}
+{"guest":"Club Brugge","master":"Leicester City","result":null,"league":null,"date":"2016-17","id":1824,"gguest":"1","gmaster":"2"}
+{"guest":"Tottenham Hotspur","master":"Monaco","result":null,"league":null,"date":"2016-17","id":1825,"gguest":"1","gmaster":"2"}
+{"guest":"Juventus","master":"Sevilla","result":null,"league":null,"date":"2016-17","id":1826,"gguest":"3","gmaster":"1"}
+{"guest":"Real Madrid","master":"Sporting Lisbon","result":null,"league":null,"date":"2016-17","id":1827,"gguest":"2","gmaster":"1"}
+{"guest":"Sporting Lisbon","master":"Borussia Dortmund","result":null,"league":null,"date":"2016-17","id":1828,"gguest":"0","gmaster":"1"}
+{"guest":"Leicester City","master":"FC Copenhagen","result":null,"league":null,"date":"2016-17","id":1829,"gguest":"0","gmaster":"0"}
+{"guest":"Club Brugge","master":"FC Porto","result":null,"league":null,"date":"2016-17","id":1830,"gguest":"0","gmaster":"1"}
+{"guest":"Lyon","master":"Juventus","result":null,"league":null,"date":"2016-17","id":1831,"gguest":"1","gmaster":"1"}
+{"guest":"Real Madrid","master":"Legia Warsaw","result":null,"league":null,"date":"2016-17","id":1832,"gguest":"3","gmaster":"3"}
+{"guest":"CSKA Moscow","master":"Monaco","result":null,"league":null,"date":"2016-17","id":1833,"gguest":"0","gmaster":"3"}
+{"guest":"Dinamo Zagreb","master":"Sevilla","result":null,"league":null,"date":"2016-17","id":1834,"gguest":"0","gmaster":"4"}
+{"guest":"Bayer Leverkusen","master":"Tottenham Hotspur","result":null,"league":null,"date":"2016-17","id":1835,"gguest":"1","gmaster":"0"}
+{"guest":"Napoli","master":"Besiktas","result":null,"league":null,"date":"2016-17","id":1836,"gguest":"1","gmaster":"1"}
+{"guest":"FK Rostov","master":"Atletico Madrid","result":null,"league":null,"date":"2016-17","id":1837,"gguest":"1","gmaster":"2"}
+{"guest":"Paris Saint-Germain","master":"Basel","result":null,"league":null,"date":"2016-17","id":1838,"gguest":"2","gmaster":"1"}
+{"guest":"Dynamo Kiev","master":"Benfica","result":null,"league":null,"date":"2016-17","id":1839,"gguest":"0","gmaster":"1"}
+{"guest":"Arsenal","master":"Ludogorets","result":null,"league":null,"date":"2016-17","id":1840,"gguest":"3","gmaster":"2"}
+{"guest":"Celtic","master":"M'gladbach","result":null,"league":null,"date":"2016-17","id":1841,"gguest":"1","gmaster":"1"}
+{"guest":"Barcelona","master":"Manchester City","result":null,"league":null,"date":"2016-17","id":1842,"gguest":"1","gmaster":"3"}
+{"guest":"Bayern Munich","master":"PSV Eindhoven","result":null,"league":null,"date":"2016-17","id":1843,"gguest":"2","gmaster":"1"}
+{"guest":"Ludogorets","master":"Arsenal","result":null,"league":null,"date":"2016-17","id":1844,"gguest":"0","gmaster":"6"}
+{"guest":"Manchester City","master":"Barcelona","result":null,"league":null,"date":"2016-17","id":1845,"gguest":"0","gmaster":"4"}
+{"guest":"PSV Eindhoven","master":"Bayern Munich","result":null,"league":null,"date":"2016-17","id":1846,"gguest":"1","gmaster":"4"}
+{"guest":"M'gladbach","master":"Celtic","result":null,"league":null,"date":"2016-17","id":1847,"gguest":"2","gmaster":"0"}
+{"guest":"Benfica","master":"Dynamo Kiev","result":null,"league":null,"date":"2016-17","id":1848,"gguest":"2","gmaster":"0"}
+{"guest":"Atletico Madrid","master":"FK Rostov","result":null,"league":null,"date":"2016-17","id":1849,"gguest":"1","gmaster":"0"}
+{"guest":"Besiktas","master":"Napoli","result":null,"league":null,"date":"2016-17","id":1850,"gguest":"3","gmaster":"2"}
+{"guest":"Basel","master":"Paris Saint-Germain","result":null,"league":null,"date":"2016-17","id":1851,"gguest":"0","gmaster":"3"}
+{"guest":"Tottenham Hotspur","master":"Bayer Leverkusen","result":null,"league":null,"date":"2016-17","id":1852,"gguest":"0","gmaster":"0"}
+{"guest":"Monaco","master":"CSKA Moscow","result":null,"league":null,"date":"2016-17","id":1853,"gguest":"1","gmaster":"1"}
+{"guest":"FC Porto","master":"Club Brugge","result":null,"league":null,"date":"2016-17","id":1854,"gguest":"2","gmaster":"1"}
+{"guest":"Sevilla","master":"Dinamo Zagreb","result":null,"league":null,"date":"2016-17","id":1855,"gguest":"1","gmaster":"0"}
+{"guest":"FC Copenhagen","master":"Leicester City","result":null,"league":null,"date":"2016-17","id":1856,"gguest":"0","gmaster":"1"}
+{"guest":"Juventus","master":"Lyon","result":null,"league":null,"date":"2016-17","id":1857,"gguest":"1","gmaster":"0"}
+{"guest":"Legia Warsaw","master":"Real Madrid","result":null,"league":null,"date":"2016-17","id":1858,"gguest":"1","gmaster":"5"}
+{"guest":"Borussia Dortmund","master":"Sporting Lisbon","result":null,"league":null,"date":"2016-17","id":1859,"gguest":"2","gmaster":"1"}
+{"guest":"Basel","master":"Arsenal","result":null,"league":null,"date":"2016-17","id":1860,"gguest":"0","gmaster":"2"}
+{"guest":"Bayern Munich","master":"Atletico Madrid","result":null,"league":null,"date":"2016-17","id":1861,"gguest":"0","gmaster":"1"}
+{"guest":"Dynamo Kiev","master":"Besiktas","result":null,"league":null,"date":"2016-17","id":1862,"gguest":"1","gmaster":"1"}
+{"guest":"Manchester City","master":"Celtic","result":null,"league":null,"date":"2016-17","id":1863,"gguest":"3","gmaster":"3"}
+{"guest":"PSV Eindhoven","master":"FK Rostov","result":null,"league":null,"date":"2016-17","id":1864,"gguest":"2","gmaster":"2"}
+{"guest":"Paris Saint-Germain","master":"Ludogorets","result":null,"league":null,"date":"2016-17","id":1865,"gguest":"3","gmaster":"1"}
+{"guest":"Barcelona","master":"M'gladbach","result":null,"league":null,"date":"2016-17","id":1866,"gguest":"2","gmaster":"1"}
+{"guest":"Benfica","master":"Napoli","result":null,"league":null,"date":"2016-17","id":1867,"gguest":"2","gmaster":"4"}
+{"guest":"Real Madrid","master":"Borussia Dortmund","result":null,"league":null,"date":"2016-17","id":1868,"gguest":"2","gmaster":"2"}
+{"guest":"Tottenham Hotspur","master":"CSKA Moscow","result":null,"league":null,"date":"2016-17","id":1869,"gguest":"1","gmaster":"0"}
+{"guest":"Juventus","master":"Dinamo Zagreb","result":null,"league":null,"date":"2016-17","id":1870,"gguest":"4","gmaster":"0"}
+{"guest":"Club Brugge","master":"FC Copenhagen","result":null,"league":null,"date":"2016-17","id":1871,"gguest":"0","gmaster":"4"}
+{"guest":"FC Porto","master":"Leicester City","result":null,"league":null,"date":"2016-17","id":1872,"gguest":"0","gmaster":"1"}
+{"guest":"Bayer Leverkusen","master":"Monaco","result":null,"league":null,"date":"2016-17","id":1873,"gguest":"1","gmaster":"1"}
+{"guest":"Lyon","master":"Sevilla","result":null,"league":null,"date":"2016-17","id":1874,"gguest":"0","gmaster":"1"}
+{"guest":"Legia Warsaw","master":"Sporting Lisbon","result":null,"league":null,"date":"2016-17","id":1875,"gguest":"0","gmaster":"2"}
+{"guest":"CSKA Moscow","master":"Bayer Leverkusen","result":null,"league":null,"date":"2016-17","id":1876,"gguest":"2","gmaster":"2"}
+{"guest":"Leicester City","master":"Club Brugge","result":null,"league":null,"date":"2016-17","id":1877,"gguest":"3","gmaster":"0"}
+{"guest":"FC Copenhagen","master":"FC Porto","result":null,"league":null,"date":"2016-17","id":1878,"gguest":"1","gmaster":"1"}
+{"guest":"Sevilla","master":"Juventus","result":null,"league":null,"date":"2016-17","id":1879,"gguest":"0","gmaster":"0"}
+{"guest":"Borussia Dortmund","master":"Legia Warsaw","result":null,"league":null,"date":"2016-17","id":1880,"gguest":"6","gmaster":"0"}
+{"guest":"Dinamo Zagreb","master":"Lyon","result":null,"league":null,"date":"2016-17","id":1881,"gguest":"0","gmaster":"3"}
+{"guest":"M'gladbach","master":"Manchester City","result":null,"league":null,"date":"2016-17","id":1882,"gguest":"0","gmaster":"4"}
+{"guest":"Sporting Lisbon","master":"Real Madrid","result":null,"league":null,"date":"2016-17","id":1883,"gguest":"1","gmaster":"2"}
+{"guest":"Monaco","master":"Tottenham Hotspur","result":null,"league":null,"date":"2016-17","id":1884,"gguest":"2","gmaster":"1"}
+{"guest":"Celtic","master":"Barcelona","result":null,"league":null,"date":"2016-17","id":1885,"gguest":"0","gmaster":"7"}
+{"guest":"Ludogorets","master":"Basel","result":null,"league":null,"date":"2016-17","id":1886,"gguest":"1","gmaster":"1"}
+{"guest":"FK Rostov","master":"Bayern Munich","result":null,"league":null,"date":"2016-17","id":1887,"gguest":"0","gmaster":"5"}
+{"guest":"Besiktas","master":"Benfica","result":null,"league":null,"date":"2016-17","id":1888,"gguest":"1","gmaster":"1"}
+{"guest":"Napoli","master":"Dynamo Kiev","result":null,"league":null,"date":"2016-17","id":1889,"gguest":"2","gmaster":"1"}
+{"guest":"Atletico Madrid","master":"PSV Eindhoven","result":null,"league":null,"date":"2016-17","id":1890,"gguest":"1","gmaster":"0"}
+{"guest":"Arsenal","master":"Paris Saint-Germain","result":null,"league":null,"date":"2016-17","id":1891,"gguest":"1","gmaster":"1"}
+{"guest":"Monaco","master":"FC Porto","result":null,"league":null,"date":"2017-18","id":1892,"gguest":"2","gmaster":"5"}
+{"guest":"Napoli","master":"Feyenoord","result":null,"league":null,"date":"2017-18","id":1893,"gguest":"1","gmaster":"2"}
+{"guest":"Spartak Moscow","master":"Liverpool","result":null,"league":null,"date":"2017-18","id":1894,"gguest":"0","gmaster":"7"}
+{"guest":"Sevilla","master":"Maribor","result":null,"league":null,"date":"2017-18","id":1895,"gguest":"1","gmaster":"1"}
+{"guest":"Besiktas","master":"RB Leipzig","result":null,"league":null,"date":"2017-18","id":1896,"gguest":"2","gmaster":"1"}
+{"guest":"Borussia Dortmund","master":"Real Madrid","result":null,"league":null,"date":"2017-18","id":1897,"gguest":"2","gmaster":"3"}
+{"guest":"Manchester City","master":"Shakhtar Donetsk","result":null,"league":null,"date":"2017-18","id":1898,"gguest":"1","gmaster":"2"}
+{"guest":"Apoel Nicosia","master":"Tottenham Hotspur","result":null,"league":null,"date":"2017-18","id":1899,"gguest":"0","gmaster":"3"}
+{"guest":"Sporting Lisbon","master":"Barcelona","result":null,"league":null,"date":"2017-18","id":1900,"gguest":"0","gmaster":"2"}
+{"guest":"Paris Saint-Germain","master":"Bayern Munich","result":null,"league":null,"date":"2017-18","id":1901,"gguest":"1","gmaster":"3"}
+{"guest":"Basel","master":"Benfica","result":null,"league":null,"date":"2017-18","id":1902,"gguest":"2","gmaster":"0"}
+{"guest":"Anderlecht","master":"Celtic","result":null,"league":null,"date":"2017-18","id":1903,"gguest":"1","gmaster":"0"}
+{"guest":"Atletico Madrid","master":"Chelsea","result":null,"league":null,"date":"2017-18","id":1904,"gguest":"1","gmaster":"1"}
+{"guest":"CSKA Moscow","master":"Manchester United","result":null,"league":null,"date":"2017-18","id":1905,"gguest":"1","gmaster":"2"}
+{"guest":"Juventus","master":"Olympiakos FC","result":null,"league":null,"date":"2017-18","id":1906,"gguest":"2","gmaster":"0"}
+{"guest":"Qarabag FK","master":"Roma","result":null,"league":null,"date":"2017-18","id":1907,"gguest":"0","gmaster":"1"}
+{"guest":"Benfica","master":"CSKA Moscow","result":null,"league":null,"date":"2017-18","id":1908,"gguest":"0","gmaster":"2"}
+{"guest":"Chelsea","master":"Qarabag FK","result":null,"league":null,"date":"2017-18","id":1909,"gguest":"4","gmaster":"0"}
+{"guest":"Bayern Munich","master":"Anderlecht","result":null,"league":null,"date":"2017-18","id":1910,"gguest":"2","gmaster":"1"}
+{"guest":"Roma","master":"Atletico Madrid","result":null,"league":null,"date":"2017-18","id":1911,"gguest":"0","gmaster":"2"}
+{"guest":"Manchester United","master":"Basel","result":null,"league":null,"date":"2017-18","id":1912,"gguest":"0","gmaster":"1"}
+{"guest":"Barcelona","master":"Juventus","result":null,"league":null,"date":"2017-18","id":1913,"gguest":"0","gmaster":"0"}
+{"guest":"Celtic","master":"Paris Saint-Germain","result":null,"league":null,"date":"2017-18","id":1914,"gguest":"1","gmaster":"7"}
+{"guest":"Olympiakos FC","master":"Sporting Lisbon","result":null,"league":null,"date":"2017-18","id":1915,"gguest":"1","gmaster":"3"}
+{"guest":"FC Porto","master":"Besiktas","result":null,"league":null,"date":"2017-18","id":1916,"gguest":"1","gmaster":"1"}
+{"guest":"Maribor","master":"Spartak Moscow","result":null,"league":null,"date":"2017-18","id":1917,"gguest":"1","gmaster":"1"}
+{"guest":"Real Madrid","master":"Apoel Nicosia","result":null,"league":null,"date":"2017-18","id":1918,"gguest":"6","gmaster":"0"}
+{"guest":"Tottenham Hotspur","master":"Borussia Dortmund","result":null,"league":null,"date":"2017-18","id":1919,"gguest":"2","gmaster":"1"}
+{"guest":"Feyenoord","master":"Manchester City","result":null,"league":null,"date":"2017-18","id":1920,"gguest":"0","gmaster":"1"}
+{"guest":"RB Leipzig","master":"Monaco","result":null,"league":null,"date":"2017-18","id":1921,"gguest":"4","gmaster":"1"}
+{"guest":"Shakhtar Donetsk","master":"Napoli","result":null,"league":null,"date":"2017-18","id":1922,"gguest":"0","gmaster":"3"}
+{"guest":"Liverpool","master":"Sevilla","result":null,"league":null,"date":"2017-18","id":1923,"gguest":"3","gmaster":"3"}
+{"guest":"Monaco","master":"Besiktas","result":null,"league":null,"date":"2017-18","id":1924,"gguest":"1","gmaster":"1"}
+{"guest":"Apoel Nicosia","master":"Borussia Dortmund","result":null,"league":null,"date":"2017-18","id":1925,"gguest":"1","gmaster":"1"}
+{"guest":"RB Leipzig","master":"FC Porto","result":null,"league":null,"date":"2017-18","id":1926,"gguest":"1","gmaster":"3"}
+{"guest":"Maribor","master":"Liverpool","result":null,"league":null,"date":"2017-18","id":1927,"gguest":"0","gmaster":"3"}
+{"guest":"Manchester City","master":"Napoli","result":null,"league":null,"date":"2017-18","id":1928,"gguest":"4","gmaster":"2"}
+{"guest":"Spartak Moscow","master":"Sevilla","result":null,"league":null,"date":"2017-18","id":1929,"gguest":"1","gmaster":"2"}
+{"guest":"Feyenoord","master":"Shakhtar Donetsk","result":null,"league":null,"date":"2017-18","id":1930,"gguest":"1","gmaster":"3"}
+{"guest":"Real Madrid","master":"Tottenham Hotspur","result":null,"league":null,"date":"2017-18","id":1931,"gguest":"1","gmaster":"3"}
+{"guest":"Qarabag FK","master":"Atletico Madrid","result":null,"league":null,"date":"2017-18","id":1932,"gguest":"1","gmaster":"1"}
+{"guest":"CSKA Moscow","master":"Basel","result":null,"league":null,"date":"2017-18","id":1933,"gguest":"2","gmaster":"1"}
+{"guest":"Bayern Munich","master":"Celtic","result":null,"league":null,"date":"2017-18","id":1934,"gguest":"2","gmaster":"1"}
+{"guest":"Benfica","master":"Manchester United","result":null,"league":null,"date":"2017-18","id":1935,"gguest":"0","gmaster":"2"}
+{"guest":"Barcelona","master":"Olympiakos FC","result":null,"league":null,"date":"2017-18","id":1936,"gguest":"0","gmaster":"0"}
+{"guest":"Anderlecht","master":"Paris Saint-Germain","result":null,"league":null,"date":"2017-18","id":1937,"gguest":"0","gmaster":"5"}
+{"guest":"Chelsea","master":"Roma","result":null,"league":null,"date":"2017-18","id":1938,"gguest":"0","gmaster":"3"}
+{"guest":"Juventus","master":"Sporting Lisbon","result":null,"league":null,"date":"2017-18","id":1939,"gguest":"1","gmaster":"1"}
+{"guest":"Atletico Madrid","master":"Qarabag FK","result":null,"league":null,"date":"2017-18","id":1940,"gguest":"0","gmaster":"0"}
+{"guest":"Paris Saint-Germain","master":"Anderlecht","result":null,"league":null,"date":"2017-18","id":1941,"gguest":"4","gmaster":"0"}
+{"guest":"Olympiakos FC","master":"Barcelona","result":null,"league":null,"date":"2017-18","id":1942,"gguest":"1","gmaster":"3"}
+{"guest":"Celtic","master":"Bayern Munich","result":null,"league":null,"date":"2017-18","id":1943,"gguest":"0","gmaster":"3"}
+{"guest":"Manchester United","master":"Benfica","result":null,"league":null,"date":"2017-18","id":1944,"gguest":"1","gmaster":"0"}
+{"guest":"Basel","master":"CSKA Moscow","result":null,"league":null,"date":"2017-18","id":1945,"gguest":"2","gmaster":"0"}
+{"guest":"Roma","master":"Chelsea","result":null,"league":null,"date":"2017-18","id":1946,"gguest":"3","gmaster":"3"}
+{"guest":"Sporting Lisbon","master":"Juventus","result":null,"league":null,"date":"2017-18","id":1947,"gguest":"1","gmaster":"2"}
+{"guest":"Borussia Dortmund","master":"Apoel Nicosia","result":null,"league":null,"date":"2017-18","id":1948,"gguest":"1","gmaster":"1"}
+{"guest":"Shakhtar Donetsk","master":"Feyenoord","result":null,"league":null,"date":"2017-18","id":1949,"gguest":"2","gmaster":"1"}
+{"guest":"Napoli","master":"Manchester City","result":null,"league":null,"date":"2017-18","id":1950,"gguest":"1","gmaster":"2"}
+{"guest":"Liverpool","master":"Maribor","result":null,"league":null,"date":"2017-18","id":1951,"gguest":"7","gmaster":"0"}
+{"guest":"Besiktas","master":"Monaco","result":null,"league":null,"date":"2017-18","id":1952,"gguest":"2","gmaster":"1"}
+{"guest":"FC Porto","master":"RB Leipzig","result":null,"league":null,"date":"2017-18","id":1953,"gguest":"2","gmaster":"3"}
+{"guest":"Tottenham Hotspur","master":"Real Madrid","result":null,"league":null,"date":"2017-18","id":1954,"gguest":"1","gmaster":"1"}
+{"guest":"Sevilla","master":"Spartak Moscow","result":null,"league":null,"date":"2017-18","id":1955,"gguest":"1","gmaster":"5"}
+{"guest":"Roma","master":"Qarabag FK","result":null,"league":null,"date":"2017-18","id":1956,"gguest":"2","gmaster":"1"}
+{"guest":"Celtic","master":"Anderlecht","result":null,"league":null,"date":"2017-18","id":1957,"gguest":"3","gmaster":"0"}
+{"guest":"Chelsea","master":"Atletico Madrid","result":null,"league":null,"date":"2017-18","id":1958,"gguest":"2","gmaster":"1"}
+{"guest":"Benfica","master":"Basel","result":null,"league":null,"date":"2017-18","id":1959,"gguest":"0","gmaster":"5"}
+{"guest":"Manchester United","master":"CSKA Moscow","result":null,"league":null,"date":"2017-18","id":1960,"gguest":"4","gmaster":"1"}
+{"guest":"Olympiakos FC","master":"Juventus","result":null,"league":null,"date":"2017-18","id":1961,"gguest":"0","gmaster":"2"}
+{"guest":"Bayern Munich","master":"Paris Saint-Germain","result":null,"league":null,"date":"2017-18","id":1962,"gguest":"0","gmaster":"3"}
+{"guest":"Barcelona","master":"Sporting Lisbon","result":null,"league":null,"date":"2017-18","id":1963,"gguest":"1","gmaster":"0"}
+{"guest":"Tottenham Hotspur","master":"Apoel Nicosia","result":null,"league":null,"date":"2017-18","id":1964,"gguest":"3","gmaster":"0"}
+{"guest":"RB Leipzig","master":"Besiktas","result":null,"league":null,"date":"2017-18","id":1965,"gguest":"0","gmaster":"2"}
+{"guest":"Real Madrid","master":"Borussia Dortmund","result":null,"league":null,"date":"2017-18","id":1966,"gguest":"3","gmaster":"1"}
+{"guest":"Shakhtar Donetsk","master":"Manchester City","result":null,"league":null,"date":"2017-18","id":1967,"gguest":"0","gmaster":"2"}
+{"guest":"FC Porto","master":"Monaco","result":null,"league":null,"date":"2017-18","id":1968,"gguest":"3","gmaster":"0"}
+{"guest":"Feyenoord","master":"Napoli","result":null,"league":null,"date":"2017-18","id":1969,"gguest":"1","gmaster":"3"}
+{"guest":"Maribor","master":"Sevilla","result":null,"league":null,"date":"2017-18","id":1970,"gguest":"0","gmaster":"3"}
+{"guest":"Liverpool","master":"Spartak Moscow","result":null,"league":null,"date":"2017-18","id":1971,"gguest":"1","gmaster":"1"}
+{"guest":"Besiktas","master":"FC Porto","result":null,"league":null,"date":"2017-18","id":1972,"gguest":"3","gmaster":"1"}
+{"guest":"Manchester City","master":"Feyenoord","result":null,"league":null,"date":"2017-18","id":1973,"gguest":"4","gmaster":"0"}
+{"guest":"Sevilla","master":"Liverpool","result":null,"league":null,"date":"2017-18","id":1974,"gguest":"2","gmaster":"2"}
+{"guest":"Spartak Moscow","master":"Maribor","result":null,"league":null,"date":"2017-18","id":1975,"gguest":"1","gmaster":"1"}
+{"guest":"Monaco","master":"RB Leipzig","result":null,"league":null,"date":"2017-18","id":1976,"gguest":"1","gmaster":"1"}
+{"guest":"Apoel Nicosia","master":"Real Madrid","result":null,"league":null,"date":"2017-18","id":1977,"gguest":"0","gmaster":"3"}
+{"guest":"Napoli","master":"Shakhtar Donetsk","result":null,"league":null,"date":"2017-18","id":1978,"gguest":"1","gmaster":"2"}
+{"guest":"Borussia Dortmund","master":"Tottenham Hotspur","result":null,"league":null,"date":"2017-18","id":1979,"gguest":"1","gmaster":"3"}
+{"guest":"Juventus","master":"Barcelona","result":null,"league":null,"date":"2017-18","id":1980,"gguest":"0","gmaster":"3"}
+{"guest":"Anderlecht","master":"Bayern Munich","result":null,"league":null,"date":"2017-18","id":1981,"gguest":"0","gmaster":"3"}
+{"guest":"CSKA Moscow","master":"Benfica","result":null,"league":null,"date":"2017-18","id":1982,"gguest":"2","gmaster":"1"}
+{"guest":"Paris Saint-Germain","master":"Celtic","result":null,"league":null,"date":"2017-18","id":1983,"gguest":"5","gmaster":"0"}
+{"guest":"Qarabag FK","master":"Chelsea","result":null,"league":null,"date":"2017-18","id":1984,"gguest":"0","gmaster":"6"}
+{"guest":"Basel","master":"Manchester United","result":null,"league":null,"date":"2017-18","id":1985,"gguest":"0","gmaster":"3"}
+{"guest":"Sporting Lisbon","master":"Olympiakos FC","result":null,"league":null,"date":"2017-18","id":1986,"gguest":"3","gmaster":"2"}
+{"guest":"Atletico Madrid","master":"Roma","result":null,"league":null,"date":"2017-18","id":1987,"gguest":"0","gmaster":"0"}
