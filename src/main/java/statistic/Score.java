@@ -6,74 +6,6 @@ import io.jsondb.annotation.Id;
 @Document(collection = "teamStats", schemaVersion = "1.0")
 public class Score {
 
-	@Id
-	private String team;
-
-	private int matchNumber;
-
-	private int win;
-
-	private int draw;
-
-	private int lose;
-
-	private int goalsLose;
-
-	private int goalsShot;
-
-	private int l5mWin;
-
-	private int l5mLose;
-
-	private int l5mDraw;
-
-	private int l5mGoalsShot;
-
-	private int l5mGoalsLost;
-
-	private int mmatchNumber;
-
-	private int mwin;
-
-	private int mdraw;
-
-	private int mlose;
-
-	private int mgoalsLose;
-
-	private int mgoalsShot;
-
-	private int ml5mWin;
-
-	private int ml5mLose;
-
-	private int ml5mDraw;
-
-	private int ml5mGoalsShot;
-
-	private int ml5mGoalsLost;
-
-	private int gmatchNumber;
-
-	private int gwin;
-
-	private int gdraw;
-
-	private int glose;
-
-	private int ggoalsLose;
-
-	private int ggoalsShot;
-
-	private int gl5mWin;
-
-	private int gl5mLose;
-
-	private int gl5mDraw;
-
-	private int gl5mGoalsShot;
-
-	private int gl5mGoalsLost;
 
 	public String getTeam() {
 		return team;
@@ -171,180 +103,207 @@ public class Score {
 		this.l5mGoalsLost = l5mGoalsLost;
 	}
 
-	public int getMmatchNumber() {
-		return mmatchNumber;
+	public int getlSeasonmWin() {
+		return lSeasonmWin;
 	}
 
-	public void setMmatchNumber(int mmatchNumber) {
-		this.mmatchNumber = mmatchNumber;
+	public void setlSeasonmWin(int lSeasonmWin) {
+		this.lSeasonmWin = lSeasonmWin;
 	}
 
-	public int getMwin() {
-		return mwin;
+	public int getlSeasonMWinAsMaster() {
+		return lSeasonMWinAsMaster;
 	}
 
-	public void setMwin(int mwin) {
-		this.mwin = mwin;
+	public void setlSeasonMWinAsMaster(int lSeasonMWinAsMaster) {
+		this.lSeasonMWinAsMaster = lSeasonMWinAsMaster;
 	}
 
-	public int getMdraw() {
-		return mdraw;
+	public int getlSeasonMWinAsGuest() {
+		return lSeasonMWinAsGuest;
 	}
 
-	public void setMdraw(int mdraw) {
-		this.mdraw = mdraw;
+	public void setlSeasonMWinAsGuest(int lSeasonMWinAsGuest) {
+		this.lSeasonMWinAsGuest = lSeasonMWinAsGuest;
 	}
 
-	public int getMlose() {
-		return mlose;
+	public int getlSeasonMDrawAsMaster() {
+		return lSeasonMDrawAsMaster;
 	}
 
-	public void setMlose(int mlose) {
-		this.mlose = mlose;
+	public void setlSeasonMDrawAsMaster(int lSeasonMDrawAsMaster) {
+		this.lSeasonMDrawAsMaster = lSeasonMDrawAsMaster;
 	}
 
-	public int getMgoalsLose() {
-		return mgoalsLose;
+	public int getlSeasonMDrawAsGuest() {
+		return lSeasonMDrawAsGuest;
 	}
 
-	public void setMgoalsLose(int mgoalsLose) {
-		this.mgoalsLose = mgoalsLose;
+	public void setlSeasonMDrawAsGuest(int lSeasonMDrawAsGuest) {
+		this.lSeasonMDrawAsGuest = lSeasonMDrawAsGuest;
 	}
 
-	public int getMgoalsShot() {
-		return mgoalsShot;
+	public int getlSeasonMLoseAsMaster() {
+		return lSeasonMLoseAsMaster;
 	}
 
-	public void setMgoalsShot(int mgoalsShot) {
-		this.mgoalsShot = mgoalsShot;
+	public void setlSeasonMLoseAsMaster(int lSeasonMLoseAsMaster) {
+		this.lSeasonMLoseAsMaster = lSeasonMLoseAsMaster;
 	}
 
-	public int getMl5mWin() {
-		return ml5mWin;
+	public int getlSeasonMLoseAsGuest() {
+		return lSeasonMLoseAsGuest;
 	}
 
-	public void setMl5mWin(int ml5mWin) {
-		this.ml5mWin = ml5mWin;
+	public void setlSeasonMLoseAsGuest(int lSeasonMLoseAsGuest) {
+		this.lSeasonMLoseAsGuest = lSeasonMLoseAsGuest;
 	}
 
-	public int getMl5mLose() {
-		return ml5mLose;
+	public int getlSeasonmLose() {
+		return lSeasonmLose;
 	}
 
-	public void setMl5mLose(int ml5mLose) {
-		this.ml5mLose = ml5mLose;
+	public void setlSeasonmLose(int lSeasonmLose) {
+		this.lSeasonmLose = lSeasonmLose;
 	}
 
-	public int getMl5mDraw() {
-		return ml5mDraw;
+	public int getlSeasonmDraw() {
+		return lSeasonmDraw;
 	}
 
-	public void setMl5mDraw(int ml5mDraw) {
-		this.ml5mDraw = ml5mDraw;
+	public void setlSeasonmDraw(int lSeasonmDraw) {
+		this.lSeasonmDraw = lSeasonmDraw;
 	}
 
-	public int getMl5mGoalsShot() {
-		return ml5mGoalsShot;
+	public int getlSeasonmGoalsShot() {
+		return lSeasonmGoalsShot;
 	}
 
-	public void setMl5mGoalsShot(int ml5mGoalsShot) {
-		this.ml5mGoalsShot = ml5mGoalsShot;
+	public void setlSeasonmGoalsShot(int lSeasonmGoalsShot) {
+		this.lSeasonmGoalsShot = lSeasonmGoalsShot;
 	}
 
-	public int getMl5mGoalsLost() {
-		return ml5mGoalsLost;
+	public int getlSeasonmGoalsLost() {
+		return lSeasonmGoalsLost;
 	}
 
-	public void setMl5mGoalsLost(int ml5mGoalsLost) {
-		this.ml5mGoalsLost = ml5mGoalsLost;
+	public void setlSeasonmGoalsLost(int lSeasonmGoalsLost) {
+		this.lSeasonmGoalsLost = lSeasonmGoalsLost;
 	}
 
-	public int getGmatchNumber() {
-		return gmatchNumber;
+	public int getWinAsMaster() {
+		return winAsMaster;
 	}
 
-	public void setGmatchNumber(int gmatchNumber) {
-		this.gmatchNumber = gmatchNumber;
+	public void setWinAsMaster(int winAsMaster) {
+		this.winAsMaster = winAsMaster;
 	}
 
-	public int getGwin() {
-		return gwin;
+	public int getWinAsGuest() {
+		return winAsGuest;
 	}
 
-	public void setGwin(int gwin) {
-		this.gwin = gwin;
+	public void setWinAsGuest(int winAsGuest) {
+		this.winAsGuest = winAsGuest;
 	}
 
-	public int getGdraw() {
-		return gdraw;
+	public int getLoseAsMaster() {
+		return loseAsMaster;
 	}
 
-	public void setGdraw(int gdraw) {
-		this.gdraw = gdraw;
+	public void setLoseAsMaster(int loseAsMaster) {
+		this.loseAsMaster = loseAsMaster;
 	}
 
-	public int getGlose() {
-		return glose;
+	public int getLoseAsGuest() {
+		return loseAsGuest;
 	}
 
-	public void setGlose(int glose) {
-		this.glose = glose;
+	public void setLoseAsGuest(int loseAsGuest) {
+		this.loseAsGuest = loseAsGuest;
 	}
 
-	public int getGgoalsLose() {
-		return ggoalsLose;
+	public int getDrawAsMaster() {
+		return drawAsMaster;
 	}
 
-	public void setGgoalsLose(int ggoalsLose) {
-		this.ggoalsLose = ggoalsLose;
+	public void setDrawAsMaster(int drawAsMaster) {
+		this.drawAsMaster = drawAsMaster;
 	}
 
-	public int getGgoalsShot() {
-		return ggoalsShot;
+	public int getDrawAsGuest() {
+		return drawAsGuest;
 	}
 
-	public void setGgoalsShot(int ggoalsShot) {
-		this.ggoalsShot = ggoalsShot;
+	public void setDrawAsGuest(int drawAsGuest) {
+		this.drawAsGuest = drawAsGuest;
 	}
 
-	public int getGl5mWin() {
-		return gl5mWin;
-	}
+	@Id
+	private String team;
+///////////////////////////
+	private int matchNumber = 0;
 
-	public void setGl5mWin(int gl5mWin) {
-		this.gl5mWin = gl5mWin;
-	}
+	private int win = 0;
 
-	public int getGl5mLose() {
-		return gl5mLose;
-	}
+	private int draw = 0;
 
-	public void setGl5mLose(int gl5mLose) {
-		this.gl5mLose = gl5mLose;
-	}
+	private int lose = 0;
 
-	public int getGl5mDraw() {
-		return gl5mDraw;
-	}
+	private int goalsLose = 0;
 
-	public void setGl5mDraw(int gl5mDraw) {
-		this.gl5mDraw = gl5mDraw;
-	}
+	private int goalsShot = 0;
+	/////////////////////////////
 
-	public int getGl5mGoalsShot() {
-		return gl5mGoalsShot;
-	}
+	private int l5mWin = 0;
 
-	public void setGl5mGoalsShot(int gl5mGoalsShot) {
-		this.gl5mGoalsShot = gl5mGoalsShot;
-	}
+	private int l5mLose = 0;
 
-	public int getGl5mGoalsLost() {
-		return gl5mGoalsLost;
-	}
+	private int l5mDraw = 0;
+	
 
-	public void setGl5mGoalsLost(int gl5mGoalsLost) {
-		this.gl5mGoalsLost = gl5mGoalsLost;
-	}
+	private int l5mGoalsShot = 0;
 
+	private int l5mGoalsLost = 0;
+	
+	///////////////////////////////////////
+	private int lSeasonmWin = 0;
+	
+	private int lSeasonMWinAsMaster = 0;
+	
+	private int lSeasonMWinAsGuest = 0;
+	
+	private int lSeasonMDrawAsMaster = 0;
+	
+	private int lSeasonMDrawAsGuest = 0;
+	
+	private int lSeasonMLoseAsMaster = 0;
+	
+	private int lSeasonMLoseAsGuest = 0;
+
+	private int lSeasonmLose = 0;
+
+	private int lSeasonmDraw = 0;
+	
+
+	private int lSeasonmGoalsShot = 0;
+
+	private int lSeasonmGoalsLost = 0;
+	
+	private int winAsMaster = 0;
+	
+	private int winAsGuest = 0;
+	
+	private int loseAsMaster = 0;
+	
+	private int loseAsGuest = 0;
+	
+	private int drawAsMaster = 0;
+	
+	private int drawAsGuest = 0;
+	////////////////////////////////////
+	
+
+
+	
 }

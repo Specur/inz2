@@ -47,7 +47,7 @@ class TopTabs extends Component{
 
 render()
 {
-  if(this.state.ind === 0){
+  if(this.state.ind === 2){
   return(
     <div>
         <Tabs
@@ -81,12 +81,12 @@ render()
 )
 }
 
-if(this.state.ind === 1){
+if(this.state.ind === 0){
 return(
   <div></div>
 )
 }
-if(this.state.ind === 2){
+if(this.state.ind === 1){
 return(
   <div>
     dwodmw

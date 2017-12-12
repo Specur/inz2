@@ -68,4 +68,8 @@ public abstract class League {
 	}
 
 
+	public String toString(){
+		return master + " " + gMaster + " " + gGuest + " " + guest + " " + date;
+		
+	}
 }

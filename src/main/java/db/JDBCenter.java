@@ -23,7 +23,6 @@ public class JDBCenter {
 
 	public <T> void insert(T match) {
 		jsonDBTemplate.upsert(match);
-
 	}
 
 	public ArrayList<League> findAllMatchByTeam(League league) {
@@ -34,7 +33,20 @@ public class JDBCenter {
 	public ArrayList<League> findAllMatchByLeague(League league ,String date) {
 		String jxQuery = String.format("/.[date = '%s']",date);
 		return (ArrayList<League>) jsonDBTemplate.find(jxQuery, league.getClass());
-
 	}
 
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 }
