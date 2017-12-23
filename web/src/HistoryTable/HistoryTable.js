@@ -22,7 +22,6 @@ class MainTable extends Component{
  }
 
  componentDidMount() {
-   console.log(this.props.index)
     return fetch("http://localhost:8080/all?name=premierLeague&date=2016-17")
       .then(response => response.json())
       .then(responseJson => {

@@ -1,6 +1,9 @@
 package db;
 
 import java.util.ArrayList;
+import java.util.HashSet;
+import java.util.Set;
+import java.util.function.Consumer;
 
 import dto.League;
 import io.jsondb.JsonDBTemplate;
@@ -33,6 +36,18 @@ public class JDBCenter {
 	public ArrayList<League> findAllMatchByLeague(League league ,String date) {
 		String jxQuery = String.format("/.[date = '%s']",date);
 		return (ArrayList<League>) jsonDBTemplate.find(jxQuery, league.getClass());
+	}
+
+	public Set<String> findAllTeam(League lg) {
+
+		
+		ArrayList<League> teams = (ArrayList<League>) jsonDBTemplate.findAll(lg.getClass());
+		Set<String> allTeam = new HashSet<String>();
+		for(League league : teams){
+			allTeam.add(league.getMaster());
+		}
+		
+		return allTeam;
 	}
 
 	

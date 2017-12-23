@@ -22,9 +22,6 @@ class App extends Component {
       <TopMenu tkk={this} ref="child"/>
       </MuiThemeProvider>
 
-      <MuiThemeProvider>
-      <CalcButton/>
-      </MuiThemeProvider>
       </div>
     );
   }

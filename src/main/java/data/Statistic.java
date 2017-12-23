@@ -11,30 +11,27 @@ import statistic.Score;
 
 
 public class Statistic {
-	static JDBCenter jdb = new JDBCenter();
-	static private ArrayList<League> allMatch;
-	static Score score = new Score();
+	 private JDBCenter jdb = new JDBCenter();
+	 private ArrayList<League> allMatch;
+	 private Score score = new Score();
 
-	static private League lg ;
+	 private League lg ;
 
-	public static void main(String[] args) {
-		League bun = new BundesLigaDTO();
-		bun.setMaster("Hoffenheim");
-		init(bun);
-		findAll();
-
+	
+	public Score getScore(){
+		return score;
 	}
 	
-	public static void init(League leg){
+	public  void init(League leg){
 		lg= leg;
 	}
 	
-	public static void findAll(){
+	public  void findAll(){
 		allMatch = jdb.findAllMatchByTeam(lg);
 		check();
 	}
 	
-	public static void check(){
+	public  void check(){
 		ArrayList<League> matchThisSeason = new ArrayList();
 		for(League league : allMatch){
 			if(league.getDate().equals("2017-18")){
@@ -79,7 +76,7 @@ public class Statistic {
 		
 	}
 	
-	private static void checkLast5match(ArrayList<League> matchThisSeason){
+	private void checkLast5match(ArrayList<League> matchThisSeason){
 		
 		for(int i = 0 ; i < matchThisSeason.size() ; i ++ ){
 			//last 5 match
