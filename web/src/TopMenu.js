@@ -3,7 +3,6 @@ import Slider from 'material-ui/Slider';
 import Table from './HistoryTable/HistoryTable.js';
 import React, { Component } from 'react';
 import SwipeableViews from 'react-swipeable-views';
-import SeasonButton from './HistoryTable/SeasonButton.js'
 import CalcButton from './CalcButton.js'
 import SelectTeam from './CheckTeam/SelectTeam.js'
 
@@ -42,18 +41,22 @@ class TopTabs extends Component{
       this.setState({
         ind:this.props.tkk.change.change.state.valueSingle,
       });
+      if(this.refs.prem != undefined){
       this.setState({teamPrem:this.refs.prem.state.value})
       this.setState({teamSeri:this.refs.seri.state.value})
       this.setState({teamBundes:this.refs.bundes.state.value})
+    }
 
     }
 
 
     componentDidMount(){
       this.state.ind = this.props.tkk.change.change.state.valueSingle;
+      if(this.refs.prem != undefined){
       this.setState({teamPrem:this.refs.prem.state.value})
       this.setState({teamSeri:this.refs.prem.state.value})
       this.setState({teamBundes:this.refs.prem.state.value})
+    }
     }
 
 
@@ -70,7 +73,6 @@ render()
           <Tab style={{backgroundColor:'#717171'}} label="Premier League" value={1} />
           <Tab style={{backgroundColor:'#717171'}} label="Serie A" value={2} />
         </Tabs>
-        <SeasonButton/>
         <SwipeableViews
           index={this.state.slideIndex}
           onChangeIndex={this.handleChange}

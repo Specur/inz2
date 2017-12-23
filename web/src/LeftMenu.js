@@ -13,8 +13,7 @@ export default class DrawerSimpleExample extends React.Component {
   handleChangeSingle = (value) => {
     this.setState({
       valueSingle: value,
-    });
-    this.props.cha.props.cha.refs.child.update();
+    },() => this.props.cha.props.cha.refs.child.update());
     this.handleToggle();
   };
 
