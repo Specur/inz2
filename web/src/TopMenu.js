@@ -5,6 +5,7 @@ import React, { Component } from 'react';
 import SwipeableViews from 'react-swipeable-views';
 import CalcButton from './CalcButton.js'
 import SelectTeam from './CheckTeam/SelectTeam.js'
+import SelectTeamCoupon from './CouponCreate/SelectTeam.js'
 
 const styles = {
   headline: {
@@ -129,8 +130,37 @@ return(
 if(this.state.ind === 1){
 return(
   <div>
-    dwodmw
+  <div>
+      <Tabs
+        onChange={this.handleChange}
+        value={this.state.slideIndex}
+      >
+        <Tab style={{backgroundColor:'#717171'}} label="Premier League" value={0} />
+        <Tab style={{backgroundColor:'#717171'}} label="Serie A" value={1} />
+        <Tab style={{backgroundColor:'#717171'}} label="Bundes Liga" value={2} />
+      </Tabs>
+      <SwipeableViews
+        index={this.state.slideIndex}
+        onChangeIndex={this.handleChange}
+      >
+        <div>
+        <SelectTeamCoupon league={"premierLeague"} ref="prem" update={this.update}/>
+        <CalcButton league={"premierLeague"} team={this.state.teamPrem}/>
+        </div>
+
+        <div >
+        <SelectTeamCoupon league={"SerieA"} ref="seri" update={this.update}/>
+        <CalcButton league={"SerieA"} team={this.state.teamSeri}/>
+        </div>
+
+        <div >
+        <SelectTeamCoupon league={"bundesliga"} ref="bundes" update={this.update}/>
+        <CalcButton league={"bundesliga"} team={this.state.teamBundes}/>
+        </div>
+
+      </SwipeableViews>
     </div>
+  </div>
 )
 }
 }
