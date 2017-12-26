@@ -42,7 +42,9 @@ class TopTabs extends Component{
       });
     };
 
+
     update = () =>{
+
       this.setState({
         ind:this.props.tkk.change.change.state.valueSingle,
       });
@@ -51,6 +53,26 @@ class TopTabs extends Component{
       this.setState({teamSeri:this.refs.seri.state.value})
       this.setState({teamBundes:this.refs.bundes.state.value})
     }
+    if(this.refs.premRes != undefined){
+    this.setState({checkPrem:this.refs.premRes.state.addToCheck})
+    this.setState({checkSeri:this.refs.seriRes.state.addToCheck})
+    this.setState({checkBundes:this.refs.bundesRes.state.addToCheck})
+  }
+
+    }
+
+    update2 = () =>{
+
+      if(this.refs.prem != undefined){
+      this.setState({teamPrem:this.refs.prem.state.value})
+      this.setState({teamSeri:this.refs.seri.state.value})
+      this.setState({teamBundes:this.refs.bundes.state.value})
+    }
+    if(this.refs.premRes != undefined){
+    this.setState({checkPrem:this.refs.premRes.state.addToCheck})
+    this.setState({checkSeri:this.refs.seriRes.state.addToCheck})
+    this.setState({checkBundes:this.refs.bundesRes.state.addToCheck})
+  }
 
     }
 
@@ -65,7 +87,6 @@ class TopTabs extends Component{
     }
 
     changeOnResult = () =>{
-      console.log("oo")
       this.setState({ind:3})
     }
 
@@ -153,17 +174,17 @@ return(
         onChangeIndex={this.handleChange}
       >
         <div>
-        <SelectTeamCoupon update={this.update} league={"premierLeague"} ref="premRes" update={this.update}/>
+        <SelectTeamCoupon update={this.update} league={"premierLeague"} ref="premRes" update2={this.update2}/>
         <CheckButton changeOnResult={this.changeOnResult} league={"premierLeague"} team={this.state.teamPrem}/>
         </div>
 
         <div >
-        <SelectTeamCoupon update={this.update} league={"SerieA"} ref="seriRes" update={this.update}/>
+        <SelectTeamCoupon update={this.update} league={"SerieA"} ref="seriRes" update2={this.update2}/>
         <CheckButton changeOnResult={this.changeOnResult} league={"SerieA"} team={this.state.teamSeri}/>
         </div>
 
         <div >
-        <SelectTeamCoupon update={this.update} league={"bundesliga"} ref="bundesRes" update={this.update}/>
+        <SelectTeamCoupon update={this.update} league={"bundesliga"} ref="bundesRes" update2={this.update2}/>
         <CheckButton changeOnResult={this.changeOnResult} league={"bundesliga"} team={this.state.teamBundes}/>
         </div>
 
@@ -173,12 +194,12 @@ return(
 )
 }
 if(this.state.ind === 3){
-  console.log(this)
 return(
   <div>
-    <ResultPage  prem={this.refs.premRes.addToCheck}
-                  seri={this.refs.seriRes.addToCheck}
-                  bundes={this.refs.bundesRes.addToCheck}
+    <ResultPage  prem={this.state.checkPrem}
+                  seri={this.state.checkSeri}
+                  bundes={this.state.checkBundes}
+                  upd={this.update2}
                     />
   </div>
 )

@@ -25,8 +25,7 @@ export default class DropDownMenuLongMenuExample extends Component {
        this.setState({addToCheck: this.state.addToCheck.map(
            (el)=> el.id === id ? Object.assign({}, el,
              {id:id,Team1:Team1,Win:Win,Draw:Draw,Lose:Lose,Team2:Team2}) : el)
-       });
-       console.log(this.state.addToCheck)
+       },() => this.props.update2());
    }
 
   render() {

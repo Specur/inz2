@@ -20,6 +20,7 @@ export default class DropDownMenuLongMenuExample extends Component {
   }
 
   menuItems() {
+    if(this.state.data.length>2){
       return this.state.data.map((name) => (
         <MenuItem
           key={name}
@@ -28,6 +29,7 @@ export default class DropDownMenuLongMenuExample extends Component {
           primaryText={name}
         />
       ));
+    }
     }
 
   componentDidMount() {
