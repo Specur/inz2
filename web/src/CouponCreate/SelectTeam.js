@@ -4,89 +4,46 @@ import MenuItem from 'material-ui/MenuItem';
 import FloatingActionButton from 'material-ui/FloatingActionButton';
 import ContentAdd from 'material-ui/svg-icons/content/add';
 import TextField from 'material-ui/TextField';
+import SelectComponent from './SelectComponent.js';
 
 
 export default class DropDownMenuLongMenuExample extends Component {
   state = {
     value: 10,
     data: [],
+    index: [this.props.league],
+    addToCheck:[{id:1},{id:0},{id:2},{id:3},{id:4},{id:5},{id:6},{id:7},{id:8},{id:9}]
   };
 
-  handleChange = (event, index, value) => {
-    this.setState({value:value},() => this.update());
-  };
-  handleChange2 = (event, index, value) => {
-    this.setState({value1:value},() => this.update());
-  };
 
-  update = () => {
-    this.props.update();
-  };
+   addCont = () => {
+     this.state.index.push(this.props.league);
+     this.setState({index:this.state.index})
+   }
 
-  menuItems() {
-      return this.state.data.map((name) => (
-        <MenuItem
-          key={name}
-          insetChildren={true}
-          value={name}
-          primaryText={name}
-        />
-      ));
-    }
-
-  componentDidMount() {
-     return fetch("http://localhost:8080/getTeam?name="+this.props.league)
-       .then(response => response.json())
-       .then(responseJson => {
-         this.setState({data:responseJson})
-       })
-       .catch(error => {
-         console.error(error);
+   addCheck = (id,Team1,Win,Draw,Lose,Team2) => {
+       this.setState({addToCheck: this.state.addToCheck.map(
+           (el)=> el.id === id ? Object.assign({}, el,
+             {id:id,Team1:Team1,Win:Win,Draw:Draw,Lose:Lose,Team2:Team2}) : el)
        });
+       console.log(this.state.addToCheck)
    }
 
   render() {
-    return (
-      <div>
-      <SelectField
-       value={this.state.value}
-       onChange={this.handleChange}
-       maxHeight={200}
-       style={{marginLeft:'20%',marginRight:'2%'}}
-     >
-      {this.menuItems()}
-     </SelectField>
 
-          <TextField
-            hintText="Win"
-            type="number"
-            style={{width:'5%', marginLeft:'1%'}}
-          />
+        return(
+        <tbody>
+        {this.state.index.map((object, i) => {
+            return <SelectComponent league={object} update={this.props.update}
+                    id={i} addCheck={this.addCheck}/>;
+        })}
 
-          <TextField
-              hintText="Draw"
-              type="number"
-                style={{width:'5%', marginLeft:'1%'}}
-          />
+        <FloatingActionButton style={{marginLeft:'5%'}} onClick={this.addCont}>
+          <ContentAdd />
+        </FloatingActionButton>
+        </tbody>
+    )
 
-          <TextField
-              hintText="Win"
-              type="number"
-                style={{width:'5%', marginLeft:'1%'}}
-          />
 
-     <SelectField
-      value={this.state.value1}
-      onChange={this.handleChange2}
-      maxHeight={200}
-      style={{marginLeft:'2%'}}
-    >
-     {this.menuItems()}
-    </SelectField>
-    <FloatingActionButton style={{marginLeft:'5%'}}>
-      <ContentAdd />
-    </FloatingActionButton>
-    </div>
-    );
   }
 }

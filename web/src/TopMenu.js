@@ -4,8 +4,10 @@ import Table from './HistoryTable/HistoryTable.js';
 import React, { Component } from 'react';
 import SwipeableViews from 'react-swipeable-views';
 import CalcButton from './CalcButton.js'
+import CheckButton from './CouponCreate/CheckButton.js'
 import SelectTeam from './CheckTeam/SelectTeam.js'
 import SelectTeamCoupon from './CouponCreate/SelectTeam.js'
+import ResultPage from './CouponCreate/ResultPage.js'
 
 const styles = {
   headline: {
@@ -27,8 +29,10 @@ class TopTabs extends Component{
       ind: 0,
       teamPrem: '',
       teamSeri: '',
-      teamBundes: ''
-
+      teamBundes: '',
+      checkPrem:'',
+      checkSeri:'',
+      checkBundes:''
     };
   }
 
@@ -58,6 +62,11 @@ class TopTabs extends Component{
       this.setState({teamSeri:this.refs.prem.state.value})
       this.setState({teamBundes:this.refs.prem.state.value})
     }
+    }
+
+    changeOnResult = () =>{
+      console.log("oo")
+      this.setState({ind:3})
     }
 
 
@@ -144,22 +153,33 @@ return(
         onChangeIndex={this.handleChange}
       >
         <div>
-        <SelectTeamCoupon league={"premierLeague"} ref="prem" update={this.update}/>
-        <CalcButton league={"premierLeague"} team={this.state.teamPrem}/>
+        <SelectTeamCoupon update={this.update} league={"premierLeague"} ref="premRes" update={this.update}/>
+        <CheckButton changeOnResult={this.changeOnResult} league={"premierLeague"} team={this.state.teamPrem}/>
         </div>
 
         <div >
-        <SelectTeamCoupon league={"SerieA"} ref="seri" update={this.update}/>
-        <CalcButton league={"SerieA"} team={this.state.teamSeri}/>
+        <SelectTeamCoupon update={this.update} league={"SerieA"} ref="seriRes" update={this.update}/>
+        <CheckButton changeOnResult={this.changeOnResult} league={"SerieA"} team={this.state.teamSeri}/>
         </div>
 
         <div >
-        <SelectTeamCoupon league={"bundesliga"} ref="bundes" update={this.update}/>
-        <CalcButton league={"bundesliga"} team={this.state.teamBundes}/>
+        <SelectTeamCoupon update={this.update} league={"bundesliga"} ref="bundesRes" update={this.update}/>
+        <CheckButton changeOnResult={this.changeOnResult} league={"bundesliga"} team={this.state.teamBundes}/>
         </div>
 
       </SwipeableViews>
     </div>
+  </div>
+)
+}
+if(this.state.ind === 3){
+  console.log(this)
+return(
+  <div>
+    <ResultPage  prem={this.refs.premRes.addToCheck}
+                  seri={this.refs.seriRes.addToCheck}
+                  bundes={this.refs.bundesRes.addToCheck}
+                    />
   </div>
 )
 }
