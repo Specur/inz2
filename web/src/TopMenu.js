@@ -195,11 +195,12 @@ return(
 }
 if(this.state.ind === 3){
 return(
-  <div>
+  <div style={{width:'100%', height:'100%'}}>
     <ResultPage  prem={this.state.checkPrem}
                   seri={this.state.checkSeri}
                   bundes={this.state.checkBundes}
                   upd={this.update2}
+                  style={{width:'100%', height:'100%'}}
                     />
   </div>
 )

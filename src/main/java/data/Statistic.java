@@ -11,11 +11,18 @@ import statistic.Score;
 
 
 public class Statistic {
-	 private JDBCenter jdb = new JDBCenter();
+	 private JDBCenter jdb ;
 	 private ArrayList<League> allMatch;
-	 private Score score = new Score();
+	 private Score score;
+	 private String teamName;
 
 	 private League lg ;
+	 
+	 public Statistic(String teamName, JDBCenter jdb){
+		 this.teamName=teamName;
+		 this.jdb = jdb;
+		 score = new Score(teamName);
+	 }
 
 	
 	public Score getScore(){
@@ -87,7 +94,6 @@ public class Statistic {
 					score.setL5mGoalsLost(score.getL5mGoalsLost() + Integer.parseInt(matchThisSeason.get(i).getGGuest()));
 					if(Integer.parseInt(matchThisSeason.get(i).getGMaster()) > Integer.parseInt(matchThisSeason.get(i).getGGuest())){
 						score.setL5mWin(score.getL5mWin()+1);
-						System.out.println(matchThisSeason.get(i).toString());
 						
 					}
 					if(Integer.parseInt(matchThisSeason.get(i).getGMaster()) == Integer.parseInt(matchThisSeason.get(i).getGGuest())){
@@ -111,7 +117,6 @@ public class Statistic {
 					}
 					if(Integer.parseInt(matchThisSeason.get(i).getGMaster()) < Integer.parseInt(matchThisSeason.get(i).getGGuest())){
 						score.setL5mWin(score.getL5mWin()+1);
-						System.out.println(matchThisSeason.get(i).toString());
 					}
 				}
 				

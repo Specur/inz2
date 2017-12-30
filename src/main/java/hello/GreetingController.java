@@ -20,27 +20,30 @@ import statistic.Score;
 
 @RestController
 public class GreetingController {
+	JDBCenter jdb = new JDBCenter();
 
 	@CrossOrigin
 	@RequestMapping("/all")
 	public ArrayList<League> table(@RequestParam(value = "name", defaultValue = "premierLeague") String name, @RequestParam(value = "date", defaultValue = "2017-18") String date) {
 		if (name.equals("SerieA"))
-			return new JDBCenter().findAllMatchByLeague(new SerieADTO(),date);
+			return jdb.findAllMatchByLeague(new SerieADTO(),date);
 		if (name.equals("premierLeague"))
-			return new JDBCenter().findAllMatchByLeague(new PremierLeagueDTO(),date);
+			return jdb.findAllMatchByLeague(new PremierLeagueDTO(),date);
 		if (name.equals("ChampionsLeague"))
-			return new JDBCenter().findAllMatchByLeague(new ChampionsLeagueDTO(),date);
+			return jdb.findAllMatchByLeague(new ChampionsLeagueDTO(),date);
 		if (name.equals("bundesliga"))
-			return new JDBCenter().findAllMatchByLeague(new BundesLigaDTO(),date);
+			return jdb.findAllMatchByLeague(new BundesLigaDTO(),date);
 		
 
-		return new JDBCenter().findAllMatchByLeague(new SerieADTO(), date);
+		return jdb.findAllMatchByLeague(new SerieADTO(), date);
 	}
 	
 	@CrossOrigin
 	@RequestMapping("/team")
 	public Score team(@RequestParam(value = "name", defaultValue = "bundesliga") String name, @RequestParam(value = "teamName", defaultValue = "Wolfsburg") String teamName) {
-		Statistic stat = new Statistic();
+		
+		System.out.println(teamName);
+		Statistic stat = new Statistic(teamName , jdb);
 		League lg = null;
 		if (name.equals("SerieA"))
 			lg = new SerieADTO();
@@ -52,7 +55,9 @@ public class GreetingController {
 			lg = new BundesLigaDTO();
 		
 		lg.setMaster(teamName);
+		
 		stat.init(lg);
+		
 		stat.findAll();
 		
 		return stat.getScore();
@@ -73,7 +78,7 @@ public class GreetingController {
 			lg = new BundesLigaDTO();
 		
 		
-		teams = new JDBCenter().findAllTeam(lg);
+		teams = jdb.findAllTeam(lg);
 		return teams;
 		
 		

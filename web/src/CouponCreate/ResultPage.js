@@ -12,21 +12,22 @@ import Card from './Card.js';
 class Button extends Component{
   state = {
     data: [],
+    team: [],
     index:0
   };
 
   download(league,team) {
-     return fetch("http://localhost:8080/team?name="+league+"&teamName="+team)
+    var arrayvar = this.state.data;
+      fetch("http://localhost:8080/team?name="+league+"&teamName="+team)
        .then(response => response.json())
        .then(responseJson => {
-         var arrayvar = this.state.data;
-         arrayvar.push(responseJson);
-         this.setState({data:arrayvar})
-       console.log(this.state.data)
+          arrayvar.push(responseJson);
+
+          this.setState({data:arrayvar}, () => console.log(this.state.data))
        })
        .catch(error => {
-         console.error(error);
        });
+
    }
 
   componentDidMount(){
@@ -39,12 +40,11 @@ class Button extends Component{
       this.setState({index:0})
       this.props.prem.map((object, i) => {
         if(object.Team1!= undefined){
-          this.download("premierLeague",object.Team1)
-          this.download("premierLeague",object.Team2)
-          this.setState({index:this.state.index+1})
-        }
-
-      }),
+        this.download("premierLeague",object.Team1)
+        this.download("premierLeague",object.Team2)
+        this.setState({index:this.state.index+1})
+    }
+        }),
       this.props.seri.map((object, i) => {
         if(object.Team1!= undefined){
           this.download("SerieA",object.Team1)
@@ -64,15 +64,20 @@ class Button extends Component{
   }
 
   render(){
-    if(this.state.index>0 && this.state.data.length>0){
+    if(this.state.data != undefined && this.state.index>0 && this.state.data.length>0){
     return(
-      <tbody>
-      {this.state.data.map((object, i) => {
-        console.log(object)
-          return <Card/>;
-      })}
+      <div style={{width:'100%', height:'100%'}}>
+      <tbody style={{width:'100%', height:'100%'}}>
+      {this.state.data.map((object, i,array) => {
+        if(i%2===0){
+          return <Card object={array[i]} object2={array[i+1]} style={{width:'100%', height:'100%'}}/>;
+        }
+      }
+    )
+  }
 
       </tbody>
+      </div>
     )
   }else{
     return(

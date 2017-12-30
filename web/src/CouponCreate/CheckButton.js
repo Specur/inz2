@@ -22,24 +22,10 @@ class Button extends Component{
       data: [],
     };
 
-  click = () => {
-    if(this.props.team != undefined){
-
-     return fetch("http://localhost:8080/team?name="+this.props.league+"&teamName="+this.props.team)
-       .then(response => response.json())
-       .then(responseJson => {
-       this.setState({data:responseJson})
-       console.log(this.state.data)
-       })
-       .catch(error => {
-         console.error(error);
-       });
-     }
-   };
 
 
   handleOpen = () => {
-    this.setState({open: true}, () => this.click());
+    this.setState({open: true});
     this.setState({open:true}, () => this.props.changeOnResult());
   };
 

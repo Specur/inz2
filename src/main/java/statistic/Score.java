@@ -5,7 +5,8 @@ import io.jsondb.annotation.Id;
 
 @Document(collection = "teamStats", schemaVersion = "1.0")
 public class Score {
-
+	
+	
 
 	public String getTeam() {
 		return team;
@@ -239,8 +240,13 @@ public class Score {
 		this.drawAsGuest = drawAsGuest;
 	}
 
-	@Id
+	
 	private String team;
+	
+	public Score(String teamName) {
+		team = teamName;
+	}
+
 ///////////////////////////
 	private int matchNumber = 0;
 

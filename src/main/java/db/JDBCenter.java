@@ -28,6 +28,7 @@ public class JDBCenter {
 		jsonDBTemplate.upsert(match);
 	}
 
+	@SuppressWarnings("unchecked")
 	public ArrayList<League> findAllMatchByTeam(League league) {
 		String jxQuery = String.format("/.[guest = '%s' or master = '%s']", league.getMaster(), league.getMaster());
 		return (ArrayList<League>) jsonDBTemplate.find(jxQuery, league.getClass());
