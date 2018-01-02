@@ -18,17 +18,40 @@ import {
 } from 'material-ui/Table'
 
   const style = {
-    height: 500,
+    height: 900,
     width: 850,
     marginLeft: 220,
     marginTop: 25,
-    float: 'left',
     stamp: 1000
   };
 
+  const styles = {
+    width: 400,
+    height: 40,
+    marginLeft: 16,
+    marginTop: 25,
+    float: 'left',
+  };
+
+  const styles2 = {
+    width: 400,
+    height: 40,
+    marginLeft: 16,
+    marginTop: 25,
+    float: 'right',
+  };
+
+  const stylesSlider = {
+    width: 380,
+    height: 10,
+    float: 'left',
+  };
+
+
 export default class DropDownMenuLongMenuExample extends Component {
   componentDidMount(){
-    this.interval = setInterval(() => this.setState({ time: this.createData() }), this.state.stamp);
+
+    this.interval = setInterval(() => this.setState({ time: this.createData() },() => this.calculate()), this.state.stamp);
   };
 
 componentWillUnmount() {
@@ -38,14 +61,14 @@ componentWillUnmount() {
     data: [],
     team1: ' ',
     team2: ' ',
-    board: 0,
-    goals5: 0,
-    statsL: 0,
-    stats5: 0,
-    goalsL: 0,
-    goalsLl:0,
-    goals5l:0,
-    percent: 0,
+    board: 5,
+    goals5: 5,
+    statsL: 5,
+    stats5: 5,
+    goalsL: 5,
+    goalsLl:5,
+    goals5l:5,
+    percent: 0.5,
     team1Points:0,
     team2Points:0,
 
@@ -69,6 +92,11 @@ componentWillUnmount() {
     t2gl5:0
 
   };
+   Round = (n, k) =>
+{
+var factor = Math.pow(10, k);
+return Math.round(n*factor)/factor;
+}
 
     calculate = () =>{
 
@@ -97,7 +125,7 @@ componentWillUnmount() {
 var w = 0;
 var d = 0;
 var l = 0;
-    for (let x=0; x<100; x++) {
+    for (let x=0; x<10000; x++) {
       var point1 = this.rand(0,this.state.team1Points);
       var point2 = this.rand(0,this.state.team2Points);
 
@@ -192,7 +220,6 @@ var l = 0;
       this.state.data.push({stats:"porażki",team1:this.props.object.lose,team2:this.props.object2.lose})
 
     clearInterval(this.interval);
-      console.log(console.log(this.props))
     }
 
 
@@ -243,67 +270,123 @@ var l = 0;
 
 
   render() {
-    console.log(this.state.win)
         return(
         <Paper style={style} zDepth={1}>
+        <div style={{marginBottom:5, witdh: 800, height: 100}}>
+<div style={styles}>
+Forma na boisku u siebie/na wyjeżdzie:
         <Slider
           min={0}
           max={10}
           step={1}
           value={this.state.board}
                 onChange={this.slider1}
+                style={stylesSlider}
                 />
+
+</div>
+
+<div style={styles2}>
+Gole strzelane w ostatnio rozegranych meczach:
         <Slider
           min={0}
           max={10}
           step={1}
           value={this.state.goals5}
           onChange={this.slider2}
+          style={stylesSlider}
         />
-        <Slider
-          min={0.01}
-          max={0.99}
-          step={0.01}
-          value={this.state.percent}
-          onChange={this.slider3}
-        />
-        <Slider
-          min={0}
-          max={10}
-          step={1}
-          value={this.state.stats5}
-          onChange={this.slider4}
-        />
-        <Slider
-          min={0}
-          max={10}
-          step={1}
-          value={this.state.statsL}
-          onChange={this.slider5}
-        />
-        <Slider
-          min={0}
-          max={10}
-          step={1}
-          value={this.state.goalsL}
-          onChange={this.slider6}
-        />
-        <Slider
-          min={0}
-          max={10}
-          step={1}
-          value={this.state.goalsLl}
-          onChange={this.slider7}
-        />
+        </div>
+
+        <div style={styles2}>
+        Stracone gole w ostatnio rozegranych meczach:
         <Slider
           min={0}
           max={10}
           step={1}
           value={this.state.goals5l}
           onChange={this.slider8}
+          style={stylesSlider}
         />
+        </div>
+        <div style={styles}>
+        Bufor określający wynik remisowy:
+        <Slider
+          min={0.01}
+          max={0.99}
+          step={0.01}
+          value={this.state.percent}
+          onChange={this.slider3}
+          style={stylesSlider}
+        />
+        </div>
+        <div style={styles2}>
+        Forma w ostatnich meczach:
+        <Slider
+          min={0}
+          max={10}
+          step={1}
+          value={this.state.stats5}
+          onChange={this.slider4}
+        style={stylesSlider}
+        />
+        </div>
+        <div style={styles}>
+        Forma w ostatnim sezonie:
+        <Slider
+          min={0}
+          max={10}
+          step={1}
+          value={this.state.statsL}
+          onChange={this.slider5}
+        style={stylesSlider}
+        />
+        </div>
+        <div style={styles2}>
+        Liczba goli strzelona w ostatnim sezonie:
+        <Slider
+          min={0}
+          max={10}
+          step={1}
+          value={this.state.goalsL}
+          onChange={this.slider6}
+          style={stylesSlider}
+        />
+        </div>
+        <div style={styles}>
+        Liczbe goli stracona w ostatnim sezonie:
+        <Slider
+          min={0}
+          max={10}
+          step={1}
+          value={this.state.goalsLl}
+          onChange={this.slider7}
+          style={stylesSlider}
+        />
+        </div>
+        </div>
 
-
+        <TextField
+      hintText="1"
+      errorText="1"
+      floatingLabelText={this.props.cours[this.props.index].win}
+      style={{marginTop:50, marginLeft:33}}
+      value={10000/this.state.win > 9999999 ? "zbyt mało danych" : this.Round(10000/this.state.win,2)}
+      />
+      <TextField
+      hintText="1/2"
+      errorText="1/2"
+      floatingLabelText={this.props.cours[this.props.index].draw}
+      style={{marginTop:50, marginLeft:10}}
+      value={10000/this.state.draw > 9999999 ? "zbyt mało danych" : this.Round(10000/this.state.draw,2)}
+      />
+      <TextField
+      hintText="2"
+      errorText="2"
+      floatingLabelText={this.props.cours[this.props.index].lose}
+      style={{marginTop:50, marginLeft:10}}
+      value={10000/this.state.lose > 9999999 ? "zbyt mało danych" : this.Round(10000/this.state.lose,2)}
+      />
 
 
 
@@ -331,9 +414,7 @@ var l = 0;
               ))}
           </TableBody>
         </Table>
-        {100/this.state.win}"  "
-        {100/this.state.draw}"  "
-        {100/this.state.lose}
+
         </Paper>
     )
 

@@ -19,12 +19,13 @@ import dto.SerieADTO;
 import statistic.Score;
 
 @RestController
-public class GreetingController {
+public class Controller {
 	JDBCenter jdb = new JDBCenter();
 
 	@CrossOrigin
 	@RequestMapping("/all")
-	public ArrayList<League> table(@RequestParam(value = "name", defaultValue = "premierLeague") String name, @RequestParam(value = "date", defaultValue = "2017-18") String date) {
+	public ArrayList<League> table(@RequestParam(value = "name", defaultValue = "premierLeague") String name,
+								   @RequestParam(value = "date", defaultValue = "2017-18") String date) {
 		if (name.equals("SerieA"))
 			return jdb.findAllMatchByLeague(new SerieADTO(),date);
 		if (name.equals("premierLeague"))
@@ -40,9 +41,9 @@ public class GreetingController {
 	
 	@CrossOrigin
 	@RequestMapping("/team")
-	public Score team(@RequestParam(value = "name", defaultValue = "bundesliga") String name, @RequestParam(value = "teamName", defaultValue = "Wolfsburg") String teamName) {
+	public Score team(@RequestParam(value = "name", defaultValue = "bundesliga") String name,
+					  @RequestParam(value = "teamName", defaultValue = "Wolfsburg") String teamName) {
 		
-		System.out.println(teamName);
 		Statistic stat = new Statistic(teamName , jdb);
 		League lg = null;
 		if (name.equals("SerieA"))
@@ -55,9 +56,7 @@ public class GreetingController {
 			lg = new BundesLigaDTO();
 		
 		lg.setMaster(teamName);
-		
 		stat.init(lg);
-		
 		stat.findAll();
 		
 		return stat.getScore();

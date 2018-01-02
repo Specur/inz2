@@ -11,7 +11,10 @@ export default class DropDownMenuLongMenuExample extends Component {
     value:  null,
     value1: null,
     data:   [],
-    valid:  false
+    valid:  false,
+    win: 0,
+    draw:0,
+    lose:0
   };
 
   handleChange = (event, index, value) => {
@@ -29,7 +32,7 @@ export default class DropDownMenuLongMenuExample extends Component {
 
   checkValid= () =>{
     if(this.state.value!= null && this.state.value1!= null){
-      this.setState({valid:true}, () => this.props.addCheck(this.props.id,this.state.value,1,2,3,this.state.value1))
+      this.setState({valid:true}, () => this.props.addCheck(this.props.id,this.state.value,this.state.win,this.state.draw,this.state.lose,this.state.value1))
     }
   }
   menuItems() {
@@ -55,6 +58,15 @@ export default class DropDownMenuLongMenuExample extends Component {
          console.error(error);
        });
    }
+   win = (obj, newValue) =>{
+     this.setState({win:newValue})
+   }
+   draw = (obj, newValue) =>{
+     this.setState({draw:newValue})
+   }
+   lose = (obj, newValue) =>{
+     this.setState({lose:newValue})
+   }
 
   render() {
     return (
@@ -63,27 +75,33 @@ export default class DropDownMenuLongMenuExample extends Component {
        value={this.state.value}
        onChange={this.handleChange}
        maxHeight={200}
-       style={{marginLeft:'20%',marginRight:'2%'}}
+       style={{marginLeft:'26%',marginRight:'2%'}}
       errorText={!this.state.valid && 'Musisz wybrać druzyne'}
      >
       {this.menuItems()}
      </SelectField>
 
           <TextField
-            hintText="Win"
+            hintText="1"
             type="number"
+            value={this.state.win}
             style={{width:'5%', marginLeft:'1%'}}
+            onChange={this.win}
           />
 
           <TextField
-              hintText="Draw"
+              hintText="1/2"
               type="number"
+              value={this.state.draw}
                 style={{width:'5%', marginLeft:'1%'}}
+                onChange={this.draw}
           />
 
           <TextField
-              hintText="Win"
+              hintText="2"
               type="number"
+              value={this.state.lose}
+              onChange={this.lose}
                 style={{width:'5%', marginLeft:'1%'}}
           />
 
